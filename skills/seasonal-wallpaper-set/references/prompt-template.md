@@ -3,8 +3,11 @@
 ## 通用编辑模板
 
 ```
-Edit this vertical phone wallpaper <keep the same tall narrow portrait canvas as the reference> into
-a <SEASON> version.
+Edit the reference wallpaper. Output canvas EXACTLY <W>x<H> px (<RATIO>, same tall narrow frame as the
+reference); no crop, no letterbox, no padding, no black bar (the reference's bottom black strip must not
+be copied). Fill the frame edge to edge.
+
+KEEP COMPLETELY UNCHANGED: <...>
 
 KEEP COMPLETELY UNCHANGED: <CHARACTERS> — exact same silhouettes, size, positions, poses, faces,
 line art, <PER-CHARACTER DETAILS: the gray horns / bat wings / heart-tipped tail on the right one, the
