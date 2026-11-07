@@ -36,6 +36,24 @@ No extra text, no logos.
 | `<OLD SEASON PROPS>` | 原图里必须删掉的季节道具 | 蝙蝠、南瓜、糖果、枯枝 |
 | `<NEW SCENE>` `<PALETTE>` | 底部地景与配色 | 雪人+热可可+礼物；`muted lavender-gray` |
 
+## 只改字形、不改位置（用户说"字体更好看一点"时）
+
+插在 `KEEP COMPLETELY UNCHANGED` 段后面，单独成段，10 张一字不改地复用：
+
+```
+ONE change in the lettering, same place and size: the hand-lettered line stays in the exact same spot,
+same overall size, same muted sage-green color, keeps its thin hand-drawn underline — but render it much
+more beautifully, like polished modern brush calligraphy: "<A>" in a graceful semi-connected script, a
+small plump glossy HEART, then "<B>" in the same script; smooth confident strokes, delicate ink texture,
+balanced spacing, a tiny sparkle at the heart. Real crisp legible text, no gibberish.
+```
+
+要点：
+- **同时给"不变"和"变"两组约束**，只说"更好看"模型会连位置和颜色一起改。
+- 明确"心"是画出来的小爱心（`plump glossy HEART`），不是糖果、不是文字 `♡` 的乱码。
+- 加 `no gibberish`：手写体最容易糊成假字。
+- 换季时这段必须原样复制，不要每张重写措辞，否则字体风格会散。
+
 ## 强化句（按需追加）
 
 - 比例跑偏：`Keep the tall narrow portrait canvas of the reference (roughly 9:16).`
@@ -44,6 +62,7 @@ No extra text, no logos.
   eye style and blush.`
 - 出现意外的帽子/配饰：`Absolutely no clothing, hats, scarves, earmuffs or mittens on the characters.`
 - 文字模糊：`The lettering must stay a clean flat hand-written brush script, not re-rendered or blurred.`
+- 加了画框/暗角：`No border, no vignette, no frame around the picture — edges stay clean like the reference.`
 
 ## 提示
 

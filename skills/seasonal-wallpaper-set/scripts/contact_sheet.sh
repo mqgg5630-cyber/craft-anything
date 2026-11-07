@@ -27,6 +27,26 @@ if [ ${#imgs[@]} -eq 0 ]; then
   exit 1
 fi
 
+
+# 9:16 归一：比例不对的图居中裁切（不拉伸，人物居中不会走样）
+# 传入 --fix 才会真正改写文件；默认只报告。
+fix="${FIX_RATIO:-0}"
+for f in "${imgs[@]}"; do
+  read -r w h < <(identify -format '%w %h\n' "$f")
+  # 目标宽 = h*9/16；偏差超过 4% 才处理
+  want=$(python3 -c "print(round($h*9/16))")
+  diff=$(python3 -c "print(round(abs($w-$want)/$want*100))")
+  if [ "$diff" -gt 4 ]; then
+    if [ "$fix" = "1" ]; then
+      convert "$f" -gravity center -crop "${want}x${h}+0+0" +repage -quality 93 "$f.tmp.jpg"
+      mv "$f.tmp.jpg" "$f"
+      echo "已裁切 $f -> ${want}x${h}（原 ${w}x${h}）"
+    else
+      echo "比例偏离 ${diff}%: $f（${w}x${h}，9:16 应为 ${want}x${h}）—— 设 FIX_RATIO=1 再跑可自动裁切"
+    fi
+  fi
+done
+
 montage -tile "${cols}x" -geometry "${thumb}x+10+10" \
   -background '#141416' "${imgs[@]}" 00-contact-sheet.jpg
 
