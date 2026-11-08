@@ -1,0 +1,196 @@
+{
+  "note_id": "6a30e185000000000f030959",
+  "author": "画框之外",
+  "canvas": [
+    1440,
+    2560
+  ],
+  "source_canvas": [
+    944,
+    1672
+  ],
+  "method": "pixel extraction from the downloaded originals; no redraw, no font substitution",
+  "pages": [
+    {
+      "n": 1,
+      "file": "复刻01-一切都在变好.jpg",
+      "main": "一切都在变好",
+      "base_plate": "01",
+      "mirror": false,
+      "layout": "original 1:1",
+      "subs": [
+        "过去不定义未来",
+        "慢慢变好",
+        "未来可期",
+        "好事将至",
+        "万事胜意",
+        "日日向好",
+        "稳步前进",
+        "心有暖阳",
+        "花路常开"
+      ]
+    },
+    {
+      "n": 2,
+      "file": "复刻02-凡事皆有利于我.jpg",
+      "main": "凡事皆有利于我",
+      "base_plate": "02",
+      "mirror": false,
+      "layout": "original 1:1",
+      "subs": [
+        "我值得最好的一切",
+        "我会实现目标",
+        "健康且富足",
+        "我自带力量",
+        "如愿以偿",
+        "万事皆有回甘",
+        "我会越来越好"
+      ]
+    },
+    {
+      "n": 3,
+      "file": "复刻03-我会一直顺.jpg",
+      "main": "我会一直顺",
+      "base_plate": "03",
+      "mirror": false,
+      "layout": "original 1:1",
+      "subs": [
+        "诸事顺遂",
+        "水逆退散",
+        "一路绿灯",
+        "步步高升",
+        "万事顺意",
+        "得偿所愿",
+        "平安顺遂",
+        "好运开挂"
+      ]
+    },
+    {
+      "n": 4,
+      "file": "复刻04-我就是命好.jpg",
+      "main": "我就是命好",
+      "base_plate": "04",
+      "mirror": false,
+      "layout": "original 1:1",
+      "subs": [
+        "天生好命",
+        "财运爆棚",
+        "福气满满",
+        "万事顺意",
+        "好运常伴",
+        "平安喜乐",
+        "得偿所愿",
+        "命里带财"
+      ]
+    },
+    {
+      "n": 5,
+      "file": "复刻05-平安喜乐.jpg",
+      "main": "平安喜乐",
+      "base_plate": "02",
+      "mirror": false,
+      "layout": "original slots, re-arranged handwriting",
+      "subs": [
+        "天生好命",
+        "我会实现目标",
+        "健康且富足",
+        "福气满满",
+        "如愿以偿",
+        "万事皆有回甘",
+        "日日向好"
+      ]
+    },
+    {
+      "n": 6,
+      "file": "复刻06-得偿所愿.jpg",
+      "main": "得偿所愿",
+      "base_plate": "03",
+      "mirror": false,
+      "layout": "original slots, re-arranged handwriting",
+      "subs": [
+        "诸事顺遂",
+        "水逆退散",
+        "一路绿灯",
+        "步步高升",
+        "万事顺意",
+        "平安顺遂",
+        "好运开挂",
+        "未来可期"
+      ]
+    },
+    {
+      "n": 7,
+      "file": "复刻07-我值得最好的一切.jpg",
+      "main": "我值得最好的一切",
+      "base_plate": "01",
+      "mirror": false,
+      "layout": "original slots, re-arranged handwriting",
+      "subs": [
+        "过去不定义未来",
+        "慢慢变好",
+        "我会越来越好",
+        "好事将至",
+        "万事胜意",
+        "日日向好",
+        "稳步前进",
+        "心有暖阳",
+        "花路常开"
+      ]
+    },
+    {
+      "n": 8,
+      "file": "复刻08-一路绿灯.jpg",
+      "main": "一路绿灯",
+      "base_plate": "04",
+      "mirror": false,
+      "layout": "original slots, re-arranged handwriting",
+      "subs": [
+        "天生好命",
+        "财运爆棚",
+        "诸事顺遂",
+        "万事顺意",
+        "好运常伴",
+        "平安喜乐",
+        "得偿所愿",
+        "步步高升"
+      ]
+    },
+    {
+      "n": 9,
+      "file": "复刻09-财运爆棚.jpg",
+      "main": "财运爆棚",
+      "base_plate": "01",
+      "mirror": true,
+      "layout": "original slots, re-arranged handwriting",
+      "subs": [
+        "天生好命",
+        "慢慢变好",
+        "未来可期",
+        "好事将至",
+        "万事胜意",
+        "日日向好",
+        "稳步前进",
+        "心有暖阳",
+        "命里带财"
+      ]
+    },
+    {
+      "n": 10,
+      "file": "复刻10-未来可期.jpg",
+      "main": "未来可期",
+      "base_plate": "04",
+      "mirror": true,
+      "layout": "original slots, re-arranged handwriting",
+      "subs": [
+        "天生好命",
+        "财运爆棚",
+        "福气满满",
+        "万事顺意",
+        "好运常伴",
+        "平安喜乐",
+        "如愿以偿",
+        "我会越来越好"
+      ]
+    }
+  ]
+}

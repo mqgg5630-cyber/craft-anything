@@ -1,26 +1,52 @@
 # 吸引力法则治愈壁纸｜暴富顺遂万事向好
 
-- 原帖：https://xhslink.cn/o/2tD4rMMWCOa （作者：画框之外）
-- 原帖实际 4 张；按用户要求交付 10 张：01–04 同款复刻，05–10 同系列新场景。
-- **正确交付（基于已下载原片）**：`04-原片复刻版/`（JPG，1440×2560）。01–04 保持原片；05–10 用原片背景/涂鸦与原手写笔迹重组。
-- 旧版 AI 重绘（已废弃，仅留档）：`02-复刻/壁纸/`。
-- 手机 UI 预览：`02-复刻/手机UI预览/`（1440×3200，仅展示）。
-- 总图：`02-复刻/壁纸/总图.jpg`；封面：`02-复刻/封面-双机预览.jpg`。
-- 文案：`03-文案/发布文案.md`。
-- 使用限制：AI 生成，仅供个人壁纸使用；请勿商用。灵感致谢原作者。
+- 原帖：https://xhslink.cn/o/2tD4rMMWCOa （作者：**画框之外**，note_id `6a30e185000000000f030959`）
+- 原帖实际只有 **4 张**（944×1672）；按要求交付 **10 张同款复刻**（1440×2560，与原片同比例）。
 
-## 复现命令
+## 交付物（唯一有效版本）
+
+**`05-同款复刻10张/壁纸/`** — 10 张 JPG，1440×2560，无手机 UI。
+
+| 编号 | 主句 | 底版 | 说明 |
+| --- | --- | --- | --- |
+| 01 | 一切都在变好 | 原片 01 鼠尾草绿 | 原位 1:1 复刻 |
+| 02 | 凡事皆有利于我 | 原片 02 米色 | 原位 1:1 复刻 |
+| 03 | 我会一直顺 | 原片 03 薄荷灰 | 原位 1:1 复刻 |
+| 04 | 我就是命好 | 原片 04 天空蓝 | 原位 1:1 复刻 |
+| 05 | 平安喜乐 | 原片 02 米色 | 原笔迹重排 |
+| 06 | 得偿所愿 | 原片 03 薄荷灰 | 原笔迹重排 |
+| 07 | 我值得最好的一切 | 原片 01 鼠尾草绿 | 原笔迹重排 |
+| 08 | 一路绿灯 | 原片 04 天空蓝 | 原笔迹重排 |
+| 09 | 财运爆棚 | 原片 01 水平镜像 | 原笔迹重排 |
+| 10 | 未来可期 | 原片 04 水平镜像 | 原笔迹重排 |
+
+其余文件：
+
+- `01-原图/` — 下载的 4 张小红书原片 + 原片总图 + 笔记元数据（**唯一风格依据，已先上传到 Drive**）。
+- `05-同款复刻10张/总图.jpg` — 10 张拼版总图。
+- `05-同款复刻10张/预览-锁屏总图.jpg`、`封面-双机预览.jpg`、`预览/` — 锁屏效果示意（壁纸本身不含任何 UI）。
+- `05-同款复刻10张/plates/` — 4 张「纸纹 + 水彩晕染 + 涂鸦」底版（已抹去文字与水印）。
+- `05-同款复刻10张/sprites/` + `sprite-library.json` — 36 条原手写笔迹 RGBA 素材，可继续重排。
+- `03-文案/发布文案.md` — 发布文案。
+- 已废弃留档：`02-复刻/`（纯 AI 重绘，风格漂移）、`04-原片复刻版/`（抠字有鬼影）。
+
+## 复刻方法（不重绘、不换字体）
+
+1. `extract_original_elements.py`：从原片里把每条手写句子连同下划线花饰按精确 bbox 抠成 RGBA sprite；
+   把文字抹掉得到底版；右下角水印用「同页纸纹重合成 + 涂鸦回贴」清除，被实心白 logo 吃掉的笔画再做局部补笔。
+2. `build_replica_set.py`：01–04 把 sprite 放回原坐标（真 1:1）；05–10 沿用底版自身的槽位与晕染位置，
+   只按槽宽/槽高缩放原笔迹，主句落在晕染中心。09/10 用水平镜像底版增加构图变化。
+3. `preview_replica_set.py`：复用参考仓库的手机几何（按 2560/3200 缩放）生成锁屏示意。
 
 ```bash
-python3 wallpaper-studio-ab8fa883/scripts/compose_text_wallpaper.py \
-  wallpaper-studio-ab8fa883/examples/law-of-attraction-6a30e185/02-复刻/spec.json \
-  --bg-dir wallpaper-studio-ab8fa883/examples/law-of-attraction-6a30e185/02-复刻/art-bg \
-  --out wallpaper-studio-ab8fa883/examples/law-of-attraction-6a30e185/02-复刻/art
-
-python3 wallpaper-studio-ab8fa883/scripts/painting_set.py \
-  wallpaper-studio-ab8fa883/examples/law-of-attraction-6a30e185/02-复刻/spec.json \
-  --art-dir wallpaper-studio-ab8fa883/examples/law-of-attraction-6a30e185/02-复刻/art \
-  --out wallpaper-studio-ab8fa883/examples/law-of-attraction-6a30e185/02-复刻/壁纸 --format jpg
+python3 wallpaper-studio-ab8fa883/scripts/extract_original_elements.py
+python3 wallpaper-studio-ab8fa883/scripts/build_replica_set.py
+cd wallpaper-studio-ab8fa883/scripts && python3 preview_replica_set.py
 ```
 
-字体：MaShanZheng / LongCang / LXGW WenKai / Inter（位于 `~/.fonts`）。
+依赖：Pillow、numpy、opencv-python-headless。精确 bbox 表见 `scripts/original_elements.json`。
+
+## 使用限制
+
+原片版权归作者 **@画框之外** 所有。本目录是在原片像素基础上的复刻/重排，**仅供个人手机壁纸欣赏使用，请勿商用、请勿二次发布为原创**。
+发布时请致谢原作者。锁屏预览里的时间/日期只是示意。
