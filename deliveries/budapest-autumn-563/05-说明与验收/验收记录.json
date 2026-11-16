@@ -1,0 +1,364 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "note_id": "6af52ced000000001b01cc36",
+  "source_count": 4,
+  "clean_count": 10,
+  "lock_preview_count": 10,
+  "home_preview_count": 10,
+  "style_reference": "Only source image 01 was treated as the style anchor (retro screen-print Budapest map, teal sky).",
+  "generation": "Ten independent image-conditioned AI generations; native 704x1520, not upscaled.",
+  "ui": "Deterministic illustrative lock-screen and widget-screen overlays; not device screenshots.",
+  "sources": [
+    {
+      "file": "01-下载原图/01.jpeg",
+      "dimensions": [
+        2250,
+        3000
+      ],
+      "bytes": 1400066,
+      "sha256": "8103b74ed3eaac46914c2befaa942c901c59a4fab8aaee24eea2330fdfb7526d"
+    },
+    {
+      "file": "01-下载原图/02.jpeg",
+      "dimensions": [
+        1891,
+        4088
+      ],
+      "bytes": 2205905,
+      "sha256": "191f89b76d27af476ff6cd867cfd1ac785571a8554cb03503cff54b9679234e0"
+    },
+    {
+      "file": "01-下载原图/03.jpeg",
+      "dimensions": [
+        2250,
+        3000
+      ],
+      "bytes": 1159726,
+      "sha256": "ddef4a1e3c822d2fcd93f7af3083d8019656bb85d630f62fc77a853e1137ee2a"
+    },
+    {
+      "file": "01-下载原图/04.jpeg",
+      "dimensions": [
+        2250,
+        3000
+      ],
+      "bytes": 591744,
+      "sha256": "532b5d3f6c53ead44b0b2d51c1769270cf25ff267da8b167eca3459dd2e80747"
+    }
+  ],
+  "clean": [
+    {
+      "file": "02-复刻无手机UI/01-秋日链子桥.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1871128,
+      "sha256": "2e10934b77ac050b68e98bd41bd4ff7860ef027f22c7f9a12b927a1079576c57"
+    },
+    {
+      "file": "02-复刻无手机UI/02-渔人堡秋晨.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2130016,
+      "sha256": "94a68c8931866ecae63bd7e13a81d536a497c134ce8c62aeeb47e44892eee789"
+    },
+    {
+      "file": "02-复刻无手机UI/03-国会暮色码头.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2166036,
+      "sha256": "0fde295d661f092937eabe1d53d3b8fea55a6720d9e8cf18e328d11e077f3a9e"
+    },
+    {
+      "file": "02-复刻无手机UI/04-英雄广场秋叶.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1838027,
+      "sha256": "45eab27d26d64b6b5bf3a1dfcd3048e2a5b87e2b6e6ea5580a5e228369aa8fb5"
+    },
+    {
+      "file": "02-复刻无手机UI/05-城堡山缆车.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1961328,
+      "sha256": "9d1d4b9c8da1ea827eee3a2765833570439691a83ded2a4ec79551401c925433"
+    },
+    {
+      "file": "02-复刻无手机UI/06-中央市场清晨.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2387186,
+      "sha256": "6203e7f23149ed563f69289c93e8c4feb2b9dbcb179bda80241c249cddebe30f"
+    },
+    {
+      "file": "02-复刻无手机UI/07-多瑙河游船.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1764152,
+      "sha256": "b732b603b74c1a5d429c0231f378ea71e8f6e4b65b674cd36e7a2b34314a9226"
+    },
+    {
+      "file": "02-复刻无手机UI/08-塞切尼温泉蒸汽.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1852868,
+      "sha256": "645e81804495c9b744a7585d4eeaccffef4b5eec7dbc3a421175f164ee1ab3bb"
+    },
+    {
+      "file": "02-复刻无手机UI/09-自由桥电车.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1902815,
+      "sha256": "02e25b12901bf7ac2099e6259b52c6748a5cf7438d7cef64724db847d21095f0"
+    },
+    {
+      "file": "02-复刻无手机UI/10-屋顶阳台远眺.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2268354,
+      "sha256": "0ca70006ef06df3818c5be91422fa7174b6342b85856fed671368d6ba8c3c3cc"
+    }
+  ],
+  "lock_previews": [
+    {
+      "file": "03-锁屏预览/01-秋日链子桥.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1584617,
+      "sha256": "dc4b011972469ad537e61c5a46ec1f47196be5bd0b5db3ee8c49914b81a6b1a5"
+    },
+    {
+      "file": "03-锁屏预览/02-渔人堡秋晨.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1768369,
+      "sha256": "3fa6df734199a2237a671015b4294ac22e022ccb6a4ff432cb1c06ba538df2be"
+    },
+    {
+      "file": "03-锁屏预览/03-国会暮色码头.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1906971,
+      "sha256": "fc3b57a683814825cde3d5b87be7238bfabf2072da09f5719fb640f4215765cb"
+    },
+    {
+      "file": "03-锁屏预览/04-英雄广场秋叶.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1571959,
+      "sha256": "f43ab76b8c09691e8cb1c7b4180701520a5365a97712e06975898ced9cdab37d"
+    },
+    {
+      "file": "03-锁屏预览/05-城堡山缆车.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1805221,
+      "sha256": "9afaa2eeb1eb5525996a26891873581c05508be8e298a9473c30cd740c0857e9"
+    },
+    {
+      "file": "03-锁屏预览/06-中央市场清晨.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2052381,
+      "sha256": "1b4ec73ddc25bc64a393b11f023eb7fb4c6c9eb776c4ff02cc858a7a6243abbc"
+    },
+    {
+      "file": "03-锁屏预览/07-多瑙河游船.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1514662,
+      "sha256": "f482ddaeebf247e16c5adbeb724a523195b00ff78110d244ff95a54bc741583b"
+    },
+    {
+      "file": "03-锁屏预览/08-塞切尼温泉蒸汽.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1583928,
+      "sha256": "c2b7c488f95a6bc2f24925077c309b36a2ef13e3b35b6ee7495ae2c48208d0cd"
+    },
+    {
+      "file": "03-锁屏预览/09-自由桥电车.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1663227,
+      "sha256": "bb9beb2c94d5ade9e1d5fddbe01a4cf02ad7c9a73ee00e298ed12407f7318fb6"
+    },
+    {
+      "file": "03-锁屏预览/10-屋顶阳台远眺.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2014810,
+      "sha256": "121d3bc17e4fa1857df5abf420d52b6ea495c98f4fd8be6c8852af2777202c27"
+    }
+  ],
+  "home_previews": [
+    {
+      "file": "04-桌面组件预览/01-秋日链子桥.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 350673,
+      "sha256": "48d40747ec4aec0bad106b87d4ebb345134adf4005dd3270ae3452525d15ae13"
+    },
+    {
+      "file": "04-桌面组件预览/02-渔人堡秋晨.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 359067,
+      "sha256": "223d098b7af3455fdbe40814ae4f3419a27f9624195a740db51fdcfc7510093c"
+    },
+    {
+      "file": "04-桌面组件预览/03-国会暮色码头.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 325213,
+      "sha256": "ad402b8080824979bfefaceca99b16a4faef6da1d833bb0fcdb082392e51c33c"
+    },
+    {
+      "file": "04-桌面组件预览/04-英雄广场秋叶.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 254073,
+      "sha256": "f6864433cf9d25066e6f967cb609b9b6fb721a7cf40cd0e6fcdd637e75316503"
+    },
+    {
+      "file": "04-桌面组件预览/05-城堡山缆车.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 323932,
+      "sha256": "1cd2ab2a668ca5ede6cfccdb2bb29a717b3bdf23c3dde752069fe5df54a71e0a"
+    },
+    {
+      "file": "04-桌面组件预览/06-中央市场清晨.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 386709,
+      "sha256": "89833d3a4768ca0802c90cfe33642ab0acff1103878f016c7b7f3ad2e468a15e"
+    },
+    {
+      "file": "04-桌面组件预览/07-多瑙河游船.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 313711,
+      "sha256": "8d6aa4b143a5342cdb2d7c5355dadc95a1a3a73aabd6dad4f83147fa0ea047f5"
+    },
+    {
+      "file": "04-桌面组件预览/08-塞切尼温泉蒸汽.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 328673,
+      "sha256": "aa6ecaa7d70391d5b8200bd6d4f2ab48d45c860f4f500007a136a853dab1cd26"
+    },
+    {
+      "file": "04-桌面组件预览/09-自由桥电车.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 367865,
+      "sha256": "afdfd4bffdb58d5693e30b30c9bdd93549b697934dd925fb094dba38e86f0e79"
+    },
+    {
+      "file": "04-桌面组件预览/10-屋顶阳台远眺.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 342324,
+      "sha256": "fb2c73912da448faf067991e419f54446814f77a6dd9f7126014b1da203e0ac9"
+    }
+  ],
+  "sheets": [
+    {
+      "file": "05-说明与验收/下载原图总览.jpg",
+      "dimensions": [
+        1170,
+        576
+      ],
+      "bytes": 110097,
+      "sha256": "90216290c524a38d9d2e7d8771eff286a742fefb49c71b0e7b1c5a507e594dd8"
+    },
+    {
+      "file": "05-说明与验收/无UI总览.jpg",
+      "dimensions": [
+        1170,
+        1092
+      ],
+      "bytes": 456697,
+      "sha256": "d357e1ca30d02075c9bfa14e83b17ef47249747a36627b33a98c9af304ed06d7"
+    },
+    {
+      "file": "05-说明与验收/桌面组件总览.jpg",
+      "dimensions": [
+        1170,
+        1092
+      ],
+      "bytes": 250066,
+      "sha256": "218566199d3de3df1d2b69223ad6455768113556000310244f1308dc0b9215b3"
+    },
+    {
+      "file": "05-说明与验收/锁屏预览总览.jpg",
+      "dimensions": [
+        1170,
+        1092
+      ],
+      "bytes": 504242,
+      "sha256": "6d7144c9eea87cc49434437e8b1cac74cd08eff073614ec0344e40a0655a9c23"
+    }
+  ]
+}
