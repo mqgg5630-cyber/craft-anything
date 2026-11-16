@@ -16,3 +16,8 @@ corpus/
 *.pfx
 *.key
 .claude/settings.local.json
+
+# Local inspection and Python environment
+/.cache/
+/.venv/
+__pycache__/
