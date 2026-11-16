@@ -61,13 +61,14 @@ jobs:
         run: python -m pip install --disable-pip-version-check --quiet requests pillow cryptography
 
       - name: Fetch and encrypt note images
+        id: fetch
         if: hashFiles('tools/xhs-wallpaper/request.enc') != ''
         env:
           XHS_RELAY_PRIVATE_KEY: .relay/runner-private.pem
         run: python tools/xhs-wallpaper/relay.py fetch
 
-      - name: Commit only encrypted output
-        if: steps.bootstrap.outputs.key_changed == 'true' || hashFiles('tools/xhs-wallpaper/request.enc') != ''
+      - name: Commit encrypted output and sanitized failure report
+        if: always() && (steps.bootstrap.outputs.key_changed == 'true' || hashFiles('tools/xhs-wallpaper/request.enc') != '' || failure())
         shell: bash
         run: |
           set -euo pipefail
@@ -77,12 +78,15 @@ jobs:
           if [ -d tools/xhs-wallpaper/relay-output ]; then
             git add -f tools/xhs-wallpaper/relay-output
           fi
-          if [ -e tools/xhs-wallpaper/request.enc ]; then
+          if [ -e tools/xhs-wallpaper/relay-failure.json ]; then
+            git add -f tools/xhs-wallpaper/relay-failure.json
+          fi
+          if [ -e tools/xhs-wallpaper/request.enc ] && [ '${{ steps.fetch.outcome }}' = 'success' ]; then
             git rm -f tools/xhs-wallpaper/request.enc
           fi
           if git diff --cached --quiet; then
             echo 'No relay output to commit.'
             exit 0
           fi
-          git commit -m 'chore: publish encrypted wallpaper relay payload'
+          git commit -m 'chore: publish encrypted wallpaper relay result'
           git push origin "HEAD:${GITHUB_REF_NAME}"

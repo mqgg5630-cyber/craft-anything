@@ -26,6 +26,7 @@ RUNNER_PUBLIC = ROOT / "tools/xhs-wallpaper/runner-public.pem"
 RESULT_PUBLIC = ROOT / "tools/xhs-wallpaper/result-public.pem"
 MAX_IMAGE_BYTES = 35 * 1024 * 1024
 MAX_NOTE_BYTES = 12 * 1024 * 1024
+CURRENT_PHASE = "startup"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
 
@@ -166,14 +167,18 @@ def safe_title(page: str) -> str:
 
 
 def fetch_bundle(note_url: str, output: Path) -> int:
+    global CURRENT_PHASE
     if not note_url.startswith(("https://www.xiaohongshu.com/", "https://xhslink.com/", "https://xhslink.cn/")):
         raise ValueError("unsupported Xiaohongshu URL host")
+    CURRENT_PHASE = "fetch-note-page"
     page, final_url, status = get_note_html(note_url)
+    CURRENT_PHASE = "parse-note-images"
     urls = image_urls_from_html(page)
     if not urls:
         raise RuntimeError("note page did not expose an imageList")
     output.mkdir(parents=True, exist_ok=True)
     records: list[dict[str, object]] = []
+    CURRENT_PHASE = "download-source-images"
     with requests.Session() as session:
         for index, source in enumerate(urls, 1):
             saved = fetch_image(source, session)
@@ -240,8 +245,10 @@ def encrypt_bundle(output_dir: Path, destination: Path) -> None:
 
 
 def main() -> int:
+    global CURRENT_PHASE
     mode = sys.argv[1] if len(sys.argv) > 1 else "fetch"
     if mode == "fetch":
+        CURRENT_PHASE = "decrypt-request"
         note_url = decrypt_request()
         temp = Path(os.environ.get("RUNNER_TEMP", "/tmp")) / "xhs-wallpaper-source"
         if temp.exists():
@@ -252,6 +259,7 @@ def main() -> int:
         metadata = json.loads((temp / "note.json").read_text(encoding="utf-8"))
         expected = int(metadata.get("source_image_count", count))
         run_id = os.environ.get("GITHUB_RUN_ID", "local")
+        CURRENT_PHASE = "encrypt-source-bundle"
         encrypt_bundle(temp, ROOT / "tools/xhs-wallpaper/relay-output" / run_id)
         print(f"relay complete: {count} of {expected} source images encrypted")
         return 0
@@ -281,6 +289,22 @@ if __name__ == "__main__":
     try:
         raise SystemExit(main())
     except Exception as error:  # noqa: BLE001
-        # Do not print exceptions from requests: some contain the signed source URL.
-        print(f"relay failed: {type(error).__name__}", file=sys.stderr)
+        # Strip URLs and share tokens before writing any diagnostics to Actions or Git.
+        detail = str(error)
+        detail = re.sub(r"https?://\S+", "<url>", detail)
+        detail = re.sub(r"xsec_token=[^&\s]+", "xsec_token=<redacted>", detail)
+        if len(detail) > 180:
+            detail = detail[:180]
+        message = detail or type(error).__name__
+        if sys.argv[1:2] == ["fetch"] and os.environ.get("GITHUB_ACTIONS") == "true":
+            report = {
+                "schema_version": 1,
+                "phase": CURRENT_PHASE,
+                "error_type": type(error).__name__,
+                "detail": message,
+            }
+            (ROOT / "tools/xhs-wallpaper/relay-failure.json").write_text(
+                json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8"
+            )
+        print(f"relay failed during {CURRENT_PHASE}: {message}", file=sys.stderr)
         raise SystemExit(1)
