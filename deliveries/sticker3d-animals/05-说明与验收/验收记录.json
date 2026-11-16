@@ -1,0 +1,363 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "note_id": "6adebb71000000001800854e",
+  "source_count": 4,
+  "clean_count": 10,
+  "lock_preview_count": 10,
+  "home_preview_count": 10,
+  "style_anchor": "Source 04 (raccoon) is the only fully clean art reference; 01/02/03 carry third-party characters and were used for layout only.",
+  "ui": "Deterministic illustrative lock and home previews; not device screenshots.",
+  "sources": [
+    {
+      "file": "01-下载原图/01.png",
+      "dimensions": [
+        941,
+        1671
+      ],
+      "bytes": 2908385,
+      "sha256": "06020d165246db5ff2d8f139d1d365a25b47267abb93cb55c75c599dc0a0f962"
+    },
+    {
+      "file": "01-下载原图/02.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2751492,
+      "sha256": "16206059f7c7c91117694100e7af4dfc54ada32dda1913c92bb0cc3d1da70026"
+    },
+    {
+      "file": "01-下载原图/03.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 2995258,
+      "sha256": "0b97a21c1d723e9d3a56b6bb4e2f9d97456a7dbb91f6699874d205a67f8bba97"
+    },
+    {
+      "file": "01-下载原图/04.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "bytes": 3005649,
+      "sha256": "c2ba3bbc72a60186d80d21704a503aa801acdb0a92367a75c08ca65a61ea770a"
+    }
+  ],
+  "clean": [
+    {
+      "file": "02-复刻无手机UI/01-围裙小猫.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2676763,
+      "sha256": "576707d42f5970c290e215bd27554584f93ed1cc13047f9c9553a1fc1827193b"
+    },
+    {
+      "file": "02-复刻无手机UI/02-背带裤小浣熊.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2697809,
+      "sha256": "3d7969302127bf8ce3822c7706f5932c495c71deacc4074b59fcd0d63f84240a"
+    },
+    {
+      "file": "02-复刻无手机UI/03-贝雷帽小刺猬.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2619777,
+      "sha256": "98d1f0d8be39cca51c0b48a582d173f27a9c76ab22ad9c9310bca3565682adb6"
+    },
+    {
+      "file": "02-复刻无手机UI/04-飞行员小柯基.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2644378,
+      "sha256": "f46023e7d2b64adbb76f553d60b0dca63f04ee26d88c73da1643bc6285767b5a"
+    },
+    {
+      "file": "02-复刻无手机UI/05-宇航小熊猫.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2725362,
+      "sha256": "729a53107dd79311ce56c459573d9df02d6e270dd1fe65c235fb623a9c39f3db"
+    },
+    {
+      "file": "02-复刻无手机UI/06-咖啡店水豚.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2764045,
+      "sha256": "59c7034ccd980314e8c1d4e0964461d732b6656f8b33e912b74ed8b0a1f881ab"
+    },
+    {
+      "file": "02-复刻无手机UI/07-耳机小水獭.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2705075,
+      "sha256": "70ab2121cf34bf5e28e0dff7e03322e230a51fb6c804b3c381d549919707fe1d"
+    },
+    {
+      "file": "02-复刻无手机UI/08-邮差小猫头鹰.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2627099,
+      "sha256": "317f4e9fcc7963a3c7b83e8cf5d06bd5c2fb60f66e56c991cdbbe833b5afa900"
+    },
+    {
+      "file": "02-复刻无手机UI/09-草莓小兔.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2704689,
+      "sha256": "5210580087115cf80914a0e01629da3cd8fdfabd06d9c8bbed4c16da61dca72a"
+    },
+    {
+      "file": "02-复刻无手机UI/10-露营小熊.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 2804658,
+      "sha256": "29455643177a2ac9d6c2b3ff1be7abec988ae272cbb3d168d0d457b220705f36"
+    }
+  ],
+  "lock_previews": [
+    {
+      "file": "03-锁屏预览/01-围裙小猫.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1722192,
+      "sha256": "6c81b39919fa649639d2f40298603d22acd1937bb334c2b57f748bff310a8eae"
+    },
+    {
+      "file": "03-锁屏预览/02-背带裤小浣熊.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1926753,
+      "sha256": "006b4487cbd3b279d18d0d43cd48224de39a17a611f38032bd8de4cd7200d837"
+    },
+    {
+      "file": "03-锁屏预览/03-贝雷帽小刺猬.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1869758,
+      "sha256": "546a8528aa744b2cdebbb2e79d9ccc1a929238081a27f97bf5112bbc241c00c6"
+    },
+    {
+      "file": "03-锁屏预览/04-飞行员小柯基.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1815966,
+      "sha256": "0bf28ab51d7623545fefe9d2c2c917041da32cd5d60c792aa9afa475c0929ddb"
+    },
+    {
+      "file": "03-锁屏预览/05-宇航小熊猫.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1883040,
+      "sha256": "e108b1be2f3a7be8253c1dfa98ea64b13082fccc32db3348f59ef3107612ec14"
+    },
+    {
+      "file": "03-锁屏预览/06-咖啡店水豚.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1810960,
+      "sha256": "0353e31b71f150fab16e4195e0d8d1799ff41fe4e5aa79197a3dbc21e857bfcd"
+    },
+    {
+      "file": "03-锁屏预览/07-耳机小水獭.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1821457,
+      "sha256": "8740944a50ef693bc88985824d301e272bf3bfa20a6b2a4e60921bb2d3dc4dc9"
+    },
+    {
+      "file": "03-锁屏预览/08-邮差小猫头鹰.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1832957,
+      "sha256": "c8ef7485282347d7d56b7155796ff40ebe2f4a3cf7d8cbdffbe4e0ff9a8dcdb3"
+    },
+    {
+      "file": "03-锁屏预览/09-草莓小兔.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1917188,
+      "sha256": "d128a2534c597ada56b42398e072801791b157f09f3cf1fa82ecaacb94e9212e"
+    },
+    {
+      "file": "03-锁屏预览/10-露营小熊.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 1888409,
+      "sha256": "8ee5c2f99dfecdfc6d5f81b6e9275a88eff6ff459c564bd1873cc8cedef27cfc"
+    }
+  ],
+  "home_previews": [
+    {
+      "file": "04-桌面预览/01-围裙小猫.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 370799,
+      "sha256": "fe3cca3f69cf158123a6d5a6f927b41818d6cedc2d7a8d1540a62266f380eea8"
+    },
+    {
+      "file": "04-桌面预览/02-背带裤小浣熊.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 345375,
+      "sha256": "0633a69a136ba530af099b757da367bccc9d64fed9c79f82accda6b0a22f6d63"
+    },
+    {
+      "file": "04-桌面预览/03-贝雷帽小刺猬.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 328756,
+      "sha256": "c8ca5460e231d9b9614cc92ad84c83ffa11b15fd25008452da37670fc648f8be"
+    },
+    {
+      "file": "04-桌面预览/04-飞行员小柯基.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 348130,
+      "sha256": "4b58166f2b4ea48c03ac226df4bd3a382df01b9cebc3e81ba3cca5f6b88567b2"
+    },
+    {
+      "file": "04-桌面预览/05-宇航小熊猫.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 368249,
+      "sha256": "929045fa77bcaac295cae0776264de4c926dc9ac44c1b442942c1df6a4c41d8a"
+    },
+    {
+      "file": "04-桌面预览/06-咖啡店水豚.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 320743,
+      "sha256": "7d324068ce0c2c0258d37ade6415660338c518316786100b231214fe72542d34"
+    },
+    {
+      "file": "04-桌面预览/07-耳机小水獭.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 398552,
+      "sha256": "f1b09cd838973b80c41853ec2a966c31dd77cfd899aeb8163ef4c4ac4b3f28a9"
+    },
+    {
+      "file": "04-桌面预览/08-邮差小猫头鹰.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 349023,
+      "sha256": "c063d93c51daba5750af08a120b57cfb5b6d09d904a31da3b0e90e2e69e29573"
+    },
+    {
+      "file": "04-桌面预览/09-草莓小兔.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 385429,
+      "sha256": "43f7f5f4d82bcd3244910e83c17f30572dfd4ed79650fc82dbb411e5e9837ec8"
+    },
+    {
+      "file": "04-桌面预览/10-露营小熊.png",
+      "dimensions": [
+        704,
+        1520
+      ],
+      "bytes": 328584,
+      "sha256": "bd792a0dbe3d42e36a8172e274c727885c624ccdaefc1f589e6f69f8f482a1af"
+    }
+  ],
+  "sheets": [
+    {
+      "file": "05-说明与验收/下载原图总览.jpg",
+      "dimensions": [
+        980,
+        952
+      ],
+      "bytes": 215904,
+      "sha256": "8b645e24f7a8da9f3022d3cac8fdb31eed7b95f06d159bae21bd551ea27be031"
+    },
+    {
+      "file": "05-说明与验收/无UI总览.jpg",
+      "dimensions": [
+        1170,
+        952
+      ],
+      "bytes": 416427,
+      "sha256": "b30e017779351efd5a4e9a1c433e1455f4f0e3bee5b53aae8c7c4381dc95faeb"
+    },
+    {
+      "file": "05-说明与验收/桌面预览总览.jpg",
+      "dimensions": [
+        1170,
+        952
+      ],
+      "bytes": 171820,
+      "sha256": "b2d9016397e3cf5e5a31b92a3865d0b0476f7951d956a54b3cce3924ae0ce6fd"
+    },
+    {
+      "file": "05-说明与验收/锁屏预览总览.jpg",
+      "dimensions": [
+        1170,
+        952
+      ],
+      "bytes": 404378,
+      "sha256": "8987b0c25a259e9c9d1e0b3a5bd8a53250ec44a73e549b823f421e83ab6f79cd"
+    }
+  ]
+}
