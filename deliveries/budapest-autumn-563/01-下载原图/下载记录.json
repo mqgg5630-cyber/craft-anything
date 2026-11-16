@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "note_id": "6af52ced000000001b01cc36",
+  "title": "手机壁纸-布达佩斯，秋日的浪漫 563-期",
+  "author": "oowallpaper",
+  "share_url": "https://xhslink.cn/o/66GYGsPyGWY",
+  "source_caveat": "Public CDN response, not independently verified as author master.",
+  "images": [
+    {
+      "file": "01.jpeg",
+      "width": 2250,
+      "height": 3000,
+      "bytes": 1400066,
+      "sha256": "8103b74ed3eaac46914c2befaa942c901c59a4fab8aaee24eea2330fdfb7526d",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg327f3upvi6i8g5ph4notiuce8kbrihto"
+    },
+    {
+      "file": "02.jpeg",
+      "width": 1891,
+      "height": 4088,
+      "bytes": 2205905,
+      "sha256": "191f89b76d27af476ff6cd867cfd1ac785571a8554cb03503cff54b9679234e0",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg327f3upvi6i705ph4notiuce89j4dk6g"
+    },
+    {
+      "file": "03.jpeg",
+      "width": 2250,
+      "height": 3000,
+      "bytes": 1159726,
+      "sha256": "ddef4a1e3c822d2fcd93f7af3083d8019656bb85d630f62fc77a853e1137ee2a",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg327f3upvi6i7g5ph4notiuce8km1imj8"
+    },
+    {
+      "file": "04.jpeg",
+      "width": 2250,
+      "height": 3000,
+      "bytes": 591744,
+      "sha256": "532b5d3f6c53ead44b0b2d51c1769270cf25ff267da8b167eca3459dd2e80747",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg327f3upvi6i805ph4notiuce8p9hk0e8"
+    }
+  ]
+}
