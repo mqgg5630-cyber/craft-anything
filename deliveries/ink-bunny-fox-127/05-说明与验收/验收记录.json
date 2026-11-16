@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "status": "partial",
+  "note_id": "69301044000000001b0318ed",
+  "source_count": 6,
+  "clean_count": 8,
+  "lock_preview_count": 8,
+  "home_preview_count": 8,
+  "style_anchor": "Source 02 (portrait art, 1080x1440) is the only clean art reference; 01/03/04/05/06 are device mockups of the same art.",
+  "lively_note": "Two LIVE items (02, 03) are animated in the app; only their cover frames are downloadable.",
+  "ui": "Deterministic illustrative lock and home previews; not device screenshots.",
+  "sources": [
+    {
+      "file": "01-下载原图/01.png",
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "bytes": 1424674,
+      "sha256": "3788ad7eefb0e3068853aeb6aecca49a58d4763b354735f164e44bf8cf1169a9"
+    },
+    {
+      "file": "01-下载原图/02.jpeg",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "bytes": 281208,
+      "sha256": "1747aba4626fb2253e0d78934f6f8ffc209e8fc4780ed24dda09ab3bebf47980"
+    },
+    {
+      "file": "01-下载原图/03.jpeg",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "bytes": 205810,
+      "sha256": "298bd22cf81a927d35cc6a0479441ee995f802854ad17abb88000e54c5fffc5b"
+    },
+    {
+      "file": "01-下载原图/04.png",
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "bytes": 1438057,
+      "sha256": "3e5e6429df6981bf01a1c3b6099c395063e7ecd260c209ae48d5c86950c26681"
+    },
+    {
+      "file": "01-下载原图/05.png",
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "bytes": 1060316,
+      "sha256": "6d1a443d65ed0f1aeb37e290626ec5a069af2106f31b8c5cee895e21e4d982f3"
+    },
+    {
+      "file": "01-下载原图/06.png",
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "bytes": 1131162,
+      "sha256": "9d3654da4a02075edea89d3b99fd1aedcc6b1d2bc0a1b6ac859e2599c2a9cb7a"
+    }
+  ],
+  "clean": [
+    {
+      "file": "02-复刻无手机UI/01-玫瑰微光.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 1980122,
+      "sha256": "a577184f530adf06c14c3f30f84ff75ab76ef3f083a6bade537f29267759b50c"
+    },
+    {
+      "file": "02-复刻无手机UI/02-雨巷共伞.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 2126759,
+      "sha256": "aa4c86fb97f424cf3b6aaaa9b8b5db6ce2d1ea68a9c47073eb39e187839e37ab"
+    },
+    {
+      "file": "02-复刻无手机UI/03-窗边守夜.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 2042508,
+      "sha256": "71b14fc3fa43d52bdf958d5865c87d2d3dcd271f33be8a1172be3bc41589ef98"
+    },
+    {
+      "file": "02-复刻无手机UI/04-河灯放愿.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 2230044,
+      "sha256": "e9056391e65a487830a983905fce1b9d01835d2cc16b654c3b304ec5914c63f5"
+    },
+    {
+      "file": "02-复刻无手机UI/05-车站等车.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 2206962,
+      "sha256": "15c6bd30be0f49ab7b0266821ee48493c8de86ac4115fcb8c98894fe59dc0fbc"
+    },
+    {
+      "file": "02-复刻无手机UI/06-雪夜围巾.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 2241825,
+      "sha256": "4839afdf46240ce2318bfce276d893fb9e57701c176cb16e19f7cadd62b86325"
+    },
+    {
+      "file": "02-复刻无手机UI/07-书桌台灯.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 2163866,
+      "sha256": "1b7b7bafcba859a70a5de935dd5feedcacd15381174c2cdc0c0c6d84b8349071"
+    },
+    {
+      "file": "02-复刻无手机UI/08-花房浇花.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 2070254,
+      "sha256": "8a4d5842e60950e447d85ad3bb0f2a5fdf39cf28eaaf94db514cfc0c6295a880"
+    }
+  ],
+  "lock_previews": [
+    {
+      "file": "03-锁屏预览/01-玫瑰微光.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 1723292,
+      "sha256": "8584107b3e93f06641024ae062fb0ad698285d0884baf1dcecb21942e697a9c6"
+    },
+    {
+      "file": "03-锁屏预览/02-雨巷共伞.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 1948052,
+      "sha256": "95f173b17698dd89c56ea47a526152428f623829dd9c7060d56cb9d899ffce11"
+    },
+    {
+      "file": "03-锁屏预览/03-窗边守夜.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 1784754,
+      "sha256": "1d12ed2be9b3c68d40b2efab99dc022392c11c8f55759c54b720aacfec9910b2"
+    },
+    {
+      "file": "03-锁屏预览/04-河灯放愿.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 2020763,
+      "sha256": "90e6821136418ec408ff234239df26ac9d0099c6025bc1a662f2b2f50f67ab65"
+    },
+    {
+      "file": "03-锁屏预览/05-车站等车.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 1773707,
+      "sha256": "0f49fbf7dae95525b2d20688765afff0e3b299d7541c85fcd36fc231b5e6bec2"
+    },
+    {
+      "file": "03-锁屏预览/06-雪夜围巾.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 1919259,
+      "sha256": "4c9d81e604375c9200f577bf4def8d805b60f9a14cc3cfcf4a067b9685fff056"
+    },
+    {
+      "file": "03-锁屏预览/07-书桌台灯.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 1864350,
+      "sha256": "e245462b2d65adce42c4435235ad99ae00968ac5561a9a5f30128d28fb75c457"
+    },
+    {
+      "file": "03-锁屏预览/08-花房浇花.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 1924376,
+      "sha256": "c74217e574a9edbe4e07dbec0c0feca2ef98daf7b63dfc5f051f0e3b21b20eeb"
+    }
+  ],
+  "home_previews": [
+    {
+      "file": "04-桌面预览/01-玫瑰微光.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 157565,
+      "sha256": "8a9e67636d96f6ad1bf68ced64c15d13840dcf2ea73aefcd5f909cb671866153"
+    },
+    {
+      "file": "04-桌面预览/02-雨巷共伞.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 124444,
+      "sha256": "5a35b6ba386f010b54e33a9d26827488915aeb09c3665104ca1811e3d7f2aa81"
+    },
+    {
+      "file": "04-桌面预览/03-窗边守夜.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 139018,
+      "sha256": "006316d5afc6e9527ed82d66fd927c34e40ab1d5b02c4fccb884a4ca495cd584"
+    },
+    {
+      "file": "04-桌面预览/04-河灯放愿.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 129226,
+      "sha256": "316cb48485c39a243dd3f41498773c7d2920aca1d4d9f4cb697114903be968c5"
+    },
+    {
+      "file": "04-桌面预览/05-车站等车.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 176840,
+      "sha256": "b95e5b80c1d6688aaf39280c0ee7ebb2003046d0480c98e3f1a9ef5196172607"
+    },
+    {
+      "file": "04-桌面预览/06-雪夜围巾.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 144002,
+      "sha256": "5b34465b3ab3811094ae2946e235ee196677f27be23022558b8da49b831a8a58"
+    },
+    {
+      "file": "04-桌面预览/07-书桌台灯.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 153832,
+      "sha256": "805863409970ad42e5d62feb3827c3e56e39835ebd7c94faeaa93dd1eae96531"
+    },
+    {
+      "file": "04-桌面预览/08-花房浇花.png",
+      "dimensions": [
+        768,
+        1376
+      ],
+      "bytes": 129370,
+      "sha256": "9d941028e00d06991251bbfee79151fff9cf7c713f99cfdf67bd89485d1eadd5"
+    }
+  ],
+  "sheets": [
+    {
+      "file": "05-说明与验收/下载原图总览.jpg",
+      "dimensions": [
+        980,
+        952
+      ],
+      "bytes": 163493,
+      "sha256": "1957af8aa96572b3daec66bb5d267452283220f0592789a48936b1c38e9ce931"
+    },
+    {
+      "file": "05-说明与验收/无UI总览.jpg",
+      "dimensions": [
+        1170,
+        952
+      ],
+      "bytes": 258508,
+      "sha256": "b48394afd869d6a093a65c76a517f3c8030a4c17d2170a35801d063d8d2c0fe7"
+    },
+    {
+      "file": "05-说明与验收/桌面预览总览.jpg",
+      "dimensions": [
+        1170,
+        952
+      ],
+      "bytes": 117516,
+      "sha256": "1d5c345b16d3c0d12a5a088176193ef41d64192f14b15c6fba4fea836623f67c"
+    },
+    {
+      "file": "05-说明与验收/锁屏预览总览.jpg",
+      "dimensions": [
+        1170,
+        952
+      ],
+      "bytes": 272300,
+      "sha256": "bec46f154bdb2051cd55a22870da972f0d1221a31f3f64c93c3663ef85520018"
+    }
+  ]
+}
