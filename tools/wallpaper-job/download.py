@@ -1,4 +1,5 @@
 """Bounded, auditable download of the seven public note images. No cookies needed."""
+import argparse
 import hashlib
 import io
 import json
@@ -75,4 +76,8 @@ def main():
 
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--root', type=Path, default=ROOT, help='Delivery folder')
+    args = parser.parse_args()
+    ROOT = args.root
     main()
