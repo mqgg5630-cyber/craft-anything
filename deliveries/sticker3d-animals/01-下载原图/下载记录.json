@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "note_id": "6adebb71000000001800854e",
+  "title": "谁懂啊！！这几张3D立体壁纸也太有感觉了吧",
+  "author": "蜡笔小心",
+  "share_url": "https://xhslink.cn/o/3yBZRAgYSxH",
+  "source_caveat": "Public CDN response, not independently verified as author master.",
+  "images": [
+    {
+      "file": "01.png",
+      "width": 941,
+      "height": 1671,
+      "bytes": 2908385,
+      "sha256": "06020d165246db5ff2d8f139d1d365a25b47267abb93cb55c75c599dc0a0f962",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326p6ijcakqfg5p1303kkicij6n0pj7o"
+    },
+    {
+      "file": "02.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 2751492,
+      "sha256": "16206059f7c7c91117694100e7af4dfc54ada32dda1913c92bb0cc3d1da70026",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326p6ijcakqe05p1303kkicijlll77m8"
+    },
+    {
+      "file": "03.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 2995258,
+      "sha256": "0b97a21c1d723e9d3a56b6bb4e2f9d97456a7dbb91f6699874d205a67f8bba97",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326p6ijcakqeg5p1303kkicijtk952kg"
+    },
+    {
+      "file": "04.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 3005649,
+      "sha256": "c2ba3bbc72a60186d80d21704a503aa801acdb0a92367a75c08ca65a61ea770a",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326p6ijcakqf05p1303kkicijubgp5k0"
+    }
+  ]
+}
