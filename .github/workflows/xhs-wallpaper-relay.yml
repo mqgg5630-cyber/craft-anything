@@ -1,0 +1,88 @@
+name: Private XHS image relay
+
+on:
+  push:
+    paths:
+      - '.github/workflows/xhs-wallpaper-relay.yml'
+      - 'tools/xhs-wallpaper/request.enc'
+      - 'tools/xhs-wallpaper/relay.py'
+      - 'tools/xhs-wallpaper/result-public.pem'
+  workflow_dispatch:
+    inputs:
+      bootstrap:
+        description: 'Create/refresh the runner-side relay key'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: xhs-wallpaper-relay-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - uses: actions/cache@v4
+        with:
+          path: .relay/runner-private.pem
+          key: xhs-wallpaper-relay-v1-${{ github.ref_name }}
+
+      - name: Bootstrap runner key
+        id: bootstrap
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p .relay
+          if [ ! -s .relay/runner-private.pem ]; then
+            openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 \
+              -out .relay/runner-private.pem 2>/dev/null
+            chmod 600 .relay/runner-private.pem
+          fi
+          openssl pkey -in .relay/runner-private.pem -pubout \
+            -out tools/xhs-wallpaper/runner-public.pem
+          if ! cmp -s tools/xhs-wallpaper/runner-public.pem <(git show HEAD:tools/xhs-wallpaper/runner-public.pem 2>/dev/null); then
+            echo 'key_changed=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'key_changed=false' >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Install relay dependencies
+        if: hashFiles('tools/xhs-wallpaper/request.enc') != ''
+        run: python -m pip install --disable-pip-version-check --quiet requests pillow cryptography
+
+      - name: Fetch and encrypt note images
+        if: hashFiles('tools/xhs-wallpaper/request.enc') != ''
+        env:
+          XHS_RELAY_PRIVATE_KEY: .relay/runner-private.pem
+        run: python tools/xhs-wallpaper/relay.py fetch
+
+      - name: Commit only encrypted output
+        if: steps.bootstrap.outputs.key_changed == 'true' || hashFiles('tools/xhs-wallpaper/request.enc') != ''
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'wallpaper-relay[bot]'
+          git config user.email 'wallpaper-relay[bot]@users.noreply.github.com'
+          git add -f tools/xhs-wallpaper/runner-public.pem
+          if [ -d tools/xhs-wallpaper/relay-output ]; then
+            git add -f tools/xhs-wallpaper/relay-output
+          fi
+          if [ -e tools/xhs-wallpaper/request.enc ]; then
+            git rm -f tools/xhs-wallpaper/request.enc
+          fi
+          if git diff --cached --quiet; then
+            echo 'No relay output to commit.'
+            exit 0
+          fi
+          git commit -m 'chore: publish encrypted wallpaper relay payload'
+          git push origin "HEAD:${GITHUB_REF_NAME}"

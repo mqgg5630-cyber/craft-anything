@@ -3,6 +3,7 @@ screenshots/
 plan/
 plans/
 /target
+.venv/
 /log/
 corpus/
 /dist/
@@ -11,6 +12,7 @@ corpus/
 # Secrets and local settings (`cargo xtask secrets` refuses them too)
 .env
 .env.*
+.relay/
 *.pem
 *.p12
 *.pfx
