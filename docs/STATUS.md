@@ -337,3 +337,7 @@ their immediate model directory as a task hint, with either path separator. Name
 publisher prefixes and unrelated words are not classified by arbitrary ancestor directories.
 Regression tests cover mixed model lists and servers listing only specialised models through
 the local discovery API. Classification remains a name heuristic; it does not probe model capabilities.
+
+## Requested wallpaper delivery (2026-11-16)
+
+One job completed outside the native app: seven public CDN source PNGs (844×1872), ten image-conditioned AI wallpapers (688×1536), and ten deterministic phone UI overlays, in separate delivery folders. Eight Python regression tests pass; source hashes and ZIP CRC verified. Workflow run: https://github.com/mqgg5630-cyber/craft-anything/actions/runs/43793691857. This is not a general-purpose in-app download/generation feature; author master-file provenance and real-device display were not verified. See `tools/wallpaper-job/README.md`.

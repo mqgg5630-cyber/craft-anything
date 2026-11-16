@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "source_count": 7,
+  "clean_count": 10,
+  "phone_preview_count": 10,
+  "generation": "Ten independent image-conditioned AI generations; native 688x1536, not upscaled.",
+  "ui": "Deterministic illustrative lock-screen overlay, not a device screenshot.",
+  "sources": [
+    {
+      "file": "01-下载原图/01.png",
+      "dimensions": [
+        844,
+        1872
+      ],
+      "bytes": 2155163,
+      "sha256": "5b1b43f60a3af418ec9559503d7e338665a028e813c63e02bc144a42725d3a25"
+    },
+    {
+      "file": "01-下载原图/02.png",
+      "dimensions": [
+        844,
+        1872
+      ],
+      "bytes": 2215984,
+      "sha256": "575458a8e17dac66b6b1bb6cded9483fe9c6114d58251c27e6b5201d266fdd45"
+    },
+    {
+      "file": "01-下载原图/03.png",
+      "dimensions": [
+        844,
+        1872
+      ],
+      "bytes": 2212397,
+      "sha256": "30c6231bd5a0d2329049a63fff978d5ced81b5596f89432c5a34e4e3bc0f9f8c"
+    },
+    {
+      "file": "01-下载原图/04.png",
+      "dimensions": [
+        844,
+        1872
+      ],
+      "bytes": 2240372,
+      "sha256": "2bcd690e712372df899486f37267989a0ee2f57a4fac6dacf7f0bc6953d430db"
+    },
+    {
+      "file": "01-下载原图/05.png",
+      "dimensions": [
+        844,
+        1872
+      ],
+      "bytes": 2261548,
+      "sha256": "a8a71b0e4d11647f58e61ddb0073495cb0655a66d0bca1bddeec8e71d7e5ffe2"
+    },
+    {
+      "file": "01-下载原图/06.png",
+      "dimensions": [
+        844,
+        1872
+      ],
+      "bytes": 2231805,
+      "sha256": "ed34af172e7738dee87269082a0ffd83a5817c46a49438bd156e879c546040d1"
+    },
+    {
+      "file": "01-下载原图/07.png",
+      "dimensions": [
+        844,
+        1872
+      ],
+      "bytes": 2338475,
+      "sha256": "6b203759dc233d87461c4f8c781412b1f79f667d3bf18d87248834c1dae90341"
+    }
+  ],
+  "pairs": [
+    {
+      "number": 1,
+      "mode": "reference_redraw",
+      "reference_numbers": [
+        1
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/01-观星露营.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1511040,
+        "sha256": "10971a9119ab770ddc96cc81ea8a8901174086f471c717b101c2b11e6b402db9"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/01-观星露营.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1397881,
+        "sha256": "58ce45cd45c8b2bd877fed13e5081fdc71f15e8f2ed47db438cedea6b6ec371e"
+      }
+    },
+    {
+      "number": 2,
+      "mode": "reference_redraw",
+      "reference_numbers": [
+        2
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/02-星环漫步.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1637427,
+        "sha256": "bfea3dfac01bbee6966f14f72e00f2c69b3bd07404870a96ec800f306043cb21"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/02-星环漫步.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1362152,
+        "sha256": "309614de0c43d5d2ba1cf4b0ba3ad44ea9c77b34fe038a688001dc80cb886111"
+      }
+    },
+    {
+      "number": 3,
+      "mode": "reference_redraw",
+      "reference_numbers": [
+        3
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/03-月牙好梦.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1554048,
+        "sha256": "03b2afc23e9cbe31ba529751b4654ee62b5e80d6afa81322511cef53a22086cb"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/03-月牙好梦.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1328439,
+        "sha256": "448ef1702acc18b858969cc7f6cdf8c17f66bedf94a9a98e64f6196ea5470483"
+      }
+    },
+    {
+      "number": 4,
+      "mode": "reference_redraw",
+      "reference_numbers": [
+        4
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/04-云端故事书.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1640215,
+        "sha256": "38349aaf8b9b480c09605120a7e5bc6738cb8d9aa90d7ad9a53cfb7b9126d6ca"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/04-云端故事书.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1396902,
+        "sha256": "5e0afcc6bbbb2b69201094959f2a4abf88fc09ced1d53693b8e84f06b7216004"
+      }
+    },
+    {
+      "number": 5,
+      "mode": "reference_redraw",
+      "reference_numbers": [
+        5
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/05-银河滑梯.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1576018,
+        "sha256": "41b523181aee30c2f12ffbeccba6f736940ca4b701fe44c6adc79032a62a1d5f"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/05-银河滑梯.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1362692,
+        "sha256": "9d8d17c2cf1e14373fa8369a30b7bff06df50ba987bd6d10cb9dad2409cd4a89"
+      }
+    },
+    {
+      "number": 6,
+      "mode": "reference_redraw",
+      "reference_numbers": [
+        6
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/06-云海纸船.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1619868,
+        "sha256": "a3e1120649a62fc77717e455f8f56e5918405aa037d762982d3730b4c157325c"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/06-云海纸船.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1359965,
+        "sha256": "b6df769c25e457e91149e75c7e9719da2d13bdb55cb153fbdd4872be9816e512"
+      }
+    },
+    {
+      "number": 7,
+      "mode": "reference_redraw",
+      "reference_numbers": [
+        7
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/07-月亮花园.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1656463,
+        "sha256": "d68e64ef08270d5e8a0ce4d9067f6d2d236fe4399ce8e4c15c3a541e491ee1b4"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/07-月亮花园.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1439906,
+        "sha256": "0de020d041f43f0ed52d0875fd4f3495d336795ce2b5185104d7e40419c6fe1c"
+      }
+    },
+    {
+      "number": 8,
+      "mode": "new_scene_same_series",
+      "reference_numbers": [
+        1,
+        6
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/08-星空热气球.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1410097,
+        "sha256": "fca4dd7cacb9f25d32da416ab23af3e56b5e9fc72523df3d3036dfa71b93d230"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/08-星空热气球.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1245142,
+        "sha256": "20f36231c45d3dd450bcc7e1a95e30ab6ea5aafa7330d615f2c35edad9309fc9"
+      }
+    },
+    {
+      "number": 9,
+      "mode": "new_scene_same_series",
+      "reference_numbers": [
+        2,
+        4
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/09-云端晚安列车.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1623393,
+        "sha256": "150ed843b8ca28bf43f3cf0f1023b526b599868340012844cf37bc855b972217"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/09-云端晚安列车.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1373969,
+        "sha256": "8b2b9f89a0e9d8f7cdbad2bffe0c8d46a9a63de7a12f1598e55c0dbeee8267f9"
+      }
+    },
+    {
+      "number": 10,
+      "mode": "new_scene_same_series",
+      "reference_numbers": [
+        3,
+        7
+      ],
+      "clean": {
+        "file": "02-复刻无手机UI/10-银河垂钓.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1437732,
+        "sha256": "cc5d1fd528201d7fa4c390670ea6967d59ce661c84f337db5fba10f69655adbc"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/10-银河垂钓.png",
+        "dimensions": [
+          688,
+          1536
+        ],
+        "bytes": 1271500,
+        "sha256": "049378fc85b75d6176dfd72bde4c7ab2dc5a785b3a85b4432552408a877a765b"
+      }
+    }
+  ]
+}

@@ -1,38 +1,37 @@
-# Requested wallpaper delivery — blocked before download
+# Wallpaper delivery helper
 
-Source: https://xhslink.cn/o/AgiCwSCgdwL
+Completed 2026-11-16 for https://xhslink.cn/o/AgiCwSCgdwL (note `6ad631d1000000002803bf27`).
 
-Title: 奶fufu淡蓝手绘｜氛围感手机壁纸
+## Actual result
 
-Note ID: `6ad631d1000000002803bf27`. Public page lists seven images.
+- Seven public CDN PNG images downloaded unchanged, each 844×1872, with SHA-256, byte size and source URL.
+- Ten separate image-conditioned AI generations, 688×1536 native output, with no phone UI. First seven are reference redraws; last three are clearly marked new scenes.
+- Ten matching deterministic lock-screen overlays in separate files. These are illustrative previews, not real device screenshots.
+- Three contact sheets, a versioned validation manifest, and a folder-preserving ZIP archive.
+- Eight offline tests pass; archive CRC check passes and all downloaded-source hashes match.
 
-## Verified on 2026-11-16
+Deliverables: `deliveries/blue-kitty/` and `deliveries/奶fufu淡蓝壁纸-完整交付.zip`.
 
-- Resolved the share URL and extracted seven distinct public image tokens.
-- Inspected the file trees of all 15 branches of the user-provided reference repository. No source code or assets were copied.
-- Direct CDN access fails in the restricted sandbox.
-- GitHub rejected a push containing a new Actions workflow because the current GitHub App lacks `workflows` permission. No remote workflow was installed or executed.
-- **Zero source files downloaded; zero generated wallpapers; zero UI previews. This is not a completed delivery.**
+## Download
 
-`download.py` is an original, job-specific downloader, not a general note parser or an integrated application tool. It tries three public CDN variants per image, validates decoded images, chooses the largest available pixel dimensions (then byte size), preserves response bytes, and records dimensions, byte sizes and SHA-256 values. Limits: 12 MiB per response, 75 MiB per job, 35 seconds per request, seven fixed image tokens. It does not authenticate or bypass private access. Public CDN files cannot be guaranteed to be the author's master files. The author notes that master files are shared separately in a group.
+`download.py` is an original job-specific downloader, not a general note parser or an integrated application tool. It tries three public CDN variants per image, validates decoded images, chooses the largest available pixel dimensions (then byte size), preserves response bytes, and records dimensions, byte sizes and SHA-256 values. Limits: 12 MiB per response, 75 MiB per job, 35 seconds per request, seven fixed image tokens. No cookies or credentials are used. Public CDN files cannot be guaranteed to be the author's master files.
 
-## Resume with network access
+The first attempt was blocked by missing GitHub workflow permission. After the user restored permission, `.github/workflows/wallpaper-download.yml` ran successfully on the existing session branch and returned the downloaded files to that same branch:
+https://github.com/mqgg5630-cyber/craft-anything/actions/runs/43793691857
 
-1. Install Python 3.12 and `Pillow==11.3.0` in a virtual environment.
-2. On a machine with CDN access: `python tools/wallpaper-job/download.py` from the repository root.
-3. Alternatively, after the GitHub connection has permission to write workflows, install `workflow.yml.example` as `.github/workflows/wallpaper-download.yml` and push on the existing session branch. The workflow returns the downloaded files to that same branch. It intentionally contains no cookies or credentials.
-4. Inspect every downloaded image and `下载记录.json` before creating image-conditioned prompts. Do not generate from the title alone and describe the output as an image-based recreation.
-5. Generate ten independent clean images, keeping the source references and prompts recorded. Add phone UI as a separate deterministic overlay, never as part of the clean image prompt.
-6. Validate counts and images and package these distinct folders:
+`workflow.yml.example` retains an installation template. The active workflow triggers only on downloader/workflow changes on the session branch, not on edits to output images.
 
-```text
-blue-kitty/
-  01-下载原图/           # seven unchanged downloaded files + download record
-  02-复刻无手机UI/       # ten independently generated images
-  03-复刻有手机UI/       # ten matching overlays
-  04-说明与验收/         # provenance, generation prompts, dimensions, counts
+## Rebuild overlays and archive
+
+```sh
+python -m venv .venv
+.venv/bin/pip install Pillow==11.3.0
+.venv/bin/python -m unittest discover -s tools/wallpaper-job -p 'test_*.py'
+.venv/bin/python tools/wallpaper-job/package.py
 ```
 
-The generation, overlay and packaging steps have not been implemented or run yet. Third-party character artwork should not be represented as owned original IP; label generated results as AI-generated.
+The overlay renderer currently uses the system DejaVu Sans font at the path declared in `package.py` (Linux); set that constant for other systems. The renderer never modifies clean wallpapers. It verifies source hashes, exact output counts, image decodability, source immutability and archive integrity. It preserves model-native clean output rather than upscaling it.
 
-Run offline downloader regression tests with `python -m unittest discover -s tools/wallpaper-job -p 'test_*.py'`.
+The ten clean generations were performed with the conversation's image tool after inspecting the seven downloaded source files. Their reference mapping and scene directions are documented in the delivery. They are not generated by `package.py`; a fresh generation requires an image-generation provider. This task completes one actual delivery, not a new general-purpose unattended app feature.
+
+All 15 reference-repository branch trees were inspected. No reference source code or assets were copied into this implementation. Respect third-party artwork and character rights; mark publicly shared outputs as AI-generated.
