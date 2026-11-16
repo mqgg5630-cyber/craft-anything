@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "note_id": "6af97d2600000000240306f9",
+  "title": "261127",
+  "author": "Cppp壁纸",
+  "share_url": "https://xhslink.cn/o/gdCTkloAC6",
+  "source_caveat": "Public CDN response, not independently verified as author master.",
+  "images": [
+    {
+      "file": "01.jpeg",
+      "width": 1116,
+      "height": 3672,
+      "bytes": 1818171,
+      "sha256": "3a5e834bcd6a4888e5bd76f246640618690bf83ee435a7a1c43a8998fd189981",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0327jao89a7g2g5pjd5dehotguk1o5u7g"
+    },
+    {
+      "file": "02.png",
+      "width": 852,
+      "height": 1846,
+      "bytes": 3420338,
+      "sha256": "0de87b043562ef1a43d854ee96e044ac97067d4f150fc05721b770fe93822780",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0327jao89a7g005pjd5dehotgu5j97mi8"
+    },
+    {
+      "file": "03.png",
+      "width": 852,
+      "height": 1846,
+      "bytes": 3467573,
+      "sha256": "228492c639cd2583bf42ffac444df9498bb3d777fba62f7c60d7a8add5dfde47",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0327jao89a7g0g5pjd5dehotgur1k5n6o"
+    },
+    {
+      "file": "04.png",
+      "width": 852,
+      "height": 1846,
+      "bytes": 2892892,
+      "sha256": "00998909b839a4c524c328673a86277427f731089384adc2abe831d7af47c425",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0327jao89a7g105pjd5dehotgursc2ha8"
+    },
+    {
+      "file": "05.png",
+      "width": 852,
+      "height": 1846,
+      "bytes": 3126244,
+      "sha256": "d17e54bf35dd801a8d39deb3bce4c09d3117be52e91588c73dc1169bd13b20ad",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0327jao89a7g1g5pjd5dehotgu5pp6ab0"
+    },
+    {
+      "file": "06.png",
+      "width": 852,
+      "height": 1846,
+      "bytes": 3287133,
+      "sha256": "7a2796cf413081aa51b9c768d639f78911b96d3ae343c8947b25ce65f81042b9",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0327jao89a7g205pjd5dehotgug4c4apg"
+    }
+  ]
+}
