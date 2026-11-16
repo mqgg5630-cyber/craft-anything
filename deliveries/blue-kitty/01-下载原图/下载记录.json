@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "note_id": "6ad631d1000000002803bf27",
+  "title": "奶fufu淡蓝手绘｜氛围感手机壁纸",
+  "share_url": "https://xhslink.cn/o/AgiCwSCgdwL",
+  "source_caveat": "Public CDN files; not independently verified as author master files.",
+  "images": [
+    {
+      "file": "01.png",
+      "width": 844,
+      "height": 1872,
+      "bytes": 2155163,
+      "sha256": "5b1b43f60a3af418ec9559503d7e338665a028e813c63e02bc144a42725d3a25",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326grq9sckqh05nqoser0bki2bre5sm8"
+    },
+    {
+      "file": "02.png",
+      "width": 844,
+      "height": 1872,
+      "bytes": 2215984,
+      "sha256": "575458a8e17dac66b6b1bb6cded9483fe9c6114d58251c27e6b5201d266fdd45",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326grq9sckqe05nqoser0bki2tmq0oo0"
+    },
+    {
+      "file": "03.png",
+      "width": 844,
+      "height": 1872,
+      "bytes": 2212397,
+      "sha256": "30c6231bd5a0d2329049a63fff978d5ced81b5596f89432c5a34e4e3bc0f9f8c",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326grq9sckqeg5nqoser0bki2peegos0"
+    },
+    {
+      "file": "04.png",
+      "width": 844,
+      "height": 1872,
+      "bytes": 2240372,
+      "sha256": "2bcd690e712372df899486f37267989a0ee2f57a4fac6dacf7f0bc6953d430db",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326grq9sckqf05nqoser0bki26fgh3r0"
+    },
+    {
+      "file": "05.png",
+      "width": 844,
+      "height": 1872,
+      "bytes": 2261548,
+      "sha256": "a8a71b0e4d11647f58e61ddb0073495cb0655a66d0bca1bddeec8e71d7e5ffe2",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326grq9sckqfg5nqoser0bki2lm7o5sg"
+    },
+    {
+      "file": "06.png",
+      "width": 844,
+      "height": 1872,
+      "bytes": 2231805,
+      "sha256": "ed34af172e7738dee87269082a0ffd83a5817c46a49438bd156e879c546040d1",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326grq9sckqg05nqoser0bki200ublqg"
+    },
+    {
+      "file": "07.png",
+      "width": 844,
+      "height": 1872,
+      "bytes": 2338475,
+      "sha256": "6b203759dc233d87461c4f8c781412b1f79f667d3bf18d87248834c1dae90341",
+      "source_url": "https://sns-img-bd.xhscdn.com/1040g2sg326grq9sckqgg5nqoser0bki2i78i8g0"
+    }
+  ]
+}
