@@ -28,6 +28,16 @@ a successful HTTP response alone is not counted as a successful download.
 Generated wallpaper artwork is deliberately kept in a separate results folder. The UI preview is
 a deterministic derivative of each clean artwork, never baked into the wallpaper image itself.
 
+After placing exactly ten generated images in an artwork folder, create both output variants with:
+
+```sh
+python tools/xhs-wallpaper/render_set.py /path/to/art /path/to/02-结果
+```
+
+This produces 10 portrait PNG wallpapers in `无手机UI/`, 10 corresponding JPG lock-screen
+previews in `手机UI预览/`, and a versioned `manifest.json`. The default preview date/time can be
+overridden using `--date` and `--time`.
+
 ## Local checks
 
 ```sh

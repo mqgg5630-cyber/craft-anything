@@ -4,6 +4,7 @@ plan/
 plans/
 /target
 .venv/
+__pycache__/
 /log/
 corpus/
 /dist/
