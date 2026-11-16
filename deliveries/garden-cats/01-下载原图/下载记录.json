@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "note_id": "6afac7bc000000002a03b9b3",
+  "title": "✨蝴蝶山的猫猫屋🐱",
+  "author": "年糕和他的蝴蝶结🎀",
+  "share_url": "https://xhslink.cn/o/1zMCJCEvezY",
+  "source_caveat": "Public CDN response, not independently verified as author master.",
+  "images": [
+    {
+      "file": "01.webp",
+      "width": 1080,
+      "height": 1443,
+      "bytes": 378366,
+      "sha256": "da298c545c53485b758350fe16a78c4a019040f518915b4c29b5b02a7c7b60cf",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611161712/5c44af708054c779f4229dfd25b6abad/notes_pre_post/1040g3k8327kj09s0ngag4a367e5fgep72dbph1g!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "02.webp",
+      "width": 1080,
+      "height": 1443,
+      "bytes": 372320,
+      "sha256": "b24e4cc90de476c52c735327e510a74c0629810ef05dd1f370618ee8512038d3",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611161712/d7cbb255090e2bb2c20f314c888cae3e/notes_pre_post/1040g3k8327kj09s0ng904a367e5fgep769qpveo!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "03.png",
+      "width": 1084,
+      "height": 1451,
+      "bytes": 3353013,
+      "sha256": "f877e8dbe33c8a2bf92c87403f87baf5a44c2e8cb93520032e75ae3df3158cb6",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k8327kj09s0ng9g4a367e5fgep7h4al0og"
+    },
+    {
+      "file": "04.webp",
+      "width": 1080,
+      "height": 1443,
+      "bytes": 335180,
+      "sha256": "86191ba862bf6ff61c74a7cf01b5adbe33a0ea2e84ddf287ecec0e586770af13",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611161712/bd77323aa412ec8763b047c3f8057ac6/notes_pre_post/1040g3k8327kj09s0nga04a367e5fgep7so7at8o!nd_dft_wlteh_webp_3"
+    }
+  ],
+  "missing": []
+}
