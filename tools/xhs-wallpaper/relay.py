@@ -84,7 +84,7 @@ def image_candidates(display_url: str) -> list[str]:
     token = image_token(display_url)
     if not token:
         return [display_url]
-    candidates = [display_url]
+    candidates: list[str] = []
     raw_tokens = [token]
     if "/" not in token:
         raw_tokens.extend((f"spectrum/{token}", f"notes_pre_post/{token}"))
@@ -95,6 +95,7 @@ def image_candidates(display_url: str) -> list[str]:
             f"https://ci.xiaohongshu.com/{item}?imageView2/format/png",
             f"https://ci.xiaohongshu.com/{item}?imageView2/format/jpeg",
         ))
+    candidates.append(display_url)
     return list(dict.fromkeys(candidates))
 
 
@@ -166,14 +167,14 @@ def safe_title(page: str) -> str:
     return "小红书笔记"
 
 
-def fetch_bundle(note_url: str, output: Path) -> int:
+def fetch_bundle(note_url: str, output: Path, provided_urls: list[str] | None = None) -> int:
     global CURRENT_PHASE
     if not note_url.startswith(("https://www.xiaohongshu.com/", "https://xhslink.com/", "https://xhslink.cn/")):
         raise ValueError("unsupported Xiaohongshu URL host")
     CURRENT_PHASE = "fetch-note-page"
     page, final_url, status = get_note_html(note_url)
     CURRENT_PHASE = "parse-note-images"
-    urls = image_urls_from_html(page)
+    urls = provided_urls or image_urls_from_html(page)
     if not urls:
         raise RuntimeError("note page did not expose an imageList")
     output.mkdir(parents=True, exist_ok=True)
@@ -210,19 +211,47 @@ def fetch_bundle(note_url: str, output: Path) -> int:
     return success
 
 
-def decrypt_request() -> str:
+def decrypt_request() -> tuple[str, list[str]]:
     private_path = Path(os.environ.get("XHS_RELAY_PRIVATE_KEY", ".relay/runner-private.pem"))
-    if not REQUEST.is_file() or not private_path.is_file():
-        raise RuntimeError("relay is not bootstrapped or request is absent")
+    wrapped_path = REQUEST.with_name("request.key.enc")
+    if not REQUEST.is_file() or not wrapped_path.is_file() or not private_path.is_file():
+        raise RuntimeError("relay is not bootstrapped or encrypted request is incomplete")
     private = serialization.load_pem_private_key(private_path.read_bytes(), password=None)
-    plaintext = private.decrypt(
-        REQUEST.read_bytes(),
+    key = private.decrypt(
+        wrapped_path.read_bytes(),
         padding.OAEP(mgf=padding.MGF1(algorithm=hashes.SHA256()), algorithm=hashes.SHA256(), label=None),
     )
-    note_url = plaintext.decode("utf-8").strip()
-    if len(note_url) > 1200 or not note_url.startswith(("https://www.xiaohongshu.com/", "https://xhslink.com/", "https://xhslink.cn/")):
-        raise ValueError("encrypted request did not contain a supported link")
-    return note_url
+    packed = REQUEST.read_bytes()
+    plaintext = AESGCM(key).decrypt(packed[:12], packed[12:], b"xhs-wallpaper-request-v1")
+    payload = json.loads(plaintext)
+    note_url = str(payload.get("note_url", ""))
+    urls = payload.get("image_urls", [])
+    allowed_image_hosts = ("rednotecdn.com", "xhscdn.com", "xiaohongshu.com")
+    valid_images = isinstance(urls, list) and len(urls) <= 30 and all(
+        isinstance(item, str)
+        and urlparse(item).scheme == "https"
+        and any(urlparse(item).hostname == host or (urlparse(item).hostname or "").endswith("." + host)
+                for host in allowed_image_hosts)
+        for item in urls
+    )
+    if (len(note_url) > 1200 or not note_url.startswith(("https://www.xiaohongshu.com/", "https://xhslink.com/", "https://xhslink.cn/"))
+            or not valid_images):
+        raise ValueError("encrypted request did not contain a supported note and image list")
+    return note_url, urls
+
+
+def encrypt_request(payload: bytes) -> None:
+    request = json.loads(payload)
+    public = serialization.load_pem_public_key(RUNNER_PUBLIC.read_bytes())
+    key = os.urandom(32)
+    nonce = os.urandom(12)
+    encrypted = nonce + AESGCM(key).encrypt(nonce, json.dumps(request).encode("utf-8"), b"xhs-wallpaper-request-v1")
+    wrapped = public.encrypt(
+        key,
+        padding.OAEP(mgf=padding.MGF1(algorithm=hashes.SHA256()), algorithm=hashes.SHA256(), label=None),
+    )
+    REQUEST.write_bytes(encrypted)
+    REQUEST.with_name("request.key.enc").write_bytes(wrapped)
 
 
 def encrypt_bundle(output_dir: Path, destination: Path) -> None:
@@ -247,15 +276,19 @@ def encrypt_bundle(output_dir: Path, destination: Path) -> None:
 def main() -> int:
     global CURRENT_PHASE
     mode = sys.argv[1] if len(sys.argv) > 1 else "fetch"
+    if mode == "encrypt-request":
+        payload = Path(sys.argv[2]).read_bytes() if len(sys.argv) > 2 else sys.stdin.buffer.read()
+        encrypt_request(payload)
+        return 0
     if mode == "fetch":
         CURRENT_PHASE = "decrypt-request"
-        note_url = decrypt_request()
+        note_url, requested_images = decrypt_request()
         temp = Path(os.environ.get("RUNNER_TEMP", "/tmp")) / "xhs-wallpaper-source"
         if temp.exists():
             for item in temp.iterdir():
                 if item.is_file():
                     item.unlink()
-        count = fetch_bundle(note_url, temp)
+        count = fetch_bundle(note_url, temp, requested_images)
         metadata = json.loads((temp / "note.json").read_text(encoding="utf-8"))
         expected = int(metadata.get("source_image_count", count))
         run_id = os.environ.get("GITHUB_RUN_ID", "local")

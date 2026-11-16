@@ -5,11 +5,12 @@ or downloaded originals in the public repository. It runs the download step on a
 runner (which can reach XHS), then returns only an encrypted archive to the active branch. The
 response private key stays outside the repository.
 
-The note link is encrypted locally to the runner's public key before it is pushed. The runner
-public key is generated on the first workflow run and published as `runner-public.pem`; its
-private half is held in the runner's branch-scoped Actions cache. The response archive uses a
-random AES-256-GCM key, which is separately wrapped to `result-public.pem`. Do not add either
-private key, plaintext request, or extracted images to Git.
+The note link and any browser-extracted image URLs are encrypted locally with a fresh AES-256-GCM
+key; only that random key is wrapped to the runner's public key before the encrypted request is
+pushed. The runner public key is generated on the first workflow run and published as
+`runner-public.pem`; its private half is held in the runner's branch-scoped Actions cache. The
+response archive uses a separate random AES-256-GCM key, wrapped to `result-public.pem`. Do not
+add either private key, plaintext request, or extracted images to Git.
 
 The fetcher reads the note's `urlDefault`/`urlPre` image entries, tries the source CDN/original
 variants plus the signed page image, validates actual image bytes/dimensions, and writes a

@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/xhs-wallpaper-relay.yml'
       - 'tools/xhs-wallpaper/request.enc'
+      - 'tools/xhs-wallpaper/request.key.enc'
       - 'tools/xhs-wallpaper/relay.py'
       - 'tools/xhs-wallpaper/result-public.pem'
   workflow_dispatch:
@@ -83,6 +84,12 @@ jobs:
           fi
           if [ -e tools/xhs-wallpaper/request.enc ] && [ '${{ steps.fetch.outcome }}' = 'success' ]; then
             git rm -f tools/xhs-wallpaper/request.enc
+            if [ -e tools/xhs-wallpaper/request.key.enc ]; then
+              git rm -f tools/xhs-wallpaper/request.key.enc
+            fi
+            if [ -e tools/xhs-wallpaper/relay-failure.json ]; then
+              git rm -f tools/xhs-wallpaper/relay-failure.json
+            fi
           fi
           if git diff --cached --quiet; then
             echo 'No relay output to commit.'
