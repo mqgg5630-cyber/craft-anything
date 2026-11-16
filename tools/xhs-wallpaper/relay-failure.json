@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "phase": "parse-note-images",
+  "error_type": "RuntimeError",
+  "detail": "note page did not expose an imageList"
+}
