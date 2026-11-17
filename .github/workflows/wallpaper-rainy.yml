@@ -19,8 +19,7 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install Pillow==11.3.0
       - name: Download nine public slides
-        working-directory: tools/wallpaper-job
-        run: python download_rainy.py
+        run: python tools/wallpaper-job/download_rainy.py
       - name: Upload verified sources as artifact
         uses: actions/upload-artifact@v4
         with:
