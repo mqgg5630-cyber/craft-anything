@@ -1,0 +1,61 @@
+name: Pull cloud bundles onto disk
+on:
+  workflow_dispatch:
+    inputs:
+      manifest_b64:
+        description: 'base64-encoded JSON manifest (url / dest / unzip / flatten)'
+        required: true
+        type: string
+      target_paths:
+        description: 'space-separated paths to commit (defaults to deliveries)'
+        required: false
+        default: 'deliveries'
+        type: string
+permissions:
+  contents: write
+concurrency:
+  group: pull-cloud-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Materialise cloud bundles
+        env:
+          MANIFEST_B64: ${{ inputs.manifest_b64 }}
+        run: |
+          python - <<'PY' > /tmp/manifest.json
+          import base64, os
+          print(base64.b64decode(os.environ['MANIFEST_B64']).decode('utf-8'))
+          PY
+          CLOUD_MANIFEST_JSON="$(cat /tmp/manifest.json)" python tools/wallpaper-job/pull_cloud.py
+      - name: Commit on the triggering branch
+        if: always()
+        env:
+          JOB_BRANCH: ${{ github.ref_name }}
+          TARGET_PATHS: ${{ inputs.target_paths }}
+        run: |
+          git config user.name 'wallpaper-delivery[bot]'
+          git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
+          git add -- $TARGET_PATHS || true
+          if git diff --cached --quiet; then
+            echo 'Nothing new to commit'
+            exit 0
+          fi
+          git commit -m 'chore(deliveries): materialise cloud bundles onto disk'
+          for attempt in 1 2 3 4 5; do
+            git fetch origin "$JOB_BRANCH"
+            git rebase "origin/$JOB_BRANCH" || git rebase --abort
+            if git push origin "HEAD:$JOB_BRANCH"; then
+              echo "Pushed on attempt $attempt"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo 'Could not push pulled bundles' >&2
+          exit 1
