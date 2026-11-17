@@ -72,7 +72,11 @@ def handle(entry: dict) -> str:
         raise RuntimeError(f"dest escapes repo: {entry['dest']}")
     blob = download(url)
     if entry.get("unzip"):
-        with zipfile.ZipFile(io.BytesIO(blob)) as archive:
+        # Archives made on macOS/Windows often omit the UTF-8 flag, so Python
+        # falls back to cp437 and mangles CJK names. Force UTF-8 names.
+        with zipfile.ZipFile(
+            io.BytesIO(blob), metadata_encoding=entry.get("metadata_encoding", "utf-8")
+        ) as archive:
             count = safe_extract(archive, dest, bool(entry.get("flatten")))
         return f"{entry['dest']}: {len(blob)} bytes -> {count} files"
     dest.parent.mkdir(parents=True, exist_ok=True)
