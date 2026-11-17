@@ -1,16 +1,10 @@
 name: Pull cloud bundles onto disk
 on:
-  workflow_dispatch:
-    inputs:
-      manifest_b64:
-        description: 'base64-encoded JSON manifest (url / dest / unzip / flatten)'
-        required: true
-        type: string
-      target_paths:
-        description: 'space-separated paths to commit (defaults to deliveries)'
-        required: false
-        default: 'deliveries'
-        type: string
+  push:
+    branches: ['arena/77ee0396-craft-anything']
+    paths:
+      - 'tools/wallpaper-job/cloud-manifest.json'
+      - '.github/workflows/pull-cloud.yml'
 permissions:
   contents: write
 concurrency:
@@ -27,22 +21,18 @@ jobs:
           python-version: '3.12'
       - name: Materialise cloud bundles
         env:
-          MANIFEST_B64: ${{ inputs.manifest_b64 }}
+          CLOUD_MANIFEST_JSON: ''
         run: |
-          python - <<'PY' > /tmp/manifest.json
-          import base64, os
-          print(base64.b64decode(os.environ['MANIFEST_B64']).decode('utf-8'))
-          PY
-          CLOUD_MANIFEST_JSON="$(cat /tmp/manifest.json)" python tools/wallpaper-job/pull_cloud.py
+          CLOUD_MANIFEST_JSON="$(cat tools/wallpaper-job/cloud-manifest.json)" \
+            python tools/wallpaper-job/pull_cloud.py
       - name: Commit on the triggering branch
         if: always()
         env:
           JOB_BRANCH: ${{ github.ref_name }}
-          TARGET_PATHS: ${{ inputs.target_paths }}
         run: |
           git config user.name 'wallpaper-delivery[bot]'
           git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
-          git add -- $TARGET_PATHS || true
+          git add -- deliveries
           if git diff --cached --quiet; then
             echo 'Nothing new to commit'
             exit 0
