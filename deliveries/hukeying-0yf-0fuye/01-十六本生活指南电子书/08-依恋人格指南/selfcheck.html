@@ -1,0 +1,446 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>依恋模式自查 · 24 题</title>
+<style>
+:root{
+  --bg:#f7f5f1; --panel:#fffdf9; --ink:#1f1d1a; --muted:#6f6a62;
+  --line:#ded8ce; --accent:#8a4b2f; --accent-soft:#f1e4da;
+  --good:#2f6b4f; --warn:#9a5b17; --bad:#8f2f2f;
+  --radius:14px; --shadow:0 10px 30px rgba(40,30,20,.07);
+}
+@media (prefers-color-scheme: dark){
+  :root{--bg:#171513;--panel:#211e1a;--ink:#ede7dd;--muted:#a59d91;--line:#37322c;--accent:#d79a76;--accent-soft:#33251d;--good:#86c3a3;--warn:#dfae6d;--bad:#e08f8f;--shadow:0 10px 30px rgba(0,0,0,.35)}
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Noto Sans CJK SC","Microsoft YaHei",sans-serif;line-height:1.7;font-size:16px}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:920px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);z-index:10}
+.top{display:flex;align-items:center;gap:14px;padding:12px 0;font-size:13.5px}
+.top .brand{font-weight:700;font-size:16px;color:var(--ink)}
+.top nav{margin-left:auto;display:flex;gap:14px;flex-wrap:wrap}
+.top nav a{color:var(--muted)}
+.hero{padding:30px 0 8px}
+.hero h1{margin:0 0 8px;font-size:clamp(24px,4vw,36px);line-height:1.3}
+.hero p{margin:0;color:var(--muted);max-width:760px}
+.badge{display:inline-block;margin:12px 6px 0 0;font-size:12px;padding:3px 10px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.safety{background:color-mix(in srgb,var(--bad) 7%,var(--panel));border:1px solid color-mix(in srgb,var(--bad) 28%,var(--line));border-radius:12px;padding:14px 16px;margin:18px 0;font-size:14px}
+.safety strong{color:var(--bad)}
+.dim{margin:26px 0 8px}
+.dim h2{font-size:17px;margin:0 0 2px;display:flex;align-items:baseline;gap:10px}
+.dim h2 span{font-size:12px;color:var(--muted);font-weight:400}
+.dim p{margin:0 0 10px;color:var(--muted);font-size:13.5px}
+.q{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:10px 0;box-shadow:var(--shadow)}
+.q .text{display:flex;gap:10px;align-items:flex-start;margin-bottom:10px}
+.q .num{color:var(--accent);font-size:12px;font-weight:700;min-width:26px;padding-top:3px}
+.q .opts{display:flex;gap:8px;flex-wrap:wrap}
+.q label{border:1px solid var(--line);border-radius:9px;padding:5px 12px;cursor:pointer;font-size:13.5px;display:flex;align-items:center;gap:6px}
+.q label:hover{border-color:var(--accent)}
+.q input{accent-color:var(--accent)}
+.q.critical .num::after{content:"红线";display:block;font-size:9px;color:var(--bad);letter-spacing:.08em;font-weight:400}
+.actions{position:sticky;bottom:0;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);border-top:1px solid var(--line);padding:12px 0;display:flex;gap:10px;align-items:center;margin-top:24px;z-index:5}
+.actions .progress{color:var(--muted);font-size:13px}
+.actions .spacer{flex:1}
+button{font:inherit;color:inherit;border:1px solid var(--line);background:var(--panel);border-radius:10px;padding:9px 14px;cursor:pointer}
+button:hover{border-color:var(--accent);color:var(--accent)}
+button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+button.primary:hover{color:#fff;opacity:.92}
+.result{margin:24px 0 40px;border-top:1px solid var(--line);padding-top:24px}
+.score{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:14px 0 20px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+.card .big{font-size:26px;font-weight:700;line-height:1.2}
+.card .lbl{font-size:12.5px;color:var(--muted)}
+.bar{height:7px;background:var(--line);border-radius:999px;overflow:hidden;margin:8px 0 4px}
+.bar i{display:block;height:100%;background:var(--accent)}
+.dimrow{display:grid;grid-template-columns:150px 1fr 52px;gap:10px;align-items:center;font-size:13.5px;margin:8px 0}
+.dimrow .track{height:8px;background:var(--line);border-radius:999px;overflow:hidden}
+.dimrow .track i{display:block;height:100%;background:var(--accent)}
+.dimrow .val{text-align:right;color:var(--muted);font-variant-numeric:tabular-nums}
+.recs{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:18px 0}
+.recs h3{margin:0 0 8px;font-size:16px}
+.recs ul{margin:0;padding-left:20px}
+.recs li{margin:6px 0;font-size:14px}
+.recs .read{font-size:12.5px;color:var(--muted)}
+.red{border-color:color-mix(in srgb,var(--bad) 40%,var(--line));background:color-mix(in srgb,var(--bad) 7%,var(--panel))}
+.red h3{color:var(--bad)}
+.hidden{display:none}
+footer{border-top:1px solid var(--line);padding:22px 0 50px;color:var(--muted);font-size:12.5px}
+@media (max-width:640px){.dimrow{grid-template-columns:110px 1fr 44px}.q .opts{gap:6px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <span class="brand">依恋人格指南</span>
+    <nav><a href="index.html">检索</a><a href="PATTERNS.md">对话模式</a><a href="SOURCES.md">来源</a></nav>
+  </div>
+</header>
+<main class="wrap">
+  <section class="hero">
+    <h1>24 题自查：你现在的位置</h1>
+    <p id="intro"></p>
+    <span class="badge">不评分你这个人</span>
+    <span class="badge">只指向下一步</span>
+    <span class="badge">三道红线题</span>
+  </section>
+
+  <div class="safety">
+    <strong>先看风险。</strong>如果对方要求你在没看房、没见产权人的情况下先交钱，或让你签任何「租金分期」「借款」协议，先停下流程。投诉与咨询：<strong>12345</strong>（政务服务）、<strong>12315</strong>（市场监管）、<strong>12348</strong>（法律援助）；涉及诈骗、暴力、非法侵入，直接拨 <strong>110</strong>。
+  </div>
+
+  <form id="quiz"></form>
+
+  <div class="actions">
+    <span class="progress" id="progress">0 / 24 已答</span>
+    <span class="spacer"></span>
+    <button type="button" id="reset">重来</button>
+    <button type="button" class="primary" id="submit">看结果</button>
+  </div>
+
+  <section class="result hidden" id="result" aria-live="polite"></section>
+</main>
+<footer>
+  <div class="wrap">
+    <p>这本书不替代心理治疗、医疗或法律意见。自查结果只反映你此刻的选择，不是诊断。</p>
+    <p>内容 CC BY 4.0 · 代码 MIT · 对话示例为编写情境。</p>
+  </div>
+</footer>
+
+<script>
+const QUIZ = {
+  "version": "1.0.0",
+  "title": "依恋模式自查",
+  "intro": "24 道是否题，六个维度。不是测类型，是看你在哪些动作上已经有办法，哪些还只有一种反应。第 7、21、24 题是红线题，任何一题答「否」，都会先给出对应提醒。",
+  "scale": {
+    "yes": 2,
+    "unsure": 1,
+    "no": 0
+  },
+  "dimensions": [
+    {
+      "id": "aware",
+      "name": "认出模式",
+      "desc": "被忽视、被靠近、被批评时，我知不知道自己会怎么反应。"
+    },
+    {
+      "id": "anxiety",
+      "name": "焦虑型动作",
+      "desc": "我会不会用追问、连环消息来解决不安。"
+    },
+    {
+      "id": "avoid",
+      "name": "回避型动作",
+      "desc": "我会不会用消失、忙、独处来解决靠近。"
+    },
+    {
+      "id": "secure",
+      "name": "安全型练法",
+      "desc": "可预测、可沟通、可修复，我做到了几条。"
+    },
+    {
+      "id": "loop",
+      "name": "两个人的循环",
+      "desc": "我们能不能一起描述并打断那个循环。"
+    },
+    {
+      "id": "line",
+      "name": "边界与求助",
+      "desc": "暴力、控制、自伤风险，我知道该找谁。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "dim": "aware",
+      "text": "我能说出自己在被忽视时的第一个动作。",
+      "read": "2.1",
+      "hint": "行为比测试准。"
+    },
+    {
+      "id": "q2",
+      "dim": "aware",
+      "text": "我知道自己的三个触发点，并配了对策。",
+      "read": "2.2",
+      "hint": "触发点通常来自旧经验。"
+    },
+    {
+      "id": "q3",
+      "dim": "aware",
+      "text": "慌的时候我会先处理身体，再发消息。",
+      "read": "2.3",
+      "hint": "身体比想法快。"
+    },
+    {
+      "id": "q4",
+      "dim": "aware",
+      "text": "我记录过自己的行为模式，而不是只做测试。",
+      "read": "2.4",
+      "hint": "自评有盲区。"
+    },
+    {
+      "id": "q5",
+      "dim": "anxiety",
+      "text": "我能在只问一次之后停下来，而不是追问。",
+      "read": "3.1",
+      "hint": "追问会把人推远。"
+    },
+    {
+      "id": "q6",
+      "dim": "anxiety",
+      "text": "我提需求时说的是具体请求，不是「你从来」。",
+      "read": "3.2",
+      "hint": "具体请求更容易被回应。"
+    },
+    {
+      "id": "q7",
+      "dim": "anxiety",
+      "text": "我没有用自伤、威胁分手来换取关注。",
+      "read": "3.2",
+      "hint": "用伤害换关注，最后两败俱伤。",
+      "critical": true
+    },
+    {
+      "id": "q8",
+      "dim": "anxiety",
+      "text": "我能分清事实与「他不爱我了」这个故事。",
+      "read": "3.4",
+      "hint": "先核事实。"
+    },
+    {
+      "id": "q9",
+      "dim": "avoid",
+      "text": "我想撤的时候会告诉对方时间和回归点。",
+      "read": "4.2",
+      "hint": "没有回归点的沉默是消失。"
+    },
+    {
+      "id": "q10",
+      "dim": "avoid",
+      "text": "过载时我会说清「现在说不了」，而不是摔门。",
+      "read": "4.3",
+      "hint": "过载时讲不了道理。"
+    },
+    {
+      "id": "q11",
+      "dim": "avoid",
+      "text": "我能提出具体的小请求，不只做付出的一方。",
+      "read": "4.4",
+      "hint": "关系里要有「我需要你」。"
+    },
+    {
+      "id": "q12",
+      "dim": "avoid",
+      "text": "我没有用「我不需要任何人」当骄傲。",
+      "read": "4.5",
+      "hint": "独立是一种能力，不是全部。"
+    },
+    {
+      "id": "q13",
+      "dim": "secure",
+      "text": "我说过的小承诺，基本都能兑现。",
+      "read": "5.1",
+      "hint": "可预测产生安全感。"
+    },
+    {
+      "id": "q14",
+      "dim": "secure",
+      "text": "我把「没事」换成了「现在说不清」。",
+      "read": "5.2",
+      "hint": "可以少说，不要用假话。"
+    },
+    {
+      "id": "q15",
+      "dim": "secure",
+      "text": "冲突后 48 小时内我们会谈一次。",
+      "read": "5.3",
+      "hint": "修复是核心动作。"
+    },
+    {
+      "id": "q16",
+      "dim": "secure",
+      "text": "我能说出「我需要什么，我可以给什么」。",
+      "read": "5.4",
+      "hint": "双向表达才平衡。"
+    },
+    {
+      "id": "q17",
+      "dim": "loop",
+      "text": "我们能一起描述追逃循环，而不只互相指责。",
+      "read": "6.1",
+      "hint": "循环是两个人维持的。"
+    },
+    {
+      "id": "q18",
+      "dim": "loop",
+      "text": "我们有暂停词、时长与回归时间的约定。",
+      "read": "6.5",
+      "hint": "没有回归时间的暂停是冷战。"
+    },
+    {
+      "id": "q19",
+      "dim": "loop",
+      "text": "我不会把全部情绪压在一个人身上。",
+      "read": "6.4",
+      "hint": "一个人扛不住全部。"
+    },
+    {
+      "id": "q20",
+      "dim": "loop",
+      "text": "我接受「改变先从自己这一侧开始」。",
+      "read": "6.6",
+      "hint": "行为示范比说服有效。"
+    },
+    {
+      "id": "q21",
+      "dim": "line",
+      "text": "我没有为任何形式的暴力或控制找借口。",
+      "read": "7.4",
+      "hint": "暴力不是依恋风格。",
+      "critical": true
+    },
+    {
+      "id": "q22",
+      "dim": "line",
+      "text": "我不会用依恋类型给别人下诊断或定性。",
+      "read": "7.2",
+      "hint": "标签是语言，不是诊断。"
+    },
+    {
+      "id": "q23",
+      "dim": "line",
+      "text": "我知道心理援助 12356、报警 110、急救 120。",
+      "read": "7.3",
+      "hint": "这三个号码要记住。"
+    },
+    {
+      "id": "q24",
+      "dim": "line",
+      "text": "我有自伤念头时不会独处，会联系专业与身边人。",
+      "read": "7.3",
+      "hint": "这一条优先于所有技巧。",
+      "critical": true
+    }
+  ]
+};
+const $ = (s) => document.querySelector(s);
+const SCALE = QUIZ.scale;
+let answers = {};
+
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+
+function init(){
+  $("#intro").textContent = QUIZ.intro;
+  const dims = QUIZ.dimensions;
+  $("#quiz").innerHTML = dims.map(d => {
+    const qs = QUIZ.questions.filter(q => q.dim === d.id);
+    return `<section class="dim"><h2>${esc(d.name)} <span>${qs.length} 题</span></h2><p>${esc(d.desc)}</p>
+      ${qs.map(q => `
+        <div class="q ${q.critical ? "critical" : ""}" data-q="${q.id}">
+          <div class="text"><span class="num">${q.id.slice(1)}</span><span>${esc(q.text)}</span></div>
+          <div class="opts">
+            ${[["yes","是"],["unsure","不确定"],["no","否"]].map(([v,l]) =>
+              `<label><input type="radio" name="${q.id}" value="${v}">${l}</label>`).join("")}
+          </div>
+        </div>`).join("")}
+    </section>`;
+  }).join("");
+
+  document.querySelectorAll("input[type=radio]").forEach(r => {
+    r.addEventListener("change", () => {
+      answers[r.name] = r.value;
+      updateProgress();
+      $("#result").classList.add("hidden");
+    });
+  });
+  $("#progress").textContent = `0 / ${QUIZ.questions.length} 已答`;
+  $("#submit").addEventListener("click", showResult);
+  $("#reset").addEventListener("click", () => {
+    answers = {}; document.querySelectorAll("input[type=radio]").forEach(r => r.checked = false);
+    updateProgress(); $("#result").classList.add("hidden"); window.scrollTo({top:0,behavior:"smooth"});
+  });
+}
+
+function updateProgress(){
+  const n = Object.keys(answers).length;
+  $("#progress").textContent = `${n} / ${QUIZ.questions.length} 已答`;
+}
+
+function showResult(){
+  const unanswered = QUIZ.questions.filter(q => !answers[q.id]);
+  if (unanswered.length){
+    if (!confirm(`还有 ${unanswered.length} 题没答。未答按“不确定”计算，继续吗？`)) return;
+  }
+  const val = (q) => SCALE[answers[q.id] || "unsure"];
+  const dims = QUIZ.dimensions.map(d => {
+    const qs = QUIZ.questions.filter(q => q.dim === d.id);
+    const got = qs.reduce((s,x) => s + val(x), 0);
+    const max = qs.length * SCALE.yes;
+    return {...d, got, max, pct: Math.round(got / max * 100), qs};
+  });
+  const totalGot = dims.reduce((s,d)=>s+d.got,0);
+  const totalMax = dims.reduce((s,d)=>s+d.max,0);
+  const pct = Math.round(totalGot / totalMax * 100);
+
+  const critical = QUIZ.questions.filter(q => q.critical && answers[q.id] === "no");
+  const weak = dims.slice().sort((a,b) => a.pct - b.pct);
+  const todo = [];
+  weak.forEach(d => {
+    d.qs.filter(q => answers[q.id] !== "yes").forEach(q => {
+      if (!todo.find(t => t.read === q.read)) todo.push(q);
+    });
+  });
+
+  const band = pct >= 80 ? "稳" : pct >= 60 ? "有底子，也有漏点" : pct >= 40 ? "需要补结构" : "先停下签字，优先把条款弄清";
+  const bandColor = pct >= 80 ? "var(--good)" : pct >= 60 ? "var(--warn)" : "var(--bad)";
+
+  $("#result").className = "result";
+  $("#result").innerHTML = `
+    ${critical.length ? `<div class="recs red"><h3>先处理风险，不是先优化话术</h3>
+      <p>你在 ${critical.length} 道红线题上选了“否”。这比任何砍价技巧都优先：</p>
+      <ul>${critical.map(q => `<li>${esc(q.text)}<div class="read">先读 <a href="index.html#${q.read}">${q.read}</a>：${esc(q.hint)}</div></li>`).join("")}</ul>
+      <p>如果可以，告诉一个可信任的人，联系 110、12338 或 12356。不要独自对峙。</p></div>` : ""}
+
+    <h2 style="margin:20px 0 4px">你的结果</h2>
+    <div class="score">
+      <div class="card"><div class="big" style="color:${bandColor}">${pct}%</div><div class="lbl">总分 · ${esc(band)}</div><div class="bar"><i style="width:${pct}%;background:${bandColor}"></i></div></div>
+      ${weak.slice(0,2).map(d => `<div class="card"><div class="big">${d.pct}%</div><div class="lbl">${d.pct === 100 ? "满分项" : "最弱项"} · ${esc(d.name)}</div><div class="bar"><i style="width:${d.pct}%"></i></div></div>`).join("")}
+    </div>
+
+    <h3 style="font-size:16px;margin:22px 0 8px">六个维度</h3>
+    ${dims.map(d => `<div class="dimrow"><span>${esc(d.name)}</span><span class="track"><i style="width:${d.pct}%"></i></span><span class="val">${d.pct}%</span></div>`).join("")}
+
+    <div class="recs">
+      <h3>先读这几条</h3>
+      ${todo.length ? `<ul>${todo.slice(0,6).map(q => `<li>${esc(q.text)}<div class="read">读 <a href="index.html#${q.read}">${q.read}</a>：${esc(q.hint)}</div></li>`).join("")}</ul>`
+        : `<p>你在所有题上都选了“是”。这不代表这套房没问题，只代表你把该问的都问了。建议再走一遍 7.1 条的入住验房。</p>`}
+    </div>
+
+    <div class="recs">
+      <h3>接下来 7 天，只做三件事</h3>
+      <ol>
+        <li>把最弱那一维的第一个“否”改成一个具体动作，写在日历上。</li>
+        <li>找一个你信任的人，说一遍你的答案里最让你意外的那一题。</li>
+        <li>如果红线题有“否”，先把安全与求助渠道确认清楚，再谈关系。</li>
+      </ol>
+      <p class="read">这不是治疗计划。持续的痛苦、暴力、成瘾或自伤，请找专业帮助。</p>
+    </div>
+
+    <div class="actions" style="position:static;background:none;border:0;padding:0">
+      <button type="button" id="copy-result">复制结果</button>
+      <a href="index.html" style="font-size:13.5px;padding:9px 4px">去检索条目 →</a>
+    </div>
+  `;
+  $("#copy-result").addEventListener("click", () => {
+    const text = `依恋模式自查 ${pct}%\n` + dims.map(d => `${d.name}: ${d.pct}%`).join("\n") +
+      `\n优先读：${todo.slice(0,6).map(q => q.read).join("、") || "无"}`;
+    navigator.clipboard?.writeText(text).then(() => alert("已复制")).catch(() => alert(text));
+  });
+  $("#result").scrollIntoView?.({behavior:"smooth", block:"start"});
+}
+init();
+</script>
+</body>
+</html>

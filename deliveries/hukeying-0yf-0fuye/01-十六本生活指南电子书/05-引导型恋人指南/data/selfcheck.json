@@ -1,0 +1,305 @@
+{
+  "version": "1.0.0",
+  "title": "引导型恋人自查",
+  "intro": "32 道是否题。不是考试，是找下一步。选「是」「不确定」「否」，最后会按七个维度给分，并指出先读哪几条。前四题是安全题，任何一题选「否」都会先显示安全提示。",
+  "scale": {
+    "yes": 2,
+    "unsure": 1,
+    "no": 0
+  },
+  "dimensions": [
+    {
+      "id": "safety",
+      "name": "安全与底线",
+      "desc": "先确认关系里没有暴力、强制控制和隐私侵犯。"
+    },
+    {
+      "id": "autonomy",
+      "name": "自主与同意",
+      "desc": "对方有没有真实的拒绝权，你有没有替对方活。"
+    },
+    {
+      "id": "communication",
+      "name": "沟通与软启动",
+      "desc": "你能不能把一件事说清楚，而不先引爆防御。"
+    },
+    {
+      "id": "pursue",
+      "name": "追逃与空间",
+      "desc": "对方撤退时，你能不能停止加码，同时保住连接。"
+    },
+    {
+      "id": "repair",
+      "name": "冲突与修复",
+      "desc": "吵完之后，你们回不回得来。"
+    },
+    {
+      "id": "boundaries",
+      "name": "边界与生活",
+      "desc": "家人、钱、家务、隐私，有没有说清楚。"
+    },
+    {
+      "id": "healing",
+      "name": "自愈与支持",
+      "desc": "你有没有把自己也算进这段关系里。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q01",
+      "dim": "safety",
+      "critical": true,
+      "text": "关系里没有推搡、扇打、掐脖、勒颈，或用物品砸我。",
+      "read": "11.4",
+      "hint": "有暴力时先做安全计划，不做伴侣调解。"
+    },
+    {
+      "id": "q02",
+      "dim": "safety",
+      "critical": true,
+      "text": "对方没有查我手机、装定位、限制我见谁或花多少钱。",
+      "read": "11.3",
+      "hint": "监控与限制是强制控制的一部分，不是关心。"
+    },
+    {
+      "id": "q03",
+      "dim": "safety",
+      "critical": true,
+      "text": "性行为中我说停就能停，没有被强迫或半强迫。",
+      "read": "8.3",
+      "hint": "同意是具体的、持续的、可撤回的。"
+    },
+    {
+      "id": "q04",
+      "dim": "safety",
+      "critical": true,
+      "text": "对方没有用自伤、自杀或曝光隐私来逼我服从。",
+      "read": "11.2",
+      "hint": "用伤害自己或曝光来换服从，是情感勒索。"
+    },
+    {
+      "id": "q05",
+      "dim": "safety",
+      "critical": false,
+      "text": "我能在不删证据的情况下，把处境告诉至少一个可信任的人。",
+      "read": "11.7",
+      "hint": "先存 110、12338、12356，再谈道理。"
+    },
+    {
+      "id": "q06",
+      "dim": "autonomy",
+      "critical": false,
+      "text": "我可以拒绝对方的要求，而不用付出冷战、羞辱或分手的代价。",
+      "read": "1.2",
+      "hint": "有拒绝权才叫影响，没有就是控制。"
+    },
+    {
+      "id": "q07",
+      "dim": "autonomy",
+      "critical": false,
+      "text": "我提出请求时会说明原因，也允许对方说不。",
+      "read": "6.3",
+      "hint": "给两个真实可接受的选项，不设陷阱。"
+    },
+    {
+      "id": "q08",
+      "dim": "autonomy",
+      "critical": false,
+      "text": "我不替对方做重大决定，比如工作、生育、搬家。",
+      "read": "10.5",
+      "hint": "可以给信息和代价，不替对方按。"
+    },
+    {
+      "id": "q09",
+      "dim": "autonomy",
+      "critical": false,
+      "text": "我不会用「为你好」开头来推动对方改变。",
+      "read": "1.5",
+      "hint": "改成说观察、感受和具体请求。"
+    },
+    {
+      "id": "q10",
+      "dim": "communication",
+      "critical": false,
+      "text": "开口前，我能分清对方此刻要倾听、陪伴，还是一起想办法。",
+      "read": "1.1",
+      "hint": "先问「你想让我听，还是一起想」。"
+    },
+    {
+      "id": "q11",
+      "dim": "communication",
+      "critical": false,
+      "text": "我最近一次提要求时，说的是具体行为和具体请求，而不是「你总是」。",
+      "read": "4.2",
+      "hint": "删掉总是、从不、每次都。"
+    },
+    {
+      "id": "q12",
+      "dim": "communication",
+      "critical": false,
+      "text": "谈重话题前，我会先问「现在方便吗」。",
+      "read": "4.6",
+      "hint": "对方在开会、带孩子、开车时谈不动。"
+    },
+    {
+      "id": "q13",
+      "dim": "communication",
+      "critical": false,
+      "text": "我能把一次对话压到只谈一件事。",
+      "read": "4.3",
+      "hint": "其他议题写进待谈清单，另约时间。"
+    },
+    {
+      "id": "q14",
+      "dim": "communication",
+      "critical": false,
+      "text": "对方不回时，我只跟进一次，不连发消息。",
+      "read": "4.8",
+      "hint": "跟进要带时间点和退出选项。"
+    },
+    {
+      "id": "q15",
+      "dim": "pursue",
+      "critical": false,
+      "text": "我能说出我们追逃循环里，我自己的那一步。",
+      "read": "5.6",
+      "hint": "只谈循环，不审判人格。"
+    },
+    {
+      "id": "q16",
+      "dim": "pursue",
+      "critical": false,
+      "text": "对方需要空间时，我会给一个具体归期，而不是无限等。",
+      "read": "3.3",
+      "hint": "空间和归期要一起给。"
+    },
+    {
+      "id": "q17",
+      "dim": "pursue",
+      "critical": false,
+      "text": "对方撤退时，我不会用查岗、试探或提别人来逼反应。",
+      "read": "3.4",
+      "hint": "测试换不来安全，只会训练出焦虑。"
+    },
+    {
+      "id": "q18",
+      "dim": "pursue",
+      "critical": false,
+      "text": "对方回来后，我先接住连接，再谈账。",
+      "read": "5.5",
+      "hint": "惩罚会让对方下次更不敢回来。"
+    },
+    {
+      "id": "q19",
+      "dim": "pursue",
+      "critical": false,
+      "text": "我能接受独处不等于不爱，并安排好自己的时间。",
+      "read": "8.2",
+      "hint": "独处是关系的组成部分，不是空档。"
+    },
+    {
+      "id": "q20",
+      "dim": "repair",
+      "critical": false,
+      "text": "冲突上头时，我能喊暂停，并在约定时间回来。",
+      "read": "3.5",
+      "hint": "暂停要带归期，否则就是冷战。"
+    },
+    {
+      "id": "q21",
+      "dim": "repair",
+      "critical": false,
+      "text": "我道歉时会说清行为、影响、补救，不接「但是」。",
+      "read": "7.5",
+      "hint": "四段：行为、影响、补救、选择。"
+    },
+    {
+      "id": "q22",
+      "dim": "repair",
+      "critical": false,
+      "text": "对方递修复时，我能接住，而不是冷嘲。",
+      "read": "7.6",
+      "hint": "接住不等于翻篇。"
+    },
+    {
+      "id": "q23",
+      "dim": "repair",
+      "critical": false,
+      "text": "我们能复盘循环，而不是只审判人格。",
+      "read": "7.7",
+      "hint": "事实、感受、需要、下次。"
+    },
+    {
+      "id": "q24",
+      "dim": "repair",
+      "critical": false,
+      "text": "冲突后，我能说出下一次具体改哪一步。",
+      "read": "5.6",
+      "hint": "各认领一步，不写检讨书。"
+    },
+    {
+      "id": "q25",
+      "dim": "boundaries",
+      "critical": false,
+      "text": "我们谈过见家长、钱、家务、生育等边界，而不是靠猜。",
+      "read": "10.8",
+      "hint": "一季度一次关系年检，四个问题就够。"
+    },
+    {
+      "id": "q26",
+      "dim": "boundaries",
+      "critical": false,
+      "text": "我不会查手机、装定位、偷录或跟踪对方。",
+      "read": "11.5",
+      "hint": "怀疑可以谈，监控不行。"
+    },
+    {
+      "id": "q27",
+      "dim": "boundaries",
+      "critical": false,
+      "text": "对方家人越界时，我们两个人先对齐，再由血缘一方主说。",
+      "read": "8.7",
+      "hint": "边界由伴侣共同守，不是你单方面对抗。"
+    },
+    {
+      "id": "q28",
+      "dim": "boundaries",
+      "critical": false,
+      "text": "我有自己的朋友、爱好和收入安排，不全押在关系上。",
+      "read": "1.7",
+      "hint": "别做唯一的救生圈。"
+    },
+    {
+      "id": "q29",
+      "dim": "healing",
+      "critical": false,
+      "text": "我能区分支持和治疗，不承诺治好对方。",
+      "read": "9.8",
+      "hint": "你能提供条件，不能替对方完成改变。"
+    },
+    {
+      "id": "q30",
+      "dim": "healing",
+      "critical": false,
+      "text": "我累的时候会说出来，并给自己安排休息。",
+      "read": "1.7",
+      "hint": "把陪伴做成能持续的量。"
+    },
+    {
+      "id": "q31",
+      "dim": "healing",
+      "critical": false,
+      "text": "我知道出现暴力、成瘾、自伤时该找哪些专业渠道。",
+      "read": "9.6",
+      "hint": "110、12338、12356，以及个别咨询。"
+    },
+    {
+      "id": "q32",
+      "dim": "healing",
+      "critical": false,
+      "text": "我能在关系里承认自己也会错，并做出具体修复。",
+      "read": "1.6",
+      "hint": "道歉不是说「对不起行了吧」。"
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>引导型恋人自查 · 32 题</title>
+<style>
+:root{
+  --bg:#f7f5f1; --panel:#fffdf9; --ink:#1f1d1a; --muted:#6f6a62;
+  --line:#ded8ce; --accent:#8a4b2f; --accent-soft:#f1e4da;
+  --good:#2f6b4f; --warn:#9a5b17; --bad:#8f2f2f;
+  --radius:14px; --shadow:0 10px 30px rgba(40,30,20,.07);
+}
+@media (prefers-color-scheme: dark){
+  :root{--bg:#171513;--panel:#211e1a;--ink:#ede7dd;--muted:#a59d91;--line:#37322c;--accent:#d79a76;--accent-soft:#33251d;--good:#86c3a3;--warn:#dfae6d;--bad:#e08f8f;--shadow:0 10px 30px rgba(0,0,0,.35)}
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Noto Sans CJK SC","Microsoft YaHei",sans-serif;line-height:1.7;font-size:16px}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:920px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);z-index:10}
+.top{display:flex;align-items:center;gap:14px;padding:12px 0;font-size:13.5px}
+.top .brand{font-weight:700;font-size:16px;color:var(--ink)}
+.top nav{margin-left:auto;display:flex;gap:14px;flex-wrap:wrap}
+.top nav a{color:var(--muted)}
+.hero{padding:30px 0 8px}
+.hero h1{margin:0 0 8px;font-size:clamp(24px,4vw,36px);line-height:1.3}
+.hero p{margin:0;color:var(--muted);max-width:760px}
+.badge{display:inline-block;margin:12px 6px 0 0;font-size:12px;padding:3px 10px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.safety{background:color-mix(in srgb,var(--bad) 7%,var(--panel));border:1px solid color-mix(in srgb,var(--bad) 28%,var(--line));border-radius:12px;padding:14px 16px;margin:18px 0;font-size:14px}
+.safety strong{color:var(--bad)}
+.dim{margin:26px 0 8px}
+.dim h2{font-size:17px;margin:0 0 2px;display:flex;align-items:baseline;gap:10px}
+.dim h2 span{font-size:12px;color:var(--muted);font-weight:400}
+.dim p{margin:0 0 10px;color:var(--muted);font-size:13.5px}
+.q{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:10px 0;box-shadow:var(--shadow)}
+.q .text{display:flex;gap:10px;align-items:flex-start;margin-bottom:10px}
+.q .num{color:var(--accent);font-size:12px;font-weight:700;min-width:26px;padding-top:3px}
+.q .opts{display:flex;gap:8px;flex-wrap:wrap}
+.q label{border:1px solid var(--line);border-radius:9px;padding:5px 12px;cursor:pointer;font-size:13.5px;display:flex;align-items:center;gap:6px}
+.q label:hover{border-color:var(--accent)}
+.q input{accent-color:var(--accent)}
+.q.critical .num::after{content:"安全";display:block;font-size:9px;color:var(--bad);letter-spacing:.08em;font-weight:400}
+.actions{position:sticky;bottom:0;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);border-top:1px solid var(--line);padding:12px 0;display:flex;gap:10px;align-items:center;margin-top:24px;z-index:5}
+.actions .progress{color:var(--muted);font-size:13px}
+.actions .spacer{flex:1}
+button{font:inherit;color:inherit;border:1px solid var(--line);background:var(--panel);border-radius:10px;padding:9px 14px;cursor:pointer}
+button:hover{border-color:var(--accent);color:var(--accent)}
+button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+button.primary:hover{color:#fff;opacity:.92}
+.result{margin:24px 0 40px;border-top:1px solid var(--line);padding-top:24px}
+.score{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:14px 0 20px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+.card .big{font-size:26px;font-weight:700;line-height:1.2}
+.card .lbl{font-size:12.5px;color:var(--muted)}
+.bar{height:7px;background:var(--line);border-radius:999px;overflow:hidden;margin:8px 0 4px}
+.bar i{display:block;height:100%;background:var(--accent)}
+.dimrow{display:grid;grid-template-columns:150px 1fr 52px;gap:10px;align-items:center;font-size:13.5px;margin:8px 0}
+.dimrow .track{height:8px;background:var(--line);border-radius:999px;overflow:hidden}
+.dimrow .track i{display:block;height:100%;background:var(--accent)}
+.dimrow .val{text-align:right;color:var(--muted);font-variant-numeric:tabular-nums}
+.recs{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:18px 0}
+.recs h3{margin:0 0 8px;font-size:16px}
+.recs ul{margin:0;padding-left:20px}
+.recs li{margin:6px 0;font-size:14px}
+.recs .read{font-size:12.5px;color:var(--muted)}
+.red{border-color:color-mix(in srgb,var(--bad) 40%,var(--line));background:color-mix(in srgb,var(--bad) 7%,var(--panel))}
+.red h3{color:var(--bad)}
+.hidden{display:none}
+footer{border-top:1px solid var(--line);padding:22px 0 50px;color:var(--muted);font-size:12.5px}
+@media (max-width:640px){.dimrow{grid-template-columns:110px 1fr 44px}.q .opts{gap:6px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <span class="brand">引导型恋人指南</span>
+    <nav><a href="index.html">检索</a><a href="PATTERNS.md">对话模式</a><a href="SOURCES.md">来源</a></nav>
+  </div>
+</header>
+<main class="wrap">
+  <section class="hero">
+    <h1>32 题自查：你现在的位置</h1>
+    <p id="intro"></p>
+    <span class="badge">不评分你这个人</span>
+    <span class="badge">只指向下一步</span>
+    <span class="badge">前四题是安全题</span>
+  </section>
+
+  <div class="safety">
+    <strong>先看安全。</strong>如果关系里有推搡、掐脖、威胁、跟踪、限制出门或花钱、强迫性行为，先联系 <strong>110</strong>（正在发生的危险）、<strong>12338</strong>（妇女维权与反家暴咨询）、<strong>12356</strong>（心理援助热线）。存在暴力时，伴侣治疗通常不适合。
+  </div>
+
+  <form id="quiz"></form>
+
+  <div class="actions">
+    <span class="progress" id="progress">0 / 32 已答</span>
+    <span class="spacer"></span>
+    <button type="button" id="reset">重来</button>
+    <button type="button" class="primary" id="submit">看结果</button>
+  </div>
+
+  <section class="result hidden" id="result" aria-live="polite"></section>
+</main>
+<footer>
+  <div class="wrap">
+    <p>这本书不替代心理治疗、医疗或法律意见。自查结果只反映你此刻的选择，不是诊断。</p>
+    <p>内容 CC BY 4.0 · 代码 MIT · 对话示例为编写情境。</p>
+  </div>
+</footer>
+
+<script>
+const QUIZ = {
+  "version": "1.0.0",
+  "title": "引导型恋人自查",
+  "intro": "32 道是否题。不是考试，是找下一步。选「是」「不确定」「否」，最后会按七个维度给分，并指出先读哪几条。前四题是安全题，任何一题选「否」都会先显示安全提示。",
+  "scale": {
+    "yes": 2,
+    "unsure": 1,
+    "no": 0
+  },
+  "dimensions": [
+    {
+      "id": "safety",
+      "name": "安全与底线",
+      "desc": "先确认关系里没有暴力、强制控制和隐私侵犯。"
+    },
+    {
+      "id": "autonomy",
+      "name": "自主与同意",
+      "desc": "对方有没有真实的拒绝权，你有没有替对方活。"
+    },
+    {
+      "id": "communication",
+      "name": "沟通与软启动",
+      "desc": "你能不能把一件事说清楚，而不先引爆防御。"
+    },
+    {
+      "id": "pursue",
+      "name": "追逃与空间",
+      "desc": "对方撤退时，你能不能停止加码，同时保住连接。"
+    },
+    {
+      "id": "repair",
+      "name": "冲突与修复",
+      "desc": "吵完之后，你们回不回得来。"
+    },
+    {
+      "id": "boundaries",
+      "name": "边界与生活",
+      "desc": "家人、钱、家务、隐私，有没有说清楚。"
+    },
+    {
+      "id": "healing",
+      "name": "自愈与支持",
+      "desc": "你有没有把自己也算进这段关系里。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q01",
+      "dim": "safety",
+      "critical": true,
+      "text": "关系里没有推搡、扇打、掐脖、勒颈，或用物品砸我。",
+      "read": "11.4",
+      "hint": "有暴力时先做安全计划，不做伴侣调解。"
+    },
+    {
+      "id": "q02",
+      "dim": "safety",
+      "critical": true,
+      "text": "对方没有查我手机、装定位、限制我见谁或花多少钱。",
+      "read": "11.3",
+      "hint": "监控与限制是强制控制的一部分，不是关心。"
+    },
+    {
+      "id": "q03",
+      "dim": "safety",
+      "critical": true,
+      "text": "性行为中我说停就能停，没有被强迫或半强迫。",
+      "read": "8.3",
+      "hint": "同意是具体的、持续的、可撤回的。"
+    },
+    {
+      "id": "q04",
+      "dim": "safety",
+      "critical": true,
+      "text": "对方没有用自伤、自杀或曝光隐私来逼我服从。",
+      "read": "11.2",
+      "hint": "用伤害自己或曝光来换服从，是情感勒索。"
+    },
+    {
+      "id": "q05",
+      "dim": "safety",
+      "critical": false,
+      "text": "我能在不删证据的情况下，把处境告诉至少一个可信任的人。",
+      "read": "11.7",
+      "hint": "先存 110、12338、12356，再谈道理。"
+    },
+    {
+      "id": "q06",
+      "dim": "autonomy",
+      "critical": false,
+      "text": "我可以拒绝对方的要求，而不用付出冷战、羞辱或分手的代价。",
+      "read": "1.2",
+      "hint": "有拒绝权才叫影响，没有就是控制。"
+    },
+    {
+      "id": "q07",
+      "dim": "autonomy",
+      "critical": false,
+      "text": "我提出请求时会说明原因，也允许对方说不。",
+      "read": "6.3",
+      "hint": "给两个真实可接受的选项，不设陷阱。"
+    },
+    {
+      "id": "q08",
+      "dim": "autonomy",
+      "critical": false,
+      "text": "我不替对方做重大决定，比如工作、生育、搬家。",
+      "read": "10.5",
+      "hint": "可以给信息和代价，不替对方按。"
+    },
+    {
+      "id": "q09",
+      "dim": "autonomy",
+      "critical": false,
+      "text": "我不会用「为你好」开头来推动对方改变。",
+      "read": "1.5",
+      "hint": "改成说观察、感受和具体请求。"
+    },
+    {
+      "id": "q10",
+      "dim": "communication",
+      "critical": false,
+      "text": "开口前，我能分清对方此刻要倾听、陪伴，还是一起想办法。",
+      "read": "1.1",
+      "hint": "先问「你想让我听，还是一起想」。"
+    },
+    {
+      "id": "q11",
+      "dim": "communication",
+      "critical": false,
+      "text": "我最近一次提要求时，说的是具体行为和具体请求，而不是「你总是」。",
+      "read": "4.2",
+      "hint": "删掉总是、从不、每次都。"
+    },
+    {
+      "id": "q12",
+      "dim": "communication",
+      "critical": false,
+      "text": "谈重话题前，我会先问「现在方便吗」。",
+      "read": "4.6",
+      "hint": "对方在开会、带孩子、开车时谈不动。"
+    },
+    {
+      "id": "q13",
+      "dim": "communication",
+      "critical": false,
+      "text": "我能把一次对话压到只谈一件事。",
+      "read": "4.3",
+      "hint": "其他议题写进待谈清单，另约时间。"
+    },
+    {
+      "id": "q14",
+      "dim": "communication",
+      "critical": false,
+      "text": "对方不回时，我只跟进一次，不连发消息。",
+      "read": "4.8",
+      "hint": "跟进要带时间点和退出选项。"
+    },
+    {
+      "id": "q15",
+      "dim": "pursue",
+      "critical": false,
+      "text": "我能说出我们追逃循环里，我自己的那一步。",
+      "read": "5.6",
+      "hint": "只谈循环，不审判人格。"
+    },
+    {
+      "id": "q16",
+      "dim": "pursue",
+      "critical": false,
+      "text": "对方需要空间时，我会给一个具体归期，而不是无限等。",
+      "read": "3.3",
+      "hint": "空间和归期要一起给。"
+    },
+    {
+      "id": "q17",
+      "dim": "pursue",
+      "critical": false,
+      "text": "对方撤退时，我不会用查岗、试探或提别人来逼反应。",
+      "read": "3.4",
+      "hint": "测试换不来安全，只会训练出焦虑。"
+    },
+    {
+      "id": "q18",
+      "dim": "pursue",
+      "critical": false,
+      "text": "对方回来后，我先接住连接，再谈账。",
+      "read": "5.5",
+      "hint": "惩罚会让对方下次更不敢回来。"
+    },
+    {
+      "id": "q19",
+      "dim": "pursue",
+      "critical": false,
+      "text": "我能接受独处不等于不爱，并安排好自己的时间。",
+      "read": "8.2",
+      "hint": "独处是关系的组成部分，不是空档。"
+    },
+    {
+      "id": "q20",
+      "dim": "repair",
+      "critical": false,
+      "text": "冲突上头时，我能喊暂停，并在约定时间回来。",
+      "read": "3.5",
+      "hint": "暂停要带归期，否则就是冷战。"
+    },
+    {
+      "id": "q21",
+      "dim": "repair",
+      "critical": false,
+      "text": "我道歉时会说清行为、影响、补救，不接「但是」。",
+      "read": "7.5",
+      "hint": "四段：行为、影响、补救、选择。"
+    },
+    {
+      "id": "q22",
+      "dim": "repair",
+      "critical": false,
+      "text": "对方递修复时，我能接住，而不是冷嘲。",
+      "read": "7.6",
+      "hint": "接住不等于翻篇。"
+    },
+    {
+      "id": "q23",
+      "dim": "repair",
+      "critical": false,
+      "text": "我们能复盘循环，而不是只审判人格。",
+      "read": "7.7",
+      "hint": "事实、感受、需要、下次。"
+    },
+    {
+      "id": "q24",
+      "dim": "repair",
+      "critical": false,
+      "text": "冲突后，我能说出下一次具体改哪一步。",
+      "read": "5.6",
+      "hint": "各认领一步，不写检讨书。"
+    },
+    {
+      "id": "q25",
+      "dim": "boundaries",
+      "critical": false,
+      "text": "我们谈过见家长、钱、家务、生育等边界，而不是靠猜。",
+      "read": "10.8",
+      "hint": "一季度一次关系年检，四个问题就够。"
+    },
+    {
+      "id": "q26",
+      "dim": "boundaries",
+      "critical": false,
+      "text": "我不会查手机、装定位、偷录或跟踪对方。",
+      "read": "11.5",
+      "hint": "怀疑可以谈，监控不行。"
+    },
+    {
+      "id": "q27",
+      "dim": "boundaries",
+      "critical": false,
+      "text": "对方家人越界时，我们两个人先对齐，再由血缘一方主说。",
+      "read": "8.7",
+      "hint": "边界由伴侣共同守，不是你单方面对抗。"
+    },
+    {
+      "id": "q28",
+      "dim": "boundaries",
+      "critical": false,
+      "text": "我有自己的朋友、爱好和收入安排，不全押在关系上。",
+      "read": "1.7",
+      "hint": "别做唯一的救生圈。"
+    },
+    {
+      "id": "q29",
+      "dim": "healing",
+      "critical": false,
+      "text": "我能区分支持和治疗，不承诺治好对方。",
+      "read": "9.8",
+      "hint": "你能提供条件，不能替对方完成改变。"
+    },
+    {
+      "id": "q30",
+      "dim": "healing",
+      "critical": false,
+      "text": "我累的时候会说出来，并给自己安排休息。",
+      "read": "1.7",
+      "hint": "把陪伴做成能持续的量。"
+    },
+    {
+      "id": "q31",
+      "dim": "healing",
+      "critical": false,
+      "text": "我知道出现暴力、成瘾、自伤时该找哪些专业渠道。",
+      "read": "9.6",
+      "hint": "110、12338、12356，以及个别咨询。"
+    },
+    {
+      "id": "q32",
+      "dim": "healing",
+      "critical": false,
+      "text": "我能在关系里承认自己也会错，并做出具体修复。",
+      "read": "1.6",
+      "hint": "道歉不是说「对不起行了吧」。"
+    }
+  ]
+}
+;
+const $ = (s) => document.querySelector(s);
+const SCALE = QUIZ.scale;
+let answers = {};
+
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+
+function init(){
+  $("#intro").textContent = QUIZ.intro;
+  const dims = QUIZ.dimensions;
+  $("#quiz").innerHTML = dims.map(d => {
+    const qs = QUIZ.questions.filter(q => q.dim === d.id);
+    return `<section class="dim"><h2>${esc(d.name)} <span>${qs.length} 题</span></h2><p>${esc(d.desc)}</p>
+      ${qs.map(q => `
+        <div class="q ${q.critical ? "critical" : ""}" data-q="${q.id}">
+          <div class="text"><span class="num">${q.id.slice(1)}</span><span>${esc(q.text)}</span></div>
+          <div class="opts">
+            ${[["yes","是"],["unsure","不确定"],["no","否"]].map(([v,l]) =>
+              `<label><input type="radio" name="${q.id}" value="${v}">${l}</label>`).join("")}
+          </div>
+        </div>`).join("")}
+    </section>`;
+  }).join("");
+
+  document.querySelectorAll("input[type=radio]").forEach(r => {
+    r.addEventListener("change", () => {
+      answers[r.name] = r.value;
+      updateProgress();
+      $("#result").classList.add("hidden");
+    });
+  });
+  $("#progress").textContent = `0 / ${QUIZ.questions.length} 已答`;
+  $("#submit").addEventListener("click", showResult);
+  $("#reset").addEventListener("click", () => {
+    answers = {}; document.querySelectorAll("input[type=radio]").forEach(r => r.checked = false);
+    updateProgress(); $("#result").classList.add("hidden"); window.scrollTo({top:0,behavior:"smooth"});
+  });
+}
+
+function updateProgress(){
+  const n = Object.keys(answers).length;
+  $("#progress").textContent = `${n} / ${QUIZ.questions.length} 已答`;
+}
+
+function showResult(){
+  const unanswered = QUIZ.questions.filter(q => !answers[q.id]);
+  if (unanswered.length){
+    if (!confirm(`还有 ${unanswered.length} 题没答。未答按“不确定”计算，继续吗？`)) return;
+  }
+  const val = (q) => SCALE[answers[q.id] || "unsure"];
+  const dims = QUIZ.dimensions.map(d => {
+    const qs = QUIZ.questions.filter(q => q.dim === d.id);
+    const got = qs.reduce((s,x) => s + val(x), 0);
+    const max = qs.length * SCALE.yes;
+    return {...d, got, max, pct: Math.round(got / max * 100), qs};
+  });
+  const totalGot = dims.reduce((s,d)=>s+d.got,0);
+  const totalMax = dims.reduce((s,d)=>s+d.max,0);
+  const pct = Math.round(totalGot / totalMax * 100);
+
+  const critical = QUIZ.questions.filter(q => q.critical && answers[q.id] === "no");
+  const weak = dims.slice().sort((a,b) => a.pct - b.pct);
+  const todo = [];
+  weak.forEach(d => {
+    d.qs.filter(q => answers[q.id] !== "yes").forEach(q => {
+      if (!todo.find(t => t.read === q.read)) todo.push(q);
+    });
+  });
+
+  const band = pct >= 80 ? "稳" : pct >= 60 ? "有底子，也有漏点" : pct >= 40 ? "需要补结构" : "先停下加码，优先安全与支持";
+  const bandColor = pct >= 80 ? "var(--good)" : pct >= 60 ? "var(--warn)" : "var(--bad)";
+
+  $("#result").className = "result";
+  $("#result").innerHTML = `
+    ${critical.length ? `<div class="recs red"><h3>先处理安全，不是先改善沟通</h3>
+      <p>你在 ${critical.length} 道安全题上选了“否”。这比任何沟通技巧都优先：</p>
+      <ul>${critical.map(q => `<li>${esc(q.text)}<div class="read">先读 <a href="index.html#${q.read}">${q.read}</a>：${esc(q.hint)}</div></li>`).join("")}</ul>
+      <p>如果可以，告诉一个可信任的人，联系 110、12338 或 12356。不要独自对峙。</p></div>` : ""}
+
+    <h2 style="margin:20px 0 4px">你的结果</h2>
+    <div class="score">
+      <div class="card"><div class="big" style="color:${bandColor}">${pct}%</div><div class="lbl">总分 · ${esc(band)}</div><div class="bar"><i style="width:${pct}%;background:${bandColor}"></i></div></div>
+      ${weak.slice(0,2).map(d => `<div class="card"><div class="big">${d.pct}%</div><div class="lbl">${d.pct === 100 ? "满分项" : "最弱项"} · ${esc(d.name)}</div><div class="bar"><i style="width:${d.pct}%"></i></div></div>`).join("")}
+    </div>
+
+    <h3 style="font-size:16px;margin:22px 0 8px">七个维度</h3>
+    ${dims.map(d => `<div class="dimrow"><span>${esc(d.name)}</span><span class="track"><i style="width:${d.pct}%"></i></span><span class="val">${d.pct}%</span></div>`).join("")}
+
+    <div class="recs">
+      <h3>先读这几条</h3>
+      ${todo.length ? `<ul>${todo.slice(0,6).map(q => `<li>${esc(q.text)}<div class="read">读 <a href="index.html#${q.read}">${q.read}</a>：${esc(q.hint)}</div></li>`).join("")}</ul>`
+        : `<p>你在所有题上都选了“是”。这不代表关系完美，只代表你现在的自评很稳。建议做一次真实对话复盘，或读第 10.8 条的关系年检。</p>`}
+    </div>
+
+    <div class="recs">
+      <h3>接下来 7 天，只做三件事</h3>
+      <ol>
+        <li>把最弱那一维的第一个“否”改成一个具体动作，写在日历上。</li>
+        <li>找一个你信任的人，说一遍你的答案里最让你意外的那一题。</li>
+        <li>如果安全题有“否”，先做安全计划，再谈其他。</li>
+      </ol>
+      <p class="read">这不是治疗计划。持续的痛苦、暴力、成瘾或自伤，请找专业帮助。</p>
+    </div>
+
+    <div class="actions" style="position:static;background:none;border:0;padding:0">
+      <button type="button" id="copy-result">复制结果</button>
+      <a href="index.html" style="font-size:13.5px;padding:9px 4px">去检索条目 →</a>
+    </div>
+  `;
+  $("#copy-result").addEventListener("click", () => {
+    const text = `引导型恋人自查 ${pct}%\n` + dims.map(d => `${d.name}: ${d.pct}%`).join("\n") +
+      `\n优先读：${todo.slice(0,6).map(q => q.read).join("、") || "无"}`;
+    navigator.clipboard?.writeText(text).then(() => alert("已复制")).catch(() => alert(text));
+  });
+  $("#result").scrollIntoView?.({behavior:"smooth", block:"start"});
+}
+init();
+</script>
+</body>
+</html>
