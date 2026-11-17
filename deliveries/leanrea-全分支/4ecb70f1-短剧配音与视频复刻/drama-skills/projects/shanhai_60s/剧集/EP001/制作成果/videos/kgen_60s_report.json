@@ -1,0 +1,111 @@
+{
+  "total_shots": 15,
+  "fps": 24,
+  "shots": [
+    {
+      "idx": 1,
+      "id": "SHOT-EP001-001",
+      "frames": 92,
+      "size_kb": 4227.8,
+      "engine": "Lightricks/LTX-Video-0.9.5 (Kaggle Dual-T4)"
+    },
+    {
+      "idx": 2,
+      "id": "SHOT-EP001-002",
+      "frames": 108,
+      "size_kb": 1540.4,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    },
+    {
+      "idx": 3,
+      "id": "SHOT-EP001-003",
+      "frames": 108,
+      "size_kb": 1546.8,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    },
+    {
+      "idx": 4,
+      "id": "SHOT-EP001-004",
+      "frames": 92,
+      "size_kb": 5615.0,
+      "engine": "Lightricks/LTX-Video-0.9.5 (Kaggle Dual-T4)"
+    },
+    {
+      "idx": 5,
+      "id": "SHOT-EP001-005",
+      "frames": 108,
+      "size_kb": 1818.0,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    },
+    {
+      "idx": 6,
+      "id": "SHOT-EP001-006",
+      "frames": 108,
+      "size_kb": 1990.2,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    },
+    {
+      "idx": 7,
+      "id": "SHOT-EP001-007",
+      "frames": 92,
+      "size_kb": 3849.5,
+      "engine": "Lightricks/LTX-Video-0.9.5 (Kaggle Dual-T4)"
+    },
+    {
+      "idx": 8,
+      "id": "SHOT-EP001-008",
+      "frames": 108,
+      "size_kb": 1965.9,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    },
+    {
+      "idx": 9,
+      "id": "SHOT-EP001-009",
+      "frames": 108,
+      "size_kb": 1801.0,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    },
+    {
+      "idx": 10,
+      "id": "SHOT-EP001-010",
+      "frames": 92,
+      "size_kb": 7007.6,
+      "engine": "Lightricks/LTX-Video-0.9.5 (Kaggle Dual-T4)"
+    },
+    {
+      "idx": 11,
+      "id": "SHOT-EP001-011",
+      "frames": 108,
+      "size_kb": 1693.2,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    },
+    {
+      "idx": 12,
+      "id": "SHOT-EP001-012",
+      "frames": 108,
+      "size_kb": 1679.8,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    },
+    {
+      "idx": 13,
+      "id": "SHOT-EP001-013",
+      "frames": 92,
+      "size_kb": 4848.9,
+      "engine": "Lightricks/LTX-Video-0.9.5 (Kaggle Dual-T4)"
+    },
+    {
+      "idx": 14,
+      "id": "SHOT-EP001-014",
+      "frames": 108,
+      "size_kb": 2499.5,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    },
+    {
+      "idx": 15,
+      "id": "SHOT-EP001-015",
+      "frames": 108,
+      "size_kb": 2199.0,
+      "engine": "DuoAi Canonical 3D + Depth-Anything-V2-Large + 24fps Live2D LipSync & Physics"
+    }
+  ]
+}

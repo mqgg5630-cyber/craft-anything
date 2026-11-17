@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#FAF3E3" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<path d="M74.0,104.0 C78.5,101.6 81.5,106.6 84.0,104.6 C89.0,102.2 92.0,106.4 94.0,104.2 C110.0,101.8 82.0,106.2 104.0,103.4" fill="none" stroke="#B5852B" stroke-width="2.6" stroke-linecap="round" /><text x="116" y="96" font-size="16.67" font-weight="600" fill="#1A2A26" letter-spacing="1.84">先讲清楚：反应为什么会慢</text>
+<text x="76" y="170" font-family="Songti SC, STSong, SimSun, serif" font-size="39.1" font-weight="700" fill="#1A2A26">分子要翻过一座山</text>
+<rect x="132" y="204" width="1022" height="398" fill="#F2E6CB" />
+<line x1="170" y1="469" x2="1126" y2="469" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="170" y1="396" x2="1126" y2="396" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="170" y1="323" x2="1126" y2="323" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="160" y1="542" x2="1120" y2="542" stroke="#1A2A26" stroke-width="1.4" />
+<line x1="160" y1="542" x2="160" y2="240" stroke="#1A2A26" stroke-width="1.4" />
+<text x="1122" y="572" font-size="16.1" font-weight="400" fill="#5B6B5F" text-anchor="end">反应进程</text>
+<text x="150" y="224" font-size="16.1" font-weight="400" fill="#5B6B5F" text-anchor="end">能量</text>
+<path d="M190,542 C280,542 340,279.2 490,279.2 C620,279.2 660,542 750,542 C830,542 890,512 950,512 L1110,512" fill="none" stroke="#1A2A26" stroke-width="3.2" stroke-linecap="round" />
+<line x1="360" y1="542" x2="360" y2="279.2" stroke="#B94E2A" stroke-width="1.4" stroke-dasharray="5 5" />
+<path d="M355,291.2 L360,279.2 L365,291.2" fill="none" stroke="#B94E2A" stroke-width="1.4" />
+<path d="M355,530 L360,542 L365,530" fill="none" stroke="#B94E2A" stroke-width="1.4" />
+<text x="374" y="410.6" font-size="19.55" font-weight="500" fill="#B94E2A">活化能</text>
+<text x="252" y="576" font-size="16.1" font-weight="400" fill="#5B6B5F" letter-spacing="1.38">反应物</text>
+<text x="1020" y="576" font-size="16.1" font-weight="400" fill="#5B6B5F" letter-spacing="1.38">产物</text>
+<path d="M76.0,650.0 C92.8,647.6 104.0,652.6 113.3,650.6 C132.0,648.2 143.2,652.4 150.7,650.2 C166.7,647.8 166.0,652.2 188.0,649.4" fill="none" stroke="#E3D6BD" stroke-width="1.6" stroke-linecap="round" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="24.15" font-weight="700" fill="#B94E2A">05</text><text x="110" y="686" font-size="13.8" font-weight="400" fill="#5B6B5F" fill-opacity="0.8">/15</text><text x="1204" y="686" font-size="12.65" font-weight="400" fill="#5B6B5F" text-anchor="end" letter-spacing="1.61" fill-opacity="0.75">第 5 章 · 降低化学反应活化能的酶</text>
+</g>
+</svg>

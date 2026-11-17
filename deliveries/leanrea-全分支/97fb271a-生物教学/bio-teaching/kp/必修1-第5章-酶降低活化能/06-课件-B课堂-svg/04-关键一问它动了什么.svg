@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#FAF3E3" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/enzyme-light.jpg" x="810.0" y="0.0" width="470.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="810" y="0" width="470" height="720" fill="#FAF3E3" fill-opacity="0.06" />
+<rect x="809" y="0" width="1" height="720" fill="#E3D6BD" />
+<path d="M74.0,158.0 C78.5,155.6 81.5,160.6 84.0,158.6 C89.0,156.2 92.0,160.4 94.0,158.2 C110.0,155.8 82.0,160.2 104.0,157.4" fill="none" stroke="#B5852B" stroke-width="2.6" stroke-linecap="round" /><text x="116" y="150" font-size="16.67" font-weight="600" fill="#1A2A26" letter-spacing="1.84">本课唯一的问题</text>
+<text x="76" y="322" font-family="Songti SC, STSong, SimSun, serif" font-size="52.9" font-weight="700" fill="#1A2A26">它没有被用掉，<tspan x="76" dy="79.58">也没有加能量——</tspan><tspan x="76" dy="79.58">它动了什么？</tspan></text>
+
+
+<path d="M72.0,578.7 C87.6,576.3 98.0,581.3 106.7,579.3 C124.0,576.9 134.4,581.1 141.3,578.9 C157.3,576.5 154.0,580.9 176.0,578.1" fill="none" stroke="#B94E2A" stroke-width="3" stroke-linecap="round" />
+<text x="76" y="641.24" font-size="20.7" font-weight="400" fill="#5B6B5F">这一页是本课唯一的问题，写黑板正中。不急着回答，<tspan x="76" dy="32.2">先画图。</tspan></text>
+
+</g>
+</svg>

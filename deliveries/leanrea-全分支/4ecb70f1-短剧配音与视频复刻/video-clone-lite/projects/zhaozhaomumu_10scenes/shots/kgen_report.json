@@ -1,0 +1,198 @@
+{
+  "engine": "video-clone-lite/kgen (Lightricks/LTX-Video-0.9.5)",
+  "pipe_mode": "condition",
+  "gpu_count": 2,
+  "gpu_names": [
+    "Tesla T4",
+    "Tesla T4"
+  ],
+  "total_elapsed_sec": 853.76,
+  "shots": [
+    {
+      "id": "S01",
+      "gpu_id": 0,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 118.74,
+      "mean_motion_mad": 0.7,
+      "frozen_pct": 0.0,
+      "file_kb": 737.6
+    },
+    {
+      "id": "S02",
+      "gpu_id": 1,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 119.5,
+      "mean_motion_mad": 3.984,
+      "frozen_pct": 0.0,
+      "file_kb": 2137.3
+    },
+    {
+      "id": "S03",
+      "gpu_id": 0,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 112.92,
+      "mean_motion_mad": 1.399,
+      "frozen_pct": 0.0,
+      "file_kb": 1046.2
+    },
+    {
+      "id": "S04",
+      "gpu_id": 1,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 117.29,
+      "mean_motion_mad": 1.849,
+      "frozen_pct": 0.0,
+      "file_kb": 2161.2
+    },
+    {
+      "id": "S05",
+      "gpu_id": 0,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 112.5,
+      "mean_motion_mad": 0.622,
+      "frozen_pct": 0.0,
+      "file_kb": 1061.9
+    },
+    {
+      "id": "S06",
+      "gpu_id": 1,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 116.83,
+      "mean_motion_mad": 2.817,
+      "frozen_pct": 0.0,
+      "file_kb": 2605.1
+    },
+    {
+      "id": "S07",
+      "gpu_id": 0,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 113.38,
+      "mean_motion_mad": 1.533,
+      "frozen_pct": 0.0,
+      "file_kb": 1406.2
+    },
+    {
+      "id": "S08",
+      "gpu_id": 1,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 115.68,
+      "mean_motion_mad": 1.463,
+      "frozen_pct": 0.0,
+      "file_kb": 1223.6
+    },
+    {
+      "id": "S09",
+      "gpu_id": 0,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 111.32,
+      "mean_motion_mad": 0.235,
+      "frozen_pct": 0.0,
+      "file_kb": 507.1
+    },
+    {
+      "id": "S10",
+      "gpu_id": 1,
+      "frames": 73,
+      "gen_res": [
+        512,
+        896
+      ],
+      "out_res": [
+        1080,
+        1920
+      ],
+      "elapsed_sec": 114.04,
+      "mean_motion_mad": 1.838,
+      "frozen_pct": 0.0,
+      "file_kb": 2048.5
+    }
+  ],
+  "kaggle_gpus": [
+    {
+      "index": 0,
+      "name": "Tesla T4",
+      "vram_gb": 14.56,
+      "cc": "7.5"
+    },
+    {
+      "index": 1,
+      "name": "Tesla T4",
+      "vram_gb": 14.56,
+      "cc": "7.5"
+    }
+  ],
+  "upstream_vcl_sha": "925a61f0adfe3454a30f54a61af31b7cadd32279",
+  "total_kernel_sec": 961.83
+}

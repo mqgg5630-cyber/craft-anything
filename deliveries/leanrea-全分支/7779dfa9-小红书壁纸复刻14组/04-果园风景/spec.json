@@ -1,0 +1,97 @@
+{
+  "title": "水果里藏着风景 · 厚涂油画 10 张",
+  "subtitle": "复刻自 寒雪AI设计说《水果里藏着风景｜AI厚涂油画附提示词》(6add94a2，12 选 10) · 01–10 逐张复刻 · 1440×1920 (3:4 跟原帖) · AI 生成",
+  "canvas": [
+    1440,
+    1920
+  ],
+  "date": "Monday, November 10",
+  "time": "10:10",
+  "prefix": "水果",
+  "cover": {
+    "left": 1,
+    "right": 9
+  },
+  "pages": [
+    {
+      "n": 1,
+      "name": "橙子海湾",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图01 复刻",
+      "line": "橙子里落了一个太阳"
+    },
+    {
+      "n": 2,
+      "name": "草莓花溪",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图02 复刻",
+      "line": "草莓边流下一条花溪"
+    },
+    {
+      "n": 3,
+      "name": "葡萄紫丘",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图03 复刻",
+      "line": "一串葡萄是一片紫色山丘"
+    },
+    {
+      "n": 4,
+      "name": "柠檬飞瀑",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图04 复刻",
+      "line": "柠檬切面冲下一道瀑布"
+    },
+    {
+      "n": 5,
+      "name": "石榴红谷",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图05 复刻",
+      "line": "石榴籽淌成一条红河"
+    },
+    {
+      "n": 6,
+      "name": "蓝莓月湖",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图06 复刻",
+      "line": "三颗蓝莓围着一面月亮湖"
+    },
+    {
+      "n": 7,
+      "name": "西瓜漩涡",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图09 复刻",
+      "line": "西瓜块漂在蓝绿色漩涡上"
+    },
+    {
+      "n": 8,
+      "name": "火龙果花坡",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图10 复刻",
+      "line": "火龙果果肉开满粉色小花"
+    },
+    {
+      "n": 9,
+      "name": "菠萝海湾",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图11 复刻",
+      "line": "菠萝里藏着一片海和一只帆"
+    },
+    {
+      "n": 10,
+      "name": "樱桃花溪",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图12 复刻",
+      "line": "两颗樱桃站在粉色浅溪里"
+    }
+  ]
+}

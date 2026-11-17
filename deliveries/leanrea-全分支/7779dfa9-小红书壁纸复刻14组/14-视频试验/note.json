@@ -1,0 +1,143 @@
+{
+ "note_id": "6a4be129000000002101bf59",
+ "title": "吉隆坡机场t2过夜转机的绝佳位置",
+ "desc": "感谢🍠上面的兄弟姐妹的分享，第二天早上7点的飞机去外面住又折腾，看到🍠推荐的这个位置过来看看，位置需要过安检，过了安检海关后找到Gate L 一直往里走就行，下一楼还会有个安检，安检员会问你要登机牌给他看说进去休息他就会让你进去了#吉隆坡[话题]# #吉隆坡机场[话题]# #吉隆坡机场t2[话题]# #吉隆坡机场过夜[话题]#",
+ "nickname": "木可",
+ "user_id": "6777cdf90000000018016037",
+ "tags": [
+  "吉隆坡",
+  "吉隆坡机场",
+  "吉隆坡机场t2",
+  "吉隆坡机场过夜"
+ ],
+ "time": 1783357737000,
+ "ip_location": "",
+ "interact": {
+  "likedCount": "293",
+  "collectedCount": "292",
+  "commentCount": "24",
+  "shareCount": "218"
+ },
+ "images": [
+  {
+   "index": 1,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611071724/4c1a9b5b847057e92d84ba410e3cf100/1040g0083229pfbt9nk005prnpnsm2o1nvf79m3g!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611071724/2d0642620ac7dcf53ce4ced84375469c/1040g0083229pfbt9nk005prnpnsm2o1nvf79m3g!nd_prv_wlteh_webp_3",
+   "width": 1080,
+   "height": 1920,
+   "live_photo": false
+  }
+ ],
+ "parse": "json",
+ "fetch": {
+  "http_status": 200,
+  "final_url": "https://www.rednote.com/discovery/item/6a4be129000000002101bf59?xsec_token=ABjd431Iyv8HKyZZC3T615b3mwIFIj66cCB5f0wKFpo-Y=&xsec_source=pc_feed",
+  "html_bytes": 352667
+ },
+ "type": "video",
+ "video": {
+  "origin_key": "pre_post/1040g2t03229pafd0nkl05prnpnsm2o1ni9pfgbo",
+  "duration": 64,
+  "origin_md5": "8387c2c79cce382551d802a9e39bbda8",
+  "hdr_type": 1,
+  "video_id": 138006167944653020,
+  "streams": [
+   {
+    "codec": "h264",
+    "height": 1280,
+    "width": 720,
+    "size": 14635889,
+    "bitrate": 1766585,
+    "url": "http://sns-v11.rednotecdn.com/stream/79/110/258/01ea4be0e92768df4f0370019f386963d0_258.mp4"
+   }
+  ]
+ },
+ "images_source": "page",
+ "downloads": [
+  {
+   "index": 1,
+   "token": "1040g0083229pfbt9nk005prnpnsm2o1nvf79m3g",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/1040g0083229pfbt9nk005prnpnsm2o1nvf79m3g",
+     "ok": true,
+     "bytes": 442939,
+     "format": "JPEG",
+     "size": [
+      1080,
+      1920
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/1040g0083229pfbt9nk005prnpnsm2o1nvf79m3g?imageView2/format/png",
+     "ok": true,
+     "bytes": 1873970,
+     "format": "PNG",
+     "size": [
+      1080,
+      1920
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/1040g0083229pfbt9nk005prnpnsm2o1nvf79m3g?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 226209,
+     "format": "JPEG",
+     "size": [
+      1080,
+      1920
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611071724/4c1a9b5b847057e92d84ba410e3cf100/1040g0083229pfbt9nk005prnpnsm2o1nvf79m3g!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 184336,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1920
+     ],
+     "err": ""
+    }
+   ],
+   "file": "cover.jpg",
+   "variant": "original",
+   "bytes": 442939,
+   "format": "JPEG",
+   "size": [
+    1080,
+    1920
+   ]
+  }
+ ],
+ "video_download": {
+  "tried": [
+   {
+    "variant": "origin",
+    "url": "https://sns-video-bd.xhscdn.com/pre_post/1040g2t03229pafd0nkl05prnpnsm2o1ni9pfgbo",
+    "ok": false,
+    "bytes": 0,
+    "err": "too large: 262.3MB > 60MB"
+   },
+   {
+    "variant": "stream-h264-1280p",
+    "url": "http://sns-v11.rednotecdn.com/stream/79/110/258/01ea4be0e92768df4f0370019f386963d0_258.mp4",
+    "ok": true,
+    "bytes": 14635889,
+    "err": ""
+   }
+  ],
+  "file": "video.mp4",
+  "variant": "stream-h264-1280p",
+  "bytes": 14635889
+ },
+ "source_url": "https://www.xiaohongshu.com/discovery/item/6a4be129000000002101bf59?xsec_token=ABjd431Iyv8HKyZZC3T615b3mwIFIj66cCB5f0wKFpo-Y=&xsec_source=pc_feed",
+ "fetched_at_utc": "2026-11-07T09:25:03Z"
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#10201D" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/splint-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="250" width="1280" height="470" fill="#10201D" fill-opacity="0.6" />
+<path d="M74.0,420.0 C78.5,417.6 81.5,422.6 84.0,420.6 C89.0,418.2 92.0,422.4 94.0,420.2 C110.0,417.8 82.0,422.2 104.0,419.4" fill="none" stroke="#B5852B" stroke-width="2.6" stroke-linecap="round" /><text x="116" y="412" font-size="16.67" font-weight="600" fill="#FAF3E3" letter-spacing="1.84">断电实验</text>
+<text x="76" y="500" font-family="Songti SC, STSong, SimSun, serif" font-size="57.5" font-weight="700" fill="#FAF3E3">逆浓度这件事，一定有人付钱</text>
+<path d="M72.0,570.7 C94.5,568.3 109.5,573.3 122.0,571.3 C147.0,568.9 162.0,573.1 172.0,570.9 C188.0,568.5 200.0,572.9 222.0,570.1" fill="none" stroke="#FAF3E3" stroke-width="2.6" stroke-linecap="round" />
+<text x="76" y="646" font-family="Songti SC, STSong, SimSun, serif" font-size="15.52" font-weight="400" fill="#FAF3E3" letter-spacing="1.15" fill-opacity="0.9">呼吸抑制剂处理后，吸收几乎停止</text>
+</g>
+</svg>

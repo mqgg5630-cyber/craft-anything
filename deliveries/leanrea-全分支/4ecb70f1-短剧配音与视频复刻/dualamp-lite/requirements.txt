@@ -1,0 +1,28 @@
+# DualAMP-Lite V1.0 (V4 freeze) - run:  python run_pipeline.py --stage all --demo --epochs 20
+# For the real run install torch + fair-esm as described below.
+
+# Core (Kaggle and Colab already ship most of these; pin only what matters)
+numpy>=1.24,<3
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+biopython>=1.81
+pyyaml>=6.0
+joblib>=1.3
+matplotlib>=3.7        # optional, only for the ROC/PR figures
+
+# Deep learning. Kaggle/Colab images already provide a CUDA build of torch:
+#   pip install -r requirements.txt --no-deps   # keeps the preinstalled torch
+torch>=2.1
+
+# ESM-2 weights. `fair-esm` is the reference loader (esm2_t12_35M_UR50D).
+# Install it with --no-deps so pip does not replace the image's torch:
+#   pip install fair-esm --no-deps
+fair-esm>=2.0.0
+
+# Alternative backend if fair-esm cannot be installed (HF hub weights work with
+# `--backend transformers --weights-dir`):
+# transformers>=4.40
+
+# Optional: gradient boosting baseline instead of sklearn's HistGradientBoosting
+# xgboost>=2.0

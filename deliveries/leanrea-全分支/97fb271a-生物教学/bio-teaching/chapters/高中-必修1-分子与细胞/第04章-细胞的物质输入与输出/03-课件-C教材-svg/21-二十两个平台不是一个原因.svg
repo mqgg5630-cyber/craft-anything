@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">两个平台，不是一个原因</text>
+<text x="76" y="174" font-family="Songti SC, STSong, SimSun, serif" font-size="32.96" font-weight="700" fill="#16282A" letter-spacing="0.66">二十、两个平台，不是一个原因</text>
+<rect x="138" y="216" width="648" height="380" fill="#F1ECDC" />
+<line x1="190" y1="500" x2="756" y2="500" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="440" x2="756" y2="440" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="380" x2="756" y2="380" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="320" x2="756" y2="320" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="220" x2="190" y2="560" stroke="#16282A" stroke-width="1.2" />
+<line x1="190" y1="560" x2="760" y2="560" stroke="#16282A" stroke-width="1.2" />
+<text x="176" y="214" font-size="14.42" font-weight="400" fill="#4F625F" text-anchor="end">运输速率</text>
+<text x="760" y="590" font-size="14.42" font-weight="400" fill="#4F625F" text-anchor="end">O₂ 浓度</text>
+<path d="M200.0,535.5 L206.8,535.3 L213.5,534.8 L220.2,534.1 L227.0,533.2 L233.8,532.1 L240.5,530.8 L247.2,529.3 L254.0,527.6 L260.8,525.7 L267.5,523.6 L274.2,521.4 L281.0,519.0 L287.8,516.5 L294.5,513.8 L301.2,510.9 L308.0,507.9 L314.8,504.7 L321.5,501.4 L328.2,497.9 L335.0,494.3 L341.8,490.5 L348.5,486.5 L355.2,482.5 L362.0,478.2 L368.8,473.9 L375.5,469.4 L382.2,464.7 L389.0,459.9 L395.8,455.0 L402.5,450.0 L409.2,444.8 L416.0,439.4 L422.8,434.0 L429.5,428.3 L436.2,422.6 L443.0,416.7 L449.8,410.7 L456.5,404.6 L463.2,398.3 L470.0,391.9 L476.8,385.4 L483.5,378.8 L490.2,372.0 L497.0,365.1 L503.8,365.3 L510.5,365.6 L517.2,365.8 L524.0,366.1 L530.8,366.4 L537.5,366.6 L544.2,366.9 L551.0,367.1 L557.8,367.4 L564.5,367.6 L571.2,367.9 L578.0,368.1 L584.8,368.4 L591.5,368.7 L598.2,368.9 L605.0,369.2 L611.8,369.4 L618.5,369.7 L625.2,369.9 L632.0,370.2 L638.8,370.4 L645.5,370.7 L652.2,371.0 L659.0,371.2 L665.8,371.5 L672.5,371.7 L679.2,372.0 L686.0,372.2 L692.8,372.5 L699.5,372.7 L706.2,373.0 L713.0,373.3 L719.8,373.5 L726.5,373.8 L733.2,374.0 L740.0,374.3" fill="none" stroke="#A8432B" stroke-width="2.6" stroke-linecap="round" />
+<path d="M200.0,535.5 L206.8,535.3 L213.5,534.8 L220.2,534.1 L227.0,533.2 L233.8,532.1 L240.5,530.8 L247.2,529.3 L254.0,527.6 L260.8,525.7 L267.5,523.6 L274.2,521.4 L281.0,519.0 L287.8,516.5 L294.5,513.8 L301.2,510.9 L308.0,507.9 L314.8,504.7 L321.5,501.4 L328.2,497.9 L335.0,494.3 L341.8,490.5 L348.5,486.5 L355.2,482.5 L362.0,478.2 L368.8,473.9 L375.5,469.4 L382.2,464.7 L389.0,459.9 L395.8,455.0 L402.5,450.0 L409.2,444.8 L416.0,439.4 L422.8,434.0 L429.5,428.3 L436.2,422.6 L443.0,416.7 L449.8,410.7 L456.5,404.6 L463.2,398.3 L470.0,391.9 L476.8,385.4 L483.5,378.8 L490.2,372.0 L497.0,365.1 L503.8,365.3 L510.5,365.6 L517.2,365.8 L524.0,366.1 L530.8,366.4 L537.5,366.6 L544.2,366.9 L551.0,367.1 L557.8,367.4 L564.5,367.6 L571.2,367.9 L578.0,368.1 L584.8,368.4 L591.5,368.7 L598.2,368.9 L605.0,369.2 L611.8,369.4 L618.5,369.7 L625.2,369.9 L632.0,370.2 L638.8,370.4 L645.5,370.7 L652.2,371.0 L659.0,371.2 L665.8,371.5 L672.5,371.7 L679.2,372.0 L686.0,372.2 L692.8,372.5 L699.5,372.7 L706.2,373.0 L713.0,373.3 L719.8,373.5 L726.5,373.8 L733.2,374.0 L740.0,374.3" fill="none" stroke="#2A5F55" stroke-width="2.6" stroke-dasharray="9 7" stroke-linecap="round" />
+<line x1="800" y1="300" x2="852" y2="300" stroke="#A8432B" stroke-width="2.6" />
+<text x="866" y="306" font-size="18.54" font-weight="400" fill="#16282A">先卡能量</text>
+<line x1="800" y1="341.2" x2="852" y2="341.2" stroke="#2A5F55" stroke-width="2.6" stroke-dasharray="9 7" />
+<text x="866" y="347.2" font-size="18.54" font-weight="400" fill="#16282A">后卡载体</text>
+<line x1="800" y1="386.4" x2="1204" y2="386.4" stroke="#D8D2C2" stroke-width="1" />
+<text x="800" y="420.4" font-size="17.51" font-weight="400" fill="#4F625F">形状像，原因不同。<tspan x="800" dy="27.81">让学生分别写出「卡住的是什么」。</tspan></text>
+
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">21</text>
+</g>
+</svg>

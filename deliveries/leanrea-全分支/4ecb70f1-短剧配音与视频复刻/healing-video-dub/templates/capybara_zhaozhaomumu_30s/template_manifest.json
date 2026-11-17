@@ -1,0 +1,136 @@
+{
+  "template_id": "capybara_zhaozhaomumu_30s",
+  "title": "治愈系小水豚情侣三幕30s丝滑模板（朝·晨光 -> 暮·晚霞 -> 朝朝暮暮·星夜微推镜）",
+  "architecture": "A1_native_smooth_24fps_3act_30s",
+  "video_file": "video_1080p24_30s_muted.mp4",
+  "bgm_sfx_file": "stems/bgm_30s_three_kisses.flac",
+  "speaker_profiles_file": "speaker_profiles.json",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24.0,
+  "frames": 721,
+  "duration_sec": 30.0417,
+  "sfx_guard_zones": [
+    {
+      "id": "kiss_act1_morning",
+      "start_sec": 3.32,
+      "end_sec": 4.12,
+      "peak_sec": 3.55,
+      "description": "第一幕·朝：晨光偷亲脸颊音效区"
+    },
+    {
+      "id": "kiss_act2_dusk",
+      "start_sec": 15.88,
+      "end_sec": 16.68,
+      "peak_sec": 16.1,
+      "description": "第二幕·暮：晚霞依偎亲脸颊音效区"
+    },
+    {
+      "id": "kiss_act3_promise",
+      "start_sec": 23.32,
+      "end_sec": 24.12,
+      "peak_sec": 23.55,
+      "description": "第三幕·合：星夜约定亲脸颊音效区"
+    }
+  ],
+  "dialogue_slots": [
+    {
+      "slot_id": "act1_s1",
+      "speaker": "lumei",
+      "start_sec": 1.55,
+      "end_sec": 3.2,
+      "max_chars_hint": 9,
+      "visual_cue": "第一幕[朝]：撸妹晨光醒来俏皮开口"
+    },
+    {
+      "slot_id": "act1_s2",
+      "speaker": "lulu",
+      "start_sec": 4.22,
+      "end_sec": 5.82,
+      "max_chars_hint": 9,
+      "visual_cue": "第一幕[朝]：噜噜被亲醒温柔回应"
+    },
+    {
+      "slot_id": "act1_s3",
+      "speaker": "lumei",
+      "start_sec": 6.15,
+      "end_sec": 7.68,
+      "max_chars_hint": 9,
+      "visual_cue": "第一幕[朝]：撸妹埋肩撒娇"
+    },
+    {
+      "slot_id": "act1_s4",
+      "speaker": "lulu",
+      "start_sec": 7.8,
+      "end_sec": 9.6,
+      "max_chars_hint": 10,
+      "visual_cue": "第一幕[朝]：噜噜眯眼宠溺点题「朝朝」"
+    },
+    {
+      "slot_id": "act2_s1",
+      "speaker": "lulu",
+      "start_sec": 10.4,
+      "end_sec": 12.2,
+      "max_chars_hint": 10,
+      "visual_cue": "第二幕[暮]：画面渐染橘色晚霞，噜噜温柔开口"
+    },
+    {
+      "slot_id": "act2_s2",
+      "speaker": "lumei",
+      "start_sec": 12.32,
+      "end_sec": 13.85,
+      "max_chars_hint": 9,
+      "visual_cue": "第二幕[暮]：撸妹窝在怀里撒娇"
+    },
+    {
+      "slot_id": "act2_s3",
+      "speaker": "lulu",
+      "start_sec": 14.18,
+      "end_sec": 15.78,
+      "max_chars_hint": 9,
+      "visual_cue": "第二幕[暮]：噜噜承诺日落归家"
+    },
+    {
+      "slot_id": "act2_s4",
+      "speaker": "lumei",
+      "start_sec": 16.8,
+      "end_sec": 18.45,
+      "max_chars_hint": 9,
+      "visual_cue": "第二幕[暮]：晚霞亲吻后撸妹甜笑点题「暮暮」"
+    },
+    {
+      "slot_id": "act3_s1",
+      "speaker": "lumei",
+      "start_sec": 21.55,
+      "end_sec": 23.2,
+      "max_chars_hint": 9,
+      "visual_cue": "第三幕[合]：星夜微推镜，撸妹许下四季心愿"
+    },
+    {
+      "slot_id": "act3_s2",
+      "speaker": "lulu",
+      "start_sec": 24.22,
+      "end_sec": 25.82,
+      "max_chars_hint": 9,
+      "visual_cue": "第三幕[合]：噜噜温柔回应三餐四季"
+    },
+    {
+      "slot_id": "act3_s3",
+      "speaker": "lumei",
+      "start_sec": 26.15,
+      "end_sec": 27.68,
+      "max_chars_hint": 9,
+      "visual_cue": "第三幕[合]：撸妹抬头确认日出到日暮"
+    },
+    {
+      "slot_id": "act3_s4",
+      "speaker": "lulu",
+      "start_sec": 27.8,
+      "end_sec": 29.6,
+      "max_chars_hint": 10,
+      "visual_cue": "第三幕[合]：噜噜终极点题「走过你的朝朝暮暮」"
+    }
+  ]
+}

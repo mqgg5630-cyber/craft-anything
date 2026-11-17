@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">大分子怎么走</text>
+<text x="76" y="190" font-family="Songti SC, STSong, SimSun, serif" font-size="39.14" font-weight="700" fill="#16282A" letter-spacing="0.78">二十一、大分子怎么走</text>
+<text x="76" y="264.74" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">01</text>
+<text x="122" y="264.74" font-size="19.57" font-weight="400" fill="#16282A">胞吞：膜凹陷包住 → 形成囊泡进入</text>
+<line x1="122" y1="300.27" x2="624" y2="300.27" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="316.75" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">02</text>
+<text x="122" y="316.75" font-size="19.57" font-weight="400" fill="#16282A">胞吐：囊泡与膜融合 → 排出</text>
+<line x1="122" y1="352.29" x2="624" y2="352.29" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="368.77" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">03</text>
+<text x="122" y="368.77" font-size="19.57" font-weight="400" fill="#16282A">耗能，不用载体，不直接跨膜</text>
+<image href="../../assets/deck-images/membrane-light.jpg" x="700.0" y="150.0" width="504.0" height="396.0" preserveAspectRatio="xMidYMid meet" />
+<rect x="700" y="206.25" width="504" height="283.5" fill="none" stroke="#16282A" stroke-width="1.1" />
+<text x="700" y="572" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-7　胞吞胞吐：耗能、不用载体、不跨膜</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">22</text>
+</g>
+</svg>

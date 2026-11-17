@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#FAF3E3" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<path d="M74.0,104.0 C78.5,101.6 81.5,106.6 84.0,104.6 C89.0,102.2 92.0,106.4 94.0,104.2 C110.0,101.8 82.0,106.2 104.0,103.4" fill="none" stroke="#B5852B" stroke-width="2.6" stroke-linecap="round" /><text x="116" y="96" font-size="16.67" font-weight="600" fill="#1A2A26" letter-spacing="1.84">变式三：换底物</text>
+<text x="76" y="174" font-family="Songti SC, STSong, SimSun, serif" font-size="36.8" font-weight="700" fill="#1A2A26">再换一个维度：底物越加越多</text>
+<rect x="138" y="216" width="648" height="380" fill="#F2E6CB" />
+<line x1="190" y1="500" x2="756" y2="500" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="440" x2="756" y2="440" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="380" x2="756" y2="380" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="320" x2="756" y2="320" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="220" x2="190" y2="560" stroke="#1A2A26" stroke-width="1.2" />
+<line x1="190" y1="560" x2="760" y2="560" stroke="#1A2A26" stroke-width="1.2" />
+<text x="176" y="214" font-size="16.1" font-weight="400" fill="#5B6B5F" text-anchor="end">反应速率</text>
+<text x="760" y="590" font-size="16.1" font-weight="400" fill="#5B6B5F" text-anchor="end">底物浓度</text>
+<path d="M200.0,524.1 L206.8,524.0 L213.5,523.6 L220.2,523.0 L227.0,522.2 L233.8,521.3 L240.5,520.2 L247.2,518.9 L254.0,517.5 L260.8,516.0 L267.5,514.3 L274.2,512.4 L281.0,510.4 L287.8,508.3 L294.5,506.0 L301.2,503.7 L308.0,501.1 L314.8,498.5 L321.5,495.7 L328.2,492.8 L335.0,489.8 L341.8,486.6 L348.5,483.3 L355.2,479.9 L362.0,476.4 L368.8,472.8 L375.5,469.0 L382.2,465.2 L389.0,461.2 L395.8,457.1 L402.5,452.9 L409.2,448.5 L416.0,444.1 L422.8,439.5 L429.5,434.8 L436.2,430.1 L443.0,425.2 L449.8,420.2 L456.5,415.1 L463.2,409.8 L470.0,404.5 L476.8,399.1 L483.5,393.5 L490.2,387.9 L497.0,382.1 L503.8,382.3 L510.5,382.5 L517.2,382.8 L524.0,383.0 L530.8,383.2 L537.5,383.4 L544.2,383.6 L551.0,383.8 L557.8,384.0 L564.5,384.2 L571.2,384.5 L578.0,384.7 L584.8,384.9 L591.5,385.1 L598.2,385.3 L605.0,385.5 L611.8,385.7 L618.5,386.0 L625.2,386.2 L632.0,386.4 L638.8,386.6 L645.5,386.8 L652.2,387.0 L659.0,387.2 L665.8,387.4 L672.5,387.7 L679.2,387.9 L686.0,388.1 L692.8,388.3 L699.5,388.5 L706.2,388.7 L713.0,388.9 L719.8,389.1 L726.5,389.4 L733.2,389.6 L740.0,389.8" fill="none" stroke="#2D6A54" stroke-width="2.6" stroke-linecap="round" />
+<line x1="800" y1="300" x2="852" y2="300" stroke="#2D6A54" stroke-width="2.6" />
+<text x="866" y="306" font-size="20.7" font-weight="400" fill="#1A2A26">酶已全部投入工作</text>
+<line x1="800" y1="350" x2="1204" y2="350" stroke="#E3D6BD" stroke-width="1" />
+<text x="800" y="384" font-size="19.55" font-weight="400" fill="#5B6B5F">平台不是门槛，是酶不够用。<tspan x="800" dy="31.05">这一条最容易错。</tspan></text>
+
+<path d="M76.0,650.0 C92.8,647.6 104.0,652.6 113.3,650.6 C132.0,648.2 143.2,652.4 150.7,650.2 C166.7,647.8 166.0,652.2 188.0,649.4" fill="none" stroke="#E3D6BD" stroke-width="1.6" stroke-linecap="round" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="24.15" font-weight="700" fill="#B94E2A">13</text><text x="110" y="686" font-size="13.8" font-weight="400" fill="#5B6B5F" fill-opacity="0.8">/15</text><text x="1204" y="686" font-size="12.65" font-weight="400" fill="#5B6B5F" text-anchor="end" letter-spacing="1.61" fill-opacity="0.75">第 5 章 · 降低化学反应活化能的酶</text>
+</g>
+</svg>

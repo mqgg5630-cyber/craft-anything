@@ -1,0 +1,27 @@
+{
+  "source_url": "https://www.tiktok.com/@tiktok/video/7106594312292453675",
+  "platform_folder": "07_TikTok素材",
+  "status": "ok",
+  "tool_used": "yt-dlp",
+  "steps": [
+    {
+      "tool": "yt-dlp",
+      "ok": true,
+      "log": "-f bv*[height<=480]+ba/b[height<=480] -> rc=1 ERROR: [TikTok] 7106594312292453675: Requested format is not available. Use --list-formats for a list of available formats\n-f 18/22/43/b -> rc=0 "
+    }
+  ],
+  "files": [
+    {
+      "name": "how many frogs did you find？ 🐸 check out tiktok’s _7106594312292453675.jpg",
+      "bytes": 57822,
+      "sha256": "6bfece455c3ae7dec2625f890deee92995b5d9357dd6be711b8b4148328020a6"
+    },
+    {
+      "name": "how many frogs did you find？ 🐸 check out tiktok’s _7106594312292453675.mp4",
+      "bytes": 3360445,
+      "sha256": "5d58665e5f1e9f82fe33e82591f0ebe719b9589858e8ef0a9caf3a00833112b2"
+    }
+  ],
+  "collected_at": "2026-11-05T10:44:00Z",
+  "note": "素材仅供研究/参考/二次创作底稿，勿直接搬运发布"
+}

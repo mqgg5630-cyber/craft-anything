@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#FAF3E3" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<path d="M74.0,104.0 C78.5,101.6 81.5,106.6 84.0,104.6 C89.0,102.2 92.0,106.4 94.0,104.2 C110.0,101.8 82.0,106.2 104.0,103.4" fill="none" stroke="#B5852B" stroke-width="2.6" stroke-linecap="round" /><text x="116" y="96" font-size="16.67" font-weight="600" fill="#1A2A26" letter-spacing="1.84">植物细胞多了一样东西</text>
+<text x="76" y="190" font-family="Songti SC, STSong, SimSun, serif" font-size="43.7" font-weight="700" fill="#1A2A26">植物细胞多了一样东西</text>
+<path d="M72.0,257.4 C86.4,255.0 96.0,260.0 104.0,258.0 C120.0,255.6 129.6,259.8 136.0,257.6 C152.0,255.2 146.0,259.6 168.0,256.8" fill="none" stroke="#B94E2A" stroke-width="2.4" stroke-linecap="round" />
+<text x="76" y="273.44" font-size="17.25" font-weight="500" fill="#B94E2A" letter-spacing="1.15">01</text>
+<text x="122" y="273.44" font-size="24.15" font-weight="400" fill="#1A2A26">细胞壁：全透性，几乎不挡水</text>
+<line x1="122" y1="316.57" x2="624" y2="316.57" stroke="#E3D6BD" stroke-width="0.9" />
+<text x="76" y="334.97" font-size="17.25" font-weight="500" fill="#B94E2A" letter-spacing="1.15">02</text>
+<text x="122" y="334.97" font-size="24.15" font-weight="400" fill="#1A2A26">原生质层：细胞膜 + 细胞质 + 液泡膜，**有<tspan x="122" dy="36.22">选择透过性**</tspan></text>
+
+<line x1="122" y1="414.32" x2="624" y2="414.32" stroke="#E3D6BD" stroke-width="0.9" />
+<text x="76" y="432.72" font-size="17.25" font-weight="500" fill="#B94E2A" letter-spacing="1.15">03</text>
+<text x="122" y="432.72" font-size="24.15" font-weight="400" fill="#1A2A26">真正起"半透膜"作用的是原生质层</text>
+<image href="../../assets/deck-images/cell-light.jpg" x="700.0" y="150.0" width="504.0" height="396.0" preserveAspectRatio="xMidYMid meet" />
+<path d="M694.0,550.0 C771.4,547.6 823.0,552.6 866.0,550.6 C952.0,548.2 1003.6,552.4 1038.0,550.2 C1054.0,547.8 1188.0,552.2 1210.0,549.4" fill="none" stroke="#B94E2A" stroke-width="2.2" stroke-linecap="round" />
+<text x="700" y="580" font-family="Songti SC, STSong, SimSun, serif" font-size="15.52" font-weight="400" fill="#5B6B5F" letter-spacing="1.15" fill-opacity="0.9">植物细胞剖面（铜版画风格示意）</text>
+<path d="M76.0,650.0 C92.8,647.6 104.0,652.6 113.3,650.6 C132.0,648.2 143.2,652.4 150.7,650.2 C166.7,647.8 166.0,652.2 188.0,649.4" fill="none" stroke="#E3D6BD" stroke-width="1.6" stroke-linecap="round" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="24.15" font-weight="700" fill="#B94E2A">06</text><text x="110" y="686" font-size="13.8" font-weight="400" fill="#5B6B5F" fill-opacity="0.8">/24</text><text x="1204" y="686" font-size="12.65" font-weight="400" fill="#5B6B5F" text-anchor="end" letter-spacing="1.61" fill-opacity="0.75">第 4 章 · 细胞的物质输入和输出</text>
+</g>
+</svg>

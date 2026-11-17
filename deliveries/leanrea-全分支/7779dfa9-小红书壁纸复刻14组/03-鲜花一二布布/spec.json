@@ -1,0 +1,61 @@
+{
+  "title": "一二布布 · 鲜花壁纸复刻 10 张",
+  "subtitle": "复刻自 一二布布壁纸分享（Neverland）《永远开满了鲜花》(6ae3391a) · 01–05 逐张复刻 · 06–10 同风格新场景 · 1536×2752 · AI 生成",
+  "canvas": [
+    1536,
+    2752
+  ],
+  "prefix": "鲜花",
+  "pages": [
+    {
+      "n": 1,
+      "name": "百合花田小路",
+      "anchor": "center"
+    },
+    {
+      "n": 2,
+      "name": "紫藤架下午茶",
+      "anchor": "center"
+    },
+    {
+      "n": 3,
+      "name": "红花树下送花",
+      "anchor": "center"
+    },
+    {
+      "n": 4,
+      "name": "雪夜红梅提灯",
+      "anchor": "center"
+    },
+    {
+      "n": 5,
+      "name": "牡丹园插花",
+      "anchor": "center"
+    },
+    {
+      "n": 6,
+      "name": "油菜花田放风筝",
+      "anchor": "center"
+    },
+    {
+      "n": 7,
+      "name": "绣球花雨巷",
+      "anchor": "center"
+    },
+    {
+      "n": 8,
+      "name": "荷塘木栈道",
+      "anchor": "center"
+    },
+    {
+      "n": 9,
+      "name": "薰衣草花田黄昏",
+      "anchor": "center"
+    },
+    {
+      "n": 10,
+      "name": "桂花院落茶歇",
+      "anchor": "center"
+    }
+  ]
+}

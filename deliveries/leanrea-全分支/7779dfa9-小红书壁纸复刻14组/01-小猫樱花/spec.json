@@ -1,0 +1,21 @@
+{
+  "title": "小猫和樱花 · 治愈系壁纸复刻 10 张",
+  "subtitle": "复刻自 屏上集《治愈系壁纸｜小猫和樱花》(6ae8870f) · 01–04 逐张复刻 · 05–10 同系列新场景 · 1440×3200 干净壁纸 · 无手机UI · AI 生成",
+  "canvas": [1440, 3200],
+  "date": "Saturday, November 7",
+  "time": "09:41",
+  "prefix": "小猫",
+  "cover": {"left": 1, "right": 5},
+  "pages": [
+    {"n": 1,  "name": "樱花晴日",   "overlay": "lock", "from": "原图1 复刻", "line": "樱花树下，五只猫看海"},
+    {"n": 2,  "name": "海边日落",   "overlay": "home", "from": "原图2 复刻", "line": "太阳落进海里的那一刻"},
+    {"n": 3,  "name": "雨后彩虹",   "overlay": "lock", "from": "原图3 复刻", "line": "雨停了，趴墙头等彩虹"},
+    {"n": 4,  "name": "黄昏许愿",   "overlay": "lock", "from": "原图4 复刻", "line": "对着晚霞许个愿"},
+    {"n": 5,  "name": "樱吹雪",     "overlay": "lock", "from": "新场景",     "line": "一阵风，满天花瓣"},
+    {"n": 6,  "name": "夏日向日葵", "overlay": "home", "from": "新场景",     "line": "蓝天白云，帆船开过"},
+    {"n": 7,  "name": "秋日红叶",   "overlay": "lock", "from": "新场景",     "line": "银杏叶落在头顶"},
+    {"n": 8,  "name": "雪日山茶",   "overlay": "lock", "from": "新场景",     "line": "挤在一起最暖和"},
+    {"n": 9,  "name": "星夜萤火",   "overlay": "lock", "from": "新场景",     "line": "一起数星星"},
+    {"n": 10, "name": "晨雾热气球", "overlay": "home", "from": "新场景",     "line": "刚睡醒的清晨"}
+  ]
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="section">
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/onion-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" fill-opacity="0.55" />
+<text x="76" y="268" font-family="Songti SC, STSong, SimSun, serif" font-size="111.24" font-weight="700" fill="#F7F4EA" letter-spacing="6.18">03</text>
+<line x1="76" y1="300" x2="196" y2="300" stroke="#F7F4EA" stroke-width="2" />
+<text x="76" y="392" font-family="Songti SC, STSong, SimSun, serif" font-size="47.38" font-weight="700" fill="#F7F4EA" letter-spacing="0.95">十七、膜上装了一台水泵</text>
+<line x1="76" y1="452.86" x2="172" y2="452.86" stroke="#F7F4EA" stroke-width="2.4" />
+<text x="76" y="510.86" font-size="19.57" font-weight="400" fill="#F7F4EA" fill-opacity="0.82">第 3 课时 · 主动运输与胞吞胞吐</text>
+</g>
+</svg>

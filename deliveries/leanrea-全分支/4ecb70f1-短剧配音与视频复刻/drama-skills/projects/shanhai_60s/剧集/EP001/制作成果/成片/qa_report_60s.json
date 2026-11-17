@@ -1,0 +1,18 @@
+{
+  "file": "drama-skills/projects/shanhai_60s/剧集/EP001/制作成果/成片/shanhai_xunguang_60s_final.mp4",
+  "size_mb": 24.3,
+  "resolution": "1080x1920",
+  "fps": 24.0,
+  "frames": 1440,
+  "video_duration_s": 60.0,
+  "audio_duration_s": 60.0,
+  "min_luma_after_fade": 79.51,
+  "max_frame_jump_mad": 17.01,
+  "mean_motion_mad": 3.033,
+  "audio_rms_dbfs": -12.47,
+  "audio_peak_dbfs": -0.81,
+  "measured_lufs": -15.85,
+  "true_peak_dbtp": -7.43,
+  "drama_skills_bad_frames": [],
+  "drama_skills_audio_warnings": []
+}

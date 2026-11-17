@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#FAF3E3" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<path d="M74.0,104.0 C78.5,101.6 81.5,106.6 84.0,104.6 C89.0,102.2 92.0,106.4 94.0,104.2 C110.0,101.8 82.0,106.2 104.0,103.4" fill="none" stroke="#B5852B" stroke-width="2.6" stroke-linecap="round" /><text x="116" y="96" font-size="16.67" font-weight="600" fill="#1A2A26" letter-spacing="1.84">第 4 章 · 细胞的物质输入和输出</text>
+<text x="76" y="300" font-family="Songti SC, STSong, SimSun, serif" font-size="55.2" font-weight="700" fill="#1A2A26">渗透作用，两个条件：<tspan x="76" dy="80.04">半透膜 + 浓度差</tspan></text>
+
+<path d="M72.0,472.1 C105.0,469.7 127.0,474.7 145.3,472.7 C182.0,470.3 204.0,474.5 218.7,472.3 C234.7,469.9 270.0,474.3 292.0,471.5" fill="none" stroke="#E3D6BD" stroke-width="2.2" stroke-linecap="round" />
+<text x="76" y="533.68" font-size="23" font-weight="400" fill="#5B6B5F">水从「水多」的一侧，净流向「水少」的一侧。两个条件缺一个，都不发生。</text>
+<path d="M76.0,650.0 C92.8,647.6 104.0,652.6 113.3,650.6 C132.0,648.2 143.2,652.4 150.7,650.2 C166.7,647.8 166.0,652.2 188.0,649.4" fill="none" stroke="#E3D6BD" stroke-width="1.6" stroke-linecap="round" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="24.15" font-weight="700" fill="#B94E2A">04</text><text x="110" y="686" font-size="13.8" font-weight="400" fill="#5B6B5F" fill-opacity="0.8">/24</text><text x="1204" y="686" font-size="12.65" font-weight="400" fill="#5B6B5F" text-anchor="end" letter-spacing="1.61" fill-opacity="0.75">第 4 章 · 细胞的物质输入和输出</text>
+</g>
+</svg>

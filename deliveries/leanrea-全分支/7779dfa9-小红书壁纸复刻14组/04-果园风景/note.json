@@ -1,0 +1,881 @@
+{
+ "note_id": "6add94a2000000002c0202f9",
+ "title": "水果里藏着风景｜AI厚涂油画附提示词",
+ "desc": "用厚涂油画，给水果做个不一样的风格，如果你也喜欢，分享提示词如下：\n\t\n油画风格，3D水果微景观，真实刮刀厚涂，以厚薄不同的颜料堆叠塑造浮雕般立体感。居中斜构图，一抹【主色】颜料从左下向右上自然延伸，画面中央呈现【水果及其完整或切开的形态】，保留水果清晰可辨的轮廓、果皮与果肉纹理，将其局部巧妙转化为【山谷／海湾／瀑布／花坡／云岛】，景观从水果内部自然延伸，与颜料笔触形成的【地形或环境】融为一体，周围疏朗点缀【相关花朵、叶片或小物件】，构成一个藏在水果里的梦幻微缩世界。水果与景物均由立体油画笔触塑形，厚涂处形成凸起脊线，薄涂处透出纸纹，色彩清新柔和，主体突出，细节精致。极简斜俯视图，柔和侧光，自然浅投影，主体完整居中，四周大面积留白，白色纹理纸质背景。画面比例3:4，无文字、无水印、无边框。\n\t\n#AIGC[话题]# #aigc[话题]# #AI新手村[话题]# #美食插画[话题]# #AI教程[话题]# #AI新星计划[话题]# #aha这也是艺术[话题]# #水果壁纸[话题]# #AI生成[话题]# #AI生图[话题]# @艺术薯",
+ "nickname": "寒雪AI设计说",
+ "user_id": "5b164e754eacab73b62eecb2",
+ "tags": [
+  "AIGC",
+  "aigc",
+  "AI新手村",
+  "美食插画",
+  "AI教程",
+  "AI新星计划",
+  "aha这也是艺术",
+  "水果壁纸",
+  "AI生成",
+  "AI生图"
+ ],
+ "time": 1792920630000,
+ "ip_location": "陕西",
+ "interact": {
+  "likedCount": "2045",
+  "collectedCount": "1165",
+  "commentCount": "92",
+  "shareCount": "156"
+ },
+ "images": [
+  {
+   "index": 1,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/2cb3907b2b57793ad9079b89f3e7a44c/notes_pre_post/1040g3k0326qejnch4q004a5v1s77br5i0q8o2b8!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/d9670c70ea452bf16a0cb3f8e5929ce6/notes_pre_post/1040g3k0326qejnch4q004a5v1s77br5i0q8o2b8!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 2,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/7b0a033a7196a1c5117fafe450184a09/notes_pre_post/1040g3k0326qejnch4q0g4a5v1s77br5i1uqhcno!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/7ca6913e0250c98cabe58313602d09e6/notes_pre_post/1040g3k0326qejnch4q0g4a5v1s77br5i1uqhcno!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 3,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/ec372c29fd06bdd4ca366c8d858caefe/notes_pre_post/1040g3k0326qejnch4q104a5v1s77br5igovi3r8!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/f7c38787f47c6eee226aa1b847df5973/notes_pre_post/1040g3k0326qejnch4q104a5v1s77br5igovi3r8!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 4,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/a223c110a0ee8caca5d44ea93472ea20/notes_pre_post/1040g3k0326qejnch4q1g4a5v1s77br5ippmuqf8!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/79b07b886c06ec37a29f0bf5db876e2e/notes_pre_post/1040g3k0326qejnch4q1g4a5v1s77br5ippmuqf8!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 5,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/c1f0f42ac5ef423ebafe4b87b3650e52/notes_pre_post/1040g3k0326qejnch4q204a5v1s77br5ijkbb890!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/55d1bcbfdc29cafe3c1f76ccb4f68061/notes_pre_post/1040g3k0326qejnch4q204a5v1s77br5ijkbb890!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 6,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/7d11b007550c1bc5ce1dea13082501d9/notes_pre_post/1040g3k0326qejnch4q304a5v1s77br5in4g6d00!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/fe8a6349d4fccc5f315fe4454d0f944f/notes_pre_post/1040g3k0326qejnch4q304a5v1s77br5in4g6d00!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 7,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/3cc41d47ac79c88f3ceeee48d594bbf7/notes_pre_post/1040g3k0326qejnch4q504a5v1s77br5i4o71bcg!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/e2d805081a4c58c56572b06d6c6ec109/notes_pre_post/1040g3k0326qejnch4q504a5v1s77br5i4o71bcg!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 8,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/26074d49aec5b7a9032d5b6f840fda86/notes_pre_post/1040g3k0326qejnch4q404a5v1s77br5ih8vcaq0!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/d0c4b074b7d9111cc6f674adb2766f6a/notes_pre_post/1040g3k0326qejnch4q404a5v1s77br5ih8vcaq0!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 9,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/1b28cedab288648c50ea0db063a1cc7d/notes_pre_post/1040g3k0326qejnch4q4g4a5v1s77br5ij4t3an8!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/2f117c174ba58447651117d4106ca8bb/notes_pre_post/1040g3k0326qejnch4q4g4a5v1s77br5ij4t3an8!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 10,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/a4e9da2676a4347e69d27934a1f297ef/notes_pre_post/1040g3k0326qejnch4q2g4a5v1s77br5ivmsojio!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/be7c5b0a73733b4d59a9127f44de7a9a/notes_pre_post/1040g3k0326qejnch4q2g4a5v1s77br5ivmsojio!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 11,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/61dea6287254f9d9d73fbfcf20e3103f/notes_pre_post/1040g3k0326qejnch4q3g4a5v1s77br5itm8hkvo!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/0f1a11efaa71177ae7691ed69f18de82/notes_pre_post/1040g3k0326qejnch4q3g4a5v1s77br5itm8hkvo!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  },
+  {
+   "index": 12,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101728/f45e25c521bf0526ca21964e62055753/notes_pre_post/1040g3k0326qejnch4q5g4a5v1s77br5idl8ipo8!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101728/034163d229b6f2ad7859c8b0d35c32e9/notes_pre_post/1040g3k0326qejnch4q5g4a5v1s77br5idl8ipo8!nd_prv_wlteh_webp_3",
+   "width": 1086,
+   "height": 1448,
+   "live_photo": false
+  }
+ ],
+ "parse": "json",
+ "fetch": {
+  "http_status": 200,
+  "final_url": "https://www.rednote.com/discovery/item/6add94a2000000002c0202f9?xsec_token=CB8wvpXtfnUKo08XDAhToUmIKI51aFR0vVzlANQiLPo3g=&xsec_source=pc_share",
+  "html_bytes": 368372
+ },
+ "type": "normal",
+ "images_source": "page",
+ "downloads": [
+  {
+   "index": 1,
+   "token": "notes_pre_post/1040g3k0326qejnch4q004a5v1s77br5i0q8o2b8",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q004a5v1s77br5i0q8o2b8",
+     "ok": true,
+     "bytes": 3269656,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q004a5v1s77br5i0q8o2b8?imageView2/format/png",
+     "ok": true,
+     "bytes": 2872621,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q004a5v1s77br5i0q8o2b8?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 252958,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/2cb3907b2b57793ad9079b89f3e7a44c/notes_pre_post/1040g3k0326qejnch4q004a5v1s77br5i0q8o2b8!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 238828,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "01.png",
+   "variant": "original",
+   "bytes": 3269656,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 2,
+   "token": "notes_pre_post/1040g3k0326qejnch4q0g4a5v1s77br5i1uqhcno",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q0g4a5v1s77br5i1uqhcno",
+     "ok": true,
+     "bytes": 3476237,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q0g4a5v1s77br5i1uqhcno?imageView2/format/png",
+     "ok": true,
+     "bytes": 3110773,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q0g4a5v1s77br5i1uqhcno?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 297767,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/7b0a033a7196a1c5117fafe450184a09/notes_pre_post/1040g3k0326qejnch4q0g4a5v1s77br5i1uqhcno!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 296342,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "02.png",
+   "variant": "original",
+   "bytes": 3476237,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 3,
+   "token": "notes_pre_post/1040g3k0326qejnch4q104a5v1s77br5igovi3r8",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q104a5v1s77br5igovi3r8",
+     "ok": true,
+     "bytes": 3354936,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q104a5v1s77br5igovi3r8?imageView2/format/png",
+     "ok": true,
+     "bytes": 3053792,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q104a5v1s77br5igovi3r8?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 276852,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/ec372c29fd06bdd4ca366c8d858caefe/notes_pre_post/1040g3k0326qejnch4q104a5v1s77br5igovi3r8!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 264142,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "03.png",
+   "variant": "original",
+   "bytes": 3354936,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 4,
+   "token": "notes_pre_post/1040g3k0326qejnch4q1g4a5v1s77br5ippmuqf8",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q1g4a5v1s77br5ippmuqf8",
+     "ok": true,
+     "bytes": 3310205,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q1g4a5v1s77br5ippmuqf8?imageView2/format/png",
+     "ok": true,
+     "bytes": 2915364,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q1g4a5v1s77br5ippmuqf8?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 248054,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/a223c110a0ee8caca5d44ea93472ea20/notes_pre_post/1040g3k0326qejnch4q1g4a5v1s77br5ippmuqf8!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 243910,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "04.png",
+   "variant": "original",
+   "bytes": 3310205,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 5,
+   "token": "notes_pre_post/1040g3k0326qejnch4q204a5v1s77br5ijkbb890",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q204a5v1s77br5ijkbb890",
+     "ok": true,
+     "bytes": 3630569,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q204a5v1s77br5ijkbb890?imageView2/format/png",
+     "ok": true,
+     "bytes": 3378360,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q204a5v1s77br5ijkbb890?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 328880,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/c1f0f42ac5ef423ebafe4b87b3650e52/notes_pre_post/1040g3k0326qejnch4q204a5v1s77br5ijkbb890!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 335016,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "05.png",
+   "variant": "original",
+   "bytes": 3630569,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 6,
+   "token": "notes_pre_post/1040g3k0326qejnch4q304a5v1s77br5in4g6d00",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q304a5v1s77br5in4g6d00",
+     "ok": true,
+     "bytes": 3178730,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q304a5v1s77br5in4g6d00?imageView2/format/png",
+     "ok": true,
+     "bytes": 2896008,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q304a5v1s77br5in4g6d00?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 263728,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/7d11b007550c1bc5ce1dea13082501d9/notes_pre_post/1040g3k0326qejnch4q304a5v1s77br5in4g6d00!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 242172,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "06.png",
+   "variant": "original",
+   "bytes": 3178730,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 7,
+   "token": "notes_pre_post/1040g3k0326qejnch4q504a5v1s77br5i4o71bcg",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q504a5v1s77br5i4o71bcg",
+     "ok": true,
+     "bytes": 3419335,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q504a5v1s77br5i4o71bcg?imageView2/format/png",
+     "ok": true,
+     "bytes": 3100069,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q504a5v1s77br5i4o71bcg?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 268042,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/3cc41d47ac79c88f3ceeee48d594bbf7/notes_pre_post/1040g3k0326qejnch4q504a5v1s77br5i4o71bcg!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 264716,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "07.png",
+   "variant": "original",
+   "bytes": 3419335,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 8,
+   "token": "notes_pre_post/1040g3k0326qejnch4q404a5v1s77br5ih8vcaq0",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q404a5v1s77br5ih8vcaq0",
+     "ok": true,
+     "bytes": 2960730,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q404a5v1s77br5ih8vcaq0?imageView2/format/png",
+     "ok": true,
+     "bytes": 2596489,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q404a5v1s77br5ih8vcaq0?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 204070,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/26074d49aec5b7a9032d5b6f840fda86/notes_pre_post/1040g3k0326qejnch4q404a5v1s77br5ih8vcaq0!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 169678,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "08.png",
+   "variant": "original",
+   "bytes": 2960730,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 9,
+   "token": "notes_pre_post/1040g3k0326qejnch4q4g4a5v1s77br5ij4t3an8",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q4g4a5v1s77br5ij4t3an8",
+     "ok": true,
+     "bytes": 3022820,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q4g4a5v1s77br5ij4t3an8?imageView2/format/png",
+     "ok": true,
+     "bytes": 2673585,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q4g4a5v1s77br5ij4t3an8?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 233468,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/1b28cedab288648c50ea0db063a1cc7d/notes_pre_post/1040g3k0326qejnch4q4g4a5v1s77br5ij4t3an8!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 207592,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "09.png",
+   "variant": "original",
+   "bytes": 3022820,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 10,
+   "token": "notes_pre_post/1040g3k0326qejnch4q2g4a5v1s77br5ivmsojio",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q2g4a5v1s77br5ivmsojio",
+     "ok": true,
+     "bytes": 3460392,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q2g4a5v1s77br5ivmsojio?imageView2/format/png",
+     "ok": true,
+     "bytes": 3155170,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q2g4a5v1s77br5ivmsojio?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 271455,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/a4e9da2676a4347e69d27934a1f297ef/notes_pre_post/1040g3k0326qejnch4q2g4a5v1s77br5ivmsojio!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 264812,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "10.png",
+   "variant": "original",
+   "bytes": 3460392,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 11,
+   "token": "notes_pre_post/1040g3k0326qejnch4q3g4a5v1s77br5itm8hkvo",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q3g4a5v1s77br5itm8hkvo",
+     "ok": true,
+     "bytes": 3093172,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q3g4a5v1s77br5itm8hkvo?imageView2/format/png",
+     "ok": true,
+     "bytes": 2662427,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q3g4a5v1s77br5itm8hkvo?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 193579,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/61dea6287254f9d9d73fbfcf20e3103f/notes_pre_post/1040g3k0326qejnch4q3g4a5v1s77br5itm8hkvo!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 165594,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "11.png",
+   "variant": "original",
+   "bytes": 3093172,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  },
+  {
+   "index": 12,
+   "token": "notes_pre_post/1040g3k0326qejnch4q5g4a5v1s77br5idl8ipo8",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0326qejnch4q5g4a5v1s77br5idl8ipo8",
+     "ok": true,
+     "bytes": 2874339,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q5g4a5v1s77br5idl8ipo8?imageView2/format/png",
+     "ok": true,
+     "bytes": 2478580,
+     "format": "PNG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0326qejnch4q5g4a5v1s77br5idl8ipo8?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 174013,
+     "format": "JPEG",
+     "size": [
+      1086,
+      1448
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101728/f45e25c521bf0526ca21964e62055753/notes_pre_post/1040g3k0326qejnch4q5g4a5v1s77br5idl8ipo8!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 134148,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "12.png",
+   "variant": "original",
+   "bytes": 2874339,
+   "format": "PNG",
+   "size": [
+    1086,
+    1448
+   ]
+  }
+ ],
+ "source_url": "https://www.xiaohongshu.com/discovery/item/6add94a2000000002c0202f9?xsec_token=CB8wvpXtfnUKo08XDAhToUmIKI51aFR0vVzlANQiLPo3g=&xsec_source=pc_share",
+ "fetched_at_utc": "2026-11-10T09:30:39Z"
+}

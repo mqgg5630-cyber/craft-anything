@@ -1,0 +1,111 @@
+{
+ "note_id": "6ae49d260000000013001c00",
+ "title": "金鱼游动 福气满满",
+ "desc": "谁懂啊！这画直接把“好运爆棚”画活了😭\n#用插画表现情绪[话题]# #锦鲤鱼池[话题]# #年年有余年年有鱼[话题]# #好运连连[话题]# #鲤鱼[话题]# #子非鱼安知鱼之乐[话题]# #所愿即所求[话题]# #鱼儿水中游[话题]# #精品锦鲤[话题]# #愿所得皆所期所求皆所愿[话题]#",
+ "nickname": "封闭货车_",
+ "user_id": "6acbe102000000001a00bdad",
+ "tags": [
+  "用插画表现情绪",
+  "锦鲤鱼池",
+  "年年有余年年有鱼",
+  "好运连连",
+  "鲤鱼",
+  "子非鱼安知鱼之乐",
+  "所愿即所求",
+  "鱼儿水中游",
+  "精品锦鲤",
+  "愿所得皆所期所求皆所愿"
+ ],
+ "time": 1793367334000,
+ "ip_location": "山西",
+ "interact": {
+  "likedCount": "1067",
+  "collectedCount": "134",
+  "commentCount": "162",
+  "shareCount": "12"
+ },
+ "images": [
+  {
+   "index": 1,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611101644/15c022d927a208b67827a592364b661b/oss-ae/notes/1040g3ug326uudldngi005qmbs416hfddq0sl890!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611101644/46888a4296d4dfd2425bc6451ff4519e/oss-ae/notes/1040g3ug326uudldngi005qmbs416hfddq0sl890!nd_prv_wlteh_webp_3",
+   "width": 1080,
+   "height": 1440,
+   "live_photo": false
+  }
+ ],
+ "parse": "json",
+ "fetch": {
+  "http_status": 200,
+  "final_url": "https://www.rednote.com/discovery/item/6ae49d260000000013001c00?xsec_token=CBIGZMm-B9V_VnP1EsAsglqwX1k--tmuzMepaIcDLBBdY=&xsec_source=pc_share",
+  "html_bytes": 349115
+ },
+ "type": "normal",
+ "images_source": "page",
+ "downloads": [
+  {
+   "index": 1,
+   "token": "oss-ae/notes/1040g3ug326uudldngi005qmbs416hfddq0sl890",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/oss-ae/notes/1040g3ug326uudldngi005qmbs416hfddq0sl890",
+     "ok": true,
+     "bytes": 2374145,
+     "format": "PNG",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/oss-ae/notes/1040g3ug326uudldngi005qmbs416hfddq0sl890?imageView2/format/png",
+     "ok": true,
+     "bytes": 2019056,
+     "format": "PNG",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/oss-ae/notes/1040g3ug326uudldngi005qmbs416hfddq0sl890?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 211580,
+     "format": "JPEG",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611101644/15c022d927a208b67827a592364b661b/oss-ae/notes/1040g3ug326uudldngi005qmbs416hfddq0sl890!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 228184,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1440
+     ],
+     "err": ""
+    }
+   ],
+   "file": "01.png",
+   "variant": "original",
+   "bytes": 2374145,
+   "format": "PNG",
+   "size": [
+    1080,
+    1440
+   ]
+  }
+ ],
+ "source_url": "https://www.xiaohongshu.com/discovery/item/6ae49d260000000013001c00?xsec_token=CBIGZMm-B9V_VnP1EsAsglqwX1k--tmuzMepaIcDLBBdY=&xsec_source=pc_share",
+ "fetched_at_utc": "2026-11-10T08:44:12Z"
+}

@@ -1,0 +1,102 @@
+{
+ "note_id": "6aeeecba000000001500bd41",
+ "title": "疑似梵高的真迹🤫",
+ "desc": "#一二布布[话题]#",
+ "nickname": "布布永远爱一二",
+ "user_id": "65e3ea9c0000000005008f6a",
+ "tags": [
+  "一二布布"
+ ],
+ "time": 1794043066000,
+ "ip_location": "山东",
+ "interact": {
+  "likedCount": "37",
+  "collectedCount": "7",
+  "commentCount": "5",
+  "shareCount": "52"
+ },
+ "images": [
+  {
+   "index": 1,
+   "url_default": "http://sns-web-i10.rednotecdn.com/202611071928/687430444396f4598dc458133b3b56ea/notes_pre_post/1040g3k832790k6g3me6g5pf3tae193rahhuu5e0!nd_dft_wlteh_webp_3",
+   "url_pre": "http://sns-web-i10.rednotecdn.com/202611071928/f0a9903975570e7dd35374670ed2fe41/notes_pre_post/1040g3k832790k6g3me6g5pf3tae193rahhuu5e0!nd_prv_wlteh_webp_3",
+   "width": 1532,
+   "height": 2560,
+   "live_photo": false
+  }
+ ],
+ "parse": "json",
+ "fetch": {
+  "http_status": 200,
+  "final_url": "https://www.rednote.com/discovery/item/6aeeecba000000001500bd41?xsec_token=CBq1GujLMQPGMTvSaZDTs4ky8glgNJGTnUVSo4bkE1fb4=&xsec_source=pc_share",
+  "html_bytes": 344394
+ },
+ "type": "normal",
+ "images_source": "page",
+ "downloads": [
+  {
+   "index": 1,
+   "token": "notes_pre_post/1040g3k832790k6g3me6g5pf3tae193rahhuu5e0",
+   "tried": [
+    {
+     "variant": "original",
+     "url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k832790k6g3me6g5pf3tae193rahhuu5e0",
+     "ok": true,
+     "bytes": 1248166,
+     "format": "WEBP",
+     "size": [
+      1532,
+      2560
+     ],
+     "err": ""
+    },
+    {
+     "variant": "png",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k832790k6g3me6g5pf3tae193rahhuu5e0?imageView2/format/png",
+     "ok": true,
+     "bytes": 6504001,
+     "format": "PNG",
+     "size": [
+      1532,
+      2560
+     ],
+     "err": ""
+    },
+    {
+     "variant": "jpeg",
+     "url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k832790k6g3me6g5pf3tae193rahhuu5e0?imageView2/format/jpeg",
+     "ok": true,
+     "bytes": 725718,
+     "format": "JPEG",
+     "size": [
+      1532,
+      2560
+     ],
+     "err": ""
+    },
+    {
+     "variant": "display",
+     "url": "http://sns-web-i10.rednotecdn.com/202611071928/687430444396f4598dc458133b3b56ea/notes_pre_post/1040g3k832790k6g3me6g5pf3tae193rahhuu5e0!nd_dft_wlteh_webp_3",
+     "ok": true,
+     "bytes": 450448,
+     "format": "WEBP",
+     "size": [
+      1080,
+      1805
+     ],
+     "err": ""
+    }
+   ],
+   "file": "01.webp",
+   "variant": "original",
+   "bytes": 1248166,
+   "format": "WEBP",
+   "size": [
+    1532,
+    2560
+   ]
+  }
+ ],
+ "source_url": "https://www.xiaohongshu.com/discovery/item/6aeeecba000000001500bd41?xsec_token=CBq1GujLMQPGMTvSaZDTs4ky8glgNJGTnUVSo4bkE1fb4=&xsec_source=pc_share",
+ "fetched_at_utc": "2026-11-07T11:29:07Z"
+}

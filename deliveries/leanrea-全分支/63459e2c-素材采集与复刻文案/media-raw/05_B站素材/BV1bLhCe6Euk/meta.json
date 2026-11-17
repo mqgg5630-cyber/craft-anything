@@ -1,0 +1,31 @@
+{
+  "source_url": "https://www.bilibili.com/video/BV1bLhCe6Euk/",
+  "platform_folder": "05_B站素材",
+  "status": "failed",
+  "tool_used": null,
+  "steps": [
+    {
+      "tool": "yt-dlp",
+      "ok": false,
+      "log": "bootstrap cookies: none\n-f bv*[height<=480]+ba/b[height<=480] -> rc=1 ERROR: [BiliBili] 1bLhCe6Euk: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)\n-f 18/22/43/b -> rc=1 ERROR: [BiliBili] 1bLhCe6Euk: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)\n-f b -> rc=1 ERROR: [BiliBili] 1bLhCe6Euk: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)\n-f bv*+ba/b -> rc=1 ERROR: [BiliBili] 1bLhCe6Euk: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)\n-f worst -> rc=1 ERROR: [BiliBili] 1bLhCe6Euk: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)"
+    },
+    {
+      "tool": "bilibili-api",
+      "ok": false,
+      "log": "view api non-json: HTTP 412, '<!DOCTYPE html>\\n<html lang=\"zh-cn\">\\n\\n<head>\\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\\n'"
+    },
+    {
+      "tool": "gallery-dl",
+      "ok": false,
+      "log": "rc=64 [gallery-dl][error] Unsupported URL 'https://www.bilibili.com/video/BV1bLhCe6Euk/'"
+    },
+    {
+      "tool": "scrape",
+      "ok": false,
+      "log": "found 1 candidate urls, saved 0"
+    }
+  ],
+  "files": [],
+  "collected_at": "2026-11-05T10:43:50Z",
+  "note": "素材仅供研究/参考/二次创作底稿，勿直接搬运发布"
+}

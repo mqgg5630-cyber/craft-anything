@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="ending">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/root-light.jpg" x="810.0" y="0.0" width="470.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="810" y="0" width="470" height="720" fill="#F7F4EA" fill-opacity="0.06" />
+<rect x="809" y="0" width="1" height="720" fill="#D8D2C2" />
+<rect x="76" y="141" width="6" height="6" fill="#16282A" /><text x="92" y="150" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">第 4 章 · 细胞的物质输入和输出</text>
+<text x="76" y="322" font-family="Songti SC, STSong, SimSun, serif" font-size="47.38" font-weight="700" fill="#16282A" letter-spacing="0.95">扩散是顺其自然，<tspan x="76" dy="71.28">主动运输是有所选择。</tspan></text>
+
+<line x1="76" y1="482.55" x2="164" y2="482.55" stroke="#A8432B" stroke-width="3" />
+<text x="76" y="536.65" font-size="18.54" font-weight="400" fill="#4F625F">下课。</text>
+</g>
+</svg>

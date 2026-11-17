@@ -1,0 +1,40 @@
+{
+  "episode_id": "milk_tea_promise_30s",
+  "title": "三幕 30s 扩展范例：赖床 → 煮热奶茶 → 被窝投喂",
+  "duration_target_sec": 30.24,
+  "acts": [
+    {
+      "act": 1,
+      "time_offset_sec": 0.0,
+      "scene_note": "第一幕 (0-10s)：清晨偷亲唤醒",
+      "lines": [
+        {"slot_id": "slot1", "speaker": "lumei", "start_sec": 1.55, "end_sec": 3.20, "text": "太阳出来晒橘子啦！"},
+        {"slot_id": "slot2", "speaker": "lulu",  "start_sec": 4.22, "end_sec": 5.58, "text": "嗯？再眯两分钟…"},
+        {"slot_id": "slot3", "speaker": "lumei", "start_sec": 6.15, "end_sec": 7.68, "text": "肚子咕咕叫了嘛！"},
+        {"slot_id": "slot4", "speaker": "lulu",  "start_sec": 7.80, "end_sec": 9.60, "text": "听见啦，小馋猫醒醒！"}
+      ]
+    },
+    {
+      "act": 2,
+      "time_offset_sec": 10.08,
+      "scene_note": "第二幕 (10-20s)：点单撒娇与回应",
+      "lines": [
+        {"slot_id": "act2_s1", "speaker": "lumei", "start_sec": 11.63, "end_sec": 13.28, "text": "今天想喝热芋泥奶茶！"},
+        {"slot_id": "act2_s2", "speaker": "lulu",  "start_sec": 14.30, "end_sec": 15.66, "text": "少冰还是温热呀？"},
+        {"slot_id": "act2_s3", "speaker": "lumei", "start_sec": 16.23, "end_sec": 17.76, "text": "要温热的，加双倍波波！"},
+        {"slot_id": "act2_s4", "speaker": "lulu",  "start_sec": 17.88, "end_sec": 19.68, "text": "收到，马上给你煮一锅！"}
+      ]
+    },
+    {
+      "act": 3,
+      "time_offset_sec": 20.16,
+      "scene_note": "第三幕 (20-30s)：温柔接住收尾",
+      "lines": [
+        {"slot_id": "act3_s1", "speaker": "lumei", "start_sec": 21.71, "end_sec": 23.36, "text": "噜噜今天怎么这么好！"},
+        {"slot_id": "act3_s2", "speaker": "lulu",  "start_sec": 24.38, "end_sec": 25.74, "text": "因为答应过你呀！"},
+        {"slot_id": "act3_s3", "speaker": "lumei", "start_sec": 26.31, "end_sec": 27.84, "text": "那你先抱我一下再去！"},
+        {"slot_id": "act3_s4", "speaker": "lulu",  "start_sec": 27.96, "end_sec": 29.76, "text": "抱紧喽，我去端过来！"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">三句错话，改一下</text>
+<text x="76" y="170" font-family="Songti SC, STSong, SimSun, serif" font-size="33.99" font-weight="700" fill="#16282A" letter-spacing="0.68">十三、那句错话，改一下</text>
+<text x="76" y="255.45" font-size="24.72" font-weight="700" fill="#A8432B">✗</text>
+<text x="120" y="255.45" font-size="21.63" font-weight="400" fill="#4F625F">酶给反应提供能量</text>
+<text x="600" y="255.45" font-size="22.66" font-weight="700" fill="#2A5F55">→</text>
+<text x="646" y="255.45" font-size="21.63" font-weight="500" fill="#16282A">酶降低所需的活化能</text>
+<line x1="76" y1="294.59" x2="1204" y2="294.59" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="311.07" font-size="24.72" font-weight="700" fill="#A8432B">✗</text>
+<text x="120" y="311.07" font-size="21.63" font-weight="400" fill="#4F625F">酶让不能发生的反应发生</text>
+<text x="600" y="311.07" font-size="22.66" font-weight="700" fill="#2A5F55">→</text>
+<text x="646" y="311.07" font-size="21.63" font-weight="500" fill="#16282A">它只让能发生的，快一点</text>
+<line x1="76" y1="350.21" x2="1204" y2="350.21" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="366.69" font-size="24.72" font-weight="700" fill="#A8432B">✗</text>
+<text x="120" y="366.69" font-size="21.63" font-weight="400" fill="#4F625F">加酶以后产物更多</text>
+<text x="600" y="366.69" font-size="22.66" font-weight="700" fill="#2A5F55">→</text>
+<text x="646" y="366.69" font-size="21.63" font-weight="500" fill="#16282A">终点一样，只是更快到</text>
+<line x1="76" y1="405.83" x2="1204" y2="405.83" stroke="#D8D2C2" stroke-width="0.9" />
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 5 章 · 降低化学反应活化能的酶</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 5 章第 1 节 · 40 分钟 · 15 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">14</text>
+</g>
+</svg>

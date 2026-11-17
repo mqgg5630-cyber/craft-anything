@@ -1,0 +1,97 @@
+{
+  "title": "和你一起奔夕阳 · 噜噜噜妹 10 张",
+  "subtitle": "复刻自 等噜噜《和你一起奔夕阳 噜噜噜妹壁纸》(6ad212fc，原帖 5 张) · 01–05 逐张复刻 · 06–10 同风格新场景 · 1440×2560 (9:16 跟原帖) · AI 生成",
+  "canvas": [
+    1440,
+    2560
+  ],
+  "date": "Saturday, November 7",
+  "time": "18:02",
+  "prefix": "噜噜",
+  "cover": {
+    "left": 1,
+    "right": 7
+  },
+  "pages": [
+    {
+      "n": 1,
+      "name": "草坡小径",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图01 复刻",
+      "line": "往夕阳那边走"
+    },
+    {
+      "n": 2,
+      "name": "草坡躺平",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图02 复刻",
+      "line": "躺平，看云变成橘子色"
+    },
+    {
+      "n": 3,
+      "name": "溪石牵手",
+      "anchor": "center",
+      "overlay": "home",
+      "from": "原图03 复刻",
+      "line": "牵好，别踩湿"
+    },
+    {
+      "n": 4,
+      "name": "盘山公路",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图04 复刻",
+      "line": "这条路通向落日"
+    },
+    {
+      "n": 5,
+      "name": "码头看日落",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图05 复刻",
+      "line": "码头尽头留两个位置"
+    },
+    {
+      "n": 6,
+      "name": "山顶云海",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "新场景（风格锚 原图05）",
+      "line": "云海之上，靠一下"
+    },
+    {
+      "n": 7,
+      "name": "沙滩奔跑",
+      "anchor": "center",
+      "overlay": "home",
+      "from": "新场景（风格锚 原图01）",
+      "line": "追浪，也追太阳"
+    },
+    {
+      "n": 8,
+      "name": "稻田背背",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "新场景（风格锚 原图04）",
+      "line": "稻田里背你回家"
+    },
+    {
+      "n": 9,
+      "name": "芦苇蒲公英",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "新场景（风格锚 原图03）",
+      "line": "许个愿，吹给晚风"
+    },
+    {
+      "n": 10,
+      "name": "山坡风筝",
+      "anchor": "center",
+      "overlay": "home",
+      "from": "新场景（风格锚 原图02）",
+      "line": "风筝飞到夕阳里"
+    }
+  ]
+}

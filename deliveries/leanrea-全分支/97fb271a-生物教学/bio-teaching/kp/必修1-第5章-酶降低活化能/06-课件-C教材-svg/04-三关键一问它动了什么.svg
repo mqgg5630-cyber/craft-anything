@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/enzyme-light.jpg" x="810.0" y="0.0" width="470.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="810" y="0" width="470" height="720" fill="#F7F4EA" fill-opacity="0.06" />
+<rect x="809" y="0" width="1" height="720" fill="#D8D2C2" />
+<rect x="76" y="141" width="6" height="6" fill="#16282A" /><text x="92" y="150" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">本课唯一的问题</text>
+<text x="76" y="322" font-family="Songti SC, STSong, SimSun, serif" font-size="47.38" font-weight="700" fill="#16282A" letter-spacing="0.95">它没有被用掉，<tspan x="76" dy="71.28">也没有加能量——</tspan><tspan x="76" dy="71.27">它动了什么？</tspan></text>
+
+
+<line x1="76" y1="553.83" x2="164" y2="553.83" stroke="#A8432B" stroke-width="3" />
+<text x="76" y="607.93" font-size="18.54" font-weight="400" fill="#4F625F">这一页是本课唯一的问题，写黑板正中。不急着回答，先画<tspan x="76" dy="28.84">图。</tspan></text>
+
+</g>
+</svg>

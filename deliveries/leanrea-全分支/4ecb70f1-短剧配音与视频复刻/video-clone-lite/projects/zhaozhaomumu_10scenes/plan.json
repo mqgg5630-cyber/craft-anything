@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "走过你的朝朝暮暮 · 走出卧室10场景真实I2V复刻版（liangdabiao/video-clone-lite × Kaggle GPU）",
+    "width": 1080,
+    "height": 1920,
+    "fps": 24,
+    "aspect_ratio": "9:16",
+    "resolution": "1080p",
+    "platform": "kaggle_ltx_gpu",
+    "model": "Lightricks/LTX-Video",
+        "hf_model": "Lightricks/LTX-Video-0.9.5",
+        "gen_width": 512,
+        "gen_height": 896,
+        "num_inference_steps": 32,
+        "guidance_scale": 4.5,
+    "native_dialogue": false,
+    "min_duration": 3,
+    "points_per_second": 0
+  },
+  "references": {
+    "character_lulu": "../../../healing-video-dub/templates/character_refs/02_ref_lulu_3d_fullbody.png",
+    "character_couple": "../../../healing-video-dub/templates/character_refs/01b_ref_couple_open_eyes_3d.png",
+    "official_sheet": "../../../healing-video-dub/templates/character_refs/05_ref_official_duoai_sheet.jpg",
+    "note": "基于 Duoai多爱·水豚噜噜&噜妹 真实全身设定锚定的10张走出卧室场景首帧 + F5-TTS/Seed-VC 克隆角色声纹"
+  },
+  "structure_source": "原30s《走过你的朝朝暮暮》情绪递进节奏（朝→隅→午→晡→暮→夜），扩展为10镜×3.0s走出卧室全天治愈日常（S-A-C-S-C五要素提示词）",
+  "shots": [
+    {
+      "id": "S01",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2026,
+      "file": "shots/S01.mp4",
+      "prompt": "9:16竖屏3D毛绒动画中景，推镜缓慢平稳：晨光原木厨房里，百叶窗洒下金色丁达尔光束；左侧水豚噜噜系米白围裙穿橘棕短裤，双手稳端平底锅，锅内爱心煎蛋与吐司冒出袅袅热气；右侧水豚噜妹戴白色荷叶发芽帽穿樱花粉泡芙袖连衣裙，双手捧在蜜桃腮红旁开心点头微笑，暖调治愈自然光。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 medium shot. Two chubby golden-yellow capybara characters stand in a warm sunlit wooden kitchen. On the left, Lulu wearing a cream apron and terracotta-orange shorts gently holds a frying pan with a heart-shaped sunny-side-up egg and toast as soft white steam rises slowly upward. On the right, Lumei in a white ruffled sprout bonnet and pastel pink puff-sleeve dress clasps her paws happily near her rosy cheeks, nodding gently and smiling warmly as golden morning sunbeams stream through window blinds. Smooth subtle camera push-in, cozy warm lighting.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/01_morning_kitchen.png"
+      ],
+      "dialogue": "早安，爱心早餐出锅啦！",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s01_lumei.flac"
+    },
+    {
+      "id": "S02",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2045,
+      "file": "shots/S02.mp4",
+      "prompt": "9:16竖屏3D毛绒动画全景，跟镜缓慢前移：春日林荫绣球花石板小径，两侧粉蓝绣球花盛开；左侧头顶小橘子穿橘棕短裤的噜噜与右侧戴白荷叶帽穿浅粉连衣裙背草莓小包的噜妹手牵手缓步向前走，步伐轻柔自然，花瓣与金色光斑在斑驳树影间缓慢飘落。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 full body shot. Two chubby golden-yellow capybaras walk slowly hand-in-hand along a sunlit garden stone path lined with blooming pink and blue hydrangeas. Left capybara Lulu wears a small orange on his head and terracotta shorts; right capybara Lumei wears a white ruffled sprout bonnet, pastel pink dress, and tiny strawberry purse. Gentle swaying walking motion, pastel flower petals and golden bokeh drifting softly through dappled sunlight.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/02_sunlit_flower_walk.png"
+      ],
+      "dialogue": "牵好手，带你出门散步咯。",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s02_lulu.flac"
+    },
+    {
+      "id": "S03",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2064,
+      "file": "shots/S03.mp4",
+      "prompt": "9:16竖屏3D毛绒动画近景，浅景深平视微推：街角法式烘焙店木窗外，橱窗内可颂面包虚化；噜噜与噜妹并肩坐在木长椅上，左侧噜噜微倾身体拿白纸巾轻柔擦拭噜妹嘴角奶泡，右侧噜妹双手捧珍珠奶茶杯开心眨眼晃动小短腿，午后暖金柔光。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 medium close-up. Two chubby golden-yellow capybaras sit side by side on a wooden bench outside a warm French bakery window filled with croissants. Left capybara Lulu in terracotta shorts gently dabs Lumei's rosy cheek with a white napkin with a tender smile, while right capybara Lumei in a white ruffled bonnet and pink dress holds a boba pearl milk tea cup, blinking happily and swinging her short legs gently. Soft warm afternoon bokeh.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/03_bakery_milk_tea.png"
+      ],
+      "dialogue": "第一口甜奶茶先给你喝！",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s03_lumei.flac"
+    },
+    {
+      "id": "S04",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2083,
+      "file": "shots/S04.mp4",
+      "prompt": "9:16竖屏3D毛绒动画中全景，缓慢横移：蓝天白云下大树荫草坪红白格纹野餐垫旁摆着橘子篮；左侧噜噜捧绘本温柔望向身旁，右侧穿粉裙的噜妹靠肩轻吹一朵白色蒲公英，细腻洁白绒球随春风向空中轻盈飘散，明快清透自然光。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 medium wide shot. Two chubby golden-yellow capybaras sit together on a red-and-white checkered picnic blanket under a shady green tree in a sunny spring meadow. Left capybara Lulu holds an open picture book and looks fondly at Lumei; right capybara Lumei in a white ruffled bonnet and pink dress gently blows a fluffy white dandelion, tiny white dandelion seeds floating softly across the breeze under blue sky and white clouds.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/04_meadow_picnic.png"
+      ],
+      "dialogue": "你在身边，风都是甜的。",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s04_lulu.flac"
+    },
+    {
+      "id": "S05",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2102,
+      "file": "shots/S05.mp4",
+      "prompt": "9:16竖屏3D毛绒动画全景，平视缓推：湿润反光的青石板老巷洒满金色午后逆光太阳雨；左侧噜噜双手举透明雨伞明显向右侧穿浅粉连衣裙的噜妹头顶倾斜护住她，金色雨丝在雨伞四周柔和落下，伞面水珠晶莹微闪，温馨治愈氛围。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 full body shot. Two chubby golden-yellow capybaras stand closely together on a wet cobblestone lane during a golden afternoon sunshower. Left capybara Lulu in terracotta shorts holds a clear transparent umbrella tilted protectively over right capybara Lumei in her white ruffled bonnet and pastel pink dress. Gentle golden rain streaks fall softly around the umbrella with sparkling droplets on the wet stones, warm backlit glow.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/05_sunshower_umbrella.png"
+      ],
+      "dialogue": "伞往你那边偏，别淋湿啦。",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s05_lulu.flac"
+    },
+    {
+      "id": "S06",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2121,
+      "file": "shots/S06.mp4",
+      "prompt": "9:16竖屏3D毛绒动画中全景，平滑跟拍：晴朗海滨公路紧邻波光粼粼的蔚蓝大海；噜噜稳稳驾驶复古奶油白小电驴向前缓行，后座穿浅粉连衣裙的噜妹双手环抱噜噜腰部贴背甜笑，海风轻拂裙摆，远处海面阳光星芒闪烁。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 tracking shot. Two chubby golden-yellow capybaras ride a cute vintage cream-white motor scooter smoothly along a sunny coastal road beside sparkling turquoise ocean water. Front capybara Lulu steers calmly, while Lumei in her white ruffled bonnet and pink dress hugs Lulu's waist from the back seat, smiling joyfully as gentle sea breeze moves her dress hem and ocean waves shimmer in the background.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/06_coastal_scooter_ride.png"
+      ],
+      "dialogue": "抱紧噜噜，追着海风跑咯！",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s06_lumei.flac"
+    },
+    {
+      "id": "S07",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2140,
+      "file": "shots/S07.mp4",
+      "prompt": "9:16竖屏3D毛绒动画中景，缓慢拉镜：漫天金橘色落日晚霞铺满海平面，噜噜与穿粉裙的噜妹并肩坐在海边木栈道边缘，肩膀轻靠、小短腿一前一后悠闲轻晃，身后海面泛起温暖碎金波光，橘调浪漫氛围。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 medium shot. Two chubby golden-yellow capybaras sit side by side on a wooden seaside boardwalk with a glowing golden-orange sunset ocean behind them. Left capybara Lulu in terracotta shorts and right capybara Lumei in a white ruffled bonnet and pastel pink dress lean gently shoulder-to-shoulder, swinging their short legs slowly in unison while golden sunset reflections shimmer softly across the calm ocean waves.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/07_orange_sea_sunset.png"
+      ],
+      "dialogue": "看，海面晚霞变橘色啦。",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s07_lulu.flac"
+    },
+    {
+      "id": "S08",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2159,
+      "file": "shots/S08.mp4",
+      "prompt": "9:16竖屏3D毛绒动画全景，缓慢跟镜：黄昏蓝调时刻暖黄串灯点亮的烟火小集市，背景摊位柔和虚化；左侧噜噜背着装满橘子的帆布袋，牵着右侧手捧白色小雏菊花束的噜妹慢慢往前走，头顶暖黄灯泡微摇发光，温柔人间烟火气。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 full body shot. Two chubby golden-yellow capybaras stroll slowly hand-in-hand through a cozy twilight street market lit by glowing warm amber overhead string lanterns. Left capybara Lulu carries a canvas tote bag filled with fresh oranges; right capybara Lumei in her white ruffled bonnet and pastel pink dress cradles a small bouquet of white daisies, smiling sweetly at Lulu amidst softly glowing market lights.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/08_dusk_lantern_market.png"
+      ],
+      "dialogue": "暮暮烟火气，有你最安心！",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s08_lumei.flac"
+    },
+    {
+      "id": "S09",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2178,
+      "file": "shots/S09.mp4",
+      "prompt": "9:16竖屏3D毛绒动画中景，缓推镜头：夜晚温馨原木客厅（无床铺），暖光落地灯与复古投影微光笼罩沙发前的长绒地毯；噜噜与穿浅粉连衣裙的噜妹盘坐地毯上，双手捧着棉花糖热可可马克杯轻轻碰杯微笑，杯口白雾缓缓升腾。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 medium shot. Two chubby golden-yellow capybaras sit cozily on a soft plush rug in front of a sofa in a warm wooden living room at night, lit by a warm floor lamp and soft vintage film projector glow. Lulu and Lumei in her pastel pink dress gently clink two ceramic mugs of hot cocoa topped with marshmallows, soft white steam curling slowly upward as they smile warmly at each other.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/09_living_room_movie_tea.png"
+      ],
+      "dialogue": "从日出到天黑都没腻呀？",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s09_lumei.flac"
+    },
+    {
+      "id": "S10",
+      "duration": 3.0,
+      "gen_duration": 3.0,
+      "seed": 2197,
+      "file": "shots/S10.mp4",
+      "prompt": "9:16竖屏3D毛绒动画中近景，轻微上摇：夜晚挂满暖光小串灯的木质观景露台，深邃夜空繁星闪烁、远处绽放金色烟花；左侧穿橘棕短裤的噜噜与右侧戴白荷叶帽穿浅粉泡芙袖连衣裙的噜妹闭眼贴脸轻轻依偎摇晃，满脸幸福微笑定格。",
+      "prompt_en": "3D Pixar-style plush animation, vertical 9:16 medium shot. Two chubby golden-yellow capybaras stand cuddling cheek-to-cheek on a wooden rooftop terrace decorated with warm string lights under a deep starry night sky. Left capybara Lulu in terracotta shorts and right capybara Lumei in a white ruffled sprout bonnet and pastel pink dress close their eyes in a blissful gentle sway while golden fireworks bloom and sparkle softly in the distant night sky.",
+      "refs": [
+        "../../../healing-video-dub/examples/scenes-zhaozhaomumu-10/10_starry_terrace_fireworks.png"
+      ],
+      "dialogue": "嗯，走过你的朝朝暮暮。",
+      "dialogue_audio": "../../../healing-video-dub/examples/clips-zhaozhaomumu-10scenes/s10_lulu.flac"
+    }
+  ],
+  "captions": {
+    "srt": "captions.srt"
+  },
+  "bgm": {
+    "file": "bgm_clean_30s.mp3",
+    "gain_db": -12
+  },
+  "notes": "安装并扩展 liangdabiao/video-clone-lite，将付费 Pippit/apiz 后端升级为免费 Kaggle GPU (Lightricks/LTX-Video) 真实视频生成通道"
+}

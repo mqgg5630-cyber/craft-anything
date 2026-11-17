@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="cover">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/tubes-light.jpg" x="808.0" y="150.0" width="444.0" height="249.8" preserveAspectRatio="xMidYMid meet" />
+<rect x="808" y="150" width="444" height="249.75" fill="none" stroke="#16282A" stroke-width="1.1" />
+
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" />
+<text x="76" y="84" font-family="Songti SC, STSong, SimSun, serif" font-size="13.39" font-weight="700" fill="#16282A" letter-spacing="1.24">第 5 章 · 降低化学反应活化能的酶</text>
+<line x1="76" y1="98" x2="1204" y2="98" stroke="#16282A" stroke-width="1.1" />
+<line x1="76" y1="101.5" x2="1204" y2="101.5" stroke="#D8D2C2" stroke-width="0.8" />
+<text x="76" y="268.28" font-family="Songti SC, STSong, SimSun, serif" font-size="57.68" font-weight="700" fill="#16282A" letter-spacing="1.15">三支试管，同一个<tspan x="76" dy="66.9">温度</tspan></text>
+
+<line x1="76" y1="410.09" x2="1204" y2="410.09" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="458.09" font-size="20.6" font-weight="400" fill="#4F625F" letter-spacing="0.08">酶的作用 · 40 分钟 · 人教版必修 1</text>
+<text x="76" y="620" font-family="Songti SC, STSong, SimSun, serif" font-size="11.85" font-weight="400" fill="#4F625F" letter-spacing="1.24">人教版（2019）· 高中生物学</text>
+</g>
+</svg>

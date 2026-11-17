@@ -1,0 +1,51 @@
+{
+  "gpu_info": {
+    "device_name": "Tesla T4",
+    "vram_gb": 14.56
+  },
+  "elapsed_sec": 181.5,
+  "wavlm_sv": {
+    "f5_slot1_lumei_fix_s42": 0.7162,
+    "f5_slot1_lumei_fix_s77": 0.7249,
+    "f5_slot1_lumei_nat_s42": 0.6837,
+    "f5_slot2_lulu_fix_s42": 0.7833,
+    "f5_slot2_lulu_fix_s77": 0.8302,
+    "f5_slot2_lulu_nat_s42": 0.9272,
+    "f5_slot3_lumei_fix_s42": 0.7968,
+    "f5_slot3_lumei_fix_s77": 0.6384,
+    "f5_slot3_lumei_nat_s42": 0.7197,
+    "f5_slot4_lulu_fix_s42": 0.9262,
+    "f5_slot4_lulu_fix_s77": 0.9507,
+    "f5_slot4_lulu_nat_s42": 0.9355,
+    "hybrid44k_slot1_lumei_fix_s42": 0.687,
+    "hybrid44k_slot1_lumei_nat_s42": 0.7248,
+    "hybrid44k_slot2_lulu_fix_s77": 0.8332,
+    "hybrid44k_slot2_lulu_nat_s42": 0.9608,
+    "hybrid44k_slot3_lumei_fix_s42": 0.6526,
+    "hybrid44k_slot3_lumei_nat_s42": 0.6836,
+    "hybrid44k_slot4_lulu_fix_s77": 0.9567,
+    "hybrid44k_slot4_lulu_nat_s42": 0.9554
+  },
+  "campplus": {
+    "f5_slot1_lumei_fix_s42": 0.203,
+    "f5_slot1_lumei_fix_s77": 0.301,
+    "f5_slot1_lumei_nat_s42": 0.277,
+    "f5_slot2_lulu_fix_s42": 0.2565,
+    "f5_slot2_lulu_fix_s77": 0.3809,
+    "f5_slot2_lulu_nat_s42": 0.4523,
+    "f5_slot3_lumei_fix_s42": 0.3562,
+    "f5_slot3_lumei_fix_s77": 0.3415,
+    "f5_slot3_lumei_nat_s42": 0.3315,
+    "f5_slot4_lulu_fix_s42": 0.3998,
+    "f5_slot4_lulu_fix_s77": 0.3915,
+    "f5_slot4_lulu_nat_s42": 0.4605,
+    "hybrid44k_slot1_lumei_fix_s42": 0.562,
+    "hybrid44k_slot1_lumei_nat_s42": 0.4828,
+    "hybrid44k_slot2_lulu_fix_s77": 0.5851,
+    "hybrid44k_slot2_lulu_nat_s42": 0.6057,
+    "hybrid44k_slot3_lumei_fix_s42": 0.5206,
+    "hybrid44k_slot3_lumei_nat_s42": 0.4967,
+    "hybrid44k_slot4_lulu_fix_s77": 0.5589,
+    "hybrid44k_slot4_lulu_nat_s42": 0.6985
+  }
+}

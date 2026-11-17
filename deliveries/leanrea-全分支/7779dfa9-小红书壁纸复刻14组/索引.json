@@ -1,0 +1,196 @@
+{
+  "01-小猫樱花": {
+    "source_dir": "cat-sakura-6ae8870f",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "02-3D立体感": {
+    "source_dir": "depth3d-6aec24fa",
+    "final_count": 9,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "03-鲜花一二布布": {
+    "source_dir": "flowers-bubu-6ae3391a",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "04-果园风景": {
+    "source_dir": "fruitscape-6add94a2",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "05-金鱼": {
+    "source_dir": "goldfish-6ae49d26",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "06-灯塔": {
+    "source_dir": "lighthouse-6aede8e7",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "07-线条小狗": {
+    "source_dir": "linedog-69bec419",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "08-落日小鹿": {
+    "source_dir": "lulu-sunset-6ad212fc",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "09-蜡笔小新": {
+    "source_dir": "shinchan-6aedad8b",
+    "final_count": 30,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "10-史努比": {
+    "source_dir": "snoopy-6aef57ed",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "11-猫和老鼠": {
+    "source_dir": "tomjerry-6aed5b12",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "12-梵高一二布布": {
+    "source_dir": "vangogh-bubu-6aeeecba",
+    "final_count": 10,
+    "overview": [
+      "总图.jpg",
+      "预览总图-iOS.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "spec.json"
+    ]
+  },
+  "13-一二布布周年": {
+    "source_dir": "bubu-anniv-6a4a4ca0",
+    "final_count": 20,
+    "overview": [
+      "总图.jpg",
+      "封面-双机预览.jpg",
+      "预览总图-iOS.jpg",
+      "总图.jpg",
+      "封面-双机预览.jpg"
+    ],
+    "meta": [
+      "说明.md",
+      "spec.json",
+      "说明.md"
+    ]
+  },
+  "14-视频试验": {
+    "source_dir": "video-test-6a4be129",
+    "final_count": 1,
+    "overview": [
+      "关键帧总图.jpg"
+    ],
+    "meta": [
+      "note.json",
+      "note.md",
+      "视频信息.md"
+    ]
+  }
+}

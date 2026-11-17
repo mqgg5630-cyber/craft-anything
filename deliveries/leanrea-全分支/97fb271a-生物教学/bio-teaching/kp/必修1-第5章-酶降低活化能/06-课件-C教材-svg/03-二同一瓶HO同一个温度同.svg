@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">差别只有一样东西</text>
+<text x="76" y="178" font-size="30.9" font-weight="400" fill="#4F625F" letter-spacing="0.12">二、同一瓶 H₂O₂，同一个温度，同一个浓度。</text>
+<text x="76" y="470" font-family="Songti SC, STSong, SimSun, serif" font-size="107.12" font-weight="700" fill="#A8432B" letter-spacing="1.07">几微克</text>
+<text x="440.57" y="470" font-family="Songti SC, STSong, SimSun, serif" font-size="107.12" font-weight="700" fill="#16282A" letter-spacing="1.07">一整瓶</text>
+<line x1="76" y1="517.38" x2="820" y2="517.38" stroke="#D8D2C2" stroke-width="1.2" />
+<text x="76" y="573" font-size="22.66" font-weight="400" fill="#16282A" letter-spacing="0.09">反应速度差了几百倍。这个比例本身就不合理——它没有被用掉，也<tspan x="76" dy="35.02">没有给反应加能量。</tspan></text>
+
+<image href="../../assets/deck-images/flask-light.jpg" x="900.0" y="300.0" width="304.0" height="240.0" preserveAspectRatio="xMidYMid meet" />
+<rect x="900" y="334.5" width="304" height="171" fill="none" stroke="#16282A" stroke-width="1.1" />
+<text x="900" y="566" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 5-2　气泡：反应正在发生</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 5 章 · 降低化学反应活化能的酶</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 5 章第 1 节 · 40 分钟 · 15 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">03</text>
+</g>
+</svg>

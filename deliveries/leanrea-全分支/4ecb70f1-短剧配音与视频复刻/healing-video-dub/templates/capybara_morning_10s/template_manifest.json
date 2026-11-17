@@ -1,0 +1,53 @@
+{
+  "template_id": "capybara_morning_10s",
+  "title": "治愈系水豚情侣清晨被窝互动 10s 丝滑 3D 模板 (A1 架构)",
+  "video_file": "video_1080p24_muted.mp4",
+  "bgm_sfx_file": "stems/bgm_and_kiss_sfx.flac",
+  "speaker_profiles_file": "speaker_profiles.json",
+  "resolution": [1080, 1920],
+  "fps": 24.0,
+  "frames": 241,
+  "duration_sec": 10.0775,
+  "sfx_guard_zones": [
+    {
+      "id": "cheek_kiss_sfx",
+      "start_sec": 3.32,
+      "end_sec": 4.12,
+      "description": "撸妹凑近亲吻噜噜脸颊 (原版 mua~ 亲吻音效区，严禁人声侵入以免嘴唇贴脸时穿帮)"
+    }
+  ],
+  "dialogue_slots": [
+    {
+      "slot_id": "slot1",
+      "speaker": "lumei",
+      "start_sec": 1.55,
+      "end_sec": 3.20,
+      "visual_cue": "撸妹先醒来，转头望向熟睡的噜噜，眼睛发亮、开心张嘴说话",
+      "recommended_chars": [5, 9]
+    },
+    {
+      "slot_id": "slot2",
+      "speaker": "lulu",
+      "start_sec": 4.22,
+      "end_sec": 5.82,
+      "visual_cue": "被亲醒的噜噜迷糊睁开半眼，惊讶微张嘴回应",
+      "recommended_chars": [4, 7]
+    },
+    {
+      "slot_id": "slot3",
+      "speaker": "lumei",
+      "start_sec": 6.15,
+      "end_sec": 7.68,
+      "visual_cue": "撸妹把脑袋埋进噜噜肩膀撒娇蹭蹭，随后抬头微笑开口",
+      "recommended_chars": [6, 9]
+    },
+    {
+      "slot_id": "slot4",
+      "speaker": "lulu",
+      "start_sec": 7.80,
+      "end_sec": 9.60,
+      "visual_cue": "噜噜宠溺眯眼大笑张嘴回应，撸妹幸福闭眼贴脸依偎",
+      "recommended_chars": [7, 10]
+    }
+  ]
+}

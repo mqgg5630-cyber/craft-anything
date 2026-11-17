@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="section">
+<rect x="0" y="0" width="1280" height="720" fill="#0B1416" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/onion-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="0" width="1280" height="720" fill="#0B1416" fill-opacity="0.55" />
+<text x="76" y="258" font-family="Songti SC, STSong, SimSun, serif" font-size="114.46" font-weight="700" fill="#9E2B1B">03</text>
+<text x="76" y="392" font-family="Songti SC, STSong, SimSun, serif" font-size="44.62" font-weight="700" fill="#F1F0EB" letter-spacing="2.01">膜上装了一台水泵</text>
+<line x1="76" y1="449.54" x2="172" y2="449.54" stroke="#F1F0EB" stroke-width="2.4" />
+<text x="76" y="507.54" font-size="18.43" font-weight="400" fill="#F1F0EB" fill-opacity="0.82">第 3 课时 · 主动运输与胞吞胞吐</text>
+</g>
+</svg>

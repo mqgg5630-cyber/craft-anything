@@ -1,0 +1,61 @@
+# DualAMP-Lite V1.0 - frozen experiment configuration (V4, 2026-11-09)
+# Every value here is archived into <workdir>/configs/resolved_<run_id>.yaml.
+dataset:
+  min_len: 10
+  max_len: 50
+  cluster_identity: 0.80        # CD-HIT -c 0.80 -aL 0.80
+  cluster_coverage: 0.80
+  cluster_method: auto          # auto -> cdhit -> mmseqs -> kmer fallback
+  dev_fraction: 0.80
+  split_seed: 20261109
+  hard_negative_in_training: false   # hard negatives are a challenge set
+  add_scrambled: true
+  max_scrambled: 500
+  drop_label_conflicts: true
+
+features:
+  backend: auto                 # auto | fair-esm | transformers | mock
+  esm_model: esm2_t12_35M_UR50D
+  hf_model_id: facebook/esm2_t12_35M_UR50D
+  repr_layer: 12
+  embed_dim: 480
+  batch_size: 16
+  device: auto
+  storage_dtype: float16
+  max_residues: 64
+  local_files_only: false
+  redundancy_threshold: 0.85
+
+train:
+  models: [M1, M2, M3]
+  baselines: [M0_RF, M0_HGB]    # add M0_XGB if xgboost is installed
+  seeds: [11, 23, 37, 53, 71]
+  folds: 5
+  epochs: 100
+  batch_size: 32
+  lr: 0.0003
+  weight_decay: 0.0001
+  dropout: 0.3
+  grad_clip: 1.0
+  patience: 10
+  primary_metric: auprc
+  loss: bce
+  scheduler: plateau
+  threshold_rule: mcc
+  n_boot: 2000
+  boot_alpha: 0.05
+  equivalence_margin_mcc: 0.02
+  num_workers: 0
+  threads: 2
+  amp: true
+  n_final_seeds: 5
+
+demo:
+  n_positive: 200
+  n_negative: 200
+  n_hard_negative: 40
+  n_bacterial: 60
+  n_external: 40
+  seed: 7
+
+demo_mode: false

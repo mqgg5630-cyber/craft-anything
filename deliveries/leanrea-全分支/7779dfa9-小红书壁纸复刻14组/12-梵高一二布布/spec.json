@@ -1,0 +1,18 @@
+{
+  "title": "一二布布 · 名画复刻 10 张",
+  "subtitle": "复刻自 布布永远爱一二《疑似梵高的真迹》(6aeeecba) · 梵高 ×4 + 莫奈 / 北斋 / 克里姆特 / 蒙克 / 维米尔 / 达芬奇 · 1532×2560 · AI 生成",
+  "canvas": [1532, 2560],
+  "prefix": "名画",
+  "pages": [
+    {"n": 1,  "name": "梵高·向日葵",            "anchor": "top"},
+    {"n": 2,  "name": "梵高·夜间露天咖啡座",    "anchor": "center"},
+    {"n": 3,  "name": "梵高·麦田与柏树",        "anchor": "center"},
+    {"n": 4,  "name": "梵高·杏花",              "anchor": "center"},
+    {"n": 5,  "name": "莫奈·睡莲与日本桥",      "anchor": "center"},
+    {"n": 6,  "name": "葛饰北斋·神奈川冲浪里",  "anchor": "center"},
+    {"n": 7,  "name": "克里姆特·吻",            "anchor": "center"},
+    {"n": 8,  "name": "蒙克·呐喊",              "anchor": "bottom"},
+    {"n": 9,  "name": "维米尔·戴珍珠耳环的少女","anchor": "center"},
+    {"n": 10, "name": "达芬奇·蒙娜丽莎",        "anchor": "center"}
+  ]
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#FAF3E3" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<path d="M74.0,104.0 C78.5,101.6 81.5,106.6 84.0,104.6 C89.0,102.2 92.0,106.4 94.0,104.2 C110.0,101.8 82.0,106.2 104.0,103.4" fill="none" stroke="#B5852B" stroke-width="2.6" stroke-linecap="round" /><text x="116" y="96" font-size="16.67" font-weight="600" fill="#1A2A26" letter-spacing="1.84">最容易混的一页</text>
+<text x="76" y="170" font-family="Songti SC, STSong, SimSun, serif" font-size="37.95" font-weight="700" fill="#1A2A26">载体不是通道</text>
+<text x="76" y="263.1" font-size="14.95" font-weight="500" fill="#B94E2A" letter-spacing="2.76">载体蛋白</text>
+<text x="76" y="327.5" font-family="Songti SC, STSong, SimSun, serif" font-size="36.8" font-weight="700" fill="#1A2A26">结合—变形—释放</text>
+<text x="76" y="385" font-size="20.7" font-weight="400" fill="#5B6B5F">自身构象改变<tspan x="76" dy="41.4">每轮都要「抓」一次</tspan><tspan x="76" dy="41.4">有特异性</tspan></text>
+
+
+<text x="680" y="263.1" font-size="14.95" font-weight="500" fill="#2D6A54" letter-spacing="2.76">通道蛋白</text>
+<text x="680" y="327.5" font-family="Songti SC, STSong, SimSun, serif" font-size="36.8" font-weight="700" fill="#1A2A26">开，或者关</text>
+<text x="680" y="385" font-size="20.7" font-weight="400" fill="#5B6B5F">形成水相孔道<tspan x="680" dy="41.4">不结合底物</tspan><tspan x="680" dy="41.4">同样有选择性</tspan></text>
+
+
+<line x1="640" y1="309.1" x2="640" y2="529.9" stroke="#E3D6BD" stroke-width="0.9" stroke-opacity="0.75" />
+<path d="M76.0,650.0 C92.8,647.6 104.0,652.6 113.3,650.6 C132.0,648.2 143.2,652.4 150.7,650.2 C166.7,647.8 166.0,652.2 188.0,649.4" fill="none" stroke="#E3D6BD" stroke-width="1.6" stroke-linecap="round" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="24.15" font-weight="700" fill="#B94E2A">12</text><text x="110" y="686" font-size="13.8" font-weight="400" fill="#5B6B5F" fill-opacity="0.8">/24</text><text x="1204" y="686" font-size="12.65" font-weight="400" fill="#5B6B5F" text-anchor="end" letter-spacing="1.61" fill-opacity="0.75">第 4 章 · 细胞的物质输入和输出</text>
+</g>
+</svg>

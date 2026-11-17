@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#0B1416" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/splint-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="250" width="1280" height="470" fill="#0B1416" fill-opacity="0.6" />
+<line x1="76" y1="408" x2="102" y2="408" stroke="#F1F0EB" stroke-width="2" /><text x="114" y="412" font-size="11.15" font-weight="500" fill="#F1F0EB" letter-spacing="4.27">实验现象</text>
+<text x="76" y="500" font-family="Songti SC, STSong, SimSun, serif" font-size="48.5" font-weight="700" fill="#F1F0EB" letter-spacing="2.18">带火星的木条，复燃了</text>
+<text x="76" y="646" font-family="Songti SC, STSong, SimSun, serif" font-size="12.12" font-weight="400" fill="#F1F0EB" letter-spacing="0.97" fill-opacity="0.9" font-style="italic">PL. 01 — H₂O₂ + 肝脏研磨液，室温</text>
+</g>
+</svg>

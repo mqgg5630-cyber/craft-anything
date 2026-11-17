@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#FAF3E3" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<path d="M74.0,104.0 C78.5,101.6 81.5,106.6 84.0,104.6 C89.0,102.2 92.0,106.4 94.0,104.2 C110.0,101.8 82.0,106.2 104.0,103.4" fill="none" stroke="#B5852B" stroke-width="2.6" stroke-linecap="round" /><text x="116" y="96" font-size="16.67" font-weight="600" fill="#1A2A26" letter-spacing="1.84">一张图：为什么会有平台</text>
+<text x="76" y="174" font-family="Songti SC, STSong, SimSun, serif" font-size="36.8" font-weight="700" fill="#1A2A26">一张图：为什么会有平台</text>
+<rect x="138" y="216" width="648" height="380" fill="#F2E6CB" />
+<line x1="190" y1="500" x2="756" y2="500" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="440" x2="756" y2="440" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="380" x2="756" y2="380" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="320" x2="756" y2="320" stroke="#E3D6BD" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="220" x2="190" y2="560" stroke="#1A2A26" stroke-width="1.2" />
+<line x1="190" y1="560" x2="760" y2="560" stroke="#1A2A26" stroke-width="1.2" />
+<text x="176" y="214" font-size="16.1" font-weight="400" fill="#5B6B5F" text-anchor="end">运输速率</text>
+<text x="760" y="590" font-size="16.1" font-weight="400" fill="#5B6B5F" text-anchor="end">浓度差</text>
+<path d="M200.0,524.1 L206.8,524.0 L213.5,523.6 L220.2,522.9 L227.0,522.1 L233.8,521.2 L240.5,520.0 L247.2,518.7 L254.0,517.3 L260.8,515.6 L267.5,513.9 L274.2,511.9 L281.0,509.9 L287.8,507.7 L294.5,505.3 L301.2,502.8 L308.0,500.2 L314.8,497.5 L321.5,494.6 L328.2,491.5 L335.0,488.4 L341.8,485.1 L348.5,481.7 L355.2,478.2 L362.0,474.5 L368.8,470.7 L375.5,466.8 L382.2,462.8 L389.0,458.7 L395.8,454.4 L402.5,450.0 L409.2,445.5 L416.0,440.9 L422.8,436.1 L429.5,431.3 L436.2,426.3 L443.0,421.2 L449.8,416.0 L456.5,410.7 L463.2,405.3 L470.0,399.7 L476.8,394.1 L483.5,388.3 L490.2,382.4 L497.0,376.4 L503.8,376.7 L510.5,376.9 L517.2,377.1 L524.0,377.3 L530.8,377.5 L537.5,377.8 L544.2,378.0 L551.0,378.2 L557.8,378.4 L564.5,378.7 L571.2,378.9 L578.0,379.1 L584.8,379.3 L591.5,379.5 L598.2,379.8 L605.0,380.0 L611.8,380.2 L618.5,380.4 L625.2,380.6 L632.0,380.9 L638.8,381.1 L645.5,381.3 L652.2,381.5 L659.0,381.8 L665.8,382.0 L672.5,382.2 L679.2,382.4 L686.0,382.6 L692.8,382.9 L699.5,383.1 L706.2,383.3 L713.0,383.5 L719.8,383.8 L726.5,384.0 L733.2,384.2 L740.0,384.4" fill="none" stroke="#2D6A54" stroke-width="2.6" stroke-linecap="round" />
+<line x1="800" y1="300" x2="852" y2="300" stroke="#2D6A54" stroke-width="2.6" />
+<text x="866" y="306" font-size="20.7" font-weight="400" fill="#1A2A26">协助扩散：先升后平</text>
+<line x1="800" y1="350" x2="1204" y2="350" stroke="#E3D6BD" stroke-width="1" />
+<text x="800" y="384" font-size="19.55" font-weight="400" fill="#5B6B5F">平的那一段，被什么卡住了？<tspan x="800" dy="31.05">答：载体全在用，没有空的了。</tspan></text>
+
+<path d="M76.0,650.0 C92.8,647.6 104.0,652.6 113.3,650.6 C132.0,648.2 143.2,652.4 150.7,650.2 C166.7,647.8 166.0,652.2 188.0,649.4" fill="none" stroke="#E3D6BD" stroke-width="1.6" stroke-linecap="round" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="24.15" font-weight="700" fill="#B94E2A">14</text><text x="110" y="686" font-size="13.8" font-weight="400" fill="#5B6B5F" fill-opacity="0.8">/24</text><text x="1204" y="686" font-size="12.65" font-weight="400" fill="#5B6B5F" text-anchor="end" letter-spacing="1.61" fill-opacity="0.75">第 4 章 · 细胞的物质输入和输出</text>
+</g>
+</svg>

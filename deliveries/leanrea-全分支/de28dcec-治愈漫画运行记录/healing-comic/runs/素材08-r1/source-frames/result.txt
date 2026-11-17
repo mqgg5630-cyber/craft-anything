@@ -1,0 +1,8 @@
+bvid: BV1suxg6MEJz
+url: https://www.bilibili.com/video/BV1suxg6MEJz/
+runner_utc: 2026-11-07T08:47:25Z
+yt_dlp: 2026.10.26
+video_file: source.mp4
+video_bytes: 8341522
+sha256: c65ebc6cb84980541376480922eb10c7a7a31d1ba599cf945c9d94a1ab848fd1
+/home/runner/work/_temp/5de5da1b-076d-4969-8a31-9c247c46c3e8.sh: line 23: ffprobe: command not found

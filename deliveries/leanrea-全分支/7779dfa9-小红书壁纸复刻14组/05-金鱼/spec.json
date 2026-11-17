@@ -1,0 +1,21 @@
+{
+  "title": "金鱼游动 福气满满 · 好运油画 10 张",
+  "subtitle": "复刻自 封闭货车_《金鱼游动 福气满满》(6ae49d26，原帖 1 张 1080×1440) · 01 逐张复刻 · 02–10 同风格新场景 · 1440×1920 (3:4 跟原帖) · AI 生成",
+  "canvas": [1440, 1920],
+  "date": "Monday, November 10",
+  "time": "08:08",
+  "prefix": "金鱼",
+  "cover": {"left": 1, "right": 7},
+  "pages": [
+    {"n": 1,  "name": "金光鱼缸", "anchor": "center", "overlay": "lock", "from": "原图01 复刻",   "line": "鱼缸里喷出一整条金色的河"},
+    {"n": 2,  "name": "鲤跃龙门", "anchor": "center", "overlay": "lock", "from": "新场景 · 锚 原图", "line": "一尾锦鲤逆着金色瀑布往上跳"},
+    {"n": 3,  "name": "茶杯金鱼", "anchor": "center", "overlay": "lock", "from": "新场景 · 锚 原图", "line": "一杯茶里游出来的好运"},
+    {"n": 4,  "name": "红灯笼",   "anchor": "center", "overlay": "lock", "from": "新场景 · 锚 原图", "line": "灯笼底下，金鱼绕着光打转"},
+    {"n": 5,  "name": "柿柿如意", "anchor": "center", "overlay": "lock", "from": "新场景 · 锚 原图", "line": "一盘柿子，事事如意"},
+    {"n": 6,  "name": "财源滚滚", "anchor": "center", "overlay": "lock", "from": "新场景 · 锚 原图", "line": "元宝堆上升起来的金鱼群"},
+    {"n": 7,  "name": "连年有余", "anchor": "center", "overlay": "lock", "from": "新场景 · 锚 原图", "line": "荷塘、莲花、跃出水面的鱼"},
+    {"n": 8,  "name": "书页金鱼", "anchor": "center", "overlay": "lock", "from": "新场景 · 锚 原图", "line": "翻开的书里游出一群愿望"},
+    {"n": 9,  "name": "烛光许愿", "anchor": "center", "overlay": "lock", "from": "新场景 · 锚 原图", "line": "一支蜡烛，所愿即所求"},
+    {"n": 10, "name": "金鱼星河", "anchor": "center", "overlay": "lock", "from": "新场景 · 锚 原图", "line": "屋顶上空流过一条金鱼银河"}
+  ]
+}

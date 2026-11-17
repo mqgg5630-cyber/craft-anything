@@ -1,0 +1,457 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>细胞的物质输入与输出 · C 教材纸感</title>
+<style>
+  :root{--paper:#F7F4EA;--ink:#16282A;--accent:#A8432B;--rule:#2a393b}
+  *{box-sizing:border-box}
+  body{margin:0;background:#0d1415;color:#e6e1d6;
+        font-family:"PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+  header{padding:34px 42px 6px;display:flex;flex-wrap:wrap;gap:18px;align-items:flex-end;
+          justify-content:space-between}
+  h1{font-size:21px;margin:0 0 8px;font-weight:600;letter-spacing:.4px}
+  h1 span{color:var(--accent);margin-left:10px;font-size:13px;letter-spacing:1.2px}
+  p.meta{margin:0;color:#8b9a94;font-size:12.5px;letter-spacing:.6px}
+  nav{display:flex;gap:8px}
+  nav a{text-decoration:none;color:#a9b8b2;font-size:12px;letter-spacing:.6px;
+         border:1px solid #2c3a3c;border-radius:99px;padding:5px 12px}
+  nav a:hover{color:#fff;border-color:var(--accent)}
+  nav a.on{color:var(--accent);border-color:var(--accent)}
+  main{padding:22px 42px 72px;display:grid;gap:22px;
+        grid-template-columns:repeat(auto-fill,minmax(520px,1fr))}
+  figure{margin:0}
+  .page{background:var(--paper);border-radius:2px;overflow:hidden;
+         box-shadow:0 1px 0 rgba(255,255,255,.04)}
+  .page svg{width:100%;height:auto;display:block}
+  figcaption{font-size:11px;color:#7d8f89;padding:7px 2px;letter-spacing:.5px}
+</style></head>
+<body>
+<header>
+  <div>
+    <h1>细胞的物质输入与输出<span>C 教材纸感</span></h1>
+    <p class="meta">必修 1 · 第 4 章 · 3 课时 · 共 24 页 · 共 24 页 · 共 24 页 · 页面内联，离线可看</p>
+  </div>
+  <nav><a class="" href="ch04-A学术.html">A学术</a><a class="" href="ch04-B课堂.html">B课堂</a><a class="" href="ch04-C教材.html">C教材</a></nav>
+</header>
+<main>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="cover">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../images/saltfield-light.jpg" x="808.0" y="150.0" width="444.0" height="249.8" preserveAspectRatio="xMidYMid meet" />
+<rect x="808" y="150" width="444" height="249.75" fill="none" stroke="#16282A" stroke-width="1.1" />
+
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" />
+<text x="76" y="84" font-family="Songti SC, STSong, SimSun, serif" font-size="13.39" font-weight="700" fill="#16282A" letter-spacing="1.24">第 4 章 · 细胞的物质输入和输出</text>
+<line x1="76" y1="98" x2="1204" y2="98" stroke="#16282A" stroke-width="1.1" />
+<line x1="76" y1="101.5" x2="1204" y2="101.5" stroke="#D8D2C2" stroke-width="0.8" />
+<text x="76" y="300" font-family="Songti SC, STSong, SimSun, serif" font-size="57.68" font-weight="700" fill="#16282A" letter-spacing="1.15">先看一片地</text>
+<line x1="76" y1="374.91" x2="1204" y2="374.91" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="422.91" font-size="20.6" font-weight="400" fill="#4F625F" letter-spacing="0.08">3 课时 · 一条主线：盐碱地里的海水稻</text>
+<text x="76" y="620" font-family="Songti SC, STSong, SimSun, serif" font-size="11.85" font-weight="400" fill="#4F625F" letter-spacing="1.24">人教版（2019）· 高中生物学</text>
+</g>
+</svg></div><figcaption>01 · 01-先看一片地</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">第一问</text>
+<text x="76" y="190" font-family="Songti SC, STSong, SimSun, serif" font-size="39.14" font-weight="700" fill="#16282A" letter-spacing="0.78">一、第一问：水是怎么进到根<tspan x="76" dy="43.84">里的</tspan></text>
+
+<text x="76" y="308.57" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">01</text>
+<text x="122" y="308.57" font-size="19.57" font-weight="400" fill="#16282A">根毛细胞外：土壤溶液</text>
+<line x1="122" y1="344.11" x2="624" y2="344.11" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="360.59" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">02</text>
+<text x="122" y="360.59" font-size="19.57" font-weight="400" fill="#16282A">根毛细胞内：细胞液</text>
+<line x1="122" y1="396.12" x2="624" y2="396.12" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="412.6" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">03</text>
+<text x="122" y="412.6" font-size="19.57" font-weight="400" fill="#16282A">水从哪边，走到哪边</text>
+<image href="../images/root-light.jpg" x="700.0" y="150.0" width="504.0" height="396.0" preserveAspectRatio="xMidYMid meet" />
+<rect x="700" y="206.25" width="504" height="283.5" fill="none" stroke="#16282A" stroke-width="1.1" />
+<text x="700" y="572" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-1　根毛与土壤颗粒（示意）</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">02</text>
+</g>
+</svg></div><figcaption>02 · 02-一第一问水是怎么进到根里</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">一个装置：漏斗、半透膜、蔗糖</text>
+<text x="76" y="172" font-family="Songti SC, STSong, SimSun, serif" font-size="33.99" font-weight="700" fill="#16282A" letter-spacing="0.68">二、一个装置：漏斗、半透膜、蔗糖</text>
+<line x1="76" y1="240.97" x2="1204" y2="240.97" stroke="#16282A" stroke-width="2" />
+<rect x="76" y="251.27" width="1128" height="35.02" fill="#F1ECDC" />
+<text x="86" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47" />
+<text x="462" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">漏斗内</text>
+<text x="838" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">烧杯内</text>
+<line x1="76" y1="311.01" x2="1204" y2="311.01" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="86" y="333.67" font-family="Songti SC, STSong, SimSun, serif" font-size="20.6" font-weight="700" fill="#16282A">溶液</text>
+<text x="462" y="333.67" font-size="20.6" font-weight="400" fill="#16282A">蔗糖溶液</text>
+<text x="838" y="333.67" font-size="20.6" font-weight="400" fill="#16282A">清水</text>
+<line x1="76" y1="366.63" x2="1204" y2="366.63" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="86" y="389.29" font-family="Songti SC, STSong, SimSun, serif" font-size="20.6" font-weight="700" fill="#16282A">水分子</text>
+<text x="462" y="389.29" font-size="20.6" font-weight="400" fill="#16282A">少</text>
+<text x="838" y="389.29" font-size="20.6" font-weight="400" fill="#16282A">多</text>
+<line x1="76" y1="422.25" x2="1204" y2="422.25" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="448.91" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-3　水分子双向运动，净方向朝里 → 液面上升。</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">03</text>
+</g>
+</svg></div><figcaption>03 · 03-二一个装置漏斗半透膜蔗糖</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">第 4 章 · 细胞的物质输入和输出</text>
+<text x="76" y="300" font-family="Songti SC, STSong, SimSun, serif" font-size="49.44" font-weight="700" fill="#16282A" letter-spacing="0.99">渗透作用，两个条件：<tspan x="76" dy="71.69">半透膜 + 浓度差</tspan></text>
+
+<line x1="76" y1="455.38" x2="376" y2="455.38" stroke="#D8D2C2" stroke-width="2" />
+<text x="76" y="509.3" font-size="20.6" font-weight="400" fill="#4F625F">水从「水多」的一侧，净流向「水少」的一侧。两个条件缺一个，都不发生。</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">04</text>
+</g>
+</svg></div><figcaption>04 · 04-三渗透作用两个条件缺一不</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">红细胞的三张照片</text>
+<text x="76" y="170" font-family="Songti SC, STSong, SimSun, serif" font-size="33.99" font-weight="700" fill="#16282A" letter-spacing="0.68">四、同一份血，三种命运</text>
+<text x="76" y="253.39" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">清水</text>
+<text x="76" y="311.07" font-family="Songti SC, STSong, SimSun, serif" font-size="32.96" font-weight="700" fill="#16282A">吸水胀破</text>
+<text x="76" y="362.57" font-size="18.54" font-weight="400" fill="#4F625F">外面水多<tspan x="76" dy="37.08">水净向内</tspan><tspan x="76" dy="37.08">细胞撑不住</tspan></text>
+
+
+<text x="680" y="253.39" font-size="13.39" font-weight="500" fill="#2A5F55" letter-spacing="2.47">0.9% 盐水</text>
+<text x="680" y="311.07" font-family="Songti SC, STSong, SimSun, serif" font-size="32.96" font-weight="700" fill="#16282A">形状不变</text>
+<text x="680" y="362.57" font-size="18.54" font-weight="400" fill="#4F625F">进出相等<tspan x="680" dy="37.08">不是水不动了</tspan><tspan x="680" dy="37.08">而是净移动为零</tspan></text>
+
+
+<line x1="640" y1="294.59" x2="640" y2="492.35" stroke="#D8D2C2" stroke-width="0.9" stroke-opacity="0.75" />
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">05</text>
+</g>
+</svg></div><figcaption>05 · 05-四同一份血三种命运</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">植物细胞多了一样东西</text>
+<text x="76" y="190" font-family="Songti SC, STSong, SimSun, serif" font-size="39.14" font-weight="700" fill="#16282A" letter-spacing="0.78">五、植物细胞多了一样东西</text>
+<text x="76" y="264.74" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">01</text>
+<text x="122" y="264.74" font-size="19.57" font-weight="400" fill="#16282A">细胞壁：全透性，几乎不挡水</text>
+<line x1="122" y1="300.27" x2="624" y2="300.27" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="316.75" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">02</text>
+<text x="122" y="316.75" font-size="19.57" font-weight="400" fill="#16282A">原生质层：细胞膜 + 细胞质 + 液泡膜，**有选择透过性<tspan x="122" dy="29.36">**</tspan></text>
+
+<line x1="122" y1="381.64" x2="624" y2="381.64" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="398.12" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">03</text>
+<text x="122" y="398.12" font-size="19.57" font-weight="400" fill="#16282A">真正起"半透膜"作用的是原生质层</text>
+<image href="../images/cell-light.jpg" x="700.0" y="150.0" width="504.0" height="396.0" preserveAspectRatio="xMidYMid meet" />
+<rect x="700" y="206.25" width="504" height="283.5" fill="none" stroke="#16282A" stroke-width="1.1" />
+<text x="700" y="572" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-2　植物细胞剖面（铜版画风格示意）</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">06</text>
+</g>
+</svg></div><figcaption>06 · 06-五植物细胞多了一样东西</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../images/onion-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="250" width="1280" height="470" fill="#0E1B1C" fill-opacity="0.6" />
+<rect x="76" y="403" width="6" height="6" fill="#F7F4EA" /><text x="92" y="412" font-size="12.88" font-weight="500" fill="#F7F4EA" letter-spacing="2.27">实验：洋葱表皮 + 蔗糖溶液</text>
+<text x="76" y="500" font-family="Songti SC, STSong, SimSun, serif" font-size="51.5" font-weight="700" fill="#F7F4EA" letter-spacing="1.03">六、紫色变深，位置后退</text>
+<line x1="76" y1="565.74" x2="336" y2="565.74" stroke="#F7F4EA" stroke-width="0.8" />
+<text x="76" y="646" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#F7F4EA" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-3　洋葱表皮细胞，质壁分离</text>
+</g>
+</svg></div><figcaption>07 · 07-六紫色变深位置后退</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../images/root-light.jpg" x="810.0" y="0.0" width="470.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="810" y="0" width="470" height="720" fill="#F7F4EA" fill-opacity="0.06" />
+<rect x="809" y="0" width="1" height="720" fill="#D8D2C2" />
+<rect x="76" y="141" width="6" height="6" fill="#16282A" /><text x="92" y="150" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">留一个问号</text>
+<text x="76" y="322" font-family="Songti SC, STSong, SimSun, serif" font-size="47.38" font-weight="700" fill="#16282A" letter-spacing="0.95">水能自由进出，<tspan x="76" dy="71.28">土里的 K⁺ 为什么进不</tspan><tspan x="76" dy="56.85">来？</tspan></text>
+
+
+<line x1="76" y1="539.41" x2="164" y2="539.41" stroke="#A8432B" stroke-width="3" />
+<text x="76" y="593.51" font-size="18.54" font-weight="400" fill="#4F625F">钩 1 只花 1 分钟。不要在这里解释，解释了就白埋了。</text>
+</g>
+</svg></div><figcaption>08 · 08-七钩子水能自由进出K呢</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="section">
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../images/stomata-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" fill-opacity="0.55" />
+<text x="76" y="268" font-family="Songti SC, STSong, SimSun, serif" font-size="111.24" font-weight="700" fill="#F7F4EA" letter-spacing="6.18">02</text>
+<line x1="76" y1="300" x2="196" y2="300" stroke="#F7F4EA" stroke-width="2" />
+<text x="76" y="392" font-family="Songti SC, STSong, SimSun, serif" font-size="47.38" font-weight="700" fill="#F7F4EA" letter-spacing="0.95">八、不花钱的过膜方式，有两种</text>
+<line x1="76" y1="452.86" x2="172" y2="452.86" stroke="#F7F4EA" stroke-width="2.4" />
+<text x="76" y="510.86" font-size="19.57" font-weight="400" fill="#F7F4EA" fill-opacity="0.82">第 2 课时 · 自由扩散与协助扩散</text>
+</g>
+</svg></div><figcaption>09 · 09-八不花钱的过膜方式有两种</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">自由扩散：只看浓度</text>
+<text x="76" y="190" font-family="Songti SC, STSong, SimSun, serif" font-size="39.14" font-weight="700" fill="#16282A" letter-spacing="0.78">九、自由扩散：只看浓度</text>
+<text x="76" y="264.74" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">01</text>
+<text x="122" y="264.74" font-size="19.57" font-weight="400" fill="#16282A">顺浓度梯度</text>
+<line x1="122" y1="300.27" x2="624" y2="300.27" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="316.75" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">02</text>
+<text x="122" y="316.75" font-size="19.57" font-weight="400" fill="#16282A">不需载体，不耗能</text>
+<line x1="122" y1="352.29" x2="624" y2="352.29" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="368.77" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">03</text>
+<text x="122" y="368.77" font-size="19.57" font-weight="400" fill="#16282A">速率随浓度差增大而增大，直到两侧相等</text>
+<image href="../images/tubes-light.jpg" x="700.0" y="150.0" width="504.0" height="396.0" preserveAspectRatio="xMidYMid meet" />
+<rect x="700" y="206.25" width="504" height="283.5" fill="none" stroke="#16282A" stroke-width="1.1" />
+<text x="700" y="572" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-4　O₂、CO₂、甘油、乙醇、苯</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">10</text>
+</g>
+</svg></div><figcaption>10 · 10-九自由扩散只看浓度</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">协助扩散：要帮手，仍然不花钱</text>
+<text x="76" y="190" font-family="Songti SC, STSong, SimSun, serif" font-size="39.14" font-weight="700" fill="#16282A" letter-spacing="0.78">十、协助扩散：要帮手，仍然<tspan x="76" dy="43.84">不花钱</tspan></text>
+
+<text x="76" y="308.57" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">01</text>
+<text x="122" y="308.57" font-size="19.57" font-weight="400" fill="#16282A">顺浓度梯度</text>
+<line x1="122" y1="344.11" x2="624" y2="344.11" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="360.59" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">02</text>
+<text x="122" y="360.59" font-size="19.57" font-weight="400" fill="#16282A">需载体蛋白（或通道蛋白）</text>
+<line x1="122" y1="396.12" x2="624" y2="396.12" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="412.6" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">03</text>
+<text x="122" y="412.6" font-size="19.57" font-weight="400" fill="#16282A">不消耗 ATP</text>
+<line x1="122" y1="448.14" x2="624" y2="448.14" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="464.62" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">04</text>
+<text x="122" y="464.62" font-size="19.57" font-weight="400" fill="#16282A">例：葡萄糖进入红细胞</text>
+<image href="../images/membrane-light.jpg" x="700.0" y="150.0" width="504.0" height="396.0" preserveAspectRatio="xMidYMid meet" />
+<rect x="700" y="206.25" width="504" height="283.5" fill="none" stroke="#16282A" stroke-width="1.1" />
+<text x="700" y="572" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-5　膜上的载体与通道（示意）</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">11</text>
+</g>
+</svg></div><figcaption>11 · 11-十协助扩散要帮手仍然不花</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">最容易混的一页</text>
+<text x="76" y="170" font-family="Songti SC, STSong, SimSun, serif" font-size="33.99" font-weight="700" fill="#16282A" letter-spacing="0.68">十一、载体不是通道</text>
+<text x="76" y="253.39" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">载体蛋白</text>
+<text x="76" y="311.07" font-family="Songti SC, STSong, SimSun, serif" font-size="32.96" font-weight="700" fill="#16282A">结合—变形—释放</text>
+<text x="76" y="362.57" font-size="18.54" font-weight="400" fill="#4F625F">自身构象改变<tspan x="76" dy="37.08">每轮都要「抓」一次</tspan><tspan x="76" dy="37.08">有特异性</tspan></text>
+
+
+<text x="680" y="253.39" font-size="13.39" font-weight="500" fill="#2A5F55" letter-spacing="2.47">通道蛋白</text>
+<text x="680" y="311.07" font-family="Songti SC, STSong, SimSun, serif" font-size="32.96" font-weight="700" fill="#16282A">开，或者关</text>
+<text x="680" y="362.57" font-size="18.54" font-weight="400" fill="#4F625F">形成水相孔道<tspan x="680" dy="37.08">不结合底物</tspan><tspan x="680" dy="37.08">同样有选择性</tspan></text>
+
+
+<line x1="640" y1="294.59" x2="640" y2="492.35" stroke="#D8D2C2" stroke-width="0.9" stroke-opacity="0.75" />
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">12</text>
+</g>
+</svg></div><figcaption>12 · 12-十一载体不是通道</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">判据表：今天加第二列</text>
+<text x="76" y="172" font-family="Songti SC, STSong, SimSun, serif" font-size="33.99" font-weight="700" fill="#16282A" letter-spacing="0.68">十二、判据表：今天的第二列</text>
+<line x1="76" y1="240.97" x2="1204" y2="240.97" stroke="#16282A" stroke-width="2" />
+<rect x="76" y="251.27" width="1128" height="35.02" fill="#F1ECDC" />
+<text x="86" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47" />
+<text x="368" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">方向</text>
+<text x="650" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">载体</text>
+<text x="932" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">能量</text>
+<line x1="76" y1="311.01" x2="1204" y2="311.01" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="86" y="333.67" font-family="Songti SC, STSong, SimSun, serif" font-size="20.6" font-weight="700" fill="#16282A">自由扩散</text>
+<text x="368" y="333.67" font-size="20.6" font-weight="400" fill="#16282A">顺</text>
+<text x="650" y="333.67" font-size="20.6" font-weight="400" fill="#16282A">无</text>
+<text x="932" y="333.67" font-size="20.6" font-weight="400" fill="#16282A">不耗</text>
+<line x1="76" y1="366.63" x2="1204" y2="366.63" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="86" y="389.29" font-family="Songti SC, STSong, SimSun, serif" font-size="20.6" font-weight="700" fill="#16282A">协助扩散</text>
+<text x="368" y="389.29" font-size="20.6" font-weight="400" fill="#16282A">顺</text>
+<text x="650" y="389.29" font-size="20.6" font-weight="400" fill="#16282A">有</text>
+<text x="932" y="389.29" font-size="20.6" font-weight="400" fill="#16282A">不耗</text>
+<line x1="76" y1="422.25" x2="1204" y2="422.25" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="86" y="444.91" font-family="Songti SC, STSong, SimSun, serif" font-size="20.6" font-weight="700" fill="#16282A">主动运输</text>
+<text x="368" y="444.91" font-size="20.6" font-weight="400" fill="#16282A">逆</text>
+<text x="650" y="444.91" font-size="20.6" font-weight="400" fill="#16282A">有</text>
+<text x="932" y="444.91" font-size="20.6" font-weight="400" fill="#16282A">耗</text>
+<line x1="76" y1="477.87" x2="1204" y2="477.87" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="504.53" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-13　这张表要挂三节课，只加列，不重画。</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">13</text>
+</g>
+</svg></div><figcaption>13 · 13-十二判据表今天的第二列</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">一张图：为什么会有平台</text>
+<text x="76" y="174" font-family="Songti SC, STSong, SimSun, serif" font-size="32.96" font-weight="700" fill="#16282A" letter-spacing="0.66">十三、一张图：为什么会有平台</text>
+<rect x="138" y="216" width="648" height="380" fill="#F1ECDC" />
+<line x1="190" y1="500" x2="756" y2="500" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="440" x2="756" y2="440" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="380" x2="756" y2="380" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="320" x2="756" y2="320" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="220" x2="190" y2="560" stroke="#16282A" stroke-width="1.2" />
+<line x1="190" y1="560" x2="760" y2="560" stroke="#16282A" stroke-width="1.2" />
+<text x="176" y="214" font-size="14.42" font-weight="400" fill="#4F625F" text-anchor="end">运输速率</text>
+<text x="760" y="590" font-size="14.42" font-weight="400" fill="#4F625F" text-anchor="end">浓度差</text>
+<path d="M200.0,524.1 L206.8,523.9 L213.5,523.6 L220.2,523.0 L227.0,522.2 L233.8,521.2 L240.5,520.0 L247.2,518.7 L254.0,517.2 L260.8,515.6 L267.5,513.9 L274.2,511.9 L281.0,509.9 L287.8,507.7 L294.5,505.3 L301.2,502.8 L308.0,500.2 L314.8,497.5 L321.5,494.6 L328.2,491.5 L335.0,488.4 L341.8,485.1 L348.5,481.7 L355.2,478.2 L362.0,474.5 L368.8,470.7 L375.5,466.8 L382.2,462.8 L389.0,458.7 L395.8,454.4 L402.5,450.0 L409.2,445.5 L416.0,440.9 L422.8,436.1 L429.5,431.3 L436.2,426.3 L443.0,421.2 L449.8,416.0 L456.5,410.7 L463.2,405.3 L470.0,399.7 L476.8,394.1 L483.5,388.3 L490.2,382.4 L497.0,376.4 L503.8,376.7 L510.5,376.9 L517.2,377.1 L524.0,377.3 L530.8,377.5 L537.5,377.8 L544.2,378.0 L551.0,378.2 L557.8,378.4 L564.5,378.7 L571.2,378.9 L578.0,379.1 L584.8,379.3 L591.5,379.5 L598.2,379.8 L605.0,380.0 L611.8,380.2 L618.5,380.4 L625.2,380.6 L632.0,380.9 L638.8,381.1 L645.5,381.3 L652.2,381.5 L659.0,381.8 L665.8,382.0 L672.5,382.2 L679.2,382.4 L686.0,382.6 L692.8,382.9 L699.5,383.1 L706.2,383.3 L713.0,383.5 L719.8,383.7 L726.5,384.0 L733.2,384.2 L740.0,384.4" fill="none" stroke="#2A5F55" stroke-width="2.6" stroke-linecap="round" />
+<line x1="800" y1="300" x2="852" y2="300" stroke="#2A5F55" stroke-width="2.6" />
+<text x="866" y="306" font-size="18.54" font-weight="400" fill="#16282A">协助扩散：先升后平</text>
+<line x1="800" y1="345.2" x2="1204" y2="345.2" stroke="#D8D2C2" stroke-width="1" />
+<text x="800" y="379.2" font-size="17.51" font-weight="400" fill="#4F625F">平的那一段，被什么卡住了？</text>
+<text x="800" y="407.01" font-size="17.51" font-weight="400" fill="#4F625F">答：载体全在用，没有空的了。</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">14</text>
+</g>
+</svg></div><figcaption>14 · 14-十三一张图为什么会有平台</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">两个反例，先判后讲</text>
+<text x="76" y="170" font-family="Songti SC, STSong, SimSun, serif" font-size="33.99" font-weight="700" fill="#16282A" letter-spacing="0.68">十四、两个反例</text>
+<text x="76" y="255.45" font-size="24.72" font-weight="700" fill="#A8432B">✗</text>
+<text x="120" y="255.45" font-size="21.63" font-weight="400" fill="#4F625F">水只能自由扩散</text>
+<text x="600" y="255.45" font-size="22.66" font-weight="700" fill="#2A5F55">→</text>
+<text x="646" y="255.45" font-size="21.63" font-weight="500" fill="#16282A">水还有水通道蛋白这条协助扩散的路</text>
+<line x1="76" y1="294.59" x2="1204" y2="294.59" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="311.07" font-size="24.72" font-weight="700" fill="#A8432B">✗</text>
+<text x="120" y="311.07" font-size="21.63" font-weight="400" fill="#4F625F">有载体就一定耗能</text>
+<text x="600" y="311.07" font-size="22.66" font-weight="700" fill="#2A5F55">→</text>
+<text x="646" y="311.07" font-size="21.63" font-weight="500" fill="#16282A">协助扩散有载体，不耗能</text>
+<line x1="76" y1="350.21" x2="1204" y2="350.21" stroke="#D8D2C2" stroke-width="0.9" />
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">15</text>
+</g>
+</svg></div><figcaption>15 · 15-十四两个反例</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../images/membrane-light.jpg" x="810.0" y="0.0" width="470.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="810" y="0" width="470" height="720" fill="#F7F4EA" fill-opacity="0.06" />
+<rect x="809" y="0" width="1" height="720" fill="#D8D2C2" />
+<rect x="76" y="141" width="6" height="6" fill="#16282A" /><text x="92" y="150" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">第 3 课时的入口</text>
+<text x="76" y="322" font-family="Songti SC, STSong, SimSun, serif" font-size="47.38" font-weight="700" fill="#16282A" letter-spacing="0.95">帮手有了，钱也省了，<tspan x="76" dy="71.28">还差什么？</tspan></text>
+
+<line x1="76" y1="482.55" x2="164" y2="482.55" stroke="#A8432B" stroke-width="3" />
+<text x="76" y="536.65" font-size="18.54" font-weight="400" fill="#4F625F">钩 2。学生若答"差能量"，直接肯定，但先不给名字。</text>
+</g>
+</svg></div><figcaption>16 · 16-十五钩子帮手有了钱也省了</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">一个数字对不上</text>
+<text x="76" y="172" font-family="Songti SC, STSong, SimSun, serif" font-size="33.99" font-weight="700" fill="#16282A" letter-spacing="0.68">十六、一个数字对不上</text>
+<line x1="76" y1="240.97" x2="1204" y2="240.97" stroke="#16282A" stroke-width="2" />
+<rect x="76" y="251.27" width="1128" height="35.02" fill="#F1ECDC" />
+<text x="86" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">离子</text>
+<text x="462" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">细胞内</text>
+<text x="838" y="278.05" font-size="13.39" font-weight="500" fill="#A8432B" letter-spacing="2.47">细胞外</text>
+<line x1="76" y1="311.01" x2="1204" y2="311.01" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="86" y="333.67" font-family="Songti SC, STSong, SimSun, serif" font-size="20.6" font-weight="700" fill="#16282A">K⁺</text>
+<text x="462" y="333.67" font-size="20.6" font-weight="400" fill="#16282A">140</text>
+<text x="838" y="333.67" font-size="20.6" font-weight="400" fill="#16282A">5</text>
+<line x1="76" y1="366.63" x2="1204" y2="366.63" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="86" y="389.29" font-family="Songti SC, STSong, SimSun, serif" font-size="20.6" font-weight="700" fill="#16282A">Na⁺</text>
+<text x="462" y="389.29" font-size="20.6" font-weight="400" fill="#16282A">12</text>
+<text x="838" y="389.29" font-size="20.6" font-weight="400" fill="#16282A">145</text>
+<line x1="76" y1="422.25" x2="1204" y2="422.25" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="448.91" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-17　单位 mmol/L（示意，量级正确）。可根细胞还在吸 K⁺。</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">17</text>
+</g>
+</svg></div><figcaption>17 · 17-十六一个数字对不上</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="section">
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../images/onion-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" fill-opacity="0.55" />
+<text x="76" y="268" font-family="Songti SC, STSong, SimSun, serif" font-size="111.24" font-weight="700" fill="#F7F4EA" letter-spacing="6.18">03</text>
+<line x1="76" y1="300" x2="196" y2="300" stroke="#F7F4EA" stroke-width="2" />
+<text x="76" y="392" font-family="Songti SC, STSong, SimSun, serif" font-size="47.38" font-weight="700" fill="#F7F4EA" letter-spacing="0.95">十七、膜上装了一台水泵</text>
+<line x1="76" y1="452.86" x2="172" y2="452.86" stroke="#F7F4EA" stroke-width="2.4" />
+<text x="76" y="510.86" font-size="19.57" font-weight="400" fill="#F7F4EA" fill-opacity="0.82">第 3 课时 · 主动运输与胞吞胞吐</text>
+</g>
+</svg></div><figcaption>18 · 18-十七膜上装了一台水泵</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">第 4 章 · 细胞的物质输入和输出</text>
+<text x="76" y="300" font-family="Songti SC, STSong, SimSun, serif" font-size="49.44" font-weight="700" fill="#16282A" letter-spacing="0.99">主动运输：逆浓度、耗能、<tspan x="76" dy="71.69">需要载体蛋白</tspan></text>
+
+<line x1="76" y1="455.38" x2="376" y2="455.38" stroke="#D8D2C2" stroke-width="2" />
+<text x="76" y="509.3" font-size="20.6" font-weight="400" fill="#4F625F">三条同时成立，才叫主动运输。这一句写在黑板左上角。</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">19</text>
+</g>
+</svg></div><figcaption>19 · 19-十八一条定义三个要素</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../images/splint-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="250" width="1280" height="470" fill="#0E1B1C" fill-opacity="0.6" />
+<rect x="76" y="403" width="6" height="6" fill="#F7F4EA" /><text x="92" y="412" font-size="12.88" font-weight="500" fill="#F7F4EA" letter-spacing="2.27">断电实验</text>
+<text x="76" y="500" font-family="Songti SC, STSong, SimSun, serif" font-size="51.5" font-weight="700" fill="#F7F4EA" letter-spacing="1.03">十九、逆浓度这件事，一定有人付钱</text>
+<line x1="76" y1="565.74" x2="336" y2="565.74" stroke="#F7F4EA" stroke-width="0.8" />
+<text x="76" y="646" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#F7F4EA" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-6　呼吸抑制剂处理后，吸收几乎停止</text>
+</g>
+</svg></div><figcaption>20 · 20-十九逆浓度这件事一定有人</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">两个平台，不是一个原因</text>
+<text x="76" y="174" font-family="Songti SC, STSong, SimSun, serif" font-size="32.96" font-weight="700" fill="#16282A" letter-spacing="0.66">二十、两个平台，不是一个原因</text>
+<rect x="138" y="216" width="648" height="380" fill="#F1ECDC" />
+<line x1="190" y1="500" x2="756" y2="500" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="440" x2="756" y2="440" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="380" x2="756" y2="380" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="320" x2="756" y2="320" stroke="#D8D2C2" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="190" y1="220" x2="190" y2="560" stroke="#16282A" stroke-width="1.2" />
+<line x1="190" y1="560" x2="760" y2="560" stroke="#16282A" stroke-width="1.2" />
+<text x="176" y="214" font-size="14.42" font-weight="400" fill="#4F625F" text-anchor="end">运输速率</text>
+<text x="760" y="590" font-size="14.42" font-weight="400" fill="#4F625F" text-anchor="end">O₂ 浓度</text>
+<path d="M200.0,535.5 L206.8,535.3 L213.5,534.8 L220.2,534.1 L227.0,533.2 L233.8,532.1 L240.5,530.8 L247.2,529.3 L254.0,527.6 L260.8,525.7 L267.5,523.6 L274.2,521.4 L281.0,519.0 L287.8,516.5 L294.5,513.8 L301.2,510.9 L308.0,507.9 L314.8,504.7 L321.5,501.4 L328.2,497.9 L335.0,494.3 L341.8,490.5 L348.5,486.5 L355.2,482.5 L362.0,478.3 L368.8,473.9 L375.5,469.4 L382.2,464.7 L389.0,459.9 L395.8,455.0 L402.5,450.0 L409.2,444.8 L416.0,439.4 L422.8,434.0 L429.5,428.4 L436.2,422.6 L443.0,416.7 L449.8,410.7 L456.5,404.6 L463.2,398.3 L470.0,391.9 L476.8,385.4 L483.5,378.8 L490.2,372.0 L497.0,365.1 L503.8,365.3 L510.5,365.6 L517.2,365.8 L524.0,366.1 L530.8,366.4 L537.5,366.6 L544.2,366.9 L551.0,367.1 L557.8,367.4 L564.5,367.6 L571.2,367.9 L578.0,368.1 L584.8,368.4 L591.5,368.7 L598.2,368.9 L605.0,369.2 L611.8,369.4 L618.5,369.7 L625.2,369.9 L632.0,370.2 L638.8,370.4 L645.5,370.7 L652.2,371.0 L659.0,371.2 L665.8,371.5 L672.5,371.7 L679.2,372.0 L686.0,372.2 L692.8,372.5 L699.5,372.7 L706.2,373.0 L713.0,373.3 L719.8,373.5 L726.5,373.8 L733.2,374.0 L740.0,374.3" fill="none" stroke="#A8432B" stroke-width="2.6" stroke-linecap="round" />
+<path d="M200.0,535.5 L206.8,535.3 L213.5,534.8 L220.2,534.1 L227.0,533.2 L233.8,532.1 L240.5,530.8 L247.2,529.3 L254.0,527.6 L260.8,525.7 L267.5,523.6 L274.2,521.4 L281.0,519.0 L287.8,516.5 L294.5,513.8 L301.2,510.9 L308.0,507.9 L314.8,504.7 L321.5,501.4 L328.2,497.9 L335.0,494.3 L341.8,490.5 L348.5,486.5 L355.2,482.5 L362.0,478.3 L368.8,473.9 L375.5,469.4 L382.2,464.7 L389.0,459.9 L395.8,455.0 L402.5,450.0 L409.2,444.8 L416.0,439.4 L422.8,434.0 L429.5,428.4 L436.2,422.6 L443.0,416.7 L449.8,410.7 L456.5,404.6 L463.2,398.3 L470.0,391.9 L476.8,385.4 L483.5,378.8 L490.2,372.0 L497.0,365.1 L503.8,365.3 L510.5,365.6 L517.2,365.8 L524.0,366.1 L530.8,366.4 L537.5,366.6 L544.2,366.9 L551.0,367.1 L557.8,367.4 L564.5,367.6 L571.2,367.9 L578.0,368.1 L584.8,368.4 L591.5,368.7 L598.2,368.9 L605.0,369.2 L611.8,369.4 L618.5,369.7 L625.2,369.9 L632.0,370.2 L638.8,370.4 L645.5,370.7 L652.2,371.0 L659.0,371.2 L665.8,371.5 L672.5,371.7 L679.2,372.0 L686.0,372.2 L692.8,372.5 L699.5,372.7 L706.2,373.0 L713.0,373.3 L719.8,373.5 L726.5,373.8 L733.2,374.0 L740.0,374.3" fill="none" stroke="#2A5F55" stroke-width="2.6" stroke-dasharray="9 7" stroke-linecap="round" />
+<line x1="800" y1="300" x2="852" y2="300" stroke="#A8432B" stroke-width="2.6" />
+<text x="866" y="306" font-size="18.54" font-weight="400" fill="#16282A">先卡能量</text>
+<line x1="800" y1="341.2" x2="852" y2="341.2" stroke="#2A5F55" stroke-width="2.6" stroke-dasharray="9 7" />
+<text x="866" y="347.2" font-size="18.54" font-weight="400" fill="#16282A">后卡载体</text>
+<line x1="800" y1="386.4" x2="1204" y2="386.4" stroke="#D8D2C2" stroke-width="1" />
+<text x="800" y="420.4" font-size="17.51" font-weight="400" fill="#4F625F">形状像，原因不同。</text>
+<text x="800" y="448.21" font-size="17.51" font-weight="400" fill="#4F625F">让学生分别写出「卡住的是什么」。</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">21</text>
+</g>
+</svg></div><figcaption>21 · 21-二十两个平台不是一个原因</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<rect x="76" y="87" width="6" height="6" fill="#16282A" /><text x="92" y="96" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">大分子怎么走</text>
+<text x="76" y="190" font-family="Songti SC, STSong, SimSun, serif" font-size="39.14" font-weight="700" fill="#16282A" letter-spacing="0.78">二十一、大分子怎么走</text>
+<text x="76" y="264.74" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">01</text>
+<text x="122" y="264.74" font-size="19.57" font-weight="400" fill="#16282A">胞吞：膜凹陷包住 → 形成囊泡进入</text>
+<line x1="122" y1="300.27" x2="624" y2="300.27" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="316.75" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">02</text>
+<text x="122" y="316.75" font-size="19.57" font-weight="400" fill="#16282A">胞吐：囊泡与膜融合 → 排出</text>
+<line x1="122" y1="352.29" x2="624" y2="352.29" stroke="#D8D2C2" stroke-width="0.9" />
+<text x="76" y="368.77" font-size="15.45" font-weight="500" fill="#A8432B" letter-spacing="1.03">03</text>
+<text x="122" y="368.77" font-size="19.57" font-weight="400" fill="#16282A">耗能，不用载体，不直接跨膜</text>
+<image href="../images/membrane-light.jpg" x="700.0" y="150.0" width="504.0" height="396.0" preserveAspectRatio="xMidYMid meet" />
+<rect x="700" y="206.25" width="504" height="283.5" fill="none" stroke="#16282A" stroke-width="1.1" />
+<text x="700" y="572" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#4F625F" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-7　胞吞胞吐：耗能、不用载体、不跨膜</text>
+<rect x="0" y="0" width="12" height="720" fill="#16282A" fill-opacity="0.06" /><text x="76" y="52" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="700" fill="#16282A" letter-spacing="0.82">第 4 章 · 细胞的物质输入和输出</text><line x1="76" y1="64" x2="1204" y2="64" stroke="#16282A" stroke-width="1.1" /><line x1="76" y1="67.5" x2="1204" y2="67.5" stroke="#D8D2C2" stroke-width="0.8" /><line x1="76" y1="658" x2="1204" y2="658" stroke="#16282A" stroke-width="0.9" /><text x="76" y="686" font-family="Songti SC, STSong, SimSun, serif" font-size="10.81" font-weight="400" fill="#4F625F" letter-spacing="0.82" fill-opacity="0.85">人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页</text><rect x="1148" y="666" width="56" height="28" fill="none" stroke="#16282A" stroke-width="0.9" /><text x="1176" y="687" font-family="Songti SC, STSong, SimSun, serif" font-size="15.45" font-weight="700" fill="#16282A" text-anchor="middle">22</text>
+</g>
+</svg></div><figcaption>22 · 22-二十一大分子怎么走</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../images/saltfield-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="250" width="1280" height="470" fill="#0E1B1C" fill-opacity="0.6" />
+<rect x="76" y="403" width="6" height="6" fill="#F7F4EA" /><text x="92" y="412" font-size="12.88" font-weight="500" fill="#F7F4EA" letter-spacing="2.27">回到那株稻子</text>
+<text x="76" y="500" font-family="Songti SC, STSong, SimSun, serif" font-size="51.5" font-weight="700" fill="#F7F4EA" letter-spacing="1.03">二十二、它把 Na⁺ 赶出去，把 K⁺ 拉<tspan x="76" dy="59.74">进来</tspan></text>
+
+<line x1="76" y1="625.48" x2="336" y2="625.48" stroke="#F7F4EA" stroke-width="0.8" />
+<text x="76" y="646" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#F7F4EA" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-8　盐霜地上的幼苗</text>
+</g>
+</svg></div><figcaption>23 · 23-二十二它把Na赶出去把K</figcaption></figure>
+<figure><div class="page"><svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="ending">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EA" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../images/root-light.jpg" x="810.0" y="0.0" width="470.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="810" y="0" width="470" height="720" fill="#F7F4EA" fill-opacity="0.06" />
+<rect x="809" y="0" width="1" height="720" fill="#D8D2C2" />
+<rect x="76" y="141" width="6" height="6" fill="#16282A" /><text x="92" y="150" font-size="12.88" font-weight="500" fill="#16282A" letter-spacing="2.27">第 4 章 · 细胞的物质输入和输出</text>
+<text x="76" y="322" font-family="Songti SC, STSong, SimSun, serif" font-size="47.38" font-weight="700" fill="#16282A" letter-spacing="0.95">扩散是顺其自然，<tspan x="76" dy="71.28">主动运输是有所选择。</tspan></text>
+
+<line x1="76" y1="482.55" x2="164" y2="482.55" stroke="#A8432B" stroke-width="3" />
+<text x="76" y="536.65" font-size="18.54" font-weight="400" fill="#4F625F">下课。</text>
+</g>
+</svg></div><figcaption>24 · 24-二十三收句</figcaption></figure>
+</main>
+</body></html>

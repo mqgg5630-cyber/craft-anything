@@ -1,0 +1,131 @@
+{
+  "gpu_info": {
+    "device_name": "Tesla T4",
+    "vram_gb": 14.56
+  },
+  "timings": {
+    "deps_install_sec": 52.05,
+    "depth_anything_v2_10scenes_sec": 32.3,
+    "f5_model_load_sec": 26.16,
+    "f5_30takes_infer_sec": 39.08,
+    "seedvc_clone_and_20takes_sec": 74.5,
+    "speaker_verify_sec": 8.39,
+    "total_colab_gpu_sec": 237.87
+  },
+  "wavlm_sv": {
+    "hybrid44k_s01_lumei_fix_s42": 0.6775,
+    "hybrid44k_s01_lumei_nat_s42": 0.7584,
+    "hybrid44k_s02_lulu_fix_s77": 0.908,
+    "hybrid44k_s02_lulu_nat_s42": 0.9138,
+    "hybrid44k_s03_lumei_fix_s77": 0.6398,
+    "hybrid44k_s03_lumei_nat_s42": 0.669,
+    "hybrid44k_s04_lulu_fix_s77": 0.906,
+    "hybrid44k_s04_lulu_nat_s42": 0.9067,
+    "hybrid44k_s05_lulu_fix_s77": 0.8473,
+    "hybrid44k_s05_lulu_nat_s42": 0.9336,
+    "hybrid44k_s06_lumei_fix_s42": 0.8228,
+    "hybrid44k_s06_lumei_nat_s42": 0.7911,
+    "hybrid44k_s07_lulu_fix_s42": 0.9264,
+    "hybrid44k_s07_lulu_nat_s42": 0.9458,
+    "hybrid44k_s08_lumei_fix_s77": 0.7591,
+    "hybrid44k_s08_lumei_nat_s42": 0.7197,
+    "hybrid44k_s09_lumei_fix_s42": 0.632,
+    "hybrid44k_s09_lumei_nat_s42": 0.7836,
+    "hybrid44k_s10_lulu_fix_s77": 0.8728,
+    "hybrid44k_s10_lulu_nat_s42": 0.8236
+  },
+  "campplus": {
+    "hybrid44k_s01_lumei_fix_s42": 0.539,
+    "hybrid44k_s01_lumei_nat_s42": 0.5201,
+    "hybrid44k_s02_lulu_fix_s77": 0.6125,
+    "hybrid44k_s02_lulu_nat_s42": 0.757,
+    "hybrid44k_s03_lumei_fix_s77": 0.4809,
+    "hybrid44k_s03_lumei_nat_s42": 0.5413,
+    "hybrid44k_s04_lulu_fix_s77": 0.5296,
+    "hybrid44k_s04_lulu_nat_s42": 0.6083,
+    "hybrid44k_s05_lulu_fix_s77": 0.6219,
+    "hybrid44k_s05_lulu_nat_s42": 0.6375,
+    "hybrid44k_s06_lumei_fix_s42": 0.5534,
+    "hybrid44k_s06_lumei_nat_s42": 0.5854,
+    "hybrid44k_s07_lulu_fix_s42": 0.5354,
+    "hybrid44k_s07_lulu_nat_s42": 0.71,
+    "hybrid44k_s08_lumei_fix_s77": 0.5765,
+    "hybrid44k_s08_lumei_nat_s42": 0.5807,
+    "hybrid44k_s09_lumei_fix_s42": 0.4434,
+    "hybrid44k_s09_lumei_nat_s42": 0.5379,
+    "hybrid44k_s10_lulu_fix_s77": 0.4989,
+    "hybrid44k_s10_lulu_nat_s42": 0.5482
+  },
+  "selected_10scenes": {
+    "s01_lumei": {
+      "chosen_take": "hybrid44k_s01_lumei_nat_s42",
+      "wavlm_sv": 0.7584,
+      "campplus": 0.5201,
+      "raw_dur_sec": 2.276,
+      "sr": 22050
+    },
+    "s02_lulu": {
+      "chosen_take": "hybrid44k_s02_lulu_nat_s42",
+      "wavlm_sv": 0.9138,
+      "campplus": 0.757,
+      "raw_dur_sec": 2.694,
+      "sr": 22050
+    },
+    "s03_lumei": {
+      "chosen_take": "hybrid44k_s03_lumei_nat_s42",
+      "wavlm_sv": 0.669,
+      "campplus": 0.5413,
+      "raw_dur_sec": 2.276,
+      "sr": 22050
+    },
+    "s04_lulu": {
+      "chosen_take": "hybrid44k_s04_lulu_nat_s42",
+      "wavlm_sv": 0.9067,
+      "campplus": 0.6083,
+      "raw_dur_sec": 2.473,
+      "sr": 22050
+    },
+    "s05_lulu": {
+      "chosen_take": "hybrid44k_s05_lulu_nat_s42",
+      "wavlm_sv": 0.9336,
+      "campplus": 0.6375,
+      "raw_dur_sec": 2.694,
+      "sr": 22050
+    },
+    "s06_lumei": {
+      "chosen_take": "hybrid44k_s06_lumei_fix_s42",
+      "wavlm_sv": 0.8228,
+      "campplus": 0.5534,
+      "raw_dur_sec": 1.962,
+      "sr": 22050
+    },
+    "s07_lulu": {
+      "chosen_take": "hybrid44k_s07_lulu_nat_s42",
+      "wavlm_sv": 0.9458,
+      "campplus": 0.71,
+      "raw_dur_sec": 2.473,
+      "sr": 22050
+    },
+    "s08_lumei": {
+      "chosen_take": "hybrid44k_s08_lumei_fix_s77",
+      "wavlm_sv": 0.7591,
+      "campplus": 0.5765,
+      "raw_dur_sec": 1.985,
+      "sr": 22050
+    },
+    "s09_lumei": {
+      "chosen_take": "hybrid44k_s09_lumei_nat_s42",
+      "wavlm_sv": 0.7836,
+      "campplus": 0.5379,
+      "raw_dur_sec": 2.276,
+      "sr": 22050
+    },
+    "s10_lulu": {
+      "chosen_take": "hybrid44k_s10_lulu_fix_s77",
+      "wavlm_sv": 0.8728,
+      "campplus": 0.4989,
+      "raw_dur_sec": 1.846,
+      "sr": 22050
+    }
+  }
+}

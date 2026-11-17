@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>我们的小时光</title>
+<meta name="description" content="两个人的时间轴、相册、纪念日和小纸条。" />
+<meta name="theme-color" content="#fbf7f0" />
+<meta property="og:title" content="我们的小时光" />
+<meta property="og:description" content="把每一个普通的日子，过成值得记住的样子。" />
+<meta property="og:type" content="website" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 27C9 22 3 17 3 11.5 3 7.4 6.2 4.5 9.8 4.5c2.6 0 4.8 1.4 6.2 3.6 1.4-2.2 3.6-3.6 6.2-3.6C25.8 4.5 29 7.4 29 11.5 29 17 23 22 16 27z' fill='%23e4573d'/%3E%3C/svg%3E" />
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<a class="skip-link" href="#timeline">跳到时光轴</a>
+
+<!-- 漂浮的纸屑爱心容器 -->
+<div class="confetti-layer" id="confettiLayer" aria-hidden="true"></div>
+
+<header class="topbar" id="topbar">
+  <div class="topbar__inner">
+    <a class="brand" href="#home">
+      <span class="brand__heart" aria-hidden="true">♥</span>
+      <span class="brand__text" data-bind="meta.title">我们的小时光</span>
+    </a>
+    <nav class="nav" aria-label="主导航">
+      <a href="#timeline">时光轴</a>
+      <a href="#album">相册</a>
+      <a href="#dates">纪念日</a>
+      <a href="#wishlist">清单</a>
+      <a href="#notes">小纸条</a>
+    </nav>
+    <div class="topbar__actions">
+      <button class="icon-btn" id="shareBtn" type="button" title="复制这个页面的链接" aria-label="复制链接">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1.5 1.5M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7L12.5 19.5"/></svg>
+      </button>
+      <button class="btn btn--ghost" id="openSettings" type="button">改一改</button>
+    </div>
+  </div>
+</header>
+
+<noscript>
+  <p style="max-width:720px;margin:24px auto;padding:14px 18px;border:2px dashed #e4573d;border-radius:12px;font-size:.9rem;">
+    这个页面靠 JavaScript 把内容填进来。请开启 JavaScript，或者直接用 <code>python3 -m http.server</code> 在本地打开。
+  </p>
+</noscript>
+
+<main>
+  <!-- ============ HERO ============ -->
+  <section class="hero" id="home">
+    <div class="hero__blobs" aria-hidden="true">
+      <span class="blob blob--peach"></span>
+      <span class="blob blob--sky"></span>
+      <span class="blob blob--sun"></span>
+    </div>
+
+    <div class="hero__grid">
+      <div class="hero__copy">
+        <p class="kicker"><span class="kicker__line"></span><span data-bind="couple.since">SINCE 2021.05.20</span></p>
+
+        <h1 class="hero__names">
+          <span data-bind="couple.nameA">阿澈</span>
+          <span class="amp" aria-label="和">＆</span>
+          <span data-bind="couple.nameB">小满</span>
+        </h1>
+
+        <p class="hero__tagline"><span data-bind="couple.tagline">把每一个普通的日子，过成值得记住的样子。</span></p>
+        <p class="hero__intro" data-bind="couple.intro"></p>
+
+        <div class="counter-card">
+          <div class="counter-card__main">
+            <p class="counter-card__label">我们已经在一起</p>
+            <p class="counter-card__number"><span id="daysTogether">0</span><span class="unit">天</span></p>
+            <p class="counter-card__sub" id="togetherDetail">— 年 — 个月 — 天</p>
+          </div>
+          <div class="counter-card__side">
+            <p class="mini-label">今天已经一起走过</p>
+            <p class="clock" id="liveClock">00:00:00</p>
+            <p class="mini-label mini-label--mt">下一个纪念日</p>
+            <p class="next-date" id="nextDate">—</p>
+          </div>
+        </div>
+
+        <div class="hero__cta">
+          <a class="btn btn--primary" href="#timeline">看看我们的故事</a>
+          <a class="btn btn--text" href="#album">翻开相册 →</a>
+        </div>
+      </div>
+
+      <figure class="hero__art">
+        <span class="tape tape--tl" aria-hidden="true"></span>
+        <span class="tape tape--br" aria-hidden="true"></span>
+        <img id="heroArt" src="assets/art/hero.jpg" alt="两个人靠在一起的自拍涂鸦" />
+        <figcaption class="hero__art-caption">
+          <span class="doodle-heart" aria-hidden="true">♥</span>
+          <span data-bind="couple.artCaption">今天也很好</span>
+        </figcaption>
+      </figure>
+    </div>
+
+    <ul class="stat-strip" id="statStrip" aria-label="我们的一些数字"></ul>
+  </section>
+
+  <!-- ============ 时光轴 ============ -->
+  <section class="section" id="timeline">
+    <div class="section__head">
+      <p class="section__kicker">OUR STORY</p>
+      <h2 class="section__title">时光轴<span class="title-dot">·</span>我们走过的地方</h2>
+      <p class="section__desc">按时间排好的小事。它们当时都很平常，回头看才发现是主线。</p>
+    </div>
+    <div class="timeline" id="timelineList" role="list"></div>
+  </section>
+
+  <!-- ============ 相册 ============ -->
+  <section class="section section--tinted" id="album">
+    <div class="section__head">
+      <p class="section__kicker">PHOTO ALBUM</p>
+      <h2 class="section__title">相册<span class="title-dot">·</span>按下快门的那几秒</h2>
+      <p class="section__desc">点开看大图，左右方向键可以翻页。</p>
+    </div>
+    <div class="gallery" id="gallery"></div>
+    <p class="gallery__hint">想换成你们自己的照片？把图片放进 <code>assets/photos/</code>，再改 <code>data/content.js</code> 里的 <code>photos</code> 就行。</p>
+
+    <div class="samples">
+      <div class="samples__head">
+        <h3 class="samples__title">画风样张 <span>· 来自 Drive 里的 scribble-couple</span></h3>
+        <p class="samples__desc">同一套「黑蜡笔双线 + 方宽脸 + 腮红 + 小红心」的测试图，和上面的插画、这个页面的排版是一套语言。点开看大图。</p>
+      </div>
+      <div class="sample-wall" id="sampleWall"></div>
+    </div>
+  </section>
+
+  <!-- ============ 纪念日 ============ -->
+  <section class="section" id="dates">
+    <div class="section__head">
+      <p class="section__kicker">ANNIVERSARIES</p>
+      <h2 class="section__title">纪念日<span class="title-dot">·</span>提前准备的那些日子</h2>
+      <p class="section__desc">每年都会回来的日子，倒计时自动算。</p>
+    </div>
+    <div class="date-grid" id="dateGrid"></div>
+  </section>
+
+  <!-- ============ 清单 ============ -->
+  <section class="section section--tinted" id="wishlist">
+    <div class="section__head">
+      <p class="section__kicker">OUR LIST</p>
+      <h2 class="section__title">一起做的事<span class="title-dot">·</span>慢慢打勾</h2>
+      <p class="section__desc">勾选会存在你自己的浏览器里，不会上传到任何地方。</p>
+    </div>
+    <div class="wish">
+      <div class="wish__progress">
+        <div class="wish__bar"><span id="wishBar"></span></div>
+        <p class="wish__count"><span id="wishDone">0</span> / <span id="wishTotal">0</span> 已完成</p>
+      </div>
+      <ul class="wish__list" id="wishList"></ul>
+    </div>
+  </section>
+
+  <!-- ============ 小纸条 ============ -->
+  <section class="section" id="notes">
+    <div class="section__head">
+      <p class="section__kicker">LITTLE NOTES</p>
+      <h2 class="section__title">小纸条<span class="title-dot">·</span>贴在冰箱上的话</h2>
+      <p class="section__desc">写给对方的一句话。保存后只在这台设备的浏览器里。</p>
+    </div>
+
+    <div class="notes">
+      <form class="note-form" id="noteForm">
+        <label class="field">
+          <span class="field__label">谁写的</span>
+          <select id="noteFrom" class="input"></select>
+        </label>
+        <label class="field field--grow">
+          <span class="field__label">想说的话</span>
+          <textarea id="noteText" class="input" rows="3" maxlength="160" placeholder="今天也辛苦了，晚上给你留了半个西瓜。" required></textarea>
+        </label>
+        <button class="btn btn--primary" type="submit">贴上去</button>
+      </form>
+      <div class="notes__wall" id="notesWall"></div>
+    </div>
+  </section>
+
+  <section class="closing">
+    <p class="closing__quote" id="dailyQuote">—</p>
+    <p class="closing__sign">未完待续<span class="doodle-heart" aria-hidden="true">♥</span></p>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer__inner">
+    <p class="footer__line"><span data-bind="couple.nameA">阿澈</span> ＆ <span data-bind="couple.nameB">小满</span> · <span data-bind="couple.location">新加坡</span></p>
+    <p class="footer__meta">
+      纯静态 · 零依赖 · 数据只在本机 ·
+      <a href="https://github.com/aicodeking/leanrea/tree/main/couple-site" target="_blank" rel="noreferrer">源码与部署说明</a>
+    </p>
+  </div>
+</footer>
+
+<!-- ============ 设置抽屉 ============ -->
+<div class="drawer" id="drawer" aria-hidden="true">
+  <div class="drawer__scrim" data-close-drawer></div>
+  <aside class="drawer__panel" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+    <header class="drawer__head">
+      <h2 id="drawerTitle">改成你们的样子</h2>
+      <button class="icon-btn" type="button" data-close-drawer aria-label="关闭">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </header>
+    <div class="drawer__body">
+      <p class="drawer__note">改完点「保存到本机」立刻生效。想带走，点「导出 content.js」替换掉 <code>data/content.js</code>，再部署一次就是正式版。</p>
+
+      <div class="field-row">
+        <label class="field"><span class="field__label">名字 A</span><input class="input" id="fNameA" maxlength="12" /></label>
+        <label class="field"><span class="field__label">名字 B</span><input class="input" id="fNameB" maxlength="12" /></label>
+      </div>
+      <div class="field-row">
+        <label class="field"><span class="field__label">在一起的第一天</span><input class="input" id="fStartDate" type="date" /></label>
+        <label class="field"><span class="field__label">所在城市</span><input class="input" id="fLocation" maxlength="24" /></label>
+      </div>
+      <label class="field"><span class="field__label">一句话</span><input class="input" id="fTagline" maxlength="60" /></label>
+      <label class="field"><span class="field__label">开头那段介绍</span><textarea class="input" id="fIntro" rows="3" maxlength="220"></textarea></label>
+      <label class="field"><span class="field__label">首页插画路径</span><input class="input" id="fArt" maxlength="120" /></label>
+
+      <div class="drawer__actions">
+        <button class="btn btn--primary" id="saveSettings" type="button">保存到本机</button>
+        <button class="btn btn--ghost" id="exportData" type="button">导出 content.js</button>
+        <button class="btn btn--text" id="resetSettings" type="button">恢复默认</button>
+      </div>
+      <p class="drawer__status" id="drawerStatus" role="status"></p>
+    </div>
+  </aside>
+</div>
+
+<!-- ============ 灯箱 ============ -->
+<div class="lightbox" id="lightbox" aria-hidden="true" role="dialog" aria-modal="true" aria-label="照片大图">
+  <button class="lightbox__close" id="lbClose" type="button" aria-label="关闭">×</button>
+  <button class="lightbox__nav lightbox__nav--prev" id="lbPrev" type="button" aria-label="上一张">‹</button>
+  <figure class="lightbox__figure">
+    <img id="lbImage" src="" alt="" />
+    <figcaption id="lbCaption"></figcaption>
+  </figure>
+  <button class="lightbox__nav lightbox__nav--next" id="lbNext" type="button" aria-label="下一张">›</button>
+</div>
+
+<script src="data/content.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

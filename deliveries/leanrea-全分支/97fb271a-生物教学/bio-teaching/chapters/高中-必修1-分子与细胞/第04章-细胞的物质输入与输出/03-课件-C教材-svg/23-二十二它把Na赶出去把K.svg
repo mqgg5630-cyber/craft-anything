@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#0E1B1C" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/saltfield-ink.jpg" x="0.0" y="0.0" width="1280.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="0" y="250" width="1280" height="470" fill="#0E1B1C" fill-opacity="0.6" />
+<rect x="76" y="403" width="6" height="6" fill="#F7F4EA" /><text x="92" y="412" font-size="12.88" font-weight="500" fill="#F7F4EA" letter-spacing="2.27">回到那株稻子</text>
+<text x="76" y="500" font-family="Songti SC, STSong, SimSun, serif" font-size="51.5" font-weight="700" fill="#F7F4EA" letter-spacing="1.03">二十二、它把 Na⁺ 赶出去，把 K⁺ 拉<tspan x="76" dy="59.74">进来</tspan></text>
+
+<line x1="76" y1="625.48" x2="336" y2="625.48" stroke="#F7F4EA" stroke-width="0.8" />
+<text x="76" y="646" font-family="Songti SC, STSong, SimSun, serif" font-size="12.88" font-weight="400" fill="#F7F4EA" letter-spacing="1.03" fill-opacity="0.9" font-style="italic">图 4-8　盐霜地上的幼苗</text>
+</g>
+</svg>

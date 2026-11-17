@@ -1,0 +1,20 @@
+{
+  "title": "史努比彩铅壁纸 · 复刻 10 张",
+  "subtitle": "复刻自 Cppp壁纸《261104》(6aef57ed，原帖 6 张) · 01–06 逐张复刻 · 07–10 同风格新场景 · 1440×3200 · AI 生成",
+  "date": "Saturday, November 8",
+  "time": "09:41",
+  "prefix": "史努比",
+  "cover": {"left": 4, "right": 3},
+  "pages": [
+    {"n": 1,  "name": "树下野餐", "overlay": "home", "from": "原图01 复刻", "line": "一棵大树下，大家都在"},
+    {"n": 2,  "name": "池边纸船", "overlay": "lock", "from": "原图02 复刻", "line": "把纸船推出去的那一下"},
+    {"n": 3,  "name": "海边躺椅", "overlay": "lock", "from": "原图03 复刻", "line": "阳伞、躺椅、沙堡，齐了"},
+    {"n": 4,  "name": "长围巾",   "overlay": "lock", "from": "原图04 复刻", "line": "围巾太长，糊涂塌客帮忙拎着"},
+    {"n": 5,  "name": "车站行李", "overlay": "lock", "from": "原图05 复刻", "line": "坐在行李箱上等一班车"},
+    {"n": 6,  "name": "萤火虫夜", "overlay": "lock", "from": "原图06 复刻", "line": "萤火虫替它数星星"},
+    {"n": 7,  "name": "屋顶看月", "overlay": "lock", "from": "新场景 · 锚 原图06", "line": "红屋顶上，月亮刚出来"},
+    {"n": 8,  "name": "秋叶堆",   "overlay": "home", "from": "新场景 · 锚 原图01", "line": "一头扎进落叶堆"},
+    {"n": 9,  "name": "黄伞雨天", "overlay": "lock", "from": "新场景 · 锚 原图02", "line": "下雨天也要出门散步"},
+    {"n": 10, "name": "开心跳舞", "overlay": "lock", "from": "新场景 · 锚 原图04", "line": "没什么理由，就是开心"}
+  ]
+}

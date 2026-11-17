@@ -1,0 +1,97 @@
+{
+  "title": "日落下的灯塔与海浪 · 复刻 10 张",
+  "subtitle": "复刻自 一只小猫喵喵喵《日落下的灯塔与海浪》(6aede8e7，原帖 9 张) · 01–09 逐张复刻 · 10 新场景 · 1536×2560 (3:5 跟原帖) · AI 生成",
+  "canvas": [
+    1536,
+    2560
+  ],
+  "date": "Saturday, November 7",
+  "time": "09:41",
+  "prefix": "灯塔",
+  "cover": {
+    "left": 1,
+    "right": 10
+  },
+  "pages": [
+    {
+      "n": 1,
+      "name": "灯塔日落",
+      "anchor": "center",
+      "overlay": "home",
+      "from": "原图01 复刻",
+      "line": "灯塔先亮了"
+    },
+    {
+      "n": 2,
+      "name": "面包店门口",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图02 复刻",
+      "line": "面包店还亮着灯"
+    },
+    {
+      "n": 3,
+      "name": "礁石潮池",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图03 复刻",
+      "line": "海面一点一点染成蜜糖色"
+    },
+    {
+      "n": 4,
+      "name": "花架茶座",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图04 复刻",
+      "line": "坐一会儿吧"
+    },
+    {
+      "n": 5,
+      "name": "桌上蜜桃",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图05 复刻",
+      "line": "一盘桃子一壶桃汁"
+    },
+    {
+      "n": 6,
+      "name": "山城海港",
+      "anchor": "center",
+      "overlay": "home",
+      "from": "原图06 复刻",
+      "line": "沿着雾蓝色的石阶往下走"
+    },
+    {
+      "n": 7,
+      "name": "薰衣草石阶",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图07 复刻",
+      "line": "石阶尽头是海"
+    },
+    {
+      "n": 8,
+      "name": "系泊小船",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图08 复刻",
+      "line": "小船今天不出海"
+    },
+    {
+      "n": 9,
+      "name": "沙滩藤椅",
+      "anchor": "center",
+      "overlay": "lock",
+      "from": "原图09 复刻",
+      "line": "沙丘上的藤椅空着"
+    },
+    {
+      "n": 10,
+      "name": "窗台小猫",
+      "anchor": "center",
+      "overlay": "home",
+      "from": "新场景（正文「坐一会儿吧」+ 作者名「一只小猫」）",
+      "line": "小猫替你坐了一会儿"
+    }
+  ]
+}

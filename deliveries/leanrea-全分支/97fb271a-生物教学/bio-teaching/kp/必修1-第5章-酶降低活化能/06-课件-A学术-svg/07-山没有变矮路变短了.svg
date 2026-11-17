@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="content">
+<rect x="0" y="0" width="1280" height="720" fill="#F1F0EB" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<line x1="76" y1="92" x2="102" y2="92" stroke="#9E2B1B" stroke-width="2" /><text x="114" y="96" font-size="11.15" font-weight="500" fill="#111E20" letter-spacing="4.27">于是有了一条路</text>
+<text x="76" y="170" font-family="Songti SC, STSong, SimSun, serif" font-size="32.98" font-weight="700" fill="#111E20" letter-spacing="1.48">山没有变矮，路变短了</text>
+<rect x="132" y="204" width="1022" height="398" fill="#E9E8E2" />
+<line x1="170" y1="469" x2="1126" y2="469" stroke="#CFD2CE" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="170" y1="396" x2="1126" y2="396" stroke="#CFD2CE" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="170" y1="323" x2="1126" y2="323" stroke="#CFD2CE" stroke-width="0.6" stroke-opacity="0.7" />
+<line x1="160" y1="542" x2="1120" y2="542" stroke="#111E20" stroke-width="1.4" />
+<line x1="160" y1="542" x2="160" y2="240" stroke="#111E20" stroke-width="1.4" />
+<text x="1122" y="572" font-size="13.58" font-weight="400" fill="#4A585B" text-anchor="end">反应进程</text>
+<text x="150" y="224" font-size="13.58" font-weight="400" fill="#4A585B" text-anchor="end">能量</text>
+<path d="M190,542 C280,542 340,279.2 490,279.2 C620,279.2 660,542 750,542 C830,542 890,512 950,512 L1110,512" fill="none" stroke="#111E20" stroke-width="3.2" stroke-linecap="round" />
+<line x1="360" y1="542" x2="360" y2="279.2" stroke="#9E2B1B" stroke-width="1.4" stroke-dasharray="5 5" />
+<path d="M355,291.2 L360,279.2 L365,291.2" fill="none" stroke="#9E2B1B" stroke-width="1.4" />
+<path d="M355,530 L360,542 L365,530" fill="none" stroke="#9E2B1B" stroke-width="1.4" />
+<text x="374" y="410.6" font-size="16.49" font-weight="500" fill="#9E2B1B">活化能</text>
+<path d="M300,502 C360,357.2 440,357.2 490,357.2 C540,357.2 620,502 660,502" fill="none" stroke="#22464C" stroke-width="1.6" stroke-dasharray="7 6" stroke-linecap="round" />
+<text x="510" y="337.2" font-size="14.55" font-weight="400" fill="#22464C">无机催化剂：降一点</text>
+<line x1="250" y1="446" x2="910" y2="446" stroke="#9E2B1B" stroke-width="2.6" stroke-opacity="0.95" />
+<text x="250" y="430" font-size="14.55" font-weight="500" fill="#9E2B1B">酶：打一条隧道（不搬走山，只换路）</text>
+<text x="252" y="576" font-size="13.58" font-weight="400" fill="#4A585B" letter-spacing="1.16">反应物</text>
+<text x="1020" y="576" font-size="13.58" font-weight="400" fill="#4A585B" letter-spacing="1.16">产物</text>
+<line x1="76" y1="60" x2="1204" y2="60" stroke="#CFD2CE" stroke-width="0.9" /><line x1="76" y1="60" x2="120" y2="60" stroke="#9E2B1B" stroke-width="1.6" /><text x="1204" y="46" font-size="10.19" font-weight="400" fill="#4A585B" text-anchor="end" letter-spacing="2.72" fill-opacity="0.85">第 5 章 · 降低化学反应活化能的酶</text><line x1="76" y1="654" x2="1204" y2="654" stroke="#CFD2CE" stroke-width="0.8" /><text x="76" y="680" font-size="10.67" font-weight="500" fill="#111E20" letter-spacing="2.13">07</text><text x="106" y="680" font-size="10.67" font-weight="400" fill="#4A585B" letter-spacing="2.13" fill-opacity="0.8">/ 15</text><text x="1204" y="680" font-size="9.7" font-weight="400" fill="#4A585B" text-anchor="end" letter-spacing="3.3" fill-opacity="0.6">单墨 · 教学图版</text>
+</g>
+</svg>

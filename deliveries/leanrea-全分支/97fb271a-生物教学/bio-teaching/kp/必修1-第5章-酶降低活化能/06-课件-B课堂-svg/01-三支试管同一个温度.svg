@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="zh-CN" viewBox="0 0 1280 720" width="1280" height="720" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" data-pptx-page-role="cover">
+<rect x="0" y="0" width="1280" height="720" fill="#FAF3E3" id="bg" data-pptx-role="background" />
+<g id="content" data-pptx-bounds="0 0 1280 720">
+<image href="../../assets/deck-images/tubes-light.jpg" x="740.0" y="0.0" width="540.0" height="720.0" preserveAspectRatio="xMidYMid slice" />
+<rect x="740" y="0" width="540" height="720" fill="#FAF3E3" fill-opacity="0.04" />
+<rect x="739" y="0" width="1" height="720" fill="#E3D6BD" />
+<path d="M74.0,158.0 C78.5,155.6 81.5,160.6 84.0,158.6 C89.0,156.2 92.0,160.4 94.0,158.2 C110.0,155.8 82.0,160.2 104.0,157.4" fill="none" stroke="#B5852B" stroke-width="2.6" stroke-linecap="round" /><text x="116" y="150" font-size="16.67" font-weight="600" fill="#1A2A26" letter-spacing="1.84">第 5 章 · 第 1 节</text>
+<text x="76" y="264.58" font-family="Songti SC, STSong, SimSun, serif" font-size="64.4" font-weight="700" fill="#1A2A26">三支试管，同一个<tspan x="76" dy="74.7">温度</tspan></text>
+
+<path d="M72.0,422.0 C89.7,419.6 101.5,424.6 111.3,422.6 C131.0,420.2 142.8,424.4 150.7,422.2 C166.7,419.8 168.0,424.2 190.0,421.4" fill="none" stroke="#B94E2A" stroke-width="3.2" stroke-linecap="round" />
+<text x="76" y="469.99" font-size="23" font-weight="400" fill="#5B6B5F">酶的作用 · 40 分钟 · 人教版必修 1</text>
+<text x="76" y="640" font-size="14.37" font-weight="400" fill="#5B6B5F" letter-spacing="1.61" fill-opacity="0.85">人教版（2019）必修 1 · 第 5 章第 1 节 · 40 分钟 · 15 页</text>
+</g>
+</svg>

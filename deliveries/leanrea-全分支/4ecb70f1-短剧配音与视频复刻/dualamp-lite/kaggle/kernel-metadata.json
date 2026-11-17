@@ -1,0 +1,16 @@
+{
+  "id": "yourname/dualamp-lite-run",
+  "title": "DualAMP-Lite run",
+  "code_file": "../notebooks/DualAMP_Lite_Kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "yourname/dualamp-raw"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

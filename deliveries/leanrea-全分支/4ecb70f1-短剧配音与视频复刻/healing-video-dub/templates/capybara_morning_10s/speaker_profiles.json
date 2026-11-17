@@ -1,0 +1,16 @@
+{
+  "lumei": {
+    "display_name": "撸妹 (右侧碎花睡帽小水豚 · 甜美撒娇少女音, F0≈350Hz)",
+    "ref_audio": "refs/ref_lumei_clean.flac",
+    "ref_text": "好可爱，妈妈噜噜，妈妈噜噜。",
+    "default_f0_hz": 350.0,
+    "recommended_chars_per_sec": [3.8, 5.6]
+  },
+  "lulu": {
+    "display_name": "噜噜 (左侧头顶大橘子水豚 · 温柔宠溺少年音, F0≈262Hz)",
+    "ref_audio": "refs/ref_lulu_clean.flac",
+    "ref_text": "噜妹你又调皮啦。",
+    "default_f0_hz": 262.5,
+    "recommended_chars_per_sec": [3.8, 5.6]
+  }
+}

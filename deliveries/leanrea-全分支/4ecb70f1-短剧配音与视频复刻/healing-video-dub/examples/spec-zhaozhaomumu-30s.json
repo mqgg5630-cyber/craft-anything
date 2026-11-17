@@ -1,0 +1,24 @@
+{
+  "episode_id": "zhaozhaomumu_30s",
+  "title": "走过你的朝朝暮暮（三幕 30s 治愈长片：朝·晨光 → 暮·晚霞 → 朝朝暮暮）",
+  "template": "../templates/capybara_zhaozhaomumu_30s/template_manifest.json",
+  "publish_copy": {
+    "xhs_title": "噜噜&撸妹｜想陪你走过，每一个朝朝暮暮🍊✨",
+    "xhs_body": "【第一幕 · 朝】\n撸妹：早安，晨光来亲你啦！\n噜噜：一睁眼就看见你呀。\n撸妹：每个早晨都要抱你！\n噜噜：好呀，朝朝醒来都陪你。\n\n【第二幕 · 暮】\n噜噜：看，窗外晚霞变橘色啦。\n撸妹：黄昏窝在你怀里嘛！\n噜噜：再晚都赶回来陪你。\n撸妹：暮暮有你，晚霞都甜！\n\n【第三幕 · 朝朝暮暮】\n撸妹：往后四季都牵着我！\n噜噜：嗯，三餐四季慢慢走。\n撸妹：从日出到日暮好吗？\n噜噜：嗯，走过你的朝朝暮暮。\n\n从第一缕晨光到橘色晚霞，最好的浪漫就是三餐四季都有你💛",
+    "hashtags": ["#走过你的朝朝暮暮", "#噜噜撸妹", "#治愈系动画", "#引导型恋人", "#情侣日常", "#可爱水豚"]
+  },
+  "lines": [
+    {"slot_id": "act1_s1", "speaker": "lumei", "text": "早安，晨光来亲你啦！",   "clip": "clips-zhaozhaomumu-30s/act1_s1.flac"},
+    {"slot_id": "act1_s2", "speaker": "lulu",  "text": "一睁眼就看见你呀。",     "clip": "clips-zhaozhaomumu-30s/act1_s2.flac"},
+    {"slot_id": "act1_s3", "speaker": "lumei", "text": "每个早晨都要抱你！",     "clip": "clips-zhaozhaomumu-30s/act1_s3.flac"},
+    {"slot_id": "act1_s4", "speaker": "lulu",  "text": "好呀，朝朝醒来都陪你。", "clip": "clips-zhaozhaomumu-30s/act1_s4.flac"},
+    {"slot_id": "act2_s1", "speaker": "lulu",  "text": "看，窗外晚霞变橘色啦。", "clip": "clips-zhaozhaomumu-30s/act2_s1.flac"},
+    {"slot_id": "act2_s2", "speaker": "lumei", "text": "黄昏窝在你怀里嘛！",     "clip": "clips-zhaozhaomumu-30s/act2_s2.flac"},
+    {"slot_id": "act2_s3", "speaker": "lulu",  "text": "再晚都赶回来陪你。",     "clip": "clips-zhaozhaomumu-30s/act2_s3.flac"},
+    {"slot_id": "act2_s4", "speaker": "lumei", "text": "暮暮有你，晚霞都甜！",   "clip": "clips-zhaozhaomumu-30s/act2_s4.flac"},
+    {"slot_id": "act3_s1", "speaker": "lumei", "text": "往后四季都牵着我！",     "clip": "clips-zhaozhaomumu-30s/act3_s1.flac"},
+    {"slot_id": "act3_s2", "speaker": "lulu",  "text": "嗯，三餐四季慢慢走。",   "clip": "clips-zhaozhaomumu-30s/act3_s2.flac"},
+    {"slot_id": "act3_s3", "speaker": "lumei", "text": "从日出到日暮好吗？",     "clip": "clips-zhaozhaomumu-30s/act3_s3.flac"},
+    {"slot_id": "act3_s4", "speaker": "lulu",  "text": "嗯，走过你的朝朝暮暮。", "clip": "clips-zhaozhaomumu-30s/act3_s4.flac"}
+  ]
+}

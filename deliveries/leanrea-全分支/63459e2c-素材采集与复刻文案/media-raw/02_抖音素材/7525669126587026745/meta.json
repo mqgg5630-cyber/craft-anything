@@ -1,0 +1,31 @@
+{
+  "source_url": "https://www.douyin.com/video/7525669126587026745",
+  "platform_folder": "02_抖音素材",
+  "status": "failed",
+  "tool_used": null,
+  "steps": [
+    {
+      "tool": "yt-dlp",
+      "ok": false,
+      "log": "bootstrap cookies: none\n-f bv*[height<=480]+ba/b[height<=480] -> rc=1 ERROR: [Douyin] 7525669126587026745: Fresh cookies (not necessarily logged in) are needed\n-f 18/22/43/b -> rc=1 ERROR: [Douyin] 7525669126587026745: Fresh cookies (not necessarily logged in) are needed\n-f b -> rc=1 ERROR: [Douyin] 7525669126587026745: Fresh cookies (not necessarily logged in) are needed\n-f bv*+ba/b -> rc=1 ERROR: [Douyin] 7525669126587026745: Fresh cookies (not necessarily logged in) are needed\n-f worst -> rc=1 ERROR: [Douyin] 7525669126587026745: Fresh cookies (not necessarily logged in) are needed"
+    },
+    {
+      "tool": "douyin-api",
+      "ok": false,
+      "log": "www.iesdouyin.com: HTTP 200 non-json '' | www.iesdouyin.com: HTTP 200 non-json '<!doctype html><html><head>\\n<script data-sdk-glue-in=\"pre-handler\" nonce=\"argus-csp-token\" >    !fun'"
+    },
+    {
+      "tool": "gallery-dl",
+      "ok": false,
+      "log": "rc=64 [gallery-dl][error] Unsupported URL 'https://www.douyin.com/video/7525669126587026745'"
+    },
+    {
+      "tool": "scrape",
+      "ok": false,
+      "log": "found 0 candidate urls, saved 0"
+    }
+  ],
+  "files": [],
+  "collected_at": "2026-11-05T10:43:57Z",
+  "note": "素材仅供研究/参考/二次创作底稿，勿直接搬运发布"
+}

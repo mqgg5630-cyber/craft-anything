@@ -1,0 +1,11 @@
+{
+  "title": "DualAMP raw sources",
+  "id": "yourname/dualamp-raw",
+  "licenses": [
+    {
+      "name": "other"
+    }
+  ],
+  "description": "Raw AMP database exports (APD6, DRAMP 4.0, DBAASP v3, CAMPR4, bacterial AMPs), UniProt Swiss-Prot background and the AMPSphere in-vitro test set, plus sources.yaml for dualamp-lite. Redistribution must respect each database's own licence.",
+  "isPrivate": true
+}

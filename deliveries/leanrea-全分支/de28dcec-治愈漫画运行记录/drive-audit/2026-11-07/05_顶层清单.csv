@@ -1,0 +1,26 @@
+序号,名称,文件夹ID,主题,规模/关键内容,状态,建议
+00,00_云盘归档索引,1qh4qyVf9o0MmordScTUe_gFiUZwkzepO,治理,归档总索引 v2.1 + 颜色说明 + 对话索引,归档,补三条命名硬规则；月度对账
+01,01_求职与考公档案,1SmNwWbZ7kEJExxuu9fxBeLhofebCRHBo,求职,简历/求职材料/考公档案,归档,与 07 求职指南互链
+02,02_科研与学术论文,1t0ALWeRlE2iO0_Z4abrJlxaLsQRZm7wu,科研,CGMD Martini3 步骤 / R183-R185 修复与论文总表 / Arena 科研资料汇总,在制,加 README_科研流水线.md 串链接
+03,03_个人纪念与媒体素材,1xbJivKsZEmVOnJCRBNkhfOlDHW9L8NWH,私人,个人文档与写作 / 相册与视频 / 纪念日_礼物_网页卡片（原始在 E:\0yf，云端脱敏）,敏感归档,维持脱敏；新增同样流程
+04,04_AI智能体与教程资料,1fUVTdrZwv6_tOzfUUAr1kzM_i81WTPR5,工具,AccioWork FDE 基地×2 / 小客专家教程 / GitSyncHub v4 / AWB 交付汇总 / Arena 历史工作区 / 00_根目录独立交付,混合,内部 _索引.md 区分教程与自建项目
+05,05_电商视觉与设计归档,1ij_V-6EkpIwUPQX283-6NLDhR5e7PobL,商业视觉,DIMOO 云眠 / 盲盒 / 长图 v1-v3 / 99 REA 交付·1688 图包,已交付,把 99_交付 前缀推广为全盘约定
+06,06_亲密关系与情感指南,1WUIGcPPaBuKLUT48bAAZQgAQU1thIVEX,内容产品,引导型恋人指南 17 项：PDF/PPTX/小红书图文/去水印分页图/短视频,成品待发,明确母版（v1.1.0）并加 README
+07,07_职场与生活指南,1X03kJ8VyTnjykIfFw6Mae--sKlgTuaJF,内容产品,求职13/租房7/饮食13/旅行13 章，共 280 条，51+26+43+44 页，28 skills,成品待发,福州租房做成城市矩阵
+08,08_人情世故与高情商,1-8O7DpfV8gSMEiRcByaCDacEC4fKNvRZ,内容产品,2 本 12 章 72 条 40-41 页，12 skills，含四条红线,成品待发,gift-ledger 可独立成工具
+09,09_人格与关系标签,1Z6eJnk7HDAFkMYC-UQqjl4P5bEIYVI1v,内容产品,依恋/MBTI/星座/综合 4 本 7 章 42 条 25 页，24 skills，含反伪科学 fact-check,成品待发,星座本作开源首发（立场最稳）
+10,10_关系现场,1_8J8Lb5e2S7j3t2nyeSjf1SM46lt6vb8,内容产品,复合/吵架和好/跟对象聊天 3 本 7 章 42 条 26 页，18 skills,成品待发,split-check 做免费引流页
+11,11_情侣出游,1qoiNTDAjF85quyu1zpJ0O51UtziHrx_X,内容产品,1 本 26 页，6 skills，photo-coach 可与 13 联动,成品待发,拍照姿势直接出图做视觉资产
+12,12_两个人的房间,1qXW7rCzbb87TGXueSqfgcH9IHJZFELrG,内容产品,1 本 26 页，6 skills，明示非色情 + 同意规则,成品待发,合规声明保留在每个对外物料
+13,13_治愈漫画与影音创作,1al6VybIMOW9spE6Kbtb7tMgdMWou39u3,创作,风格复刻项目 17 项 / AI 语音克隆×2 / healing-comic v1.3 / 十连漫画 / 小羊聊天背景 / 提示词包 / 影像短片,已跑通,把 12 组实测收敛为 v8 SKILL
+14,14_Skills与GitHub仓库调研,1KLy5ltIrZ2UMLy13jOTRyr9BmUnZCk5P,调研,Skills 与 GitHub 仓库三类需求对照（8723 B）+ 待机实验 24h 心跳,归档,结论:scribble-couple 为独占资产
+15,15_Colab与Kaggle云端算力Skills,159wPikLyTNqLHRk0B_ceHxi0qAOwEW86,基建,README+SKILL+vault.json+7 脚本+2 模板+2 真机实测 JSON（T4 5251.3 img/s；2×T4 29.12 GB）,真机通过,P0：vault 迁出主盘
+16,16_抗菌肽深度学习建模学习总结,1uOukR3ij4Ch7W3WDdmjF5A1e7b3YgwaU,科研,24 项：方案 V1-V4 三次审查 / 开题 / 总结 / 学习总结 / ESM-2 与 DualAMP 脚本 / 模型三代号,方案定稿待跑,加模型代号对照表 + 数据卡
+—,Arena-0fuye-DesktopBridge,17OevRnwiecp5VK3jTfT19TRCAhNeeT14,基础设施,CGMD 本地结果 zip / 单肽试跑计划 / Martini3 输入 tar / collect-peptide-evidence.ps1 / inbox / outbox,禁动,保持原位（自动化依赖）
+—,Colab Notebooks,17w9NwYrJ5jlDr_hSvnAsBfo4Rab-lqmq,笔记本,Untitled0.ipynb,未命名,重命名或建索引
+—,DualAMP_Lite_原始数据_2026-11-10,1ukfGdUmlFHZGdmlbVTeyWC9npzvWEdRW,数据,07_data_engineering / manifests / raw / 下载总结,在制,作为全盘数据类模板
+—,DualAMP_Lite_UniProt补下_Kaggle_20261110T0818Z,1kF5cTZwNskWhlzAt-Sfo5Dl1b0MzOF9E,数据,README / 补下结果 md / gpu_relay_report / manifest / tsv.gz / fasta.gz,有结果+manifest,命名正面样板
+—,shanhai_xunguang_60s_ai_drama,1Prn2IeZlVenlpyORhb0GPNB5NEU9QYw1,创作,60s 成片 mp4 + qa_report_60s.json,成片+QA,QA JSON 设为所有视频强制件
+—,一二和布布 · 原始素材库（多平台采集）,137REJ-K7vorgT0YykriNGFk3tl-S9LYY,IP 素材,00 采集说明/01 小红书/02 抖音/03 YouTube/04 其他/05 B站/06 快手/07 TikTok/08 Instagram/09 测试样片/批次 素材 01–21/Muse 提示词,工具跑通,收敛为平台口径，批次降级
+—,生物学教学 · bio-teaching,13jCaIHTqI8Qr56szfb20QGInLCOdWUj,教学,00 先读我 + A 直传4份 / B 知识库编译2份 / C 必修1第4章 / D 成组+第5章酶,在制,写 A/B/C/D 方法对照结论
+—,社交媒体 · 跑通项目总库,1trWqeqVGpfUpm9rLWRRBy1_INkMwsr6Q,发布,01_小红书 9 个项目 / 02_多平台实例（素材05-11）/ 00_网盘整理报告 2026-11-09,唯一发布闭环,升级为发布台账（含数据与复盘）

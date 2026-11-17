@@ -1,0 +1,237 @@
+{
+  "kicker": "第 4 章 · 细胞的物质输入和输出",
+  "meta": "人教版（2019）必修 1 · 第 4 章 · 3 课时 · 24 页",
+  "pages": [
+    {
+      "layout": "cover",
+      "image": "saltfield",
+      "kicker": "第 4 章 · 细胞的物质输入和输出",
+      "subtitle": "3 课时 · 一条主线：盐碱地里的海水稻"
+    },
+    {
+      "layout": "plate_side",
+      "image": "root",
+      "kicker": "第一问",
+      "caption": "PLATE 01 · 根毛与土壤颗粒（示意）"
+    },
+    {
+      "layout": "table",
+      "kicker": "一个装置：漏斗、半透膜、蔗糖",
+      "caption": "水分子双向运动，净方向朝里 → 液面上升。"
+    },
+    {
+      "layout": "statement",
+      "lines": [
+        "渗透作用，两个条件：",
+        "半透膜 + 浓度差"
+      ],
+      "note": "水从「水多」的一侧，净流向「水少」的一侧。两个条件缺一个，都不发生。"
+    },
+    {
+      "layout": "compare",
+      "kicker": "红细胞的三张照片",
+      "title": "同一份血，三种命运",
+      "cols": [
+        {
+          "label": "清水",
+          "head": "吸水胀破",
+          "bullets": [
+            "外面水多",
+            "水净向内",
+            "细胞撑不住"
+          ]
+        },
+        {
+          "label": "0.9% 盐水",
+          "head": "形状不变",
+          "bullets": [
+            "进出相等",
+            "不是水不动了",
+            "而是净移动为零"
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "plate_side",
+      "image": "cell",
+      "kicker": "植物细胞多了一样东西",
+      "caption": "PLATE 02 · 植物细胞剖面（铜版画风格示意）"
+    },
+    {
+      "layout": "plate",
+      "image": "onion",
+      "kicker": "实验：洋葱表皮 + 蔗糖溶液",
+      "title": "紫色变深，位置后退",
+      "caption": "PLATE 03 · 洋葱表皮细胞，质壁分离"
+    },
+    {
+      "layout": "quote",
+      "image": "root",
+      "kicker": "留一个问号",
+      "lines": [
+        "水能自由进出，",
+        "土里的 K⁺ 为什么进不来？"
+      ]
+    },
+    {
+      "layout": "section",
+      "num": "02",
+      "image": "stomata",
+      "title": "不花钱的过膜方式，有两种",
+      "subtitle": "第 2 课时 · 自由扩散与协助扩散"
+    },
+    {
+      "layout": "plate_side",
+      "image": "tubes",
+      "kicker": "自由扩散：只看浓度",
+      "caption": "PLATE 04 · O₂、CO₂、甘油、乙醇、苯"
+    },
+    {
+      "layout": "plate_side",
+      "image": "membrane",
+      "kicker": "协助扩散：要帮手，仍然不花钱",
+      "caption": "PLATE 05 · 膜上的载体与通道（示意）"
+    },
+    {
+      "layout": "compare",
+      "kicker": "最容易混的一页",
+      "title": "载体不是通道",
+      "cols": [
+        {
+          "label": "载体蛋白",
+          "head": "结合—变形—释放",
+          "bullets": [
+            "自身构象改变",
+            "每轮都要「抓」一次",
+            "有特异性"
+          ]
+        },
+        {
+          "label": "通道蛋白",
+          "head": "开，或者关",
+          "bullets": [
+            "形成水相孔道",
+            "不结合底物",
+            "同样有选择性"
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "table",
+      "kicker": "判据表：今天加第二列",
+      "caption": "这张表要挂三节课，只加列，不重画。"
+    },
+    {
+      "layout": "chart",
+      "kicker": "一张图：为什么会有平台",
+      "ylabel": "运输速率",
+      "xlabel": "浓度差",
+      "series": [
+        {
+          "name": "协助扩散：先升后平",
+          "peak": 0.62,
+          "color": "#2C6157",
+          "baseline": 0.1
+        }
+      ],
+      "note": "平的那一段，被什么卡住了？\n答：载体全在用，没有空的了。"
+    },
+    {
+      "layout": "checklist",
+      "kicker": "两个反例，先判后讲",
+      "pairs": [
+        {
+          "wrong": "水只能自由扩散",
+          "right": "水还有水通道蛋白这条协助扩散的路"
+        },
+        {
+          "wrong": "有载体就一定耗能",
+          "right": "协助扩散有载体，不耗能"
+        }
+      ]
+    },
+    {
+      "layout": "quote",
+      "image": "membrane",
+      "kicker": "第 3 课时的入口",
+      "lines": [
+        "帮手有了，钱也省了，",
+        "还差什么？"
+      ]
+    },
+    {
+      "layout": "table",
+      "kicker": "一个数字对不上",
+      "caption": "单位 mmol/L（示意，量级正确）。可根细胞还在吸 K⁺。"
+    },
+    {
+      "layout": "section",
+      "num": "03",
+      "image": "onion",
+      "title": "膜上装了一台水泵",
+      "subtitle": "第 3 课时 · 主动运输与胞吞胞吐"
+    },
+    {
+      "layout": "statement",
+      "lines": [
+        "主动运输：逆浓度、耗能、",
+        "需要载体蛋白"
+      ],
+      "note": "三条同时成立，才叫主动运输。这一句写在黑板左上角。"
+    },
+    {
+      "layout": "plate",
+      "image": "splint",
+      "kicker": "断电实验",
+      "title": "逆浓度这件事，一定有人付钱",
+      "caption": "PLATE 06 · 呼吸抑制剂处理后，吸收几乎停止"
+    },
+    {
+      "layout": "chart",
+      "kicker": "两个平台，不是一个原因",
+      "ylabel": "运输速率",
+      "xlabel": "O₂ 浓度",
+      "series": [
+        {
+          "name": "先卡能量",
+          "peak": 0.66,
+          "color": "#B8452A",
+          "baseline": 0.06
+        },
+        {
+          "name": "后卡载体",
+          "peak": 0.66,
+          "color": "#2C6157",
+          "baseline": 0.06,
+          "dash": true
+        }
+      ],
+      "note": "形状像，原因不同。\n让学生分别写出「卡住的是什么」。"
+    },
+    {
+      "layout": "plate_side",
+      "image": "membrane",
+      "kicker": "大分子怎么走",
+      "caption": "PLATE 07 · 胞吞胞吐：耗能、不用载体、不跨膜"
+    },
+    {
+      "layout": "plate",
+      "image": "saltfield",
+      "kicker": "回到那株稻子",
+      "title": "它把 Na⁺ 赶出去，把 K⁺ 拉进来",
+      "caption": "PLATE 08 · 盐霜地上的幼苗"
+    },
+    {
+      "layout": "quote",
+      "image": "root",
+      "lines": [
+        "扩散是顺其自然，",
+        "主动运输是有所选择。"
+      ],
+      "note": "下课。"
+    }
+  ],
+  "figures": "4"
+}

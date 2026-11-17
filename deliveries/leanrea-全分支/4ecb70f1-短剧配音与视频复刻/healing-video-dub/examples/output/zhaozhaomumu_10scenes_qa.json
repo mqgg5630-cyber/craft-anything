@@ -1,0 +1,129 @@
+{
+  "status": "PASS",
+  "episode_id": "zhaozhaomumu_10scenes_30s",
+  "output_mp4": "zhaozhaomumu_10scenes_30s.mp4",
+  "file_size_mb": 8.58,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "frames": 720,
+  "duration_sec": 30.0,
+  "frozen_frame_ratio": 0.0,
+  "mean_interframe_motion_mad": 1.996,
+  "audio_peak": 0.94,
+  "render_elapsed_sec": 113.31,
+  "lines": [
+    {
+      "scene_id": "s01",
+      "speaker": "lumei",
+      "text": "早安，爱心早餐出锅啦！",
+      "hanzi_count": 9,
+      "placed_start_sec": 0.42,
+      "placed_end_sec": 2.338,
+      "active_dur_sec": 1.918,
+      "effective_cps": 4.69,
+      "atempo_ratio": 1.0
+    },
+    {
+      "scene_id": "s02",
+      "speaker": "lulu",
+      "text": "牵好手，带你出门散步咯。",
+      "hanzi_count": 10,
+      "placed_start_sec": 3.371,
+      "placed_end_sec": 5.608,
+      "active_dur_sec": 2.238,
+      "effective_cps": 4.47,
+      "atempo_ratio": 1.2014
+    },
+    {
+      "scene_id": "s03",
+      "speaker": "lumei",
+      "text": "第一口甜奶茶先给你喝！",
+      "hanzi_count": 10,
+      "placed_start_sec": 6.42,
+      "placed_end_sec": 8.385,
+      "active_dur_sec": 1.965,
+      "effective_cps": 5.09,
+      "atempo_ratio": 1.0
+    },
+    {
+      "scene_id": "s04",
+      "speaker": "lulu",
+      "text": "你在身边，风都是甜的。",
+      "hanzi_count": 9,
+      "placed_start_sec": 9.365,
+      "placed_end_sec": 11.604,
+      "active_dur_sec": 2.239,
+      "effective_cps": 4.02,
+      "atempo_ratio": 1.1124
+    },
+    {
+      "scene_id": "s05",
+      "speaker": "lulu",
+      "text": "伞往你那边偏，别淋湿啦。",
+      "hanzi_count": 10,
+      "placed_start_sec": 12.366,
+      "placed_end_sec": 14.622,
+      "active_dur_sec": 2.256,
+      "effective_cps": 4.43,
+      "atempo_ratio": 1.2014
+    },
+    {
+      "scene_id": "s06",
+      "speaker": "lumei",
+      "text": "抱紧噜噜，追着海风跑咯！",
+      "hanzi_count": 10,
+      "placed_start_sec": 15.42,
+      "placed_end_sec": 17.094,
+      "active_dur_sec": 1.674,
+      "effective_cps": 5.97,
+      "atempo_ratio": 1.0
+    },
+    {
+      "scene_id": "s07",
+      "speaker": "lulu",
+      "text": "看，海面晚霞变橘色啦。",
+      "hanzi_count": 9,
+      "placed_start_sec": 18.368,
+      "placed_end_sec": 20.597,
+      "active_dur_sec": 2.229,
+      "effective_cps": 4.04,
+      "atempo_ratio": 1.1124
+    },
+    {
+      "scene_id": "s08",
+      "speaker": "lumei",
+      "text": "暮暮烟火气，有你最安心！",
+      "hanzi_count": 10,
+      "placed_start_sec": 21.42,
+      "placed_end_sec": 23.131,
+      "active_dur_sec": 1.711,
+      "effective_cps": 5.84,
+      "atempo_ratio": 1.0
+    },
+    {
+      "scene_id": "s09",
+      "speaker": "lumei",
+      "text": "从日出到天黑都没腻呀？",
+      "hanzi_count": 10,
+      "placed_start_sec": 24.42,
+      "placed_end_sec": 26.45,
+      "active_dur_sec": 2.03,
+      "effective_cps": 4.93,
+      "atempo_ratio": 1.0
+    },
+    {
+      "scene_id": "s10",
+      "speaker": "lulu",
+      "text": "嗯，走过你的朝朝暮暮。",
+      "hanzi_count": 9,
+      "placed_start_sec": 27.42,
+      "placed_end_sec": 29.266,
+      "active_dur_sec": 1.846,
+      "effective_cps": 4.88,
+      "atempo_ratio": 1.0
+    }
+  ]
+}

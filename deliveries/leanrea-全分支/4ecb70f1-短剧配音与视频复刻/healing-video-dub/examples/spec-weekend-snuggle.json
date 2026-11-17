@@ -1,0 +1,36 @@
+{
+  "episode_id": "weekend_snuggle_10s",
+  "title": "周末赖床篇：偷亲一下小懒猪",
+  "template": "../templates/capybara_morning_10s/template_manifest.json",
+  "publish_copy": {
+    "xhs_title": "周末早上的正确打开方式：再赖五分钟🍊",
+    "xhs_body": "撸妹：偷亲一下小懒猪！\n噜噜：唔，谁偷亲我呀？\n撸妹：周末再抱五分钟嘛！\n噜噜：好啦，今天陪你赖到底！\n\n最好的早安不是闹钟，是有人接住你的小撒娇💛",
+    "hashtags": ["#治愈系动画", "#情侣日常", "#噜噜撸妹", "#引导型恋人", "#周末赖床", "#可爱水豚"]
+  },
+  "lines": [
+    {
+      "slot_id": "slot1",
+      "speaker": "lumei",
+      "text": "偷亲一下小懒猪！",
+      "clip": "clips-weekend-snuggle/slot1.flac"
+    },
+    {
+      "slot_id": "slot2",
+      "speaker": "lulu",
+      "text": "唔，谁偷亲我呀？",
+      "clip": "clips-weekend-snuggle/slot2.flac"
+    },
+    {
+      "slot_id": "slot3",
+      "speaker": "lumei",
+      "text": "周末再抱五分钟嘛！",
+      "clip": "clips-weekend-snuggle/slot3.flac"
+    },
+    {
+      "slot_id": "slot4",
+      "speaker": "lulu",
+      "text": "好啦，今天陪你赖到底！",
+      "clip": "clips-weekend-snuggle/slot4.flac"
+    }
+  ]
+}

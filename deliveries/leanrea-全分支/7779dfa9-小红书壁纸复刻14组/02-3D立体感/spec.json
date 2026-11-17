@@ -1,0 +1,93 @@
+{
+  "title": "iPhone 景深裸眼 3D 壁纸 · 复刻 10 张",
+  "subtitle": "复刻自 沐子兮《iPhone景深裸眼3D壁纸》(6aec24fa，原帖 9 张) · 01–09 逐张复刻 · 10 新场景 · 1440×3200 · 锁屏预览带景深效果 · AI 生成",
+  "date": "Saturday, November 7",
+  "time": "09:41",
+  "prefix": "景深",
+  "cover": {
+    "left": 4,
+    "right": 3
+  },
+  "pages": [
+    {
+      "n": 1,
+      "name": "云海拱门",
+      "overlay": "lock",
+      "depth": true,
+      "from": "原图01 复刻",
+      "line": "拱门后面是一整片云海"
+    },
+    {
+      "n": 2,
+      "name": "阳台白猫",
+      "overlay": "home",
+      "depth": true,
+      "from": "原图02 复刻",
+      "line": "白猫看湖，谁也不打扰"
+    },
+    {
+      "n": 3,
+      "name": "苹果入水",
+      "overlay": "lock",
+      "depth": true,
+      "from": "原图03 复刻",
+      "line": "苹果掉进水里的那一秒"
+    },
+    {
+      "n": 4,
+      "name": "湖畔石拱",
+      "overlay": "lock",
+      "depth": true,
+      "from": "原图04 复刻",
+      "line": "石拱门框住一条小船"
+    },
+    {
+      "n": 5,
+      "name": "水面苹果",
+      "overlay": "lock",
+      "depth": true,
+      "from": "原图05 复刻",
+      "line": "水面是印象派的"
+    },
+    {
+      "n": 6,
+      "name": "星夜荷叶",
+      "overlay": "home",
+      "depth": true,
+      "from": "原图06 复刻",
+      "line": "荷叶下面看银河"
+    },
+    {
+      "n": 7,
+      "name": "星星大树",
+      "overlay": "home",
+      "depth": true,
+      "from": "原图07 复刻",
+      "line": "树上长出了星星"
+    },
+    {
+      "n": 8,
+      "name": "云山小屋",
+      "overlay": "lock",
+      "depth": true,
+      "from": "原图08 复刻",
+      "line": "一朵云压在小屋上"
+    },
+    {
+      "n": 9,
+      "name": "海边小路",
+      "overlay": "lock",
+      "depth": true,
+      "from": "原图09 复刻（下一轮补）",
+      "line": "路牌指向海"
+    },
+    {
+      "n": 10,
+      "name": "樱花湖岸",
+      "overlay": "lock",
+      "depth": false,
+      "from": "新场景（风格锚 原图04）",
+      "line": "樱花枝垂到时钟前面"
+    }
+  ]
+}

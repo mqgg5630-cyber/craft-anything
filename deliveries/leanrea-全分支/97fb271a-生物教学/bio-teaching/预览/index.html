@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>课件三版 · 单文件预览</title>
+<style>
+  *{box-sizing:border-box}
+  body{margin:0;background:#0d1415;color:#e6e1d6;
+       font-family:"PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+  header{padding:44px 48px 8px}
+  h1{font-size:24px;margin:0 0 12px;font-weight:600;letter-spacing:.4px}
+  header p{margin:0;color:#8b9a94;font-size:13px;line-height:1.95;max-width:880px}
+  header code{background:#1a2527;padding:1px 6px;border-radius:3px;font-size:12px;color:#b9c8c2}
+  section{padding:26px 48px 4px}
+  h2{font-size:15px;font-weight:600;color:#cfd8d2;margin:10px 0 14px;letter-spacing:.3px}
+  h2 small{color:#7d8f89;font-weight:400;margin-left:12px;font-size:12px}
+  .row{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:16px}
+  a.card{display:block;text-decoration:none;color:inherit;background:#141f21;border:1px solid #243335;
+         border-radius:3px;padding:18px 20px 16px;transition:.15s}
+  a.card:hover{border-color:var(--acc);transform:translateY(-2px)}
+  .swatch{display:flex;height:32px;border-radius:2px;overflow:hidden;margin-bottom:14px}
+  .swatch i{flex:1}
+  .swatch i:nth-child(1){background:var(--paper)}
+  .swatch i:nth-child(2){background:var(--ink)}
+  .swatch i:nth-child(3){background:var(--acc);flex:0 0 34%}
+  h3{margin:0 0 8px;font-size:15px;letter-spacing:.3px}
+  p.d{margin:0 0 12px;font-size:12.5px;line-height:1.85;color:#9fb0aa}
+  span.go{font-size:11.5px;color:var(--acc);letter-spacing:.4px}
+  footer{padding:24px 48px 64px;color:#6f817c;font-size:11.5px;line-height:1.9}
+  footer a{color:#8ea099}
+</style></head>
+<body>
+<header>
+  <h1>课件三版 · 单文件预览</h1>
+  <p>每一版是一个**自包含 HTML**：24 / 15 页 SVG 全部内联，不需要服务器、不需要 PowerPoint，双击就能翻。
+  同一份 <code>06-课件.md</code> 与 <code>.plan.json</code>，只换 <code>--theme</code>。<br>
+  预览页是静态的；<strong>动画在 <code>-含动画.pptx</code> 里</strong>（按内容块淡入，封面整体淡入）。</p>
+</header>
+
+<section>
+  <h2>酶降低活化能<small>必修 1 · 第 5 章第 1 节 · 15 页</small></h2>
+  <div class="row">
+    <a class="card" href="enzyme-A学术.html" style="--paper:#F1F0EB;--ink:#111E20;--acc:#9E2B1B">
+      <div class="swatch"><i></i><i></i><i></i></div>
+      <h3>A · 学术冷版</h3>
+      <p>冷灰纸，只留墨与一条细红线；标题字距 0.045em，正文收到 19。顶部 running head、底部 01/15。</p>
+      <span class="go">打开 15 页 →</span>
+    </a>
+    <a class="card" href="enzyme-B课堂.html" style="--paper:#FAF3E3;--ink:#1A2A26;--acc:#B94E2A">
+      <div class="swatch"><i></i><i></i><i></i></div>
+      <h3>B · 课堂暖版</h3>
+      <p>纸更暖，整体字号 ×1.15（字与竖向节奏一起放大）；手写圈画、标题下手写横线。后排也看得清。</p>
+      <span class="go">打开 15 页 →</span>
+    </a>
+    <a class="card" href="enzyme-C教材.html" style="--paper:#F7F4EA;--ink:#16282A;--acc:#A8432B">
+      <div class="swatch"><i></i><i></i><i></i></div>
+      <h3>C · 教材版</h3>
+      <p>章名双细线、右下页码框、图注统一「图 5-1」、标题自动编号「一、二、」。印发、归档。</p>
+      <span class="go">打开 15 页 →</span>
+    </a>
+  </div>
+</section>
+
+<section>
+  <h2>第 4 章 细胞的物质输入与输出<small>必修 1 · 3 课时 · 24 页</small></h2>
+  <div class="row">
+    <a class="card" href="ch04-A学术.html" style="--paper:#F1F0EB;--ink:#111E20;--acc:#9E2B1B">
+      <div class="swatch"><i></i><i></i><i></i></div>
+      <h3>A · 学术冷版</h3>
+      <p>同一套版式跑 24 页：钩子、判据表、曲线、纠错页，全是冷纸 + 墨 + 一条红线。</p>
+      <span class="go">打开 24 页 →</span>
+    </a>
+    <a class="card" href="ch04-B课堂.html" style="--paper:#FAF3E3;--ink:#1A2A26;--acc:#B94E2A">
+      <div class="swatch"><i></i><i></i><i></i></div>
+      <h3>B · 课堂暖版</h3>
+      <p>24 页放大版：标题 44、正文 22、表体 22，投影与教室后墙同时能读。</p>
+      <span class="go">打开 24 页 →</span>
+    </a>
+    <a class="card" href="ch04-C教材.html" style="--paper:#F7F4EA;--ink:#16282A;--acc:#A8432B">
+      <div class="swatch"><i></i><i></i><i></i></div>
+      <h3>C · 教材版</h3>
+      <p>像教材那样编页：章名、页码框、图 4-1 式图注、逐条编号。适合印发给学生。</p>
+      <span class="go">打开 24 页 →</span>
+    </a>
+  </div>
+</section>
+
+<footer>
+  版式规格 <code>references/typography.md</code> · 配图规格 <code>references/asset-spec.md</code>「03c」<br>
+  预览里的字用本机字体渲染（宋体／苹方）；pptx 内置字号与版式，换台电脑也不跑版。
+</footer>
+</body></html>

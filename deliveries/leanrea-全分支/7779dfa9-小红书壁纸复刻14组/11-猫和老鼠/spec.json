@@ -1,0 +1,21 @@
+{
+  "title": "猫和老鼠 · 今晚先停战 复刻 10 张",
+  "subtitle": "复刻自 小李壁纸分享站《猫和老鼠手机壁纸｜今晚先停战》(6aed5b12，原帖 18 张) · 选 10 张逐张复刻 · 1440×3200 干净壁纸 · 无手机UI · AI 生成",
+  "canvas": [1440, 3200],
+  "date": "Saturday, November 7",
+  "time": "09:41",
+  "prefix": "猫鼠",
+  "cover": {"left": 1, "right": 6},
+  "pages": [
+    {"n": 1,  "name": "沙发盖被",   "overlay": "lock", "from": "原图01 复刻", "line": "今晚先停战，被子给你盖好"},
+    {"n": 2,  "name": "窗边月牙",   "overlay": "lock", "from": "原图03 复刻", "line": "月亮出来了"},
+    {"n": 3,  "name": "餐桌热牛奶", "overlay": "home", "from": "原图04 复刻", "line": "睡前一杯热牛奶"},
+    {"n": 4,  "name": "递奶酪",     "overlay": "lock", "from": "原图05 复刻", "line": "奶酪是和解的意思"},
+    {"n": 5,  "name": "火柴盒小床", "overlay": "lock", "from": "原图07 复刻", "line": "火柴盒刚好一张床"},
+    {"n": 6,  "name": "红围巾",     "overlay": "home", "from": "原图09 复刻", "line": "围巾里最暖和"},
+    {"n": 7,  "name": "睡前绘本",   "overlay": "lock", "from": "原图10 复刻", "line": "故事还没讲完就睡着了"},
+    {"n": 8,  "name": "拖鞋里打盹", "overlay": "lock", "from": "原图11 复刻", "line": "拖鞋被征用了"},
+    {"n": 9,  "name": "雨夜窗边",   "overlay": "lock", "from": "原图15 复刻", "line": "一起听雨"},
+    {"n": 10, "name": "床头灯晚安", "overlay": "home", "from": "原图18 复刻", "line": "关灯前最后一口奶酪"}
+  ]
+}

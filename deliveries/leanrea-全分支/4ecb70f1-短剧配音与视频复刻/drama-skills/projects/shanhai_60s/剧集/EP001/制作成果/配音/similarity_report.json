@@ -1,0 +1,80 @@
+{
+  "gpu_info": {
+    "device_name": "Tesla T4",
+    "vram_gb": 14.56
+  },
+  "timings": {
+    "deps_install_sec": 50.12,
+    "f5_15takes_sec": 47.21,
+    "seedvc_15takes_sec": 64.42,
+    "total_colab_gpu_sec": 197.06
+  },
+  "wavlm_sv": {
+    "v01_lumei": 0.5534,
+    "v02_lulu": 0.9435,
+    "v03_lumei": 0.6532,
+    "v04_lulu": 0.9079,
+    "v05_lumei": 0.6391,
+    "v06_lulu": 0.9667,
+    "v07_lumei": 0.6593,
+    "v08_lulu": 0.8524,
+    "v09_lumei": 0.5953,
+    "v10_lulu": 0.8992,
+    "v11_lumei": 0.5351,
+    "v12_lulu": 0.8685,
+    "v13_lumei": 0.6092,
+    "v14_lumei": 0.5355,
+    "v15_lulu": 0.83
+  },
+  "campplus": {
+    "v01_lumei": 0.5505,
+    "v02_lulu": 0.6233,
+    "v03_lumei": 0.6645,
+    "v04_lulu": 0.7514,
+    "v05_lumei": 0.5582,
+    "v06_lulu": 0.6908,
+    "v07_lumei": 0.6239,
+    "v08_lulu": 0.5547,
+    "v09_lumei": 0.6574,
+    "v10_lulu": 0.6665,
+    "v11_lumei": 0.5121,
+    "v12_lulu": 0.7245,
+    "v13_lumei": 0.5268,
+    "v14_lumei": 0.6185,
+    "v15_lulu": 0.6448
+  },
+  "winner_mode": {
+    "v01_lumei": "sv48_auto_f5_fix_s77",
+    "v02_lulu": "sv48_f0lock-2_f5_nat_s11",
+    "v03_lumei": "sv48_auto_f5_fix_s108",
+    "v04_lulu": "sv48_f0lock-4_f5_nat_s42",
+    "v05_lumei": "sv48_auto_f5_fix_s108",
+    "v06_lulu": "sv48_auto_f5_fix_s108",
+    "v07_lumei": "sv48_f0lock+2_f5_fix_s108",
+    "v08_lulu": "sv48_auto_f5_nat_s11",
+    "v09_lumei": "sv48_f0lock+0_f5_nat_s29",
+    "v10_lulu": "sv48_auto_f5_nat_s29",
+    "v11_lumei": "sv48_auto_f5_nat_s42",
+    "v12_lulu": "sv48_auto_f5_nat_s29",
+    "v13_lumei": "sv48_f0lock+0_f5_nat_s29",
+    "v14_lumei": "sv48_auto_f5_nat_s29",
+    "v15_lulu": "sv48_auto_f5_fix_s108"
+  },
+  "durations_s": {
+    "v01_lumei": 1.741,
+    "v02_lulu": 1.916,
+    "v03_lumei": 1.858,
+    "v04_lulu": 2.043,
+    "v05_lumei": 1.962,
+    "v06_lulu": 1.858,
+    "v07_lumei": 1.823,
+    "v08_lulu": 2.043,
+    "v09_lumei": 1.95,
+    "v10_lulu": 2.043,
+    "v11_lumei": 1.974,
+    "v12_lulu": 1.974,
+    "v13_lumei": 2.113,
+    "v14_lumei": 1.997,
+    "v15_lulu": 1.904
+  }
+}

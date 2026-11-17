@@ -1,0 +1,134 @@
+# ---------------------------------------------------------------------------
+# Source manifest for `python -m dualamp_lite build --manifest <this file>`
+#
+# Every entry describes ONE downloaded file. Paths are resolved relative to this
+# file (absolute paths also work). The pipeline never downloads anything for you:
+# databases require registration / change URLs, so you fetch the file once, drop
+# it on Kaggle/Colab/your laptop, and declare its columns here.
+#
+# Columns are read as strings; the sequence column is cleaned (upper-case, digits
+# and trailing '*' removed) and validated against the 20 standard residues.
+#
+# fields
+#   id            short label, written to dataset_all.csv
+#   path          fasta / csv / tsv file
+#   format        fasta | csv | tsv
+#   layer         general_amp | bacterial_amp | negative_background | hard_negative
+#                 | external | scrambled   (plan §4.1; scrambled is generated, not read)
+#   label         default label when the file carries no label column
+#   seq_column    CSV/TSV only
+#   label_column  CSV/TSV only; values are matched against positive_values /
+#                 negative_values (case-insensitive substring match)
+#   metadata      {target: column} to keep organism / activity / mic / strain /
+#                 assay / uniprot_id / notes in the audit tables
+#   filters       equals: {column: [allowed values]}  (lower-case compared)
+#                 contains: {column: [substrings]}
+#                 notna: [columns]
+#   min_len/max_len  per-source length window (defaults come from --min-len/--max-len)
+#   limit         keep at most N records (useful for a first smoke run)
+#   fragment      cut random fragments out of long proteins, for UniProt negatives:
+#                 {min_len: 5, max_len: 50, per_protein: 3, seed: 0,
+#                  exclude_keywords: [antimicrobial, bacteriocin, defensin]}
+#
+# ⚠️  Read plan §4.1 before pointing this at DRAMP: 30,260 records include
+#     patents. Only rows flagged as experimentally validated are positives.
+# ---------------------------------------------------------------------------
+
+sources:
+  # 1) APD6 (https://aps.unmc.edu/AP/main.php -> download). The main distribution
+  #    is a tab-separated file with columns: APD ID, Sequence, ...
+  - id: apd6
+    path: raw/apd6_main.tsv
+    format: tsv
+    layer: general_amp
+    seq_column: "Sequence"
+    label: 1
+    metadata:
+      organism: "Source"
+      activity: "Activity"
+    min_len: 5
+    max_len: 50
+
+  # 2) DRAMP 4.0 general AMPs. Keep ONLY experimentally validated rows; the CSV
+  #    export names differ per release, so declare the columns explicitly.
+  - id: dramp4
+    path: raw/dramp4_general_amps.csv
+    format: csv
+    layer: general_amp
+    seq_column: "Sequence"
+    label_column: "Validity"
+    positive_values: ["Experimentally Validated", "Validated", "Yes"]
+    negative_values: ["Patent", "Predicted", "No"]
+    filters:
+      notna: ["Sequence"]
+    metadata:
+      organism: "Source"
+      activity: "Activity"
+
+  # 3) DBAASP v3 - the only practical source of *hard negatives*: peptides that
+  #    were assayed and found inactive. MIC/HC50 values are kept as metadata.
+  - id: dbaasp_inactive
+    path: raw/dbaasp_inactive.csv
+    format: csv
+    layer: hard_negative
+    seq_column: "Sequence"
+    label_column: "Activity"
+    positive_values: ["Active", "Yes"]
+    negative_values: ["Inactive", "No Activity"]
+    metadata:
+      activity: "Activity"
+      mic: "MIC"
+      mic_unit: "MIC_unit"
+      strain: "Target Species"
+      assay: "Assay"
+
+  # 4) CAMPR4 experimentally validated AMPs
+  - id: campr4
+    path: raw/campr4_validated.fasta
+    format: fasta
+    layer: general_amp
+    label: 1
+
+  # 5) Bacterial AMPs (bacteriocins): the V3 P0 fix for the domain shift between
+  #    animal-derived training positives and gut bacterial peptides. Use BAGEL4 /
+  #    antiSMASH output or filter DRAMP by "Bacteria" source.
+  - id: bacterial_amp
+    path: raw/bacterial_amps.fasta
+    format: fasta
+    layer: bacterial_amp
+    label: 1
+
+  # 6) UniProt Swiss-Prot negative background: export reviewed proteins that are
+  #    NOT annotated as antimicrobial/bacteriocin/defensin, then cut fragments.
+  - id: uniprot_background
+    path: raw/uniprot_sprot_reviewed.fasta
+    format: fasta
+    layer: negative_background
+    label: 0
+    fragment:
+      min_len: 8
+      max_len: 50
+      per_protein: 3
+      seed: 11
+      exclude_keywords: [antimicrobial, bacteriocin, defensin, antibiotic]
+    #: keep this balanced with the positives, e.g. limit: 12000
+
+  # 7) AMPSphere experimental test peptides (Cell 2024): the 100 peptides assayed
+  #    in vitro (79 active + 21 inactive). NOT the 863,498 candidates.
+  - id: ampsphere_invitro
+    path: raw/ampsphere_invitro_100.csv
+    format: csv
+    layer: external
+    seq_column: "sequence"
+    label_column: "activity"
+    positive_values: ["active", "1", "yes"]
+    negative_values: ["inactive", "0", "no"]
+    metadata:
+      activity: "activity"
+      notes: "notes"
+
+# After `build`, inspect:
+#   dataset/dataset_summary.json     counts per layer, split sizes, cluster tool
+#   dataset/label_audit.csv          every dropped/conflicting record with a reason
+#   dataset/splits/test.csv          the frozen independent test set
+# and re-run `report` so the caveats section reflects what actually happened.

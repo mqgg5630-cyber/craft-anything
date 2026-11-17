@@ -1,0 +1,82 @@
+=== A. yt-dlp (headers + buvid) ===
+spi: {"code":0,"data":{"b_3":"07156015-D7E0-CE05-ED5F-C0770688465736599infoc","b_4":"0009187D-5178-5C04-F3BA-0E28BBDBD10236599-026110716-4HrEeFpJ3MdQEc1RXKk31g=="},"message":"ok"}
+buvid3=46 chars
+[debug] Command-line config: ['-v', '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '--referer', 'https://www.bilibili.com/', '--add-header', 'Cookie:buvid3=07156015-D7E0-CE05-ED5F-C0770688465736599infoc;', '-f', 'bv*+ba/b', '--merge-output-format', 'mp4', '--write-info-json', '-o', '/tmp/out/%(title).80s.%(ext)s', 'https://www.bilibili.com/video/BV1suxg6MEJz/']
+Deprecated Feature: Passing cookies as a header is a potential security risk; they will be scoped to the domain of the downloaded urls. Please consider loading cookies from a file or browser instead.
+[debug] Encodings: locale UTF-8, fs utf-8, pref UTF-8, out utf-8 (No ANSI), error utf-8 (No ANSI), screen utf-8 (No ANSI)
+[debug] yt-dlp version stable@2026.10.26 from yt-dlp/yt-dlp [c91f8de0b] (pip)
+[debug] Python 3.12.3 (CPython x86_64 64bit) - Linux-7.0.0-1017-azure-x86_64-with-glibc2.39 (OpenSSL 3.0.13 30 Jan 2024, glibc 2.39)
+[debug] exe versions: none
+[debug] Optional libraries: Cryptodome-3.24.2, certifi-2023.11.17, requests-2.34.2, sqlite3-3.45.1, urllib3-2.0.7, websockets-17.4
+[debug] JS runtimes: none
+[debug] Proxy map: {}
+[debug] Request Handlers: urllib, requests, websockets
+[debug] Plugin directories: none
+[debug] Loaded 1747 extractors
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1suxg6MEJz/
+[BiliBili] 1suxg6MEJz: Downloading webpage
+ERROR: [BiliBili] 1suxg6MEJz: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 764, in extract
+    ie_result = self._real_extract(url)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/extractor/bilibili.py", line 726, in _real_extract
+    webpage, urlh = self._download_webpage_handle(url, video_id, headers=headers)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 970, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 919, in _request_webpage
+    raise ExtractorError(errmsg, cause=err, video_id=video_id)
+
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 906, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query, extensions))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 4300, in urlopen
+    return self._request_director.send(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/networking/common.py", line 117, in send
+    response = handler.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/networking/_helper.py", line 194, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/networking/common.py", line 359, in send
+    return self._send(request)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/yt_dlp/networking/_requests.py", line 361, in _send
+    raise HTTPError(res, redirect_loop=max_redirects_exceeded)
+yt_dlp.networking.exceptions.HTTPError: HTTP Error 412: Precondition Failed
+
+=== B. WBI playurl ===
+cookie: buvid3=158AFA3C-9ED7-D724-969A-130E2682DB5237795infoc; buvid4=07A03ECC-1933-E32A …
+view: 200
+title=来自民间大佬制作APP，GitHub刚发布就狂揽2.6k Stars！手机去广告这块最高的山来了！一款国产安卓手机去广告神器 aid=117512889043583 cid=43101327199 dur=63s
+mixin key: ea1db124…（32 位）
+[durl qn=80] http=200 code=0 OK
+   命中 durl qn=80 quality=64 可选=[64, 16]
+durl 段数=1
+   upos-sz-mirrorcosov.bilivideo.com headers#0 -> 567 7351 B
+   upos-sz-mirrorcosov.bilivideo.com headers#1 -> 567 7350 B
+   upos-sz-mirrorcosov.bilivideo.com headers#2 -> 206 8341522 B
+   seg0 bytes=8341522
+source.mp4: 8341522
+=== B2. bilix ===
+[B2] skipped
+=== C. BBDown ===
+[C] skipped, 已有文件
+--- which ---
+ffmpeg     MISSING
+ffprobe    MISSING
+split      /usr/bin/split
+sha256sum  /usr/bin/sha256sum
+du         /usr/bin/du
+stat       /usr/bin/stat
+find       /usr/bin/find
+python3    /usr/bin/python3
+yt-dlp     /home/runner/.local/bin/yt-dlp
+--- files in /tmp/out ---
+total 8160
+drwxr-xr-x  2 runner runner    4096 Nov  7 08:47 .
+drwxrwxrwt 14 root   root      4096 Nov  7 08:47 ..
+-rw-r--r--  1 runner runner     461 Nov  7 08:47 meta.json
+-rw-r--r--  1 runner runner 8341522 Nov  7 08:47 source.mp4
