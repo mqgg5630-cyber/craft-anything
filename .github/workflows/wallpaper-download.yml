@@ -5,6 +5,7 @@ on:
     paths:
       - 'tools/wallpaper-job/download_sticker3d.py'
       - 'tools/wallpaper-job/download_garden_cats.py'
+      - 'tools/wallpaper-job/download_cloudtown.py'
       - '.github/workflows/wallpaper-download.yml'
 permissions:
   contents: write
@@ -23,6 +24,8 @@ jobs:
       - run: python -m pip install Pillow==11.3.0
       - name: Download butterfly-hill cat house sources
         run: python tools/wallpaper-job/download_garden_cats.py
+      - name: Download cloud-town (2N522Qk8Gxn) four public slides
+        run: python tools/wallpaper-job/download_cloudtown.py
       - name: Re-verify earlier 3D sticker sources (non-blocking)
         continue-on-error: true
         run: python tools/wallpaper-job/download_sticker3d.py
@@ -33,7 +36,9 @@ jobs:
         run: |
           git config user.name 'wallpaper-delivery[bot]'
           git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
-          git add deliveries/sticker3d-animals/01-下载原图 deliveries/garden-cats/01-下载原图
+          git add deliveries/sticker3d-animals/01-下载原图 \
+                  deliveries/garden-cats/01-下载原图 \
+                  deliveries/cloud-town-2n522qk8gxn/01-下载原图
           if ! git diff --cached --quiet; then
             git commit -m 'Add verified wallpaper source downloads'
             git push origin "HEAD:$JOB_BRANCH"
