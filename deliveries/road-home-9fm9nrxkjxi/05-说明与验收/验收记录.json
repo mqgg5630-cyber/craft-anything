@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "note_id": "6afafb4d0000000026012791",
+  "title": "回家的路，可以走很久",
+  "author": "渐入佳境",
+  "share_url": "https://xhslink.cn/o/9fm9nrxkJxi",
+  "note_slides_published": 11,
+  "replica_count": 10,
+  "clean_ui_policy": "03/04 previews are separate files; 02 clean wallpapers are never overwritten.",
+  "final_count": 10,
+  "items": [
+    {
+      "file": "02-复刻无手机UI/01-石桥上的黄昏.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 3019848,
+      "sha256": "d2648117faf92b4053972e1dff0163a07037dfac6cf5d1f57ca113d6c2a5e3ba",
+      "note": "clean wallpaper, no UI overlay"
+    },
+    {
+      "file": "02-复刻无手机UI/02-秋日林间小路.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 3111267,
+      "sha256": "8b2d9075fd73456fa790b8c59e2fcf9b1ff9661677a6520bc8a7162c6a0934e6",
+      "note": "clean wallpaper, no UI overlay"
+    },
+    {
+      "file": "02-复刻无手机UI/03-月下花田小憩.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2795933,
+      "sha256": "1bae36d60f06f46f1ed34bca24f021aa692566e0b443604df5a161910740fa9b",
+      "note": "clean wallpaper, no UI overlay"
+    },
+    {
+      "file": "02-复刻无手机UI/04-稻田里的归途.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2667054,
+      "sha256": "625d587e2deb8e902b3ebccc4e58ee52df409627839e546c9053dd6e1ea40a3a",
+      "note": "clean wallpaper, no UI overlay"
+    },
+    {
+      "file": "02-复刻无手机UI/05-溪边捡落花.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2664815,
+      "sha256": "1cd4b678dc013fca3dece285ca79948eb8c4ec355d8943c748416f7903d23ae4",
+      "note": "clean wallpaper, no UI overlay"
+    },
+    {
+      "file": "02-复刻无手机UI/06-石阶坐在雨水上.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2873178,
+      "sha256": "94d2f4872b13ef7561e2c1056b0fd32957203cbab83b5a2dc86491d2e1767e71",
+      "note": "clean wallpaper, no UI overlay"
+    },
+    {
+      "file": "02-复刻无手机UI/07-稻草漂远.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2880724,
+      "sha256": "c041c10a9f2ee5f42af552dc2c7eab403fd2a222ee090d9ef754eee03b6577ff",
+      "note": "clean wallpaper, no UI overlay"
+    },
+    {
+      "file": "02-复刻无手机UI/08-山道上的小背影.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2534785,
+      "sha256": "87164d9a3a71131dc5d81fcaadf1475295f6be26bc81d1b8e523a2e3cbd1a7d3",
+      "note": "clean wallpaper, no UI overlay"
+    },
+    {
+      "file": "02-复刻无手机UI/09-树下等雨停.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2838462,
+      "sha256": "ef49853e0ad69dec2c38f1e1b67af40785500fb62bc7cd584da8b0686c40082c",
+      "note": "clean wallpaper, no UI overlay"
+    },
+    {
+      "file": "02-复刻无手机UI/10-夜灯下的窗.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2612950,
+      "sha256": "8da6aa4131dc0ca9f556c74617edc185f2f66d0652d68d86d85d8357d2e48771",
+      "note": "clean wallpaper, no UI overlay"
+    }
+  ]
+}
