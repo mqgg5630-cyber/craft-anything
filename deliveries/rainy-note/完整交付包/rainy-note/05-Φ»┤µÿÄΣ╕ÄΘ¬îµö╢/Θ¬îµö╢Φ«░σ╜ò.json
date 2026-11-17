@@ -1,0 +1,107 @@
+{
+  "note_id": "6adf6496000000000803f71a",
+  "title": "手机壁纸｜被窝外正在下雨 ☔️",
+  "author": "椿几许壁纸",
+  "share_url": "https://xhslink.cn/o/2HY8xv0DdQ1",
+  "source_slides_public": 9,
+  "generated_clean": 10,
+  "lock_previews": 10,
+  "home_previews": 10,
+  "contact_sheets": [
+    "总览-锁屏预览.jpg",
+    "总览-桌面预览.jpg",
+    "总览-无手机UI原图.jpg",
+    "封面-双机预览-锁屏.jpg",
+    "封面-双机预览-桌面.jpg"
+  ],
+  "checks": {
+    "all_clean_have_lock": true,
+    "all_clean_have_home": true,
+    "clean_untouched_by_overlay": true,
+    "no_third_party_ip": true,
+    "no_text_in_wallpapers": true
+  },
+  "caveat": "Source slides are public CDN responses, not verified author masters. The note shows 9 free slides; the author sells an 11-slide set, which is not used here.",
+  "items": [
+    {
+      "clean": "01-罐中雨声.png",
+      "lock": "01-罐中雨声-锁屏.jpg",
+      "home": "01-罐中雨声-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "086e3561b66a703fcbaa60ac3567dcc869c21b98070e718d707382383667b6cb"
+    },
+    {
+      "clean": "02-窗边热可可.png",
+      "lock": "02-窗边热可可-锁屏.jpg",
+      "home": "02-窗边热可可-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "ac0e14b49f310677026c6d3ade42d311f93f7c29c5642181b2b2df65e29d58df"
+    },
+    {
+      "clean": "03-阳台躲雨的小猫.png",
+      "lock": "03-阳台躲雨的小猫-锁屏.jpg",
+      "home": "03-阳台躲雨的小猫-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "a53e1c449602e30f0f1793fed46d30797f7cc19f2a59a06686b242f3c5a825dc"
+    },
+    {
+      "clean": "04-路灯下撑伞散步.png",
+      "lock": "04-路灯下撑伞散步-锁屏.jpg",
+      "home": "04-路灯下撑伞散步-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "89af7c38de0e16e5bee1e75bf3bc3a57535290dc6d374f96303d6bc711fc6c67"
+    },
+    {
+      "clean": "05-被窝读书夜.png",
+      "lock": "05-被窝读书夜-锁屏.jpg",
+      "home": "05-被窝读书夜-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "da55ac8028be8ed637dadb8eec741418805176844c582e97b365cb85c4d1f673"
+    },
+    {
+      "clean": "06-雨夜面包店.png",
+      "lock": "06-雨夜面包店-锁屏.jpg",
+      "home": "06-雨夜面包店-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "8e9ce1ebb6805a78ca4441a987ad87b51b4eefab765e58d675e82442439a52c0"
+    },
+    {
+      "clean": "07-泡澡听雨.png",
+      "lock": "07-泡澡听雨-锁屏.jpg",
+      "home": "07-泡澡听雨-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "f6ea5717a8408df50d7d688d2720a4c3a171751f3755239b00cd84753558c52e"
+    },
+    {
+      "clean": "08-雨天公交站.png",
+      "lock": "08-雨天公交站-锁屏.jpg",
+      "home": "08-雨天公交站-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "157fb52cb2effaac9bfc301dc62e3deeb922c1b7fb271477114d30c5b3d90242"
+    },
+    {
+      "clean": "09-窗台听雨入眠.png",
+      "lock": "09-窗台听雨入眠-锁屏.jpg",
+      "home": "09-窗台听雨入眠-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "f7af5ad071f030426e25db626f1e5523b647ce77c46a9079d845253507626df2"
+    },
+    {
+      "clean": "10-雨停后的清晨.png",
+      "lock": "10-雨停后的清晨-锁屏.jpg",
+      "home": "10-雨停后的清晨-桌面.jpg",
+      "width": 704,
+      "height": 1520,
+      "sha256": "075f958272c6266167b20752833fea1b40bee102489c600599f05b7633ff13ba"
+    }
+  ]
+}
