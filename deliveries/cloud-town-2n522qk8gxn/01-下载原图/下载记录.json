@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "note_id": "6afb0441000000002203bea5",
+  "title": "✨治愈系壁纸 | 梦幻小镇、星空下的钟楼",
+  "author": "一只小猫喵喵喵",
+  "share_url": "https://xhslink.cn/o/2N522Qk8Gxn",
+  "source_caveat": "Public CDN responses, not independently verified as author master files. Note publishes 4 slides; the ten-slide delivery is completed by replica work.",
+  "images": [
+    {
+      "file": "01.webp",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 153572,
+      "sha256": "c6070dc74a150c44b1b204d470dfe428dd84c20e8bf554367a0e47ba52e01adf",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611171026/a76b00abe91aad55300c0de4b58b1e12/spectrum/1040g34o327kqebaa6c105p6fcusjkgdej2mfss0!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "02.webp",
+      "width": 1080,
+      "height": 1940,
+      "bytes": 441938,
+      "sha256": "666f744a84e89c9d64e6f7cb514a572edef4c7dbcfd6fc92f2b9fd0b4b2723fb",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611171026/d8a1f3d3411afdff89e24a9db54cbbd6/spectrum/1040g34o327kqflpfma805p6fcusjkgde91a4i3o!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "03.webp",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 180830,
+      "sha256": "368a855071644687d75552a0ef2012e0860ae9af2b2f1192724d8ac48b9b64e5",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611171026/cbf510cfeb44d3a22c502db1f5229214/spectrum/1040g34o327kqffhn6g205p6fcusjkgdemln8hsg!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "04.webp",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 179510,
+      "sha256": "36c51b1b7c51217398d2eec75331771ca188394170d922d2bb0418c398f3db0c",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611171026/c2714f11f30e5650e1bf02a5c4675849/spectrum/1040g34o327kqffhn6g2g5p6fcusjkgdepcb7dq8!nd_dft_wlteh_webp_3"
+    }
+  ]
+}
