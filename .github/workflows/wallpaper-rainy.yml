@@ -4,7 +4,7 @@ on:
     branches: ['arena/77ee0396-craft-anything']
     paths: ['tools/wallpaper-job/download_rainy.py', '.github/workflows/wallpaper-rainy.yml']
 permissions:
-  contents: write
+  contents: read
 concurrency:
   group: wallpaper-rainy-${{ github.ref }}
   cancel-in-progress: false
@@ -21,16 +21,9 @@ jobs:
       - name: Download nine public slides
         working-directory: tools/wallpaper-job
         run: python download_rainy.py
-      - name: Commit verified sources on the triggering branch
-        env:
-          JOB_BRANCH: ${{ github.ref_name }}
-        run: |
-          git config user.name 'wallpaper-delivery[bot]'
-          git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
-          git add deliveries/rainy-note/01-下载原图
-          if ! git diff --cached --quiet; then
-            git commit -m 'Add verified rainy-note wallpaper source downloads'
-            # The branch may have moved while this job ran; rebase before pushing.
-            git pull --rebase --autostash origin "$JOB_BRANCH"
-            git push origin "HEAD:$JOB_BRANCH"
-          fi
+      - name: Upload verified sources as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rainy-note-sources
+          path: deliveries/rainy-note/01-下载原图
+          if-no-files-found: error
