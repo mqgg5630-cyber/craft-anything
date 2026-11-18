@@ -1,0 +1,114 @@
+{
+  "archive": "google_drive/原片与文案.zip",
+  "archive_md5": "7166a9aebeae2f35706deb254f82d7c9",
+  "crc_verified": true,
+  "target": "deliveries/lighthouse/原片与文案",
+  "file_count": 11,
+  "files": [
+    {
+      "path": "01-原片/01.png",
+      "bytes": 3068496,
+      "crc32": "bdb6ed26",
+      "md5": "0a777b62cba242c589cc2cfa44a79745",
+      "sha256": "880437474ea49f97e9a04060f95bd29a063aa3a98804e68848776e6513e92ef2",
+      "remote_md5": "0a777b62cba242c589cc2cfa44a79745",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/02.png",
+      "bytes": 3274628,
+      "crc32": "37028cd3",
+      "md5": "fbc1923988d243c091aba00b70381c65",
+      "sha256": "09e15f8e9cbe207471d6045e18d538c7066123db901bf4cb4a965d0753067676",
+      "remote_md5": "fbc1923988d243c091aba00b70381c65",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/03.png",
+      "bytes": 3123141,
+      "crc32": "350be8da",
+      "md5": "6e2ce70d7897a0b302700f799b64d871",
+      "sha256": "d12b37ac025589445caffd5a348bce80594db7bbbc3433cadb737d49aa836c12",
+      "remote_md5": "6e2ce70d7897a0b302700f799b64d871",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/04.png",
+      "bytes": 3408095,
+      "crc32": "bf2b3f6e",
+      "md5": "e950819ed0fd5473d1bee21bfbb125a3",
+      "sha256": "31add7a04bab321dfb49e8d1b82ea262ec7c50dfd12e45f6558dd0cbea705da2",
+      "remote_md5": "e950819ed0fd5473d1bee21bfbb125a3",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/05.png",
+      "bytes": 3226578,
+      "crc32": "f0503613",
+      "md5": "e0b049b7815ef9b919fab218349af8a3",
+      "sha256": "b264145825b21c61a80101fbcaf99064532e97bf42048617541af747f8d64f89",
+      "remote_md5": "e0b049b7815ef9b919fab218349af8a3",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/06.png",
+      "bytes": 3237321,
+      "crc32": "9d91a3d0",
+      "md5": "fbb597a95f175c64a6ffbace00c2782b",
+      "sha256": "7f28f6614f8bc3e4989cbb8952c70bd492d5da1885b94f51bea02f7cf9918330",
+      "remote_md5": "fbb597a95f175c64a6ffbace00c2782b",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/07.png",
+      "bytes": 3146160,
+      "crc32": "52f077b0",
+      "md5": "d2b0846dd9632ba44a79fe0db274e0bf",
+      "sha256": "47d8874890d81247bb61d6d7d9c24f469aa3f62c45bf0033f4823f2a36796b29",
+      "remote_md5": "d2b0846dd9632ba44a79fe0db274e0bf",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/08.png",
+      "bytes": 3291852,
+      "crc32": "bcd31ccd",
+      "md5": "f1f63bd7644edbd9fa207dead1f3527a",
+      "sha256": "ae0f86dd967f39220f8645dd6853841cf6474c7c5f2bcaafb5658970ff45146d",
+      "remote_md5": "f1f63bd7644edbd9fa207dead1f3527a",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/09.png",
+      "bytes": 3129707,
+      "crc32": "4031afcd",
+      "md5": "759245adb669c1a4452377395abff005",
+      "sha256": "fe7a11726dfa8fca4f3992a66f59c4350349886c12cf40ff96fd6ce404b1f50f",
+      "remote_md5": "759245adb669c1a4452377395abff005",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/note.json",
+      "bytes": 17559,
+      "crc32": "45f73a31",
+      "md5": "eb811d364a6569bb7c9bb1f1aa7b26b3",
+      "sha256": "035e210e8ef06c95838264375a484b034396f42291c65cef637a723091f9c640",
+      "remote_md5": "eb811d364a6569bb7c9bb1f1aa7b26b3",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/note.md",
+      "bytes": 1465,
+      "crc32": "6db8c2b0",
+      "md5": "6a5c32178c195b435e0055af20d6558e",
+      "sha256": "7ffe60cdf737c60d356dd90231718c7886a539f3dbb17d4fae5149cb1710802d",
+      "remote_md5": "6a5c32178c195b435e0055af20d6558e",
+      "remote_verified": true
+    }
+  ],
+  "drive_status": "complete_remote_paths_count_and_md5_verified",
+  "remote_verified_count": 11,
+  "drive_root": "14ey4Q3tFQa9e4avpHqZpi4C0vSgz7Wh1",
+  "source_folder": "1G0OS1lz01vGvto2t_YwVrGxd8htsRqh_",
+  "new_upload_count": 1,
+  "original_zip_trashed_recoverably": true
+}

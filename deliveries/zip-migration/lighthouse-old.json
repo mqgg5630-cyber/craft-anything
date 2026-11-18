@@ -1,0 +1,105 @@
+{
+  "archive": "google_drive/成品壁纸-10张.zip",
+  "archive_md5": "c5061e0b4837d96f2b14c9ed8d0fa139",
+  "crc_verified": true,
+  "target": "deliveries/lighthouse/旧成品归档",
+  "file_count": 10,
+  "files": [
+    {
+      "path": "灯塔01-灯塔日落.jpg",
+      "bytes": 1292916,
+      "crc32": "79d03ec6",
+      "md5": "e44fe16d3eb1391b00265a6c6425ae86",
+      "sha256": "0b38e1bb87280477efece2e646df63931f749f71dddcaac7bba66ecadf695fb2",
+      "remote_md5": "e44fe16d3eb1391b00265a6c6425ae86",
+      "remote_verified": true
+    },
+    {
+      "path": "灯塔02-面包店门口.jpg",
+      "bytes": 1446275,
+      "crc32": "b000ad23",
+      "md5": "8a79229bf61e2418db628517bb0b39b6",
+      "sha256": "2f98f5d1d74ac165470e5359695c4b9070a739ee020178493dd2d319e0e8a163",
+      "remote_md5": "8a79229bf61e2418db628517bb0b39b6",
+      "remote_verified": true
+    },
+    {
+      "path": "灯塔03-礁石潮池.jpg",
+      "bytes": 1346357,
+      "crc32": "0c32ec57",
+      "md5": "ebaa38932a1b1793282f7feca8ab8588",
+      "sha256": "2549938d5b7173a1e387e8489176a47b14af5008ede51ea116074a0b4b29ccbb",
+      "remote_md5": "ebaa38932a1b1793282f7feca8ab8588",
+      "remote_verified": true
+    },
+    {
+      "path": "灯塔04-花架茶座.jpg",
+      "bytes": 1556955,
+      "crc32": "3d038190",
+      "md5": "019d6332d29d85297238ac0cd083394c",
+      "sha256": "eeca8b13b67d590ffbc647cdabc5b80d96b365394ee265faff6953266d2df4c0",
+      "remote_md5": "019d6332d29d85297238ac0cd083394c",
+      "remote_verified": true
+    },
+    {
+      "path": "灯塔05-桌上蜜桃.jpg",
+      "bytes": 1426051,
+      "crc32": "f5f2eb6f",
+      "md5": "af254e053848c2e34dfbdde7270d8797",
+      "sha256": "bf7ec6e7d37a34adeffe075a4ddac487d48a114e73d43b6c4eec1686f0d1b247",
+      "remote_md5": "af254e053848c2e34dfbdde7270d8797",
+      "remote_verified": true
+    },
+    {
+      "path": "灯塔06-山城海港.jpg",
+      "bytes": 1445805,
+      "crc32": "6c7ea67e",
+      "md5": "761a8387fbfe19013b244b62d9cf0ff4",
+      "sha256": "d461e717be379beddd0884feb0822634dfb5f9c394c8e124a2a42b25ad00e9da",
+      "remote_md5": "761a8387fbfe19013b244b62d9cf0ff4",
+      "remote_verified": true
+    },
+    {
+      "path": "灯塔07-薰衣草石阶.jpg",
+      "bytes": 1318910,
+      "crc32": "89551b03",
+      "md5": "f649976cc1e27feeac94bb24717c352a",
+      "sha256": "53aa712e1e26edc85440468a9f7bdcee05030d90bfc8d2af4afccb94f90755b8",
+      "remote_md5": "f649976cc1e27feeac94bb24717c352a",
+      "remote_verified": true
+    },
+    {
+      "path": "灯塔08-系泊小船.jpg",
+      "bytes": 1419109,
+      "crc32": "43c1dac1",
+      "md5": "e5d081901ca91731e6ccf11a73dd7389",
+      "sha256": "c6633c5670144f8f73f4a2714bd22ec27eda51910730dd2e8bfb1ed74444d0ec",
+      "remote_md5": "e5d081901ca91731e6ccf11a73dd7389",
+      "remote_verified": true
+    },
+    {
+      "path": "灯塔09-沙滩藤椅.jpg",
+      "bytes": 1294474,
+      "crc32": "573614b2",
+      "md5": "fcf36faf1133130e94b7c136b514b3a2",
+      "sha256": "40ec4111fe64e28084f6c59a60478898f64fb4755535c81f0be2d454661f0f55",
+      "remote_md5": "fcf36faf1133130e94b7c136b514b3a2",
+      "remote_verified": true
+    },
+    {
+      "path": "灯塔10-窗台小猫.jpg",
+      "bytes": 1116515,
+      "crc32": "6a54735e",
+      "md5": "32e84763d8130e290c5de70624c8ffb1",
+      "sha256": "244070070d0e37871f7a8511d8e2a2f80c71e0d9ebd239e0ffcdd00e3bc66680",
+      "remote_md5": "32e84763d8130e290c5de70624c8ffb1",
+      "remote_verified": true
+    }
+  ],
+  "drive_status": "complete_remote_paths_count_and_md5_verified",
+  "remote_verified_count": 10,
+  "drive_root": "1j8bFsMgrPvNDq1aBleLjrRkWauaq4mR9",
+  "original_zip_trashed_recoverably": true,
+  "already_trashed_before_this_turn": true,
+  "new_upload_count": 0
+}

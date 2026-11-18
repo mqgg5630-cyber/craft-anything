@@ -10,13 +10,10 @@
   "cat_old_target": "158WwwlVZP5-uxxr0CsSgHJXR4JmTE5N3",
   "zip_originals_deleted": false,
   "pending_archive_ids": [
-    "1bMxPc0u8ivSMkyBPfRvuSNeQHqQFALRM",
-    "1Icwv6Jd7kmrRgxAspK0UCVxwOuOcMwlq",
-    "1v5Brl8y8seFq-57-aN95XAdUljLHzjQp",
     "159T1M0r85nMnmL1zhgswOIR3fG0-OML_",
     "1vFcy0WATHzZ1ii5wTEQK3WsoNJOKHEu5"
   ],
-  "status": "deer_two_archives_complete",
+  "status": "lighthouse_complete_shinchan_source_complete_two_archives_remain",
   "new_images_drive_complete": true,
   "new_images_md5_verified": 22,
   "new_skill_remote_count": 7,
@@ -31,18 +28,20 @@
   ],
   "upload_next_first": "Re-list remaining ZIPs; cat source and old results are complete, do not upload duplicates.",
   "cat_two_original_zips_trashed_recoverably": true,
-  "remaining_inventory_count": 5,
+  "remaining_inventory_count": 2,
   "video_complete_remote_count": 7,
   "video_zip_trashed_recoverably": true,
   "video_root": "1sGQQaU6dtNtuG_z13Z6FZP7_2TcPXr4s",
-  "note": "5 carried inventory entries remain. Lighthouse parent fresh-list shows source ZIP plus existing source/result folders and 10 loose JPEGs; old ZIP absent from listing, must inspect metadata before resolution. No background upload.",
+  "note": "Lighthouse source missing 07.png now filled; all11 verified. Old lighthouse ZIP was already trashed before turn; its10 existing folder files verified against downloaded ZIP, no duplicate uploads. Shinchan source9 uploaded+verified. Remaining: anniversary22 and Shinchan30 result archives. No background uploads.",
   "latest_migration": {
-    "archives": 2,
-    "files": 17,
-    "remote_md5_verified": 17,
+    "new_uploaded_files": 10,
+    "remote_verified_files": 30,
+    "newly_trashed_archives": 2,
+    "already_trashed_verified_archives": 1,
     "folders": {
-      "deer_old": "1OJ3e71P1RLgaYEMh7NpU-a8L1aHGbp3F",
-      "deer_source": "1gA_KsoHrJ_4Dql0_AyBMxTIQVP8ViGTw"
+      "lighthouse_source": "14ey4Q3tFQa9e4avpHqZpi4C0vSgz7Wh1",
+      "lighthouse_old": "1j8bFsMgrPvNDq1aBleLjrRkWauaq4mR9",
+      "shinchan_source": "1W-99ew6YVqE-DMRWENtA-f1eWp3IuUbg"
     }
   }
 }
