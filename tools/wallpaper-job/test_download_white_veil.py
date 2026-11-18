@@ -41,6 +41,7 @@ class WhiteVeilDownloadTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as root:
             with patch.object(job, 'OUT', Path(root)), \
                  patch.object(job.urllib.request, 'urlopen', return_value=io.BytesIO(b'<html/>')), \
+                 patch.object(job, 'render_public_page', return_value=''), \
                  patch.object(job, 'fetch_image', return_value=(data, 320, 640, 'png')):
                 job.main()
             record = json.loads((Path(root) / 'download-record.json').read_text())
@@ -50,11 +51,22 @@ class WhiteVeilDownloadTests(unittest.TestCase):
             self.assertTrue(all(len(row['sha256']) == 64 for row in record['images']))
             self.assertNotIn('source_url', record['images'][0])
 
+    def test_security_restriction_stops_before_image_requests(self):
+        with tempfile.TemporaryDirectory() as root:
+            with patch.object(job, 'OUT', Path(root)), \
+                 patch.object(job.urllib.request, 'urlopen', return_value=io.BytesIO(b'<html/>')), \
+                 patch.object(job, 'render_public_page', return_value='<title>安全限制</title>'), \
+                 patch.object(job, 'fetch_image') as get_image:
+                with self.assertRaisesRegex(RuntimeError, 'security restriction'):
+                    job.main()
+            get_image.assert_not_called()
+
     def test_rate_limit_stops_without_trying_another_host(self):
         error = HTTPError('https://example.com/image', 429, 'rate limited', None, None)
         with tempfile.TemporaryDirectory() as root:
             with patch.object(job, 'OUT', Path(root)), \
                  patch.object(job.urllib.request, 'urlopen', return_value=io.BytesIO(b'<html/>')), \
+                 patch.object(job, 'render_public_page', return_value=''), \
                  patch.object(job, 'fetch_image', side_effect=error) as get_image:
                 with self.assertRaisesRegex(RuntimeError, 'rate-limited'):
                     job.main()

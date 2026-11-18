@@ -12,6 +12,9 @@ import io
 import json
 from pathlib import Path
 import re
+import shutil
+import subprocess
+import tempfile
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -56,6 +59,32 @@ def page_urls(page):
     return result
 
 
+def render_public_page():
+    """Load the same public share URL in a normal, disposable headless browser."""
+    chrome = shutil.which('google-chrome') or shutil.which('chromium')
+    if not chrome:
+        print('No headless browser is installed on the runner.', flush=True)
+        return ''
+    with tempfile.TemporaryDirectory(prefix='white-veil-browser-') as directory:
+        output = Path(directory) / 'page.html'
+        try:
+            with output.open('wb') as stream:
+                result = subprocess.run(
+                    [chrome, '--headless=new', '--disable-gpu', '--no-sandbox',
+                     '--disable-dev-shm-usage', '--virtual-time-budget=10000',
+                     '--user-data-dir=' + str(Path(directory) / 'profile'),
+                     '--dump-dom', NOTE],
+                    stdout=stream, stderr=subprocess.DEVNULL, timeout=45, check=False)
+            if result.returncode:
+                print(f'Browser exited with status {result.returncode}.', flush=True)
+                return ''
+            with output.open('rb') as stream:
+                return stream.read(4 * 1024 * 1024).decode('utf-8', 'replace')
+        except (OSError, subprocess.TimeoutExpired):
+            print('Browser was unavailable or timed out.', flush=True)
+            return ''
+
+
 def fetch_image(url):
     request = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(request, timeout=20) as response:
@@ -78,8 +107,20 @@ def main():
         req = urllib.request.Request(NOTE, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=25) as response:
             page = response.read(4 * 1024 * 1024).decode('utf-8', 'replace')
+            final = urllib.parse.urlsplit(response.geturl() if hasattr(response, 'geturl') else NOTE)
         signed = page_urls(page)
-        print(f'Fresh signed URLs found on the public note: {len(signed)}', flush=True)
+        print(f'Public page host/path: {final.netloc}{final.path}; '
+              f'{len(page)} chars, {sum(t in page for t in TOKENS)} known image IDs, '
+              f'{len(signed)} signed URLs.', flush=True)
+        if not signed:
+            rendered = render_public_page()
+            signed = page_urls(rendered)
+            print(f'Rendered public page: {len(rendered)} chars, '
+                  f'{sum(t in rendered for t in TOKENS)} known image IDs, '
+                  f'{len(signed)} signed URLs.', flush=True)
+            if not signed and ('<title>安全限制</title>' in rendered or
+                               'Sorry, This Page Isn\'t Available Right Now.' in rendered):
+                raise RuntimeError('The note returned a security restriction; stopped')
     except urllib.error.HTTPError as exc:
         if exc.code == 429:
             raise RuntimeError('The public note rate-limited the request; stopped') from exc
