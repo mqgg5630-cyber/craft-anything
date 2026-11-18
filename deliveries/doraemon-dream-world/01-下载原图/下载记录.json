@@ -1,0 +1,41 @@
+{
+  "note_id": "6aedc91f0000000023004ff2",
+  "title": "✨哆啦A梦的奇妙世界",
+  "author": "一名努力向上的舞蹈老师",
+  "share_url": "https://xhslink.cn/o/4pNl4VJBJjX",
+  "source_caveat": "Public CDN derivatives, not author masters",
+  "images": [
+    {
+      "file": "01.webp",
+      "width": 1080,
+      "height": 1762,
+      "bytes": 364124,
+      "sha256": "15594a89dd44ca8febcbfd9e62d218e4aadc44790e52521373dc1beabc9f2325",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611181652/e24ba896e28e143fa1416a1aa743c1cf/spectrum/1040g34o3277svrit6a0g5p6u518g8mchqoa9prg!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "02.webp",
+      "width": 1080,
+      "height": 1935,
+      "bytes": 272794,
+      "sha256": "989797250acd2dbb28e3f0608fed5d1b28d478511794a55e30935a004e8d3525",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611181652/e96762b50c44e6c8408e0861a9d8aea7/spectrum/1040g34o3277svrit6a1g5p6u518g8mchi256gvo!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "03.webp",
+      "width": 1080,
+      "height": 1762,
+      "bytes": 265624,
+      "sha256": "762a9bdba95e30d8fbe2d26341041ff1bb13ea88d10502dea7fb50f12e807394",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611181652/f54df2fcc472b131ebe98410b5cca236/spectrum/1040g34o3277svrit6a005p6u518g8mchq24cob0!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "04.webp",
+      "width": 1080,
+      "height": 1762,
+      "bytes": 353346,
+      "sha256": "2131b686c0b8d3cff070defd9f79cce9a1854e9f8cc911cfaf805efb14816816",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611181652/a901e2757daddaaee898559db27461d0/spectrum/1040g34o3277svrit6a105p6u518g8mchlsf30pg!nd_dft_wlteh_webp_3"
+    }
+  ]
+}
