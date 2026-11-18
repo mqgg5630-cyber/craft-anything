@@ -1,0 +1,32 @@
+name: White-veil public wallpaper sources
+on:
+  push:
+    branches: ['arena/77ee0396-craft-anything']
+    paths:
+      - 'tools/wallpaper-job/download_white_veil.py'
+      - '.github/workflows/wallpaper-white-veil.yml'
+permissions:
+  contents: read
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: tools/wallpaper-job
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow==11.3.0
+      - name: Download and verify the nine publicly visible slides
+        run: python tools/wallpaper-job/download_white_veil.py
+      - name: Retain any verified responses as a short-lived artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: white-veil-public-sources
+          path: white-veil-public-sources/
+          if-no-files-found: warn
+          retention-days: 2
