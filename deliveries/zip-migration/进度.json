@@ -9,10 +9,8 @@
   "cat_source_child": "1GeXcEz2GBiPoV7_04ky4B74KG19yAj4f",
   "cat_old_target": "158WwwlVZP5-uxxr0CsSgHJXR4JmTE5N3",
   "zip_originals_deleted": false,
-  "pending_archive_ids": [
-    "1vFcy0WATHzZ1ii5wTEQK3WsoNJOKHEu5"
-  ],
-  "status": "shinchan30_paused_explicit_upload_limit",
+  "pending_archive_ids": [],
+  "status": "all_confirmed_historical_zip_migrations_complete",
   "new_images_drive_complete": true,
   "new_images_md5_verified": 22,
   "new_skill_remote_count": 7,
@@ -25,20 +23,18 @@
     "04-果园风景",
     "05-金鱼"
   ],
-  "upload_next_first": "Fresh list existing folder12es7RnWFnPjB9t71dmKzZPMBvnFiJnJM then upload missing30 only; never recreate folder.",
+  "upload_next_first": "No confirmed historical ZIP remains. Do not reupload verified groups.",
   "cat_two_original_zips_trashed_recoverably": true,
-  "remaining_inventory_count": 1,
+  "remaining_inventory_count": 0,
   "video_complete_remote_count": 7,
   "video_zip_trashed_recoverably": true,
   "video_root": "1sGQQaU6dtNtuG_z13Z6FZP7_2TcPXr4s",
-  "note": "Shinchan30 remains: downloaded CRC+MD5 verified. Created actual target folder12es7RnWFnPjB9t71dmKzZPMBvnFiJnJM, but FIRST upload blocked by explicit rate limit (not sent). Fresh search confirms0 files. Obeyed no-more-uploads-this-reply. ZIP preserved, no background tasks. User can try again after at least15seconds.",
+  "note": "Last archive Shinchan30: resumed existing folder, all30 actual members uploaded, fresh path/count/MD5 matched, ZIP recoverably trashed. Only confirmed wallpaper scope; unrelated Drive archives not included.",
   "latest_migration": {
-    "new_uploaded_files": 20,
-    "remote_verified_files": 20,
+    "new_uploaded_files": 30,
+    "remote_verified_files": 30,
     "newly_trashed_archives": 1,
-    "folders": {
-      "anniversary_old": "1_LbtYnNYKYTOppHsrNaELWEKJ709uywn"
-    }
+    "folder": "12es7RnWFnPjB9t71dmKzZPMBvnFiJnJM"
   },
   "anniversary_complete_folder": "1_LbtYnNYKYTOppHsrNaELWEKJ709uywn"
 }

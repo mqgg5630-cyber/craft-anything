@@ -1,0 +1,153 @@
+{
+  "root": "1JDbgym9qIV-23lEa_D7bZ5dY4ENgxyNN",
+  "basis": "fresh search_files56cc111b-b878-4aa6-a06e-ccf0c1a1d1ed",
+  "verified_count": 29,
+  "files": [
+    {
+      "path": "02-复刻无手机UI/01-月亮花园.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "566402502f7e8ff039c66e1352e97ec9"
+    },
+    {
+      "path": "02-复刻无手机UI/02-云海小舟.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "117443948dc6dac0b6602a0734208488"
+    },
+    {
+      "path": "02-复刻无手机UI/03-星光温室.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "c5d7d23f7f51b1c768ce9f9719cfd5ce"
+    },
+    {
+      "path": "02-复刻无手机UI/04-鲸梦观景台.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "21e39e072559a0871d44bf11aadb59d0"
+    },
+    {
+      "path": "02-复刻无手机UI/05-萤光森林茶会.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "a8b726019893bc784d8145986c2157c0"
+    },
+    {
+      "path": "02-复刻无手机UI/06-极光雪绒毯.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "f3d054ce0d7e6de7f1f20b1dc4adf041"
+    },
+    {
+      "path": "02-复刻无手机UI/07-月牙云朵邮局.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "4c266f8f0e48a1b377cd17390af88d67"
+    },
+    {
+      "path": "02-复刻无手机UI/08-繁花星轨秋千.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "85d994415c4ed27617cf80631ccd365d"
+    },
+    {
+      "path": "02-复刻无手机UI/09-海底珍珠梦.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "78cf30351f52620c4a1c8eaa25590d63"
+    },
+    {
+      "path": "02-复刻无手机UI/10-晚安流星站.png",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "d0ab3558f134bb67b68d36327f6e1661"
+    },
+    {
+      "path": "02-复刻无手机UI/总预览.jpg",
+      "parent": "1Mt5p9xDnGyKOAeBTVaeZQ81SF-7qOm-6",
+      "md5": "1edd3cfa3b52047bed8bd4258226888e"
+    },
+    {
+      "path": "03-复刻有手机UI/01-月亮花园.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "1001b0b62a04ddcd70b2616fd27f787e"
+    },
+    {
+      "path": "03-复刻有手机UI/02-云海小舟.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "9b18596303b460dd9d826f6814841f08"
+    },
+    {
+      "path": "03-复刻有手机UI/03-星光温室.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "7fd07bb3ddc93a6d1c56c0447c8d34c2"
+    },
+    {
+      "path": "03-复刻有手机UI/04-鲸梦观景台.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "8f286845f8dbdb070923abbbe2f8c75d"
+    },
+    {
+      "path": "03-复刻有手机UI/05-萤光森林茶会.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "892a2c9e69aa85dacfeb960afb24ce9c"
+    },
+    {
+      "path": "03-复刻有手机UI/06-极光雪绒毯.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "d0102a0de3d203341d108537262ef8e0"
+    },
+    {
+      "path": "03-复刻有手机UI/07-月牙云朵邮局.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "7bf8f9718fcaac337b2d2743c1a80304"
+    },
+    {
+      "path": "03-复刻有手机UI/08-繁花星轨秋千.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "f7ebc340d27d5d94345addb70d041777"
+    },
+    {
+      "path": "03-复刻有手机UI/09-海底珍珠梦.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "42292f77b217f8ea3f1688168e7232e9"
+    },
+    {
+      "path": "03-复刻有手机UI/10-晚安流星站.png",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "2778833e372acc68a08b1a6da80f24c1"
+    },
+    {
+      "path": "03-复刻有手机UI/总预览.jpg",
+      "parent": "11EVDK1XsR551kDrmPw8xDwxQGIehkdQi",
+      "md5": "f8afee85afbb9ae8329d07b0346f94da"
+    },
+    {
+      "path": "05-Skills/SKILL.md",
+      "parent": "12YvY2bZTwYkM3yvxIeET6b_eaB87hPIk",
+      "md5": "bbdb4b50463de350c64c6b2472da80e4"
+    },
+    {
+      "path": "05-Skills/prompts.json",
+      "parent": "12YvY2bZTwYkM3yvxIeET6b_eaB87hPIk",
+      "md5": "d72f590262c75e54a8082e3612abf23b"
+    },
+    {
+      "path": "05-Skills/render.py",
+      "parent": "12YvY2bZTwYkM3yvxIeET6b_eaB87hPIk",
+      "md5": "69cb9cebad152118d3ecd9ec35617821"
+    },
+    {
+      "path": "05-Skills/requirements.txt",
+      "parent": "12YvY2bZTwYkM3yvxIeET6b_eaB87hPIk",
+      "md5": "790ab642d4358d409328cc36e161d665"
+    },
+    {
+      "path": "05-Skills/test_delivery.py",
+      "parent": "12YvY2bZTwYkM3yvxIeET6b_eaB87hPIk",
+      "md5": "302484e9227f4ce7ef22b3f005b283a5"
+    },
+    {
+      "path": "05-Skills/验收记录.json",
+      "parent": "12YvY2bZTwYkM3yvxIeET6b_eaB87hPIk",
+      "md5": "3ead13295ddd8dcf139c8e5fb5bc7583"
+    },
+    {
+      "path": "05-Skills/测试记录.md",
+      "parent": "12YvY2bZTwYkM3yvxIeET6b_eaB87hPIk",
+      "md5": "74193681cccde06c4ad48a4c0df18cdf"
+    }
+  ],
+  "note": "Pre-receipt snapshot; this receipt excluded"
+}

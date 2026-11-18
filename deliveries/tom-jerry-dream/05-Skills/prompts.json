@@ -1,0 +1,48 @@
+{
+  "type": "successful_generation_recipe_summary_not_verbatim",
+  "reference": "deliveries/tom-jerry-remix/02-复刻无手机UI/01-毛线小帮手.png",
+  "reference_use": "STYLE ONLY, new settings props poses and composition",
+  "shared": "ONE independent fullbleed portrait 9:20 wallpaper. Authentic classic Tom gray cat yellow eyes white muzzle pink ears; tiny Jerry brown mouse tan belly pink ears. Delicate hand-inked 2D cel animation, fine contours flat soft shadows warm aged paper grain, NOT 3D. Healing peaceful companionship, dusty periwinkle powder blue blush and cream moon gold, restrained glow and airy watercolor backgrounds. Characters lower half, upper third calm negative space. No text, numbers, UI, clock, device hardware, watermark, logo, signature, border, collage or panels.",
+  "jobs": [
+    {
+      "file": "01-月亮花园.png",
+      "scene": "moon garden bench sharing glowing star flower"
+    },
+    {
+      "file": "02-云海小舟.png",
+      "scene": "wooden rowboat on cloud sea with paper umbrella"
+    },
+    {
+      "file": "03-星光温室.png",
+      "scene": "arched glass greenhouse tending glowing star blossom"
+    },
+    {
+      "file": "04-鲸梦观景台.png",
+      "scene": "cloud observation deck watching translucent dream whale"
+    },
+    {
+      "file": "05-萤光森林茶会.png",
+      "scene": "enchanted forest chamomile tea party"
+    },
+    {
+      "file": "06-极光雪绒毯.png",
+      "scene": "snow hill sharing hot drink under pastel aurora"
+    },
+    {
+      "file": "07-月牙云朵邮局.png",
+      "scene": "cloud island crescent mailbox; Tom lifts Jerry to send blank letter"
+    },
+    {
+      "file": "08-繁花星轨秋千.png",
+      "scene": "flower-vine swing above cloud garden and golden star trail"
+    },
+    {
+      "file": "09-海底珍珠梦.png",
+      "scene": "open pearl seashell underwater with bubble helmets and glowing pearl"
+    },
+    {
+      "file": "10-晚安流星站.png",
+      "scene": "floating cloud train station waiting with glowing star cushion"
+    }
+  ]
+}

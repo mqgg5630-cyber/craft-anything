@@ -1,0 +1,164 @@
+{
+  "files": [
+    {
+      "path": "02-复刻无手机UI/01-月亮花园.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "566402502f7e8ff039c66e1352e97ec9",
+      "sha256": "ec4dbdb0e88e2c59b87c1b9d0e44c5b11c9c0865f634605e54b9025f0d64a4bd"
+    },
+    {
+      "path": "02-复刻无手机UI/02-云海小舟.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "117443948dc6dac0b6602a0734208488",
+      "sha256": "c5c8cc67912df2c5e34013ee5308e0185e9b2beff95efd56c91233b440f00b7d"
+    },
+    {
+      "path": "02-复刻无手机UI/03-星光温室.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "c5d7d23f7f51b1c768ce9f9719cfd5ce",
+      "sha256": "c3bd3b06c205c34171cbca03e775c7b34853537a6703a4a74aa25e5a5c8aa4bf"
+    },
+    {
+      "path": "02-复刻无手机UI/04-鲸梦观景台.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "21e39e072559a0871d44bf11aadb59d0",
+      "sha256": "9a4c07a2ba3302d5b1d30d7421ac3b171f30cc24daa7843f544763797198e0a8"
+    },
+    {
+      "path": "02-复刻无手机UI/05-萤光森林茶会.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "a8b726019893bc784d8145986c2157c0",
+      "sha256": "a27d24b2f90b73c3e22e289058b36105ee0c4d1bb6942a8cac20a10e5c6a4499"
+    },
+    {
+      "path": "02-复刻无手机UI/06-极光雪绒毯.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "f3d054ce0d7e6de7f1f20b1dc4adf041",
+      "sha256": "73dad0b418dc5703d0e6a31418e2e15d29f830eff1eafa57771c5439cb389dfa"
+    },
+    {
+      "path": "02-复刻无手机UI/07-月牙云朵邮局.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "4c266f8f0e48a1b377cd17390af88d67",
+      "sha256": "5b335bc072927249c6f3f71b0f33957a631d403a3388c762a4277235034f7d6c"
+    },
+    {
+      "path": "02-复刻无手机UI/08-繁花星轨秋千.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "85d994415c4ed27617cf80631ccd365d",
+      "sha256": "2ba55f00dc8d64d13edf2213bb4fdd7c3dbec8bd8ce42b4bb483291d8322ef2f"
+    },
+    {
+      "path": "02-复刻无手机UI/09-海底珍珠梦.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "78cf30351f52620c4a1c8eaa25590d63",
+      "sha256": "f44be1a51f8cd173f77b9d2512c23cdd9012250dfe5a2382173fdaeb36ef4708"
+    },
+    {
+      "path": "02-复刻无手机UI/10-晚安流星站.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "d0ab3558f134bb67b68d36327f6e1661",
+      "sha256": "f56b93ff69d32e4331d60b5896a4f06b865210b5b5c5bacdaea70b5712213b1f"
+    },
+    {
+      "path": "02-复刻无手机UI/总预览.jpg",
+      "width": 1170,
+      "height": 1100,
+      "md5": "1edd3cfa3b52047bed8bd4258226888e",
+      "sha256": "8b0724eb0832d6de9d75f81c6f99395a4fe2cb427e5e9a13bbccfe4995b63d88"
+    },
+    {
+      "path": "03-复刻有手机UI/01-月亮花园.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "1001b0b62a04ddcd70b2616fd27f787e",
+      "sha256": "d5c7d77794680626981bd48f37490837e204bf67b9e76449aeaab63e4363360b"
+    },
+    {
+      "path": "03-复刻有手机UI/02-云海小舟.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "9b18596303b460dd9d826f6814841f08",
+      "sha256": "fe4f4e4a7616c4563f6398f1943da1adb2a2549ecfc03fb22d11668956aad961"
+    },
+    {
+      "path": "03-复刻有手机UI/03-星光温室.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "7fd07bb3ddc93a6d1c56c0447c8d34c2",
+      "sha256": "7bfc80059a9afe4f094be4b1ac89a5e7fa5721fc98a41883bd5417fc550793dd"
+    },
+    {
+      "path": "03-复刻有手机UI/04-鲸梦观景台.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "8f286845f8dbdb070923abbbe2f8c75d",
+      "sha256": "1aca1a26c1347667a828910ce3e79d227efc6b5b79dbcaad7ea0e8b88d509a0d"
+    },
+    {
+      "path": "03-复刻有手机UI/05-萤光森林茶会.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "892a2c9e69aa85dacfeb960afb24ce9c",
+      "sha256": "8626c1816a6547eb1e19b5442f1f67d63a146cbb1885d1505aa96963aff74eee"
+    },
+    {
+      "path": "03-复刻有手机UI/06-极光雪绒毯.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "d0102a0de3d203341d108537262ef8e0",
+      "sha256": "e3b15250f9977a804737ca6608934cc1777ffba3581fdb77ace2ad25a2c90c3d"
+    },
+    {
+      "path": "03-复刻有手机UI/07-月牙云朵邮局.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "7bf8f9718fcaac337b2d2743c1a80304",
+      "sha256": "fc93fd5843c86dbd3c28a8471c643853615eddfab1e38f8bbb323dd3b535b010"
+    },
+    {
+      "path": "03-复刻有手机UI/08-繁花星轨秋千.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "f7ebc340d27d5d94345addb70d041777",
+      "sha256": "09f72391a895ff478ba5096c258f6d19f5a30243cc71f11a9735cc633a705a2c"
+    },
+    {
+      "path": "03-复刻有手机UI/09-海底珍珠梦.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "42292f77b217f8ea3f1688168e7232e9",
+      "sha256": "5be0a0d130855c2e8c4ff570f5bb07b7d9fd10aa5b54f67ee10d2e69d59557c6"
+    },
+    {
+      "path": "03-复刻有手机UI/10-晚安流星站.png",
+      "width": 688,
+      "height": 1536,
+      "md5": "2778833e372acc68a08b1a6da80f24c1",
+      "sha256": "cac3bb6c5d893a8d1de84092a86630c2cf6fe1b265ca21f281f02d7d2973a03d"
+    },
+    {
+      "path": "03-复刻有手机UI/总预览.jpg",
+      "width": 1170,
+      "height": 1100,
+      "md5": "f8afee85afbb9ae8329d07b0346f94da",
+      "sha256": "97c7f3b2c671c3f0b2bee3c46f7a90cda5973a5db74ad5614e00dc5d91038012"
+    }
+  ],
+  "new_scenes": 10,
+  "native_dimensions": "688x1536",
+  "upscaled": false,
+  "visual_review": "两版总预览人工检查：柔雾蓝紫月金水彩＋二维纸感角色，10新梦境不重复前两轮日常；留白可用。",
+  "source": "Reuse previously archived references, no new download claim",
+  "ui": "固定09:41 Monday November16锁屏设计示意，非实时截图"
+}
