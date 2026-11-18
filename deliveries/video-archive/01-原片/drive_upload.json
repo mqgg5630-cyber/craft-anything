@@ -1,0 +1,15 @@
+{
+ "bytes": 262302689,
+ "protocol": "x-goog",
+ "ok": true,
+ "status": 200,
+ "response": {
+  "kind": "drive#file",
+  "id": "1PLUFfe3dbQ2ABD9h6f-0mmQSypRjbXKs",
+  "name": "6a4be129-原片-无水印-作者上传原始版.mp4",
+  "mimeType": "video/mp4"
+ },
+ "err": "",
+ "url": "https://sns-video-bd.xhscdn.com/pre_post/1040g2t03229pafd0nkl05prnpnsm2o1ni9pfgbo",
+ "at_utc": "2026-11-07T09:19:39Z"
+}

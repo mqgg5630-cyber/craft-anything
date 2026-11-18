@@ -146,5 +146,6 @@
       "sha256": "b54b5f10468999c09b4505cae9d34676cbd47bf867a05aaa4a8c16c55c3512ef"
     }
   ],
-  "drive_status": "partial_17_of_20"
+  "drive_status": "complete_remote_paths_count_and_md5_verified",
+  "remote_verified_count": 20
 }

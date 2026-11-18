@@ -1,0 +1,229 @@
+{
+  "status": "local_complete_drive_separate",
+  "clean_count": 10,
+  "ui_count": 10,
+  "same_folder_previews": 2,
+  "ui": "illustrative not actual phone screenshot",
+  "files": [
+    {
+      "file": "02-复刻无手机UI/01-斯比晶蝶.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2105980,
+      "sha256": "0fe1256e5178d877d5db088a49db35b2d29224e073f439076091953535a8d71d",
+      "md5": "a3119066c3a7fbc5f5d71fe5831f5264"
+    },
+    {
+      "file": "03-复刻有手机UI/01-斯比晶蝶.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1830417,
+      "sha256": "00e98db9066be6b5e9543b2ea6394538e54370640ebc99ffb7e2612d8b537266",
+      "md5": "a10af123d78899a262667fb37022f200"
+    },
+    {
+      "file": "02-复刻无手机UI/02-小樱掌心星.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2019537,
+      "sha256": "9a455f7cc970c7ba1b2e968b11accb2e69c1113190093f3a9e47e4ae172aac10",
+      "md5": "0b86fff3ca3364a886aa2cd8ce961f62"
+    },
+    {
+      "file": "03-复刻有手机UI/02-小樱掌心星.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1748459,
+      "sha256": "2e47da9dcc9a5fc9a6d09da1e36256df44aa559c1d8a2a72936d79cde44ba19c",
+      "md5": "3fcd8ebc7b9cb2944c7d647fc22b5353"
+    },
+    {
+      "file": "02-复刻无手机UI/03-知世留声花.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2093705,
+      "sha256": "f3d98441030fce97d7db9b55ed68bffec1f45e7daaa5ebf5b85193605080dfa6",
+      "md5": "99ff622127371701ad8679acbce00b52"
+    },
+    {
+      "file": "03-复刻有手机UI/03-知世留声花.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1743366,
+      "sha256": "8de827e5b3afafe725a486b2ffb4d53ef752f4fb2508a43527be76a0a808571f",
+      "md5": "a6548faf5666e920bdf4fff3a0687739"
+    },
+    {
+      "file": "02-复刻无手机UI/04-花庭白纱誓.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1951328,
+      "sha256": "53a8f443f863eafa9dadf786e6f32a663738b949ceaf933b0ddf0134a639feb1",
+      "md5": "9bea7e3f6f185cdc4496a40e60e1360f"
+    },
+    {
+      "file": "03-复刻有手机UI/04-花庭白纱誓.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1711819,
+      "sha256": "c2ebb084c6699e2fd066712093b0b8c8bc0f81b2b383269882c4a0cf7d79e960",
+      "md5": "a10cc7e0d2bdc4c9fb8de5f4fa12d990"
+    },
+    {
+      "file": "02-复刻无手机UI/05-雪兔冰晶庭.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1861573,
+      "sha256": "a87532a59b2b8b7f8093d6ba97bc1043249a09d5ae8b4bd915e7a341ae5678cf",
+      "md5": "a81d76c0a87596bce84f483bb6dc6745"
+    },
+    {
+      "file": "03-复刻有手机UI/05-雪兔冰晶庭.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1577987,
+      "sha256": "cffc924e7e3c77a6e6a6ae3248a63cefdda42332054be82392e2707038cc5140",
+      "md5": "5724fd3afd73cceee2bd90267f8b29f1"
+    },
+    {
+      "file": "02-复刻无手机UI/06-审判者月轮.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2056446,
+      "sha256": "72b8954a98c017ba36cf0e33cbf79af6da34a10b4191f4b9f4a2dd221c7c1d0d",
+      "md5": "47f98df3548836c937d9fc72f9b2808a"
+    },
+    {
+      "file": "03-复刻有手机UI/06-审判者月轮.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1743439,
+      "sha256": "0ee86f8da301f5d5edc6bb8a442c88ba520d4b43755896ec0e1cd72b3495f553",
+      "md5": "8d3ba3e96e942c16bdbea326ce0a9930"
+    },
+    {
+      "file": "02-复刻无手机UI/07-可鲁日之翼.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2365791,
+      "sha256": "3a315b3a37d1469adc11c96f791fa7f42d8858d4bce3f61ae14d1a358e25cb1e",
+      "md5": "df99dfabeacc50983c1a86b659f8fc0d"
+    },
+    {
+      "file": "03-复刻有手机UI/07-可鲁日之翼.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1890943,
+      "sha256": "ae83f96a591b4fe9bcb903a04a92d9860c3ba3c16490e650d00811d1636331f9",
+      "md5": "d8a0ba36879e8bea740728d4599e0a0a"
+    },
+    {
+      "file": "02-复刻无手机UI/08-桃矢时之庭.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2469591,
+      "sha256": "22773deda11bc2945776d87687ed73e523ddc8c68466fbf154521424035f5a96",
+      "md5": "f1abfbfcc1b20787f21d3cd6c2926451"
+    },
+    {
+      "file": "03-复刻有手机UI/08-桃矢时之庭.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2048088,
+      "sha256": "dcd2090b0b4088206f447369a6f690e7f8e0e47512e50be5ff3483344b0a4cdb",
+      "md5": "c499ac7bc80348b6a1cf9bdc1529f171"
+    },
+    {
+      "file": "02-复刻无手机UI/09-小狼竹影约.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2442394,
+      "sha256": "7dd753694e4fb4016114f3d6dd087c1ae50a5cdd83dc52bbf76face18af26c07",
+      "md5": "4174419cad41f126e02f611db46413d3"
+    },
+    {
+      "file": "03-复刻有手机UI/09-小狼竹影约.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1966865,
+      "sha256": "9664e11dafd6a3cc7a217368ff233c238452af8a5e80793f1236a9d0861f875e",
+      "md5": "7afe4944eadc4703d24b494f1931e3bc"
+    },
+    {
+      "file": "02-复刻无手机UI/10-小樱月下花誓.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2044088,
+      "sha256": "0a82e1a64a74008b1a207ceeb440b9d324ed1c46cd40576f5101305ec3bad3fd",
+      "md5": "444f1caa767a8c40992b1b25110b526b"
+    },
+    {
+      "file": "03-复刻有手机UI/10-小樱月下花誓.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1729847,
+      "sha256": "77b147bdca92ca9e56948ce4fe5df167d25f95a9e808dc1a6fcc7e689e2ef172",
+      "md5": "8ddcdbb11808039a3b75ba9de496deb9"
+    },
+    {
+      "file": "02-复刻无手机UI/总预览.jpg",
+      "dimensions": [
+        1170,
+        1100
+      ],
+      "bytes": 403799,
+      "sha256": "27771bbfa6c4721819b51520ae29d8b60ce9aa20a51cc24113aa8796077e06e0",
+      "md5": "2bbe70093d7410cbe1fdcc90ec21daae"
+    },
+    {
+      "file": "03-复刻有手机UI/总预览.jpg",
+      "dimensions": [
+        1170,
+        1100
+      ],
+      "bytes": 423147,
+      "sha256": "7dc6f878efee3f6135a2b35e8f4b4cf18b8c151cfba7987af9df0fef97c481fd",
+      "md5": "4903b62f547a65a3e8a622111354303b"
+    }
+  ]
+}

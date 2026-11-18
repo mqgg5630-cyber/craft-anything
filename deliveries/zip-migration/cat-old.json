@@ -76,5 +76,6 @@
       "sha256": "a3ade7a3e3c6bafab66d4c53205d52326333113fb0f01c1fae09c2721013f254"
     }
   ],
-  "drive_status": "empty_target_pending_10"
+  "drive_status": "complete_remote_paths_count_and_md5_verified",
+  "remote_verified_count": 10
 }

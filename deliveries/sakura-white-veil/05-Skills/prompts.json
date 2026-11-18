@@ -1,0 +1,91 @@
+{
+  "recipe_type": "summarized_from_actual_successful_calls_not_verbatim_log",
+  "note_id": "6ad8a6ba00000000310375b1",
+  "source": "https://xhslink.cn/o/AUULQrW380N",
+  "source_author": "云野原",
+  "source_download_proof": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/44262084278",
+  "shared_prompt": "ONE independent full bleed portrait wallpaper 9:20, fine light graphite anime linework, luminous nearly white pastel watercolor and subtle paper texture. Ivory, blush pink, lavender, pale blue and sage, delicate gauze, flowers, gold star ornaments and stained glass. Fully covered age-appropriate magical ceremonial clothing. Closely reinterpret attached reference; no readable text, signature, watermark, phone UI, border or collage.",
+  "jobs": [
+    {
+      "file": "01-斯比晶蝶.png",
+      "reference_files": [
+        "01.webp"
+      ],
+      "scene": "Spinel Sun dark feline with butterfly wings, turquoise gems, lavender crystal flower pavilion",
+      "mode": "reference_redraw"
+    },
+    {
+      "file": "02-小樱掌心星.png",
+      "reference_files": [
+        "02.webp"
+      ],
+      "scene": "Sakura Kinomoto cups golden star, white fully covered magical ceremonial gown, cherry blossom stained glass",
+      "mode": "reference_redraw"
+    },
+    {
+      "file": "03-知世留声花.png",
+      "reference_files": [
+        "03.webp"
+      ],
+      "scene": "Tomoyo Daidouji with lilac ribbons, gramophone, hydrangeas and ivory lace dress",
+      "mode": "reference_redraw"
+    },
+    {
+      "file": "04-花庭白纱誓.png",
+      "reference_files": [
+        "04.webp"
+      ],
+      "scene": "Long wavy chestnut-haired woman in flower crown and ivory gown holding bouquet in flower garden; identity not independently verified",
+      "mode": "reference_redraw"
+    },
+    {
+      "file": "05-雪兔冰晶庭.png",
+      "reference_files": [
+        "05.webp"
+      ],
+      "scene": "Yukito Tsukishiro with spectacles, ivory coat and lavender scarf in ice-crystal garden",
+      "mode": "reference_redraw"
+    },
+    {
+      "file": "06-审判者月轮.png",
+      "reference_files": [
+        "06.webp"
+      ],
+      "scene": "Yue moon guardian, long silver hair, white robe and feather wings, moon disc and reflecting pool",
+      "mode": "reference_redraw"
+    },
+    {
+      "file": "07-可鲁日之翼.png",
+      "reference_files": [
+        "07.webp"
+      ],
+      "scene": "Keroberos golden winged lion sun guardian with red gemstone and sun dais",
+      "mode": "reference_redraw"
+    },
+    {
+      "file": "08-桃矢时之庭.png",
+      "reference_files": [
+        "08.webp"
+      ],
+      "scene": "Toya Kinomoto in white shirt seated at astrolabe garden bench",
+      "mode": "reference_redraw"
+    },
+    {
+      "file": "09-小狼竹影约.png",
+      "reference_files": [
+        "09.webp"
+      ],
+      "scene": "Syaoran Li in ivory red-trimmed ceremonial robe with sheathed sword, bamboo and lanterns",
+      "mode": "reference_redraw"
+    },
+    {
+      "file": "10-小樱月下花誓.png",
+      "reference_files": [
+        "02.webp",
+        "06.webp"
+      ],
+      "scene": "New Sakura full-length composition on crescent terrace, golden star, white roses, pearl moon and gauze ribbons",
+      "mode": "new_scene_same_series"
+    }
+  ]
+}

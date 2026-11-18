@@ -1,0 +1,184 @@
+{
+  "status": "32_images_and_source_record_verified",
+  "groups": {
+    "02-复刻无手机UI": {
+      "count": 11,
+      "fresh_directory_readback": true,
+      "entries": [
+        {
+          "file": "01-斯比晶蝶.png",
+          "remote_md5": "a3119066c3a7fbc5f5d71fe5831f5264",
+          "local_match": true
+        },
+        {
+          "file": "02-小樱掌心星.png",
+          "remote_md5": "0b86fff3ca3364a886aa2cd8ce961f62",
+          "local_match": true
+        },
+        {
+          "file": "03-知世留声花.png",
+          "remote_md5": "99ff622127371701ad8679acbce00b52",
+          "local_match": true
+        },
+        {
+          "file": "04-花庭白纱誓.png",
+          "remote_md5": "9bea7e3f6f185cdc4496a40e60e1360f",
+          "local_match": true
+        },
+        {
+          "file": "05-雪兔冰晶庭.png",
+          "remote_md5": "a81d76c0a87596bce84f483bb6dc6745",
+          "local_match": true
+        },
+        {
+          "file": "06-审判者月轮.png",
+          "remote_md5": "47f98df3548836c937d9fc72f9b2808a",
+          "local_match": true
+        },
+        {
+          "file": "07-可鲁日之翼.png",
+          "remote_md5": "df99dfabeacc50983c1a86b659f8fc0d",
+          "local_match": true
+        },
+        {
+          "file": "08-桃矢时之庭.png",
+          "remote_md5": "f1abfbfcc1b20787f21d3cd6c2926451",
+          "local_match": true
+        },
+        {
+          "file": "09-小狼竹影约.png",
+          "remote_md5": "4174419cad41f126e02f611db46413d3",
+          "local_match": true
+        },
+        {
+          "file": "10-小樱月下花誓.png",
+          "remote_md5": "444f1caa767a8c40992b1b25110b526b",
+          "local_match": true
+        },
+        {
+          "file": "总预览.jpg",
+          "remote_md5": "2bbe70093d7410cbe1fdcc90ec21daae",
+          "local_match": true
+        }
+      ]
+    },
+    "03-复刻有手机UI": {
+      "count": 11,
+      "fresh_directory_readback": true,
+      "entries": [
+        {
+          "file": "01-斯比晶蝶.png",
+          "remote_md5": "a10af123d78899a262667fb37022f200",
+          "local_match": true
+        },
+        {
+          "file": "02-小樱掌心星.png",
+          "remote_md5": "3fcd8ebc7b9cb2944c7d647fc22b5353",
+          "local_match": true
+        },
+        {
+          "file": "03-知世留声花.png",
+          "remote_md5": "a6548faf5666e920bdf4fff3a0687739",
+          "local_match": true
+        },
+        {
+          "file": "04-花庭白纱誓.png",
+          "remote_md5": "a10cc7e0d2bdc4c9fb8de5f4fa12d990",
+          "local_match": true
+        },
+        {
+          "file": "05-雪兔冰晶庭.png",
+          "remote_md5": "5724fd3afd73cceee2bd90267f8b29f1",
+          "local_match": true
+        },
+        {
+          "file": "06-审判者月轮.png",
+          "remote_md5": "8d3ba3e96e942c16bdbea326ce0a9930",
+          "local_match": true
+        },
+        {
+          "file": "07-可鲁日之翼.png",
+          "remote_md5": "d8a0ba36879e8bea740728d4599e0a0a",
+          "local_match": true
+        },
+        {
+          "file": "08-桃矢时之庭.png",
+          "remote_md5": "c499ac7bc80348b6a1cf9bdc1529f171",
+          "local_match": true
+        },
+        {
+          "file": "09-小狼竹影约.png",
+          "remote_md5": "7afe4944eadc4703d24b494f1931e3bc",
+          "local_match": true
+        },
+        {
+          "file": "10-小樱月下花誓.png",
+          "remote_md5": "8ddcdbb11808039a3b75ba9de496deb9",
+          "local_match": true
+        },
+        {
+          "file": "总预览.jpg",
+          "remote_md5": "4903b62f547a65a3e8a622111354303b",
+          "local_match": true
+        }
+      ]
+    }
+  },
+  "sources": {
+    "count": 10,
+    "fresh_directory_readback": true,
+    "entries": [
+      {
+        "file": "01.webp",
+        "remote_md5": "6e653ee915faef81d58e4ab25d81b0ca",
+        "local_match": true
+      },
+      {
+        "file": "02.webp",
+        "remote_md5": "f3071d4dbbbd0dc2bc159c1dcb1f154c",
+        "local_match": true
+      },
+      {
+        "file": "03.webp",
+        "remote_md5": "ffeabc1422e3c44587ce7d778c952696",
+        "local_match": true
+      },
+      {
+        "file": "04.webp",
+        "remote_md5": "747bbbc416549338a8d195cb72523d29",
+        "local_match": true
+      },
+      {
+        "file": "05.webp",
+        "remote_md5": "a39531aa25692e70ea746299157f612b",
+        "local_match": true
+      },
+      {
+        "file": "06.webp",
+        "remote_md5": "4f23989c70f20ed59561f666acdb2eaa",
+        "local_match": true
+      },
+      {
+        "file": "07.webp",
+        "remote_md5": "0c18ad9e457ff9da1435c4e5396e93d3",
+        "local_match": true
+      },
+      {
+        "file": "08.webp",
+        "remote_md5": "97c4edb92f1bf132030dd7b6074ea8eb",
+        "local_match": true
+      },
+      {
+        "file": "09.webp",
+        "remote_md5": "b99d3ff8a9a9d1b6d5a8b358aa0ec86b",
+        "local_match": true
+      },
+      {
+        "file": "下载记录.json",
+        "remote_md5": "1ae3767f880f0d5b304860ff5bef39bc",
+        "local_match": true
+      }
+    ]
+  },
+  "skills": "uploading"
+}

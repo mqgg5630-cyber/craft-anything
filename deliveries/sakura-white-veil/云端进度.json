@@ -1,0 +1,22 @@
+{
+  "root": "1aPvMBowtM-OaazvyW7doS1qfStHHQLXL",
+  "sources": "1bLAPi7PORPwkydHtJEh7A50ceKRYWCv6",
+  "clean": "1PjCTAFBhcR67d0aXyPhrVtGb9x7kp2G3",
+  "ui": "1oGQBraoxTFgAYT5BnqlqhkV6bJyLrWYv",
+  "skills": "1Grp-l6fWzM0gQB_yF-bOPEq5OsFWmoQx",
+  "status": "complete_39_files_remote_names_count_and_md5_verified",
+  "generated_count": 10,
+  "ui_count": 10,
+  "source_downloaded": 9,
+  "remote_count": 39,
+  "skills_remote_md5": {
+    "Drive验收.json": "1951235e6461a98e4251b879c1915c7a",
+    "prompts.json": "7e44371fa65ee696961308ec77ea9819",
+    "render.py": "69cb9cebad152118d3ecd9ec35617821",
+    "requirements.txt": "790ab642d4358d409328cc36e161d665",
+    "SKILL.md": "5fd8f96947c932a952e74f51e3412098",
+    "测试记录.txt": "c97c49b7a8cca88ff5378730966b816e",
+    "验收记录.json": "0060765dd2a81f95ba3c8b2ccbeb4d33"
+  },
+  "pending": []
+}

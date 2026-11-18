@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "source_members": 20,
+  "old_result_members": 10,
+  "all_30_remote_md5_match": true,
+  "source_folder": "1MIjIATl-lKbquKJd1owNTVuxI5XDLqc6",
+  "source_child": "1GeXcEz2GBiPoV7_04ky4B74KG19yAj4f",
+  "old_results_folder": "158WwwlVZP5-uxxr0CsSgHJXR4JmTE5N3",
+  "source_latest_three_md5": {
+    "18.jpg": "15a1df0dc7b6faaadaa2c844daa54cf3",
+    "note.json": "8128b1584253ccf400ee2a71ba1b8e62",
+    "note.md": "8686cc27258b5dc2bf2d5b9a2f7fe055"
+  },
+  "old_results_remote_md5": [
+    "7a62072813941b1f53a1880096165833",
+    "a07671dfb85b53bedbc6d4203609b978",
+    "98204d7045740d9f9903561dea0ac675",
+    "157a217c497c1371d8ec54865e461416",
+    "308183aa42d83859f39c3624b6612805",
+    "400f257a89f6782347e03dfee2adf53e",
+    "70b77cd0749ff2af80b9a9398beedeea",
+    "7acbe99ea9c87f7a1a2b56ae14b4142e",
+    "011c2d6a1b7f81313fba05487d1d7dc8",
+    "58a0507bbc76a29c7846f5471c2c3e0d"
+  ]
+}
