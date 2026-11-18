@@ -1,0 +1,78 @@
+{
+  "type": "reusable_recipe_summarized_from_successful_calls_not_verbatim_log",
+  "source_note": "6aed5b12000000002b033b95",
+  "shared": "ONE standalone full bleed 9:20 portrait wallpaper. Closely redraw attached reference in classic Tom and Jerry hand-inked cel animation, authentic characters, muted honey ochre and powder blue palette, softly aged paper grain, cozy peaceful truce mood. Subjects lower half, generous clean wall or navy sky above. No words, watermark, UI, phone border or collage.",
+  "jobs": [
+    {
+      "file": "01-沙发停战.png",
+      "reference_files": [
+        "01.jpg"
+      ],
+      "scene": "Tom covers Jerry beside him on powder-blue sofa with blanket"
+    },
+    {
+      "file": "02-盖好小被子.png",
+      "reference_files": [
+        "02.jpg"
+      ],
+      "scene": "Tom tucks Jerry under cream blanket on pillow"
+    },
+    {
+      "file": "03-月夜窗台.png",
+      "reference_files": [
+        "03.jpg"
+      ],
+      "scene": "Tom and Jerry gaze at crescent moon from wooden window sill"
+    },
+    {
+      "file": "04-早餐小茶杯.png",
+      "reference_files": [
+        "04.jpg"
+      ],
+      "scene": "Tom and Jerry share a white teacup at gingham breakfast table"
+    },
+    {
+      "file": "05-餐桌握手.png",
+      "reference_files": [
+        "05.jpg"
+      ],
+      "scene": "Tom and Jerry shake hands at round oak kitchen table"
+    },
+    {
+      "file": "06-一起做好梦.png",
+      "reference_files": [
+        "06.jpg"
+      ],
+      "scene": "Tom and Jerry sleep together on cream and blue pillows"
+    },
+    {
+      "file": "07-晚安故事书.png",
+      "reference_files": [
+        "10.jpg"
+      ],
+      "scene": "Tom reads open illustrated bedtime book beside sleeping Jerry"
+    },
+    {
+      "file": "08-雨窗相伴.png",
+      "reference_files": [
+        "15.jpg"
+      ],
+      "scene": "Tom and Jerry look at rain through window from blue cushion"
+    },
+    {
+      "file": "09-奶酪小晚餐.png",
+      "reference_files": [
+        "16.jpg",
+        "05.jpg"
+      ],
+      "scene": "Jerry stands by cheese dinner; Tom peeks over round table"
+    },
+    {
+      "file": "10-床头灯微光.png",
+      "reference_files": [
+        "18.jpg"
+      ],
+      "scene": "Tom asleep in blue bed with Jerry and glowing amber bedside lamp"
+    }
+  ]
+}

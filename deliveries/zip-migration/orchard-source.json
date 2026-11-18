@@ -1,0 +1,108 @@
+{
+  "archive": ".local/zip-migration/orchard-source/archive.zip",
+  "archive_md5": "f25e50221c1426aa8e79ffa03ca60c7a",
+  "crc_verified": true,
+  "target": ".local/zip-migration/orchard-source/files",
+  "file_count": 14,
+  "files": [
+    {
+      "path": "01-原片/01.png",
+      "bytes": 3269656,
+      "crc32": "8069b6e3",
+      "md5": "708cfbf7c996b0ebdbde21b0a9ed0d7e",
+      "sha256": "48a59518e06278efe9d54f2d50955c9d073c6ff99935406306412e40347bba04"
+    },
+    {
+      "path": "01-原片/02.png",
+      "bytes": 3476237,
+      "crc32": "f3bb0874",
+      "md5": "a739d0d77be830c200889d81ab9c522f",
+      "sha256": "248dce63bd83084954d6f2cde062d57497c96750506717e42df4c3a1eb5e374f"
+    },
+    {
+      "path": "01-原片/03.png",
+      "bytes": 3354936,
+      "crc32": "7cbf4685",
+      "md5": "cd7b436160a2e47b91281e9922ed9b39",
+      "sha256": "b21fdfda49a2373c88e04ed28b8515c03816a189e56d6e1b8c02bd468525c2f2"
+    },
+    {
+      "path": "01-原片/04.png",
+      "bytes": 3310205,
+      "crc32": "e54deb0c",
+      "md5": "7ed597d2a81b2fb0e80d90ad5bcb2def",
+      "sha256": "24a4a8d874859800e51ed0f55f54b1050cf3108593651a6e5a817bbf04bad4be"
+    },
+    {
+      "path": "01-原片/05.png",
+      "bytes": 3630569,
+      "crc32": "f64243b4",
+      "md5": "7745ab6932044813a673373138e43c81",
+      "sha256": "b6dfa2f5a691e4b0c8d63ec7107ca7e526e5e24b4abc777126bf34bad2957383"
+    },
+    {
+      "path": "01-原片/06.png",
+      "bytes": 3178730,
+      "crc32": "c753b985",
+      "md5": "936a73b36d9be481d4d23c9e2cbe564c",
+      "sha256": "50a1c5cac89858492833bbeae03319c81ba67401cbecaa664d616dabdcdadd52"
+    },
+    {
+      "path": "01-原片/07.png",
+      "bytes": 3419335,
+      "crc32": "8e02ce40",
+      "md5": "33217566fe0c6454db11a53b6eb061a1",
+      "sha256": "c4b50a99a4e6f0eb1e154d7d0057d585d8914a17cf7835d4f57467ec0e6fabef"
+    },
+    {
+      "path": "01-原片/08.png",
+      "bytes": 2960730,
+      "crc32": "2f96385d",
+      "md5": "2f71c11c9631e6f6b11b28b5df3d86e6",
+      "sha256": "4349a91e2d53d6b5e4a0f5126e1aaa270b39ef54136bb8087dd5f00bf0e5a6ce"
+    },
+    {
+      "path": "01-原片/09.png",
+      "bytes": 3022820,
+      "crc32": "d01520aa",
+      "md5": "448b521e3629fdae8b83cda59c53d9d7",
+      "sha256": "6ba05ba315d32cfe27dc38f6e517ad18cccefd7893038b5fa5469d1c11818429"
+    },
+    {
+      "path": "01-原片/10.png",
+      "bytes": 3460392,
+      "crc32": "e1fc83a0",
+      "md5": "9c4bcfc4031897fe2f88ac0d3f85257c",
+      "sha256": "a2a871f103f81f25635a955eff469d86628036b58e2eac3d354dd7453d1581e1"
+    },
+    {
+      "path": "01-原片/11.png",
+      "bytes": 3093172,
+      "crc32": "a59cd604",
+      "md5": "9cd7ae581dbc3d10fd220d35bb521754",
+      "sha256": "95cfb204f6f2e1612dbc6fb327161f69c40f2e9cea5f2633bdb219613aa34ae0"
+    },
+    {
+      "path": "01-原片/12.png",
+      "bytes": 2874339,
+      "crc32": "c1a41e4c",
+      "md5": "f93fd6f64aee2e7b89a605acaa2fa89e",
+      "sha256": "edc856d43239799eeeeaaa046e9d674c43e920d6f904119938c5bcf082910f41"
+    },
+    {
+      "path": "01-原片/note.json",
+      "bytes": 24310,
+      "crc32": "1085e104",
+      "md5": "cea8f6f09624f900cfb58b8f053f9932",
+      "sha256": "01adda49bfbac85ac9847a7158eda37a3dc7bdbace0e3fa3c0d6008f584ee30b"
+    },
+    {
+      "path": "01-原片/note.md",
+      "bytes": 2435,
+      "crc32": "32d80183",
+      "md5": "3bc70af309cfc5e25efb238c505bac14",
+      "sha256": "25c5de9326773a4d350fcb2de06dc6c4baad288db950ad811b2f74d4f814f520"
+    }
+  ],
+  "drive_status": "not_uploaded"
+}

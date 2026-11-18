@@ -1,0 +1,150 @@
+{
+  "archive": ".local/zip-migration/cat-source/archive.zip",
+  "archive_md5": "13d5df17d6d990ca707dafa99e984f76",
+  "crc_verified": true,
+  "target": "deliveries/tom-jerry/01-原片与文案",
+  "file_count": 20,
+  "files": [
+    {
+      "path": "01-原片/01.jpg",
+      "bytes": 299716,
+      "crc32": "2e3cb89c",
+      "md5": "7309bc533a47c22040d51ddf7190038e",
+      "sha256": "099bba778e613c90fb49fc4648128f809e846ee3739ec34f949b56036f7d5227"
+    },
+    {
+      "path": "01-原片/02.jpg",
+      "bytes": 362212,
+      "crc32": "803ddc43",
+      "md5": "3a26d1e964c111c85cd28c047d5a94af",
+      "sha256": "60665f3722dae8891f4e5caf744a65373ec782926cccdb28e9d82c6c3c0e487d"
+    },
+    {
+      "path": "01-原片/03.jpg",
+      "bytes": 267866,
+      "crc32": "890cd40a",
+      "md5": "28b57cf3155128840fce9012982cbf7f",
+      "sha256": "4fd1ec54d80fdfd58de873be3264653d301c1cd4fd9460cbceba4b715fe8f259"
+    },
+    {
+      "path": "01-原片/04.jpg",
+      "bytes": 262975,
+      "crc32": "222e6bfc",
+      "md5": "e954ec6c10e6caef794e3599aea92d00",
+      "sha256": "9b12c868df7b56c9118e1601ca8f0cd8602fea90e001714fdb33124d7bba7eb3"
+    },
+    {
+      "path": "01-原片/05.jpg",
+      "bytes": 274874,
+      "crc32": "2da8df8a",
+      "md5": "8388a902325044c4bdc829bf162c4b26",
+      "sha256": "95c45390ad09ff4bd556103cdc4271c0b8e231eb19be5405c8ef362830f15215"
+    },
+    {
+      "path": "01-原片/06.jpg",
+      "bytes": 330954,
+      "crc32": "44fcd090",
+      "md5": "af2a1c594d5a9d8f8619e2d30bde35d9",
+      "sha256": "edd981c35dc28073b02a1402390b438326f5d8ce71ffe1e4f7f7ed6d373d1347"
+    },
+    {
+      "path": "01-原片/07.jpg",
+      "bytes": 326041,
+      "crc32": "359632ac",
+      "md5": "548b999a645cf2945c0d68bfd6d38df3",
+      "sha256": "d1fd0f46562d4221edbaf359ceb5ce7cb3ce500914af5096611d75d26c15237f"
+    },
+    {
+      "path": "01-原片/08.jpg",
+      "bytes": 334586,
+      "crc32": "f3795b4f",
+      "md5": "638a7871d6a26f0ce45733d752ded742",
+      "sha256": "364b8af14af12ddd220124fb70d0a27ddfcdb4413056a602e560ba5afb06d5a3"
+    },
+    {
+      "path": "01-原片/09.jpg",
+      "bytes": 332256,
+      "crc32": "e07a16d1",
+      "md5": "d21bbbd9d252192d4338681c2851d771",
+      "sha256": "1f3e9c3402136cd55b9233f9965cd9bbcf8b8ce7c569ea35db298b89f39c5835"
+    },
+    {
+      "path": "01-原片/10.jpg",
+      "bytes": 347744,
+      "crc32": "892e4eea",
+      "md5": "ae4f2ec1cc67b7da927774b50396a979",
+      "sha256": "df0f4db91e6e28e267570fa7038c9222e57dcb1f49fdc0b8a785ddf46db4f081"
+    },
+    {
+      "path": "01-原片/11.jpg",
+      "bytes": 332603,
+      "crc32": "0a6bcca6",
+      "md5": "0a55f3427423b8d396853ea65ca75bd9",
+      "sha256": "53a62a95372cc320a74837bda92a3afe702937424c9215ae19c3d0e43bba73a1"
+    },
+    {
+      "path": "01-原片/12.jpg",
+      "bytes": 308837,
+      "crc32": "b9eb8d7d",
+      "md5": "a7da03230750b3192ea1d317e13f308e",
+      "sha256": "ec88bfe5031e71b4e7c3d12f490fccb97dee935283e238f7ec38d343adcc0998"
+    },
+    {
+      "path": "01-原片/13.jpg",
+      "bytes": 296654,
+      "crc32": "f561258a",
+      "md5": "b383a1b36ab48ae851631fde87087084",
+      "sha256": "2ca669acd5d504347d981f6090a32157654f3c65a5212b06b8a7ec2ac2eddbc5"
+    },
+    {
+      "path": "01-原片/14.jpg",
+      "bytes": 318768,
+      "crc32": "4e224df6",
+      "md5": "fb9ef2e07ecbc7cb850fd17c1932a7f8",
+      "sha256": "f2129bf931a8b6333caa0fd2c85e2e35632200c0c0da31ddb89718e6d455f658"
+    },
+    {
+      "path": "01-原片/15.jpg",
+      "bytes": 373414,
+      "crc32": "89eeda0e",
+      "md5": "69ea38ce5f4e89d48819f8f21b5e44db",
+      "sha256": "e79014fbb1eb04e4a39d99d95fbf2cbc7a99735f7a06102b7b0ce002f5de94c1"
+    },
+    {
+      "path": "01-原片/16.jpg",
+      "bytes": 311255,
+      "crc32": "09faa3cc",
+      "md5": "a2d2778f30a21e1f968c3251f43732d9",
+      "sha256": "a9ba71777db6d22ab8fdeb12610506acbd09a2a8cab71ca6a9b58c0fb857b184"
+    },
+    {
+      "path": "01-原片/17.jpg",
+      "bytes": 306425,
+      "crc32": "c9348c7e",
+      "md5": "6ce145374d8d338101faf2c7717539d1",
+      "sha256": "8d6884f75603ff8d51b25cf3c902b4753974bf31c77208a5840280f417cd206c"
+    },
+    {
+      "path": "01-原片/18.jpg",
+      "bytes": 343221,
+      "crc32": "e896307c",
+      "md5": "15a1df0dc7b6faaadaa2c844daa54cf3",
+      "sha256": "3189336cd1e684e16d4e9fcf8fe17cf8d27c3fb1dd1f4dabc4b27e12ab2f3043"
+    },
+    {
+      "path": "01-原片/note.json",
+      "bytes": 33528,
+      "crc32": "b8bfab8c",
+      "md5": "8128b1584253ccf400ee2a71ba1b8e62",
+      "sha256": "d13a7b7df19b2bc46d465e3bb0b7e93a1123fbee7e0cfc699f4cdcce868f73aa"
+    },
+    {
+      "path": "01-原片/note.md",
+      "bytes": 1711,
+      "crc32": "06a5e0e6",
+      "md5": "8686cc27258b5dc2bf2d5b9a2f7fe055",
+      "sha256": "b54b5f10468999c09b4505cae9d34676cbd47bf867a05aaa4a8c16c55c3512ef"
+    }
+  ],
+  "drive_status": "partial_17_of_20"
+}

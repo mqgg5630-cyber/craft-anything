@@ -1,0 +1,8 @@
+Image 1: one candidate unavailable
+Image 1: one candidate unavailable
+Image 1: one candidate unavailable
+.............
+----------------------------------------------------------------------
+Ran 13 tests in 0.132s
+
+OK

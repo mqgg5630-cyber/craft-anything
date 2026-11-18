@@ -1,0 +1,80 @@
+{
+  "archive": ".local/zip-migration/goldfish/archive.zip",
+  "archive_md5": "8f3b8afe2bbc55e383c53b01548ed42c",
+  "crc_verified": true,
+  "target": ".local/zip-migration/goldfish/files",
+  "file_count": 10,
+  "files": [
+    {
+      "path": "金鱼01-金光鱼缸.jpg",
+      "bytes": 729734,
+      "crc32": "b7b146fb",
+      "md5": "08dce5b9eff7a65c3d75cac645e9a6ff",
+      "sha256": "c6768069a56aef388f07ff18fc7602759dab86cbb348e4337a843a1ea3eaa24e"
+    },
+    {
+      "path": "金鱼02-鲤跃龙门.jpg",
+      "bytes": 1132613,
+      "crc32": "3a5e9cac",
+      "md5": "47b55fd1c79bbb40d24b492c89a039c3",
+      "sha256": "6230c6a4b2f36f4f537b7f4bbf93c0830ec189a219967a71aada82d235692241"
+    },
+    {
+      "path": "金鱼03-茶杯金鱼.jpg",
+      "bytes": 887173,
+      "crc32": "9798bd27",
+      "md5": "04851e05bf940e59d37015c6180c15da",
+      "sha256": "a99291af2f90873898227de126f945b256fcf18af4a0607c7311814717a1cb51"
+    },
+    {
+      "path": "金鱼04-红灯笼.jpg",
+      "bytes": 1061244,
+      "crc32": "44a9c3d6",
+      "md5": "61908ecd9cf85b2c7758f93bd6a2091d",
+      "sha256": "ad395977f1d0a43652981cbeb664bf7f1a4bf456ed5e18ddacfa112b258e9401"
+    },
+    {
+      "path": "金鱼05-柿柿如意.jpg",
+      "bytes": 819889,
+      "crc32": "a90fafa4",
+      "md5": "8034d1079e1ed63d66c1282c668e6be1",
+      "sha256": "72f135e199fa93e15e1055efe5c60580f4fc4dc5b24f2bc2a269151b6411f60b"
+    },
+    {
+      "path": "金鱼06-财源滚滚.jpg",
+      "bytes": 858459,
+      "crc32": "3bc45671",
+      "md5": "ef90a1fb798efe57ddc14b907e779051",
+      "sha256": "8913e051cd2827ece66e437cf3a2e3c26ca7b8b996c7fa37c7667ac590b62a59"
+    },
+    {
+      "path": "金鱼07-连年有余.jpg",
+      "bytes": 867305,
+      "crc32": "ebfba74c",
+      "md5": "351aee5eddbc55b9b63ad090feec7645",
+      "sha256": "646320aa2bfbde0ebcac89b62e2e511badeb68e00afe98f455f507ea97d27a6d"
+    },
+    {
+      "path": "金鱼08-书页金鱼.jpg",
+      "bytes": 781312,
+      "crc32": "005f5045",
+      "md5": "bbca2e2c88283675fece66aab4666255",
+      "sha256": "4b503f9bda1deef3f642e8d1e7a6fc4edd2065eae7780b4089d10146c2dcaf9b"
+    },
+    {
+      "path": "金鱼09-烛光许愿.jpg",
+      "bytes": 821911,
+      "crc32": "5deff272",
+      "md5": "4676ceba2dd70b7755ad99872309d3c0",
+      "sha256": "cd99a784251fe924b44654e03cb96466dc11be764d1fe2ff2bc7a532bb50ba0a"
+    },
+    {
+      "path": "金鱼10-金鱼星河.jpg",
+      "bytes": 1148034,
+      "crc32": "4b400b88",
+      "md5": "7c568e88b1491348035a6f9a0e8ada85",
+      "sha256": "5da7c412bab74b7040d039003cf7eb7ec219890248176e16cdeb8467ec2ee961"
+    }
+  ],
+  "drive_status": "not_uploaded"
+}

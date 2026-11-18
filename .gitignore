@@ -21,3 +21,7 @@ corpus/
 /.cache/
 /.venv/
 __pycache__/
+
+# Download staging and unpacked migration cache (deliverables are saved separately)
+/.local/
+/google_drive/

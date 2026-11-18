@@ -1,0 +1,229 @@
+{
+  "status": "local_complete_drive_separate",
+  "clean_count": 10,
+  "ui_count": 10,
+  "same_folder_previews": 2,
+  "ui": "illustrative not actual phone screenshot",
+  "files": [
+    {
+      "file": "02-复刻无手机UI/01-沙发停战.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1825668,
+      "sha256": "1ec14a168de99905150976e331d327d354997e65c3a8654b90af8fd9fa17cc6e",
+      "md5": "1edf449a0e17583f58b67997d06cc04d"
+    },
+    {
+      "file": "03-复刻有手机UI/01-沙发停战.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1447158,
+      "sha256": "14663f64e100629bd8dba025e2e3db0c6bf1dcd6a569f296923be4e44a0a4f3f",
+      "md5": "6f41b3c0c2aa4cebf6454f15918dec3a"
+    },
+    {
+      "file": "02-复刻无手机UI/02-盖好小被子.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2286348,
+      "sha256": "5d09a00f43eeb932f62898d0fb95c23b2c231774f6856350734378c5f429b2e0",
+      "md5": "980062a45d037e8e887db8886d08a5b3"
+    },
+    {
+      "file": "03-复刻有手机UI/02-盖好小被子.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1574345,
+      "sha256": "7c8d71ca12944ae6edb06666f897b1ef8115ecc1fbf48ba8394a691992a62c94",
+      "md5": "23f416e94f4bad6dc0f207d72e0418e4"
+    },
+    {
+      "file": "02-复刻无手机UI/03-月夜窗台.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2019892,
+      "sha256": "65a2a9939d047013c519cdde739a4e3158f571326abeddd840d3e2eff53b671c",
+      "md5": "0b54b97f6665c5792c5f0a597958867e"
+    },
+    {
+      "file": "03-复刻有手机UI/03-月夜窗台.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1478954,
+      "sha256": "0b5caf7d67e4473f8c0a94266ba0e11ed67216bcbff5493cfa43fdeefce4a9f2",
+      "md5": "70aa45fc85b88637c28f80765bd2cda6"
+    },
+    {
+      "file": "02-复刻无手机UI/04-早餐小茶杯.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1673193,
+      "sha256": "0d499718cf8657b7f0d66151906cd9e736def0135bb7a2e3d2a1e7e3320bbd20",
+      "md5": "1cff2457139ada46c450526e5e537577"
+    },
+    {
+      "file": "03-复刻有手机UI/04-早餐小茶杯.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1386078,
+      "sha256": "8bdac700db74cf3f999cd3bbccdf48adcfaf375b0c92663c356d6ce493464fa2",
+      "md5": "91b9d6a2a3b802b747e33fc55129c7d0"
+    },
+    {
+      "file": "02-复刻无手机UI/05-餐桌握手.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1897136,
+      "sha256": "1f6944909dd69def11065f3f42b71aed4c317d2616181bc2f9edb812ce43bf9e",
+      "md5": "de9ef6b8d1e435025d75575b7b6d36a1"
+    },
+    {
+      "file": "03-复刻有手机UI/05-餐桌握手.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1569548,
+      "sha256": "da4b141dfe994de90b8bc3a658664ddd0490698bf9047aacdf8f341c0454a7a3",
+      "md5": "1fc2dcbd283ba46e0cbab525611dec5d"
+    },
+    {
+      "file": "02-复刻无手机UI/06-一起做好梦.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1972479,
+      "sha256": "086f33e69d44ac6ef40bbfea1bf1c8daa582041b3fdafcdad250a5e4f0b3f74e",
+      "md5": "be56714d46f966955182d77cc1c2e88c"
+    },
+    {
+      "file": "03-复刻有手机UI/06-一起做好梦.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1489040,
+      "sha256": "1ba0f736554ea0d28668936cb0c3c4c5db990c479c122b478d3ce5b70e722aa8",
+      "md5": "9d50b8b3fb4822f329febc85a5cf5624"
+    },
+    {
+      "file": "02-复刻无手机UI/07-晚安故事书.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2034406,
+      "sha256": "f72db4b6263b83229c349565dbb088601863e01730e93fa08fda2e79e575d9b4",
+      "md5": "3e62a2d001939c65f403ea6e37c9634e"
+    },
+    {
+      "file": "03-复刻有手机UI/07-晚安故事书.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1569580,
+      "sha256": "a5d6585690cc6a0533faa890ed0a04f774619879c4f978612541d107bea7f23a",
+      "md5": "aaa7245dba69d2e9d63c2e1a935b9003"
+    },
+    {
+      "file": "02-复刻无手机UI/08-雨窗相伴.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2463129,
+      "sha256": "e1c3299e2aa196595fad6d33d563076b8a09abfd44e2d0948ab2953d78e7bce4",
+      "md5": "806d2077218823724acc436383e9dbe4"
+    },
+    {
+      "file": "03-复刻有手机UI/08-雨窗相伴.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1632447,
+      "sha256": "fc27d46b8b36acf1fce348dc835074410c0cf2d6831d0611c16b1797e1f1504c",
+      "md5": "28292c37e652d8840a377395b8bf00cb"
+    },
+    {
+      "file": "02-复刻无手机UI/09-奶酪小晚餐.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2133634,
+      "sha256": "8714b2450d6c10c803ee361b41be97ba949c61ec86fefe8fdac6bfff8b2397b1",
+      "md5": "993e65976922c881f2dde7d38db0e22f"
+    },
+    {
+      "file": "03-复刻有手机UI/09-奶酪小晚餐.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1459393,
+      "sha256": "9ea05da88a927128948a52a698a6add3b2f1a847b6801871242bf812599767bb",
+      "md5": "3171951743f377d41ec205a66229dd2d"
+    },
+    {
+      "file": "02-复刻无手机UI/10-床头灯微光.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2227462,
+      "sha256": "a1a8a118ecef4d32680538cb2ef8aef12b58164c315ed581a8423266e09fe568",
+      "md5": "8b35a58829f5dde645c775edec830315"
+    },
+    {
+      "file": "03-复刻有手机UI/10-床头灯微光.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1542336,
+      "sha256": "a3c0ffdaa72b26e91b3bdd1b773e06152a0f9bce2c80e11c3d9e974d343f9258",
+      "md5": "b610e01f218eaecc1dc055663f105d5d"
+    },
+    {
+      "file": "02-复刻无手机UI/总预览.jpg",
+      "dimensions": [
+        1170,
+        1100
+      ],
+      "bytes": 285048,
+      "sha256": "f3d6e3a99449690ec9878ca53822177cdfb65c94feb6dd3443b8de277099c050",
+      "md5": "5f10f8bb627f96b4f0f7227849f43787"
+    },
+    {
+      "file": "03-复刻有手机UI/总预览.jpg",
+      "dimensions": [
+        1170,
+        1100
+      ],
+      "bytes": 317039,
+      "sha256": "1160f6c98d09c1ac6dfc631b9b434906b35bf1c75859ab58c56cb9d78eed45a5",
+      "md5": "fe70a4c8b5827c4996b3eca296e447e2"
+    }
+  ]
+}

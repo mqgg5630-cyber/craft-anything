@@ -1,0 +1,80 @@
+{
+  "archive": ".local/zip-migration/cat-old/archive.zip",
+  "archive_md5": "6081b25d0890b62126c5bbcf64f784bb",
+  "crc_verified": true,
+  "target": "deliveries/tom-jerry/旧成品归档",
+  "file_count": 10,
+  "files": [
+    {
+      "path": "猫鼠01-沙发盖被.jpg",
+      "bytes": 797305,
+      "crc32": "89b73527",
+      "md5": "7a62072813941b1f53a1880096165833",
+      "sha256": "857dc724c8b0647253001b253d04ccd8e55dafd7e9a8db5da0aabe673bb0ce15"
+    },
+    {
+      "path": "猫鼠02-窗边月牙.jpg",
+      "bytes": 776682,
+      "crc32": "8a7a0025",
+      "md5": "a07671dfb85b53bedbc6d4203609b978",
+      "sha256": "1609d8fe707302e2b1a64864007a527eef7a77a098ba5a1239dfcb43680c441f"
+    },
+    {
+      "path": "猫鼠03-餐桌热牛奶.jpg",
+      "bytes": 755628,
+      "crc32": "7f25d34b",
+      "md5": "98204d7045740d9f9903561dea0ac675",
+      "sha256": "d9191fe92f8d0044875a18bbaa0c86368f9bce471315afe8f2229a7c0e5e74cc"
+    },
+    {
+      "path": "猫鼠04-递奶酪.jpg",
+      "bytes": 791325,
+      "crc32": "1225758f",
+      "md5": "157a217c497c1371d8ec54865e461416",
+      "sha256": "d086baf0abc9ce625264d27aec19502e356f7015c0110d3101ffeac43c2d352f"
+    },
+    {
+      "path": "猫鼠05-火柴盒小床.jpg",
+      "bytes": 850946,
+      "crc32": "d36afd2d",
+      "md5": "308183aa42d83859f39c3624b6612805",
+      "sha256": "fa86bf59cbb15bfff499bbcd476b0da9169b73215de536f6e649e27f0f69265e"
+    },
+    {
+      "path": "猫鼠06-红围巾.jpg",
+      "bytes": 866504,
+      "crc32": "7a6c083e",
+      "md5": "400f257a89f6782347e03dfee2adf53e",
+      "sha256": "4098d6a8c21cf48f31d4a117a36cf0e82e5f181b8282b3a5ad1bb8b850ea0cfb"
+    },
+    {
+      "path": "猫鼠07-睡前绘本.jpg",
+      "bytes": 872747,
+      "crc32": "3fcc9ca4",
+      "md5": "70b77cd0749ff2af80b9a9398beedeea",
+      "sha256": "8cbc846e1a1f2a581d0d7a8c033fb0b3435e3cf6465864edf5c08df54ca779ce"
+    },
+    {
+      "path": "猫鼠08-拖鞋里打盹.jpg",
+      "bytes": 644609,
+      "crc32": "a15ddd2a",
+      "md5": "7acbe99ea9c87f7a1a2b56ae14b4142e",
+      "sha256": "5bb35cb196e98ea3bdc1bb86558797ed13808b817877cabb08bea86c54a36ac8"
+    },
+    {
+      "path": "猫鼠09-雨夜窗边.jpg",
+      "bytes": 870161,
+      "crc32": "557c29f1",
+      "md5": "011c2d6a1b7f81313fba05487d1d7dc8",
+      "sha256": "371e35f9cccfa7c3afa677441a573b475b49a1ab2e55dc337778c60c354f9ae0"
+    },
+    {
+      "path": "猫鼠10-床头灯晚安.jpg",
+      "bytes": 892680,
+      "crc32": "28af7600",
+      "md5": "58a0507bbc76a29c7846f5471c2c3e0d",
+      "sha256": "a3ade7a3e3c6bafab66d4c53205d52326333113fb0f01c1fae09c2721013f254"
+    }
+  ],
+  "drive_status": "empty_target_pending_10"
+}

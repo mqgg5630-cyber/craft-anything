@@ -1,0 +1,117 @@
+{
+  "readback_count": 22,
+  "next_page_token": null,
+  "verified_count": 22,
+  "files": [
+    {
+      "file": "02-复刻无手机UI/01-沙发停战.png",
+      "remote_md5": "1edf449a0e17583f58b67997d06cc04d",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/02-盖好小被子.png",
+      "remote_md5": "980062a45d037e8e887db8886d08a5b3",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/03-月夜窗台.png",
+      "remote_md5": "0b54b97f6665c5792c5f0a597958867e",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/04-早餐小茶杯.png",
+      "remote_md5": "1cff2457139ada46c450526e5e537577",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/05-餐桌握手.png",
+      "remote_md5": "de9ef6b8d1e435025d75575b7b6d36a1",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/06-一起做好梦.png",
+      "remote_md5": "be56714d46f966955182d77cc1c2e88c",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/07-晚安故事书.png",
+      "remote_md5": "3e62a2d001939c65f403ea6e37c9634e",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/08-雨窗相伴.png",
+      "remote_md5": "806d2077218823724acc436383e9dbe4",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/09-奶酪小晚餐.png",
+      "remote_md5": "993e65976922c881f2dde7d38db0e22f",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/10-床头灯微光.png",
+      "remote_md5": "8b35a58829f5dde645c775edec830315",
+      "verified": true
+    },
+    {
+      "file": "02-复刻无手机UI/总预览.jpg",
+      "remote_md5": "5f10f8bb627f96b4f0f7227849f43787",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/01-沙发停战.png",
+      "remote_md5": "6f41b3c0c2aa4cebf6454f15918dec3a",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/02-盖好小被子.png",
+      "remote_md5": "23f416e94f4bad6dc0f207d72e0418e4",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/03-月夜窗台.png",
+      "remote_md5": "70aa45fc85b88637c28f80765bd2cda6",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/04-早餐小茶杯.png",
+      "remote_md5": "91b9d6a2a3b802b747e33fc55129c7d0",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/05-餐桌握手.png",
+      "remote_md5": "1fc2dcbd283ba46e0cbab525611dec5d",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/06-一起做好梦.png",
+      "remote_md5": "9d50b8b3fb4822f329febc85a5cf5624",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/07-晚安故事书.png",
+      "remote_md5": "aaa7245dba69d2e9d63c2e1a935b9003",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/08-雨窗相伴.png",
+      "remote_md5": "28292c37e652d8840a377395b8bf00cb",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/09-奶酪小晚餐.png",
+      "remote_md5": "3171951743f377d41ec205a66229dd2d",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/10-床头灯微光.png",
+      "remote_md5": "b610e01f218eaecc1dc055663f105d5d",
+      "verified": true
+    },
+    {
+      "file": "03-复刻有手机UI/总预览.jpg",
+      "remote_md5": "fe70a4c8b5827c4996b3eca296e447e2",
+      "verified": true
+    }
+  ]
+}

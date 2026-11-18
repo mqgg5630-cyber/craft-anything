@@ -1,0 +1,80 @@
+{
+  "archive": ".local/zip-migration/orchard-old/archive.zip",
+  "archive_md5": "3a8a2059486b877ea71c6b562cddd980",
+  "crc_verified": true,
+  "target": ".local/zip-migration/orchard-old/files",
+  "file_count": 10,
+  "files": [
+    {
+      "path": "水果01-橙子海湾.jpg",
+      "bytes": 860994,
+      "crc32": "f2fb33b7",
+      "md5": "665d0285a276e6c18365e2108f9c2ab6",
+      "sha256": "df930a2ac98b37e904843adb03da0d391d4e085ccf2e17a612af4df2acfe5ac0"
+    },
+    {
+      "path": "水果02-草莓花溪.jpg",
+      "bytes": 969946,
+      "crc32": "acb639e5",
+      "md5": "264f505f4024213f1e9d35735be2a614",
+      "sha256": "ce101f391e7e41ec8e415ce7484647c44b57e852422821cdea92ba5e44279645"
+    },
+    {
+      "path": "水果03-葡萄紫丘.jpg",
+      "bytes": 893420,
+      "crc32": "fbcb2215",
+      "md5": "89b6e23a114675a27966380ead5c126e",
+      "sha256": "28b412e03ce3863fae643e68e1e9b41311343488efb21b7dce25433a163a2744"
+    },
+    {
+      "path": "水果04-柠檬飞瀑.jpg",
+      "bytes": 846551,
+      "crc32": "ffa72dd8",
+      "md5": "07d6e55d74315b0b1741a08515206c79",
+      "sha256": "69b4e4753afbced5cff4cc20621db1c2d0db0df968dfd557224c84415e4afeb6"
+    },
+    {
+      "path": "水果05-石榴红谷.jpg",
+      "bytes": 1025289,
+      "crc32": "9db61c9d",
+      "md5": "44a5fcd3402f5bb95c05b99f54f39b38",
+      "sha256": "179b4acd5f18250186511aaf79c5eb2ae5396b1bdfb8112d452e153a5477fca0"
+    },
+    {
+      "path": "水果06-蓝莓月湖.jpg",
+      "bytes": 820874,
+      "crc32": "7834592d",
+      "md5": "a50ea81d3f2e1b87511f6b4ca465fb17",
+      "sha256": "827bf5358c9230f8be02efe78aee7e80c7da7049481c5005e89ff979504e07b8"
+    },
+    {
+      "path": "水果07-西瓜漩涡.jpg",
+      "bytes": 779357,
+      "crc32": "ec00bc01",
+      "md5": "4a4c87a0a3e184d1f1608434d4552bdb",
+      "sha256": "b1bee901a1657fe4cff61667f914d63443d4ea864f8190433bcf0a7613c0252f"
+    },
+    {
+      "path": "水果08-火龙果花坡.jpg",
+      "bytes": 886379,
+      "crc32": "56d85f30",
+      "md5": "a9072c41370f035f703ba6122010c4ab",
+      "sha256": "3e7d552beb52954d7c5c35afde10c0f76f45056939bc1bd994189ce93cc5620a"
+    },
+    {
+      "path": "水果09-菠萝海湾.jpg",
+      "bytes": 716904,
+      "crc32": "3aca14a5",
+      "md5": "34848cbb26a483e3b63fa9da8596eb9e",
+      "sha256": "00b4d744cb4812ff768d4206bb38a4a49cf9cc7ff61e44686eb9cf31e1f5b0ac"
+    },
+    {
+      "path": "水果10-樱桃花溪.jpg",
+      "bytes": 654705,
+      "crc32": "87e17da5",
+      "md5": "04422615270b6c5f96a73dd5ae78d072",
+      "sha256": "d9c2e842efae2aeb7b98e8fdca856a29345b2324a9d6254b554252cd38be0bb3"
+    }
+  ],
+  "drive_status": "not_uploaded"
+}
