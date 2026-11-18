@@ -6,13 +6,12 @@ ROOT=Path('deliveries/doraemon-dream-world/01-下载原图')
 URL='https://www.rednote.com/discovery/item/6aedc91f0000000023004ff2?xsec_token=CBISbJnVDWPV9wo-NpRox3vlAiuJMLTnOqfIxdKkYl3ak=&xsec_source=app_share'
 def main():
  ROOT.mkdir(parents=True,exist_ok=True)
- req=urllib.request.Request(URL,headers={'User-Agent':'Mozilla/5.0'})
- html=urllib.request.urlopen(req,timeout=40).read(8*1024*1024).decode()
- raw=html.replace(r'\u002F','/').replace(r'\/','/')
- # Preserve public imageList metadata, never archive cookies or entire HTML.
- m=re.search(r'"imageList":',raw)
- if not m:raise RuntimeError('Public imageList missing')
- images=json.JSONDecoder().raw_decode(raw[m.end():])[0];record={'note_id':'6aedc91f0000000023004ff2','title':'✨哆啦A梦的奇妙世界','author':'一名努力向上的舞蹈老师','share_url':'https://xhslink.cn/o/4pNl4VJBJjX','source_caveat':'Public CDN derivatives, not author masters','images':[]}
+ images=[{'urlDefault':f'https://sns-web-i10.rednotecdn.com/202611181652/{h}/spectrum/{t}!nd_dft_wlteh_webp_3'} for h,t in [
+ ('e24ba896e28e143fa1416a1aa743c1cf','1040g34o3277svrit6a0g5p6u518g8mchqoa9prg'),
+ ('e96762b50c44e6c8408e0861a9d8aea7','1040g34o3277svrit6a1g5p6u518g8mchi256gvo'),
+ ('f54df2fcc472b131ebe98410b5cca236','1040g34o3277svrit6a005p6u518g8mchq24cob0'),
+ ('a901e2757daddaaee898559db27461d0','1040g34o3277svrit6a105p6u518g8mchlsf30pg')]]
+ record={'note_id':'6aedc91f0000000023004ff2','title':'✨哆啦A梦的奇妙世界','author':'一名努力向上的舞蹈老师','share_url':'https://xhslink.cn/o/4pNl4VJBJjX','source_caveat':'Public CDN derivatives, not author masters','images':[]}
  if len(images)!=4:raise ValueError(f'Expected four references, got {len(images)}')
  total=0
  for i,item in enumerate(images,1):
