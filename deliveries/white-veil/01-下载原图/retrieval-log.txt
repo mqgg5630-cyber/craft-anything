@@ -1,10 +1,12 @@
-Fresh signed URLs found on the public note: 0
+Public page host/path: www.rednote.com/login; 237108 chars, 0 known image IDs, 0 signed URLs.
+Browser was unavailable or timed out.
+Rendered public page: 0 chars, 0 known image IDs, 0 signed URLs.
 Slide 1: a rendition was unavailable or invalid
 Slide 1: a rendition was unavailable or invalid
 Slide 1: a rendition returned HTTP 403
 Traceback (most recent call last):
-  File "/home/runner/work/craft-anything/craft-anything/tools/wallpaper-job/download_white_veil.py", line 131, in <module>
+  File "/home/runner/work/craft-anything/craft-anything/tools/wallpaper-job/download_white_veil.py", line 172, in <module>
     main()
-  File "/home/runner/work/craft-anything/craft-anything/tools/wallpaper-job/download_white_veil.py", line 115, in main
+  File "/home/runner/work/craft-anything/craft-anything/tools/wallpaper-job/download_white_veil.py", line 156, in main
     raise RuntimeError(f'No valid rendition for slide {index}; results incomplete')
 RuntimeError: No valid rendition for slide 1; results incomplete
