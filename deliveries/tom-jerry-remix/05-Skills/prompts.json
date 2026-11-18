@@ -1,0 +1,48 @@
+{
+  "type": "recipe_summarized_from_successful_calls_not_verbatim",
+  "reference": "deliveries/tom-jerry/02-复刻无手机UI/01-沙发停战.png",
+  "reference_use": "STYLE ONLY; do not copy composition, pose, furniture or action",
+  "shared": "ONE standalone fullbleed portrait 9:20 wallpaper. Authentic classic Tom and Jerry 2D hand-inked cel animation, fine dark outline, flat gentle shadows, subtle aged paper grain, muted honey ochre and powder blue, peaceful friendship. Gray Tom with yellow eyes white muzzle pink ears, small brown Jerry with tan belly pink ears. Subjects lower half with generous calm upper sky/wall. No text, numerals, UI, clock, device hardware, watermark, logos, signatures, collage or borders.",
+  "jobs": [
+    {
+      "file": "01-毛线小帮手.png",
+      "new_scene": "Tom knits, Jerry offers yarn in basket"
+    },
+    {
+      "file": "02-纸船出航.png",
+      "new_scene": "Tom and Jerry launch tiny paper sailboat in blue basin"
+    },
+    {
+      "file": "03-留声机慢舞.png",
+      "new_scene": "Tom and Jerry dance to brass gramophone"
+    },
+    {
+      "file": "04-盆栽新芽.png",
+      "new_scene": "Tom waters seedling, Jerry supports leaf"
+    },
+    {
+      "file": "05-饼干小工坊.png",
+      "new_scene": "Tom rolls dough, Jerry cuts star cookies"
+    },
+    {
+      "file": "06-枫叶来信.png",
+      "new_scene": "Jerry offers maple leaf to Tom with keepsake box"
+    },
+    {
+      "file": "07-手电影子戏.png",
+      "new_scene": "Tom shines flashlight, Jerry casts large mouse shadow"
+    },
+    {
+      "file": "08-风筝补丁.png",
+      "new_scene": "Tom repairs blue kite, Jerry holds string spool"
+    },
+    {
+      "file": "09-玻璃瓶萤光.png",
+      "new_scene": "Tom and Jerry watch free firefly over open jar"
+    },
+    {
+      "file": "10-拼图最后一块.png",
+      "new_scene": "Tom and Jerry complete wooden sun jigsaw"
+    }
+  ]
+}

@@ -12,7 +12,7 @@
   "pending_archive_ids": [
     "1vFcy0WATHzZ1ii5wTEQK3WsoNJOKHEu5"
   ],
-  "status": "anniversary_complete_only_shinchan30_remains",
+  "status": "shinchan30_paused_explicit_upload_limit",
   "new_images_drive_complete": true,
   "new_images_md5_verified": 22,
   "new_skill_remote_count": 7,
@@ -25,13 +25,13 @@
     "04-果园风景",
     "05-金鱼"
   ],
-  "upload_next_first": "Re-list remaining ZIPs; cat source and old results are complete, do not upload duplicates.",
+  "upload_next_first": "Fresh list existing folder12es7RnWFnPjB9t71dmKzZPMBvnFiJnJM then upload missing30 only; never recreate folder.",
   "cat_two_original_zips_trashed_recoverably": true,
   "remaining_inventory_count": 1,
   "video_complete_remote_count": 7,
   "video_zip_trashed_recoverably": true,
   "video_root": "1sGQQaU6dtNtuG_z13Z6FZP7_2TcPXr4s",
-  "note": "Anniversary ZIP mislabeled22 but actual20; all20 uploaded/fresh MD5 matched and ZIP recoverably trashed. Only Shinchan30 results remain: downloaded and CRC+MD5 extracted, not uploaded, ZIP preserved. No background uploads.",
+  "note": "Shinchan30 remains: downloaded CRC+MD5 verified. Created actual target folder12es7RnWFnPjB9t71dmKzZPMBvnFiJnJM, but FIRST upload blocked by explicit rate limit (not sent). Fresh search confirms0 files. Obeyed no-more-uploads-this-reply. ZIP preserved, no background tasks. User can try again after at least15seconds.",
   "latest_migration": {
     "new_uploaded_files": 20,
     "remote_verified_files": 20,

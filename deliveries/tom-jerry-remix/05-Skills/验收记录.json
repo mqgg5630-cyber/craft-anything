@@ -1,0 +1,229 @@
+{
+  "status": "local_complete_drive_separate",
+  "clean_count": 10,
+  "ui_count": 10,
+  "same_folder_previews": 2,
+  "ui": "illustrative not actual phone screenshot",
+  "files": [
+    {
+      "file": "02-复刻无手机UI/01-毛线小帮手.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1880857,
+      "sha256": "39f6dcc2eee8cef9eeb393bebf811910ad0fa0ee447805c281a305cff46b48ef",
+      "md5": "fc69675344cfe64192f79fd74016ddd4"
+    },
+    {
+      "file": "03-复刻有手机UI/01-毛线小帮手.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1458797,
+      "sha256": "8405ae5b9686af4b5a5994facd178f76b7a8357df1baf5813ade7f26f2b82a09",
+      "md5": "5bba989c5edcc43ecd1f2ff7a7873c10"
+    },
+    {
+      "file": "02-复刻无手机UI/02-纸船出航.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1839657,
+      "sha256": "77dc76eb1cfe9b6972130ab6427cb1b6dd4c513b317d0df37ad1b391c69c4b29",
+      "md5": "5ba4e2026e6529457a148a9c6530c3fd"
+    },
+    {
+      "file": "03-复刻有手机UI/02-纸船出航.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1416740,
+      "sha256": "d2e95d02076c18f20cd66a35bdb171f1a2df2d832a22f832666907c237f98160",
+      "md5": "6456169adce506589f90b9880728ebb9"
+    },
+    {
+      "file": "02-复刻无手机UI/03-留声机慢舞.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2013158,
+      "sha256": "5be09c8ffd5c1a602ef706fc8938b2bb8ae8b055b6f423ca1416bfc69b3a1672",
+      "md5": "1ad8ccc76f62ef95ac5dee23657fc9fd"
+    },
+    {
+      "file": "03-复刻有手机UI/03-留声机慢舞.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1436540,
+      "sha256": "580e8637a0cb7c181d852b37495cda035ca4aa26160338f3fe0607e963779f5b",
+      "md5": "4a7b0b5f29e159c82fd76d63a7a880f8"
+    },
+    {
+      "file": "02-复刻无手机UI/04-盆栽新芽.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1785887,
+      "sha256": "ae7714f2a9a6c545e995e959ece5660a0af37bab6140015099dffea623708e3e",
+      "md5": "ea177f4a5f751499e3539f49c1102811"
+    },
+    {
+      "file": "03-复刻有手机UI/04-盆栽新芽.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1367008,
+      "sha256": "56a98ee94f2508ef9a5edd665ed9f7d3df266f3c935d0af0bcbbc6e1ff7edcf8",
+      "md5": "b369e56a52c8c12c477ae0bedaad5f87"
+    },
+    {
+      "file": "02-复刻无手机UI/05-饼干小工坊.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1815480,
+      "sha256": "e98f51acc1624f37e35a1085bd85a65dcb10f34bdcc4ff31b2d520c39e995b3d",
+      "md5": "cd6b3fbc874bce242340d595adf3dc93"
+    },
+    {
+      "file": "03-复刻有手机UI/05-饼干小工坊.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1457653,
+      "sha256": "412a9bd878e2f2be08cf704ca9b6586645ead880693ae2f9eac3fc1a35412629",
+      "md5": "b9a331500d2e466e308879331a774e2a"
+    },
+    {
+      "file": "02-复刻无手机UI/06-枫叶来信.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1820841,
+      "sha256": "d117f0092624b26837aa379e6e87cc2a39e8822b0d860b9cac2f610558fbd94e",
+      "md5": "37e6da1a16d09ac9feae22c079023521"
+    },
+    {
+      "file": "03-复刻有手机UI/06-枫叶来信.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1440850,
+      "sha256": "6f6770b167ae0d387a36abd3822681cf84f882d6c5ef3fba8e90c5143c623d33",
+      "md5": "3922ac06e7663273466b818dc111fbfb"
+    },
+    {
+      "file": "02-复刻无手机UI/07-手电影子戏.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2019765,
+      "sha256": "98ccca05f73d907e8367cb610b76bd5c8daca3c116e6aef136cef16671a9da4f",
+      "md5": "556616a677718922db398d7a054e9d68"
+    },
+    {
+      "file": "03-复刻有手机UI/07-手电影子戏.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1433140,
+      "sha256": "e2fcc4fdac12984b3137cbfee016c20d43c9bfd6871a92df51fd895e2621a2de",
+      "md5": "c04e283d971e91bde6b8b4d36c5f4321"
+    },
+    {
+      "file": "02-复刻无手机UI/08-风筝补丁.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1822406,
+      "sha256": "286df4becfa4d6ae5e608e1b7d609e7e4057c6ad4e44fb3a40bf347bfb025b6b",
+      "md5": "408d802a3405634112676d8013cf1470"
+    },
+    {
+      "file": "03-复刻有手机UI/08-风筝补丁.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1453707,
+      "sha256": "f1d699fdb9adbafc84182a846045cccefee7511251f9f572493ff25552b82dec",
+      "md5": "b7bb4b3d3f0ee4c35d8cb0f8d23bb813"
+    },
+    {
+      "file": "02-复刻无手机UI/09-玻璃瓶萤光.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1795453,
+      "sha256": "cf2198844d34440efe1e7ba8244eeccd1f1bcc53309db97db72539b0419aa0f3",
+      "md5": "d92ee22c105fd28057e586050a00db20"
+    },
+    {
+      "file": "03-复刻有手机UI/09-玻璃瓶萤光.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1385798,
+      "sha256": "1852aab0e681006ffebaec750703bdf2918218e87b7848b6686c56ccf1909105",
+      "md5": "3c14ce0e53bc44000c826e6b04d17723"
+    },
+    {
+      "file": "02-复刻无手机UI/10-拼图最后一块.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1718021,
+      "sha256": "926f7c0ea369d76502d4467c1af231eb1eda4c45d8f07b137c55bca85c8324f6",
+      "md5": "c724ad7dc24089eb8894d7f06b3d1f65"
+    },
+    {
+      "file": "03-复刻有手机UI/10-拼图最后一块.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1394824,
+      "sha256": "d7f8ab71c0bec767e830ddbe739cbaf8676e5be47c078469cac1aea267e3e36f",
+      "md5": "43840887a41e8a1d16430ea2a5eeeff1"
+    },
+    {
+      "file": "02-复刻无手机UI/总预览.jpg",
+      "dimensions": [
+        1170,
+        1100
+      ],
+      "bytes": 270767,
+      "sha256": "dde9867f9aea7c9a42579a09d97beea26c89b28ca9a1b742a53cb171e64db991",
+      "md5": "0a43c4ace8d30c865a012e150aa7f321"
+    },
+    {
+      "file": "03-复刻有手机UI/总预览.jpg",
+      "dimensions": [
+        1170,
+        1100
+      ],
+      "bytes": 302476,
+      "sha256": "7f4a817a718894f6299fb93dcfa76c9fc5d9aedf8777b90d0e380ff83e000d31",
+      "md5": "437fb906c7bdfdff9cc721854f6c4678"
+    }
+  ]
+}
