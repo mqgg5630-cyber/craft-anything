@@ -1,0 +1,103 @@
+{
+  "archive": "google_drive/成品壁纸-10张.zip",
+  "archive_md5": "ef7fcaf1cd0174e9acca9489c45c3c0e",
+  "crc_verified": true,
+  "target": "deliveries/vangogh-bubu/旧成品归档",
+  "file_count": 10,
+  "files": [
+    {
+      "path": "名画01-梵高·向日葵.jpg",
+      "bytes": 1283371,
+      "crc32": "a241a1e8",
+      "md5": "0fa738323a38b43a37aa15a26aa4570a",
+      "sha256": "a4581f2e156158437c7fe08b5fa02a1faa0067d8cb2dac5ea56a5dec1b45e83a",
+      "remote_md5": "0fa738323a38b43a37aa15a26aa4570a",
+      "remote_verified": true
+    },
+    {
+      "path": "名画02-梵高·夜间露天咖啡座.jpg",
+      "bytes": 1487009,
+      "crc32": "43d09b3a",
+      "md5": "a342212fcb73ad64fe0a97c39bdeac52",
+      "sha256": "0c8179a4572c0089bac86b254a0e6e3febd84cc2a67f9609759bf672eac0f4bb",
+      "remote_md5": "a342212fcb73ad64fe0a97c39bdeac52",
+      "remote_verified": true
+    },
+    {
+      "path": "名画03-梵高·麦田与柏树.jpg",
+      "bytes": 1374817,
+      "crc32": "1b6b125e",
+      "md5": "e3264d7dc60d0bb03f7222ed40c2563c",
+      "sha256": "45e97bec0d602f528a2758889dbe4d4c49ffc6fc3d86a9fb9e8e55c6ccad9b5a",
+      "remote_md5": "e3264d7dc60d0bb03f7222ed40c2563c",
+      "remote_verified": true
+    },
+    {
+      "path": "名画04-梵高·杏花.jpg",
+      "bytes": 1505072,
+      "crc32": "82d682ef",
+      "md5": "c0398579432603639ed585520eb962e8",
+      "sha256": "0fed1679a122c2c3b3d460b3370f9015ce6c35715384f98e3302f0c7ba844778",
+      "remote_md5": "c0398579432603639ed585520eb962e8",
+      "remote_verified": true
+    },
+    {
+      "path": "名画05-莫奈·睡莲与日本桥.jpg",
+      "bytes": 1258228,
+      "crc32": "f738ec6f",
+      "md5": "44cb76b37609c5b8bb93e987a9ab672b",
+      "sha256": "a71fcb1c514bf4e51e957f9fb927f16e0082b74a5b54cfcb26cc559ff2fbd94b",
+      "remote_md5": "44cb76b37609c5b8bb93e987a9ab672b",
+      "remote_verified": true
+    },
+    {
+      "path": "名画06-葛饰北斋·神奈川冲浪里.jpg",
+      "bytes": 1176431,
+      "crc32": "ff4fdf03",
+      "md5": "2883aa69a1fdf591685b1d78eebb8148",
+      "sha256": "1777b4397ef4c6e4bbd373de7441829f666be8e3ee7eabf240d03a8752d31922",
+      "remote_md5": "2883aa69a1fdf591685b1d78eebb8148",
+      "remote_verified": true
+    },
+    {
+      "path": "名画07-克里姆特·吻.jpg",
+      "bytes": 1733678,
+      "crc32": "abb80064",
+      "md5": "0637a329975662a3591ae43157abe272",
+      "sha256": "70bf9f68a758d9c1256a2fc9b2a9f9af9ca19cdd0e8f1c204f64f4e5b7242794",
+      "remote_md5": "0637a329975662a3591ae43157abe272",
+      "remote_verified": true
+    },
+    {
+      "path": "名画08-蒙克·呐喊.jpg",
+      "bytes": 1051047,
+      "crc32": "c9b93f76",
+      "md5": "a7f129b16920d46bb22cedcad3db656a",
+      "sha256": "8a59c57d3b837688d2414f856b4baf74508d6ff7a4c2a558883487f5a3d777ff",
+      "remote_md5": "a7f129b16920d46bb22cedcad3db656a",
+      "remote_verified": true
+    },
+    {
+      "path": "名画09-维米尔·戴珍珠耳环的少女.jpg",
+      "bytes": 891930,
+      "crc32": "cef23aa9",
+      "md5": "91801e3d99f1e4b3eb063a36bb339273",
+      "sha256": "ed7b334d937ffc9e41e440d98617caafa9a1c36fdab49ad61e83616f5b962b58",
+      "remote_md5": "91801e3d99f1e4b3eb063a36bb339273",
+      "remote_verified": true
+    },
+    {
+      "path": "名画10-达芬奇·蒙娜丽莎.jpg",
+      "bytes": 924304,
+      "crc32": "3532785b",
+      "md5": "43e70137d5b8c200979559bcb4de357d",
+      "sha256": "b4e52036b48c1ea705e4381ded727f35f01c482c32c931cfb8abef68d0778bce",
+      "remote_md5": "43e70137d5b8c200979559bcb4de357d",
+      "remote_verified": true
+    }
+  ],
+  "drive_status": "complete_remote_paths_count_and_md5_verified",
+  "remote_verified_count": 10,
+  "drive_root": "1NTRYO-zidcH4mf8rxnb9RkQXL4IXEMlX",
+  "original_zip_trashed_recoverably": true
+}

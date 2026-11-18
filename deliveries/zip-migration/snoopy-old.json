@@ -1,0 +1,103 @@
+{
+  "archive": "google_drive/成品壁纸-10张.zip",
+  "archive_md5": "714aaa8f65db0d66b05bd0d2628c07c9",
+  "crc_verified": true,
+  "target": "deliveries/snoopy/旧成品归档",
+  "file_count": 10,
+  "files": [
+    {
+      "path": "史努比01-树下野餐.jpg",
+      "bytes": 2237639,
+      "crc32": "a17220fa",
+      "md5": "3fb6360679503c46fae4d355f4ba4974",
+      "sha256": "cf8df097c41916cd72d18e4431aeedd152a959d6b3a473de7977c54cf2edb9a3",
+      "remote_md5": "3fb6360679503c46fae4d355f4ba4974",
+      "remote_verified": true
+    },
+    {
+      "path": "史努比02-池边纸船.jpg",
+      "bytes": 1323038,
+      "crc32": "83298861",
+      "md5": "7dc320cf3b7c7b6e41b8e03ec3952ef6",
+      "sha256": "447adfa1684a5e5f1c433f5fe5025b8d3bd259ffc9d71769c436398faa8018fd",
+      "remote_md5": "7dc320cf3b7c7b6e41b8e03ec3952ef6",
+      "remote_verified": true
+    },
+    {
+      "path": "史努比03-海边躺椅.jpg",
+      "bytes": 1573722,
+      "crc32": "11cf13f1",
+      "md5": "8cafca68b700a1264ce0ed425552b5e0",
+      "sha256": "d1c48ffd016731ec65df2bc04debc4425dd567de108fb817daecc4ebe51297e2",
+      "remote_md5": "8cafca68b700a1264ce0ed425552b5e0",
+      "remote_verified": true
+    },
+    {
+      "path": "史努比04-长围巾.jpg",
+      "bytes": 1175614,
+      "crc32": "35c1f491",
+      "md5": "79dd15b058c71ec7dbbb5c5177e21dc0",
+      "sha256": "8a42c21cca0dc3f7974d6c4fec92b6c2becd636648125178baf8df173ef4cc57",
+      "remote_md5": "79dd15b058c71ec7dbbb5c5177e21dc0",
+      "remote_verified": true
+    },
+    {
+      "path": "史努比05-车站行李.jpg",
+      "bytes": 1385678,
+      "crc32": "ab30dfb5",
+      "md5": "3b52f2c3df0de62ccd330905840a37f1",
+      "sha256": "f7062eff3f80874bd05bde0e4008bc98cef83ec5e8a2a5306075cf64ed3386a0",
+      "remote_md5": "3b52f2c3df0de62ccd330905840a37f1",
+      "remote_verified": true
+    },
+    {
+      "path": "史努比06-萤火虫夜.jpg",
+      "bytes": 1513430,
+      "crc32": "79be1591",
+      "md5": "b571242b344e58139886b15d849bf664",
+      "sha256": "15ca744cd99bf0297c3bd51d2c25e605e1726c5b6f27c430df9d9891527f94e9",
+      "remote_md5": "b571242b344e58139886b15d849bf664",
+      "remote_verified": true
+    },
+    {
+      "path": "史努比07-屋顶看月.jpg",
+      "bytes": 1417175,
+      "crc32": "dae2a45a",
+      "md5": "732df28c606e735c20071e17a2694ba2",
+      "sha256": "6aaec67b632d9a0d32cbf57c58401751b447f3c0d7f387dbe2f630c8d9b9ddd7",
+      "remote_md5": "732df28c606e735c20071e17a2694ba2",
+      "remote_verified": true
+    },
+    {
+      "path": "史努比08-秋叶堆.jpg",
+      "bytes": 2306957,
+      "crc32": "a3c984fe",
+      "md5": "e816c7b529c40cd896646570380daf4d",
+      "sha256": "c72e9df2419df80284316b46ebb5ecae599da5eea4a17f20af8e7b823c30377f",
+      "remote_md5": "e816c7b529c40cd896646570380daf4d",
+      "remote_verified": true
+    },
+    {
+      "path": "史努比09-黄伞雨天.jpg",
+      "bytes": 1311863,
+      "crc32": "dc1a9935",
+      "md5": "3b932dbf2ea702a9b3b4c2b67ad19a7c",
+      "sha256": "b002fc48676f5d000bc8865e77501523a2203f898abec87508de0006003aea60",
+      "remote_md5": "3b932dbf2ea702a9b3b4c2b67ad19a7c",
+      "remote_verified": true
+    },
+    {
+      "path": "史努比10-开心跳舞.jpg",
+      "bytes": 1173891,
+      "crc32": "3af500ba",
+      "md5": "fc8a49c0538eee9d0e8b39939d03126e",
+      "sha256": "67bccd4a3bba723f8ad7b03565f1bdaedb3777f880d92462366d68c8e9d2f5ee",
+      "remote_md5": "fc8a49c0538eee9d0e8b39939d03126e",
+      "remote_verified": true
+    }
+  ],
+  "drive_status": "complete_remote_paths_count_and_md5_verified",
+  "remote_verified_count": 10,
+  "drive_root": "1qOYWHGNzxDssM3WkW12ZB91U22L7KIiR",
+  "original_zip_trashed_recoverably": true
+}

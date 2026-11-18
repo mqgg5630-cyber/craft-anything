@@ -11,17 +11,14 @@
   "zip_originals_deleted": false,
   "pending_archive_ids": [
     "1bMxPc0u8ivSMkyBPfRvuSNeQHqQFALRM",
-    "1v8qhe-JZdYzX6iSapGp-IjG2okWWxXjl",
     "1xgOqoTVjvs0nvJIAdTki7HKdZSUS_2jK",
     "1Icwv6Jd7kmrRgxAspK0UCVxwOuOcMwlq",
-    "1ZUTbAYwd99m3BFXKSOsnxp5TfH44Nr-A",
-    "13BTP5Jc22AA8aRa683zf_A_xxSs7c8Le",
     "19-q82NRhSFDZX6j6jy8PJn4VfAENw399",
     "1v5Brl8y8seFq-57-aN95XAdUljLHzjQp",
     "159T1M0r85nMnmL1zhgswOIR3fG0-OML_",
     "1vFcy0WATHzZ1ii5wTEQK3WsoNJOKHEu5"
   ],
-  "status": "cat_and_video_archives_complete_remaining_10_to_relist",
+  "status": "three_more_archives_complete_7_inventory_items_remain",
   "new_images_drive_complete": true,
   "new_images_md5_verified": 22,
   "new_skill_remote_count": 7,
@@ -36,9 +33,24 @@
   ],
   "upload_next_first": "Re-list remaining ZIPs; cat source and old results are complete, do not upload duplicates.",
   "cat_two_original_zips_trashed_recoverably": true,
-  "remaining_inventory_count": 10,
+  "remaining_inventory_count": 7,
   "video_complete_remote_count": 7,
   "video_zip_trashed_recoverably": true,
   "video_root": "1sGQQaU6dtNtuG_z13Z6FZP7_2TcPXr4s",
-  "note": "Remaining 10 are carried inventory, re-list each before processing; lighthouse old ZIP presence not freshly confirmed. Sakura new delivery independently complete 39/39."
+  "note": "7 remaining inventory IDs need fresh listing before conversion; lighthouse old ZIP presence not freshly confirmed. No background uploader running.",
+  "latest_migration": {
+    "archives": 3,
+    "files": 28,
+    "remote_md5_verified": 28,
+    "recoverably_trashed_ids": [
+      "1ZUTbAYwd99m3BFXKSOsnxp5TfH44Nr-A",
+      "13BTP5Jc22AA8aRa683zf_A_xxSs7c8Le",
+      "1v8qhe-JZdYzX6iSapGp-IjG2okWWxXjl"
+    ],
+    "folders": {
+      "vangogh_old": "1NTRYO-zidcH4mf8rxnb9RkQXL4IXEMlX",
+      "snoopy_old": "1qOYWHGNzxDssM3WkW12ZB91U22L7KIiR",
+      "snoopy_source": "1la750TIPQ0pIOs3BadHlZBs1oVgEDaAK"
+    }
+  }
 }

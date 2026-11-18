@@ -1,0 +1,86 @@
+{
+  "archive": "google_drive/原片与文案.zip",
+  "archive_md5": "7a258f9780b7f57218d4bb313b4432a3",
+  "crc_verified": true,
+  "target": "deliveries/snoopy/原片与文案",
+  "file_count": 8,
+  "files": [
+    {
+      "path": "01-原片/01.png",
+      "bytes": 3606106,
+      "crc32": "f54ec05f",
+      "md5": "b6276e3ab81217b26360d23e21fbe4a5",
+      "sha256": "1e13e51f5cf3233018521ca43a2f7fbc14d81c0240f264b1ae34da5c8bacdf70",
+      "remote_md5": "b6276e3ab81217b26360d23e21fbe4a5",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/02.jpg",
+      "bytes": 969840,
+      "crc32": "9a834b5a",
+      "md5": "f2fab547117106f9835b9797da7de1bc",
+      "sha256": "0323b00573c93d77731b703c4b71ecae43af582cc4ddd5bf1bc37f2e7bedd51b",
+      "remote_md5": "f2fab547117106f9835b9797da7de1bc",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/03.jpg",
+      "bytes": 1278831,
+      "crc32": "016ae7fa",
+      "md5": "d6ad6194d080653be30611ef730131f6",
+      "sha256": "69921277b0fb49dd73669aebee30e5fdb1633d082081414986db848ee8f6f09a",
+      "remote_md5": "d6ad6194d080653be30611ef730131f6",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/04.jpg",
+      "bytes": 773838,
+      "crc32": "bcf331c8",
+      "md5": "342b7734232f0ef99183ffa85d1dfdac",
+      "sha256": "4481b0e30ce18a5dafbec872e34fcec8049bb4df9e4e59606b467ebb7b394497",
+      "remote_md5": "342b7734232f0ef99183ffa85d1dfdac",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/05.jpg",
+      "bytes": 1011544,
+      "crc32": "26fd573e",
+      "md5": "c9664bda153f402170161e35d3f57f1f",
+      "sha256": "f63fe29bae218a81486c3cf9889325f1aedb34d01ac99466297f891679d851c3",
+      "remote_md5": "c9664bda153f402170161e35d3f57f1f",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/06.jpg",
+      "bytes": 1121989,
+      "crc32": "deef6426",
+      "md5": "1de55b65b8c83ef741d18e01f0353feb",
+      "sha256": "f7a31e82161ed6f951b5692d5129b29fd86011ebbc221b31bc5438911696b825",
+      "remote_md5": "1de55b65b8c83ef741d18e01f0353feb",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/note.json",
+      "bytes": 12247,
+      "crc32": "2f2fc457",
+      "md5": "30a28fdb1f5c2e66cb787f81cdcd4a1d",
+      "sha256": "097aca1dfc11f206dbd722b6e8980d781e8791d4105cb301886bfc0a7fe7c342",
+      "remote_md5": "30a28fdb1f5c2e66cb787f81cdcd4a1d",
+      "remote_verified": true
+    },
+    {
+      "path": "01-原片/note.md",
+      "bytes": 1084,
+      "crc32": "b29307e8",
+      "md5": "441788d40081e1cf71feaa7c3e92d5cf",
+      "sha256": "206cd7669b9119dc296b1ca3874eae54f4dfed4eb13a9b16eeb77d6cfe5a5234",
+      "remote_md5": "441788d40081e1cf71feaa7c3e92d5cf",
+      "remote_verified": true
+    }
+  ],
+  "drive_status": "complete_remote_paths_count_and_md5_verified",
+  "remote_verified_count": 8,
+  "drive_root": "1la750TIPQ0pIOs3BadHlZBs1oVgEDaAK",
+  "source_folder": "15RBkmZd9SlhPJ-coFuW5lJzIyqpa__Cb",
+  "original_zip_trashed_recoverably": true
+}
