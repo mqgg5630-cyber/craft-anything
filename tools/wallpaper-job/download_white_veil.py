@@ -38,8 +38,7 @@ OUT = Path('deliveries/white-veil/01-下载原图')
 MAX_IMAGE = 12 * 1024 * 1024
 MAX_TOTAL = 75 * 1024 * 1024
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
-                  '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+    'User-Agent': 'CraftAnything-dev',
     'Referer': 'https://www.xiaohongshu.com/',
     'Accept': 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
 }
@@ -112,6 +111,8 @@ def main():
         print(f'Public page host/path: {final.netloc}{final.path}; '
               f'{len(page)} chars, {sum(t in page for t in TOKENS)} known image IDs, '
               f'{len(signed)} signed URLs.', flush=True)
+        if final.path.startswith('/login') or '/website-login/error' in final.path:
+            raise RuntimeError('The note requires login or returned a security restriction; stopped')
         if not signed:
             rendered = render_public_page()
             signed = page_urls(rendered)
@@ -124,11 +125,9 @@ def main():
     except urllib.error.HTTPError as exc:
         if exc.code == 429:
             raise RuntimeError('The public note rate-limited the request; stopped') from exc
-        signed = {}
-        print(f'The note page returned HTTP {exc.code}; trying the known public image IDs.', flush=True)
-    except (OSError, ValueError):
-        signed = {}
-        print('Could not read the note page; trying the known public image IDs.', flush=True)
+        raise RuntimeError(f'The public note returned HTTP {exc.code}; stopped') from exc
+    except (OSError, ValueError) as exc:
+        raise RuntimeError('Could not read the public note; stopped') from exc
 
     record = {'schema_version': 1, 'note_id': NOTE_ID, 'note_url': NOTE,
               'title': '以白纱誓约的方式打开魔卡少女樱', 'author': '云野原',
@@ -149,6 +148,8 @@ def main():
             except urllib.error.HTTPError as exc:
                 if exc.code == 429:
                     raise RuntimeError('CDN rate-limited the request; stopped without retrying') from exc
+                if exc.code in (401, 403):
+                    raise RuntimeError(f'CDN returned HTTP {exc.code}; stopped without alternate hosts') from exc
                 print(f'Slide {index}: a rendition returned HTTP {exc.code}', flush=True)
             except (OSError, ValueError, Image.DecompressionBombError):
                 print(f'Slide {index}: a rendition was unavailable or invalid', flush=True)

@@ -1,12 +1,7 @@
-Public page host/path: www.rednote.com/login; 237108 chars, 0 known image IDs, 0 signed URLs.
-Browser was unavailable or timed out.
-Rendered public page: 0 chars, 0 known image IDs, 0 signed URLs.
-Slide 1: a rendition was unavailable or invalid
-Slide 1: a rendition was unavailable or invalid
-Slide 1: a rendition returned HTTP 403
-Traceback (most recent call last):
-  File "/home/runner/work/craft-anything/craft-anything/tools/wallpaper-job/download_white_veil.py", line 172, in <module>
-    main()
-  File "/home/runner/work/craft-anything/craft-anything/tools/wallpaper-job/download_white_veil.py", line 156, in main
-    raise RuntimeError(f'No valid rendition for slide {index}; results incomplete')
-RuntimeError: No valid rendition for slide 1; results incomplete
+White-veil public source retrieval: incomplete.
+
+The note's public share page could be read by the page-fetching service, but the GitHub-hosted downloader was redirected to a login page. Its browser attempt timed out; two unsigned image endpoints were unavailable and another returned HTTP 403. No source images were downloaded, and no images were generated from this note.
+
+The public note displays nine slides. The tenth requested wallpaper must be labelled as an additional design, not a tenth source slide. Request the nine source images or screenshots from the user before recreating them.
+
+Run: https://github.com/mqgg5630-cyber/craft-anything/actions/runs/44258035446

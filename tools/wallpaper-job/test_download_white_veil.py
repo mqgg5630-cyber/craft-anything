@@ -61,6 +61,32 @@ class WhiteVeilDownloadTests(unittest.TestCase):
                     job.main()
             get_image.assert_not_called()
 
+    def test_login_redirect_stops_before_rendering_or_images(self):
+        class LoginPage(io.BytesIO):
+            def geturl(self):
+                return 'https://www.rednote.com/login'
+
+        with tempfile.TemporaryDirectory() as root:
+            with patch.object(job, 'OUT', Path(root)), \
+                 patch.object(job.urllib.request, 'urlopen', return_value=LoginPage(b'<html/>')), \
+                 patch.object(job, 'render_public_page') as render, \
+                 patch.object(job, 'fetch_image') as get_image:
+                with self.assertRaisesRegex(RuntimeError, 'requires login'):
+                    job.main()
+            render.assert_not_called()
+            get_image.assert_not_called()
+
+    def test_access_denied_stops_without_alternate_hosts(self):
+        error = HTTPError('https://example.com/image', 403, 'denied', None, None)
+        with tempfile.TemporaryDirectory() as root:
+            with patch.object(job, 'OUT', Path(root)), \
+                 patch.object(job.urllib.request, 'urlopen', return_value=io.BytesIO(b'<html/>')), \
+                 patch.object(job, 'render_public_page', return_value=''), \
+                 patch.object(job, 'fetch_image', side_effect=error) as get_image:
+                with self.assertRaisesRegex(RuntimeError, 'HTTP 403'):
+                    job.main()
+            self.assertEqual(get_image.call_count, 1)
+
     def test_rate_limit_stops_without_trying_another_host(self):
         error = HTTPError('https://example.com/image', 429, 'rate limited', None, None)
         with tempfile.TemporaryDirectory() as root:
