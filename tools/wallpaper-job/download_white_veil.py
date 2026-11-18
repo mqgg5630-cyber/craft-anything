@@ -31,7 +31,7 @@ TOKENS = [
     '1040g3k8326j8isnml0a05p34u8pahcqaelrb2qo',
     '1040g3k8326j8isnml0ag5p34u8pahcqaqmotsqo',
 ]
-OUT = Path('white-veil-public-sources')
+OUT = Path('deliveries/white-veil/01-下载原图')
 MAX_IMAGE = 12 * 1024 * 1024
 MAX_TOTAL = 75 * 1024 * 1024
 HEADERS = {
