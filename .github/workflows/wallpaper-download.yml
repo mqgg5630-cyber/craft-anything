@@ -20,6 +20,7 @@ jobs:
       - run: python -m pip install Pillow==11.3.0
       - run: python tools/wallpaper-job/download_sakura.py
       - name: Return verified source files on the triggering branch
+        if: always()
         env:
           JOB_BRANCH: ${{ github.ref_name }}
         run: |

@@ -6,6 +6,7 @@ from download import fetch
 
 ROOT = Path('deliveries/sakura-white-veil')
 TOKENS = ['1040g3k8326j8isnml0b05p34u8pahcqa5p9ipl8', '1040g3k8326j8isnml0705p34u8pahcqa5hslv18', '1040g3k8326j8isnml07g5p34u8pahcqajgs7368', '1040g3k8326j8isnml0805p34u8pahcqa5410nto', '1040g3k8326j8isnml08g5p34u8pahcqag7blvbo', '1040g3k8326j8isnml0905p34u8pahcqa5ou2rug', '1040g3k8326j8isnml09g5p34u8pahcqae4bbqg8', '1040g3k8326j8isnml0a05p34u8pahcqaelrb2qo', '1040g3k8326j8isnml0ag5p34u8pahcqaqmotsqo']
+SIGNED_HASHES = ['84cdc5a31073ac8fd79bcd93800b2c29', '3003118102a1dfe7766201ffd1035b78', '9dca4c3d32f61d97736879f039162ba9', '27a8e10943d59cd59e11e72e3dbee55d', '8b57ba70784ac829f4814a9b89ccf3d8', 'b670613c241fb1fee43ec7c02d897a95', '595295d585e76910d73afb09ac2f64e6', '3ff5fd6c08ac5ad5e17872907cf96cb2', '8563cdf19fbbdcf784061ea2d0cbad91']
 
 
 def main():
@@ -19,15 +20,15 @@ def main():
     total = 0
     for i, token in enumerate(TOKENS, 1):
         candidates = []
-        for base in ['https://sns-img-bd.xhscdn.com/notes_pre_post/',
-                     'https://ci.xiaohongshu.com/notes_pre_post/',
-                     'https://sns-img-bd.xhscdn.com/']:
-            url = base + token
+        urls = [f'https://sns-web-i10.rednotecdn.com/202611181549/{SIGNED_HASHES[i-1]}/notes_pre_post/{token}!nd_dft_wlteh_webp_3'] + [base + token for base in ['https://sns-img-bd.xhscdn.com/notes_pre_post/','https://ci.xiaohongshu.com/notes_pre_post/','https://sns-img-bd.xhscdn.com/']]
+        for url in urls:
             try:
                 data, w, h, fmt = fetch(url)
                 candidates.append((w*h,len(data),data,w,h,fmt,url))
-            except (OSError, ValueError):
-                print(f'Image {i}: candidate unavailable', flush=True)
+            except (OSError, ValueError) as exc:
+                print(f'Image {i}: candidate unavailable: {type(exc).__name__}', flush=True)
+                with (folder/'download-errors.txt').open('a') as err:
+                    err.write(f'{i}: {type(exc).__name__}: {exc}\n')
         if not candidates:
             raise RuntimeError(f'No validated image for {i}')
         _,_,data,w,h,fmt,url = max(candidates,key=lambda v:(v[0],v[1]))
