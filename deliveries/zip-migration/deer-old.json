@@ -1,0 +1,103 @@
+{
+  "archive": "google_drive/成品壁纸-10张.zip",
+  "archive_md5": "06cdaecf79a3fd4cc5cba498c1b026c8",
+  "crc_verified": true,
+  "target": "deliveries/deer/旧成品归档",
+  "file_count": 10,
+  "files": [
+    {
+      "path": "噜噜01-草坡小径.jpg",
+      "bytes": 572058,
+      "crc32": "cdda7604",
+      "md5": "d7a9b7c3a71a9989cb8067aa4f9a93f4",
+      "sha256": "2cc6f0e39c6273cfa742a0150bda7520f30bbb87a20818283e10559f224447de",
+      "remote_md5": "d7a9b7c3a71a9989cb8067aa4f9a93f4",
+      "remote_verified": true
+    },
+    {
+      "path": "噜噜02-草坡躺平.jpg",
+      "bytes": 563752,
+      "crc32": "5709561f",
+      "md5": "977f9e291149bcdede12e8e63ba2f411",
+      "sha256": "b857f403415f382e66e1107d8abf12d828eb744b53519eaae9f8b69db041777e",
+      "remote_md5": "977f9e291149bcdede12e8e63ba2f411",
+      "remote_verified": true
+    },
+    {
+      "path": "噜噜03-溪石牵手.jpg",
+      "bytes": 603674,
+      "crc32": "a4683cd2",
+      "md5": "e2600d29e2bc0690b5ec0e3a95c04913",
+      "sha256": "409743df09e5006de1c07d63cf7f6dad40cf1bf14610529a1cb7e093d6e890e9",
+      "remote_md5": "e2600d29e2bc0690b5ec0e3a95c04913",
+      "remote_verified": true
+    },
+    {
+      "path": "噜噜04-盘山公路.jpg",
+      "bytes": 626318,
+      "crc32": "afbae9df",
+      "md5": "3a5c2ca5d157c065839623ed7385fec1",
+      "sha256": "7dc8abeab12af23967e241d365934ded2d1b33ed5c2d6c491f9cf7f65c220326",
+      "remote_md5": "3a5c2ca5d157c065839623ed7385fec1",
+      "remote_verified": true
+    },
+    {
+      "path": "噜噜05-码头看日落.jpg",
+      "bytes": 552506,
+      "crc32": "86963050",
+      "md5": "c593b48925674d67179d8aaa63a7f64a",
+      "sha256": "f8aabcfc1722d031181bb4516900b8bcfa86f979e042931eb4fa10f3612b99eb",
+      "remote_md5": "c593b48925674d67179d8aaa63a7f64a",
+      "remote_verified": true
+    },
+    {
+      "path": "噜噜06-山顶云海.jpg",
+      "bytes": 697314,
+      "crc32": "1e712b9b",
+      "md5": "db1fab6bf658ff3c8f9c1c8d51960a9c",
+      "sha256": "ae6287dec65eab8e70468660ff5dd37f005866fd3e7f0f3865409af713765da7",
+      "remote_md5": "db1fab6bf658ff3c8f9c1c8d51960a9c",
+      "remote_verified": true
+    },
+    {
+      "path": "噜噜07-沙滩奔跑.jpg",
+      "bytes": 541928,
+      "crc32": "6d0b4914",
+      "md5": "e71b7179eafff4d2b0272c74d3d2910d",
+      "sha256": "5437bf6b4cdbb2081aaddc0f83ed4e6020dc882ae89e182bcf5672f330b9d0ba",
+      "remote_md5": "e71b7179eafff4d2b0272c74d3d2910d",
+      "remote_verified": true
+    },
+    {
+      "path": "噜噜08-稻田背背.jpg",
+      "bytes": 764119,
+      "crc32": "829cac11",
+      "md5": "1ca7c86567e8df05010faddd78ab869e",
+      "sha256": "8e81a8b6a673574ba40b383cf4a4d7d0744b73323abee26ab99922b55d0c4d50",
+      "remote_md5": "1ca7c86567e8df05010faddd78ab869e",
+      "remote_verified": true
+    },
+    {
+      "path": "噜噜09-芦苇蒲公英.jpg",
+      "bytes": 718229,
+      "crc32": "36f25658",
+      "md5": "4aafb6c1d5e2ee7e810000dfbc8b9be4",
+      "sha256": "8e1238b09a7166f55f8d4d07353535ad974e3e8f5a90f78c63c1c98cccfc4b62",
+      "remote_md5": "4aafb6c1d5e2ee7e810000dfbc8b9be4",
+      "remote_verified": true
+    },
+    {
+      "path": "噜噜10-山坡风筝.jpg",
+      "bytes": 589732,
+      "crc32": "a477969b",
+      "md5": "de40730d40dd96384398bd835e5dfc67",
+      "sha256": "e3f7faea3dd61d7b6b99e6907568766c5c10136518321c955b1f6e2a01cbe647",
+      "remote_md5": "de40730d40dd96384398bd835e5dfc67",
+      "remote_verified": true
+    }
+  ],
+  "drive_status": "complete_remote_paths_count_and_md5_verified",
+  "remote_verified_count": 10,
+  "drive_root": "1OJ3e71P1RLgaYEMh7NpU-a8L1aHGbp3F",
+  "original_zip_trashed_recoverably": true
+}
