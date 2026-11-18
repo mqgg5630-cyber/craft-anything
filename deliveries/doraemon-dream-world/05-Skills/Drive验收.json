@@ -1,0 +1,212 @@
+{
+  "root": "1ObGZquD6fwwgDcOzcgMP2MP12nY3YeuD",
+  "basis": "fresh search_files response e29b271e-6560-4bb6-aa29-84f3876eb4f6; actual path/count/MD5 compared",
+  "verified_count": 34,
+  "files": [
+    {
+      "path": "02-复刻无手机UI/01-花海星眠.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "d98587b12183ef8d97a8d2a302c7de76",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/02-月湾纸船.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "3e218270b1f341dc632a501a0eb8db97",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/03-云端任意门.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "d33127c162bbbfe1a905a5450edae071",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/04-星桥漫步.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "ef252c0eef316af5ca6a7dea724bcdbd",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/05-蒲公英远航.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "5a53e1983603bd233c36fb1283f1cd50",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/06-星夜铜锣烧.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "5d04ca2c2d84df674ab8457773e8ae6b",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/07-银河秋千.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "47ef7880c8d1455c262a766c448b3952",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/08-星海小列车.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "8fbae02e7d8e20a8c9c2f547248f7e02",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/09-月光许愿瓶.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "f427a64b0f6bff8ee551c4604f57472f",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/10-竹蜻蜓花星.png",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "4adbf2da15e632629109bd03e361716a",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/总预览.jpg",
+      "parent": "1epo5YcUWFsoV1NPbvWI1ICJ6oIwcJFvX",
+      "md5": "d41ab0257a28b984afe1add6541b528f",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/01-花海星眠.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "97728ab709e28f4d5772cc4e2a7ea0bd",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/02-月湾纸船.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "d550f3ef9fe6a7b58a5e399ee40d69e2",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/03-云端任意门.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "671db3d1ea8a1f1dc3d70884efa4534b",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/04-星桥漫步.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "ee103beeed7a097a855abcad2f02f258",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/05-蒲公英远航.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "9a5845967d62176c172e8c481e362c5b",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/06-星夜铜锣烧.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "fa6a6f4d5a69eadabbd2183d09b6a859",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/07-银河秋千.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "8ce6c05bb10e03444986104f167fe486",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/08-星海小列车.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "712defb3962cb6c1c5ebeb511d99141a",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/09-月光许愿瓶.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "116e30b7d730fc48743cd0286ffde3c1",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/10-竹蜻蜓花星.png",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "2cdab19340af9dbb04ec26e2fbe77983",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/总预览.jpg",
+      "parent": "1DK_bGEOzGCN0xp9X5AS8zIkO3UMkFupy",
+      "md5": "c70300dd0295648ba667734397c85a52",
+      "verified": true
+    },
+    {
+      "path": "01-下载原图/01.webp",
+      "parent": "1bCf8ltfhCCTsGvZjG845DE7XVe0K3IqZ",
+      "md5": "aae473d5dfae1f4864533a1b9dc98dc9",
+      "verified": true
+    },
+    {
+      "path": "01-下载原图/02.webp",
+      "parent": "1bCf8ltfhCCTsGvZjG845DE7XVe0K3IqZ",
+      "md5": "348a30babe0e3c6d8833f16de793dca0",
+      "verified": true
+    },
+    {
+      "path": "01-下载原图/03.webp",
+      "parent": "1bCf8ltfhCCTsGvZjG845DE7XVe0K3IqZ",
+      "md5": "4551792a5db832534ace6e9289d0aeed",
+      "verified": true
+    },
+    {
+      "path": "01-下载原图/04.webp",
+      "parent": "1bCf8ltfhCCTsGvZjG845DE7XVe0K3IqZ",
+      "md5": "6d23aa31a5786ab24b97a1e0c06dbebc",
+      "verified": true
+    },
+    {
+      "path": "01-下载原图/下载记录.json",
+      "parent": "1bCf8ltfhCCTsGvZjG845DE7XVe0K3IqZ",
+      "md5": "3d777c7ee59ec246160f8027872a2ac0",
+      "verified": true
+    },
+    {
+      "path": "05-Skills/SKILL.md",
+      "parent": "13db-P7To4eimAFy_xz2xbXAu_Y9OUIKZ",
+      "md5": "6fed69a6092ecd096d7aeb96a23e1df8",
+      "verified": true
+    },
+    {
+      "path": "05-Skills/render.py",
+      "parent": "13db-P7To4eimAFy_xz2xbXAu_Y9OUIKZ",
+      "md5": "69cb9cebad152118d3ecd9ec35617821",
+      "verified": true
+    },
+    {
+      "path": "05-Skills/requirements.txt",
+      "parent": "13db-P7To4eimAFy_xz2xbXAu_Y9OUIKZ",
+      "md5": "790ab642d4358d409328cc36e161d665",
+      "verified": true
+    },
+    {
+      "path": "05-Skills/prompts.json",
+      "parent": "13db-P7To4eimAFy_xz2xbXAu_Y9OUIKZ",
+      "md5": "1c27725c942f8a390e8f176a04b1d42f",
+      "verified": true
+    },
+    {
+      "path": "05-Skills/test_delivery.py",
+      "parent": "13db-P7To4eimAFy_xz2xbXAu_Y9OUIKZ",
+      "md5": "e4a9aabb628b67cb486ba39142c8fe74",
+      "verified": true
+    },
+    {
+      "path": "05-Skills/测试记录.md",
+      "parent": "13db-P7To4eimAFy_xz2xbXAu_Y9OUIKZ",
+      "md5": "28c9c5b16f872878bf6ad8e251a2cb67",
+      "verified": true
+    },
+    {
+      "path": "05-Skills/参考图02-仅旋转校正.png",
+      "parent": "13db-P7To4eimAFy_xz2xbXAu_Y9OUIKZ",
+      "md5": "75b12127bf635f91c739d70ef2168a45",
+      "verified": true
+    }
+  ],
+  "note": "Pre-receipt snapshot, excludes this receipt itself"
+}

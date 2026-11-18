@@ -1,0 +1,57 @@
+{
+  "recipe_type": "summarized_from_successful_calls_not_verbatim",
+  "reference": "参考图02-仅旋转校正.png",
+  "shared_prompt": "ONE independent fullbleed portrait 9:20 wallpaper, not collage. Doraemon unmistakable blue round robot cat with white face belly paws, red nose collar golden bell. Match reference dreamy high-detail cinematic 3D animation, saturated cobalt azure sky, giant blue planet, pink gold edged cumulus, white daisies pink cosmos yellow blossoms, rounded polished toy surfaces, luminous golden volumetric light. Upper quarter calm sky, subject lower middle. No phone/tablet/device hardware, UI, clock, words, digits, watermark, logo, signature or borders.",
+  "jobs": [
+    {
+      "file": "01-花海星眠.png",
+      "scene": "Doraemon reclining peacefully in daisy cosmos meadow under huge blue planet and shooting stars",
+      "mode": "theme_redraw"
+    },
+    {
+      "file": "02-月湾纸船.png",
+      "scene": "Doraemon in giant ivory paper boat on reflective star pond",
+      "mode": "new_scene_same_series"
+    },
+    {
+      "file": "03-云端任意门.png",
+      "scene": "Doraemon by open pink Anywhere Door on floating flower island",
+      "mode": "new_scene_same_series"
+    },
+    {
+      "file": "04-星桥漫步.png",
+      "scene": "Doraemon on ivory arched bridge over sparkling flower stream",
+      "mode": "new_scene_same_series"
+    },
+    {
+      "file": "05-蒲公英远航.png",
+      "scene": "Doraemon floating with huge dandelion parachute",
+      "mode": "new_scene_same_series"
+    },
+    {
+      "file": "06-星夜铜锣烧.png",
+      "scene": "Doraemon picnic holding dorayaki on ivory checkered blanket",
+      "mode": "new_scene_same_series"
+    },
+    {
+      "file": "07-银河秋千.png",
+      "scene": "Doraemon on wooden swing above floating flower hill",
+      "mode": "new_scene_same_series"
+    },
+    {
+      "file": "08-星海小列车.png",
+      "scene": "Doraemon leaning from cream blue toy train through cosmos meadow",
+      "mode": "new_scene_same_series"
+    },
+    {
+      "file": "09-月光许愿瓶.png",
+      "scene": "Doraemon holding clear jar with golden star on flower hill",
+      "mode": "new_scene_same_series"
+    },
+    {
+      "file": "10-竹蜻蜓花星.png",
+      "scene": "Doraemon with bamboo helicopter above tiny spherical flower planet",
+      "mode": "new_scene_same_series"
+    }
+  ]
+}

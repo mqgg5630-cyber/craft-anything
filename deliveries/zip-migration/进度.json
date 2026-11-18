@@ -10,10 +10,9 @@
   "cat_old_target": "158WwwlVZP5-uxxr0CsSgHJXR4JmTE5N3",
   "zip_originals_deleted": false,
   "pending_archive_ids": [
-    "159T1M0r85nMnmL1zhgswOIR3fG0-OML_",
     "1vFcy0WATHzZ1ii5wTEQK3WsoNJOKHEu5"
   ],
-  "status": "lighthouse_complete_shinchan_source_complete_two_archives_remain",
+  "status": "anniversary_complete_only_shinchan30_remains",
   "new_images_drive_complete": true,
   "new_images_md5_verified": 22,
   "new_skill_remote_count": 7,
@@ -28,20 +27,18 @@
   ],
   "upload_next_first": "Re-list remaining ZIPs; cat source and old results are complete, do not upload duplicates.",
   "cat_two_original_zips_trashed_recoverably": true,
-  "remaining_inventory_count": 2,
+  "remaining_inventory_count": 1,
   "video_complete_remote_count": 7,
   "video_zip_trashed_recoverably": true,
   "video_root": "1sGQQaU6dtNtuG_z13Z6FZP7_2TcPXr4s",
-  "note": "Lighthouse source missing 07.png now filled; all11 verified. Old lighthouse ZIP was already trashed before turn; its10 existing folder files verified against downloaded ZIP, no duplicate uploads. Shinchan source9 uploaded+verified. Remaining: anniversary22 and Shinchan30 result archives. No background uploads.",
+  "note": "Anniversary ZIP mislabeled22 but actual20; all20 uploaded/fresh MD5 matched and ZIP recoverably trashed. Only Shinchan30 results remain: downloaded and CRC+MD5 extracted, not uploaded, ZIP preserved. No background uploads.",
   "latest_migration": {
-    "new_uploaded_files": 10,
-    "remote_verified_files": 30,
-    "newly_trashed_archives": 2,
-    "already_trashed_verified_archives": 1,
+    "new_uploaded_files": 20,
+    "remote_verified_files": 20,
+    "newly_trashed_archives": 1,
     "folders": {
-      "lighthouse_source": "14ey4Q3tFQa9e4avpHqZpi4C0vSgz7Wh1",
-      "lighthouse_old": "1j8bFsMgrPvNDq1aBleLjrRkWauaq4mR9",
-      "shinchan_source": "1W-99ew6YVqE-DMRWENtA-f1eWp3IuUbg"
+      "anniversary_old": "1_LbtYnNYKYTOppHsrNaELWEKJ709uywn"
     }
-  }
+  },
+  "anniversary_complete_folder": "1_LbtYnNYKYTOppHsrNaELWEKJ709uywn"
 }

@@ -1,0 +1,220 @@
+{
+  "archive": "google_drive/成品壁纸-30张（3轮）.zip",
+  "archive_md5": "f09ee6c2f53960f1c22b35e02ff2d9ff",
+  "crc_verified": true,
+  "target": "deliveries/shinchan/旧成品归档",
+  "file_count": 30,
+  "files": [
+    {
+      "path": "复刻图01-客厅一家人.jpg",
+      "bytes": 1014632,
+      "crc32": "4eb1619a",
+      "md5": "c35e143b87c0233262a78cbd5308cb3f",
+      "sha256": "06886ba8f7bd301c245f3df433a6575daa36ac2e284fb6b32c8e91c345ebd079"
+    },
+    {
+      "path": "复刻图02-沙发零食小白.jpg",
+      "bytes": 890536,
+      "crc32": "a0c401b6",
+      "md5": "38c6ad635de017d4265359a7e61f9d13",
+      "sha256": "fc3270d958b9b8275dcc67bda321905ff80ef6932b4351ba18ec57c36d04fa93"
+    },
+    {
+      "path": "复刻图03-冰淇淋店.jpg",
+      "bytes": 1291176,
+      "crc32": "9ff1ff0d",
+      "md5": "26c32fbde541079f7baa894ef54776ba",
+      "sha256": "7e5957b57a8d14610d306ee54b37caeb480a19e7bcc1dcacb95b572c54045d3d"
+    },
+    {
+      "path": "复刻图04-公园遛小白.jpg",
+      "bytes": 1035302,
+      "crc32": "d078f184",
+      "md5": "be9b0591bf6133780c211619b7a51330",
+      "sha256": "d957e0015b0f587f518bc6c8b57a2efd23329da094dadfef3e762a48d229f0ba"
+    },
+    {
+      "path": "复刻图05-清晨赖床.jpg",
+      "bytes": 695047,
+      "crc32": "68eeb6d5",
+      "md5": "011f8babb1625447ca35f6f7ddf45090",
+      "sha256": "d19760525b1c8ca1bba1f05954fc9c30712d729cd7552ee402210daf20533c0c"
+    },
+    {
+      "path": "复刻图06-读书角.jpg",
+      "bytes": 965424,
+      "crc32": "4fda0d07",
+      "md5": "86859d04919aa10acf7bf23a44cd5116",
+      "sha256": "d108e34f0cc780adbcc0f92f531405d5edf582f908d8e3e47c6dc61c03ae10cb"
+    },
+    {
+      "path": "复刻图07-缘侧发呆.jpg",
+      "bytes": 842902,
+      "crc32": "3cbf985f",
+      "md5": "508e27836bf11e1a9b505881875d2cff",
+      "sha256": "50e49bb522d6964e9c75d8e60c26f366608ddad0431ca8d20f5ccace001d956b"
+    },
+    {
+      "path": "复刻图08-全家早餐.jpg",
+      "bytes": 970671,
+      "crc32": "c8723c61",
+      "md5": "96a2eebffe8c7fe29e6507b129991579",
+      "sha256": "b370efcf9a44577297d21537fbfc8c344ba9989e57e922879d7c1a6e11350842"
+    },
+    {
+      "path": "复刻图09-长椅冰棍.jpg",
+      "bytes": 1037972,
+      "crc32": "07ffc796",
+      "md5": "6d801ff378147e1975b30dff333a3a95",
+      "sha256": "4b7e2a550e4e1653dc38535d2dcda93264fcd12a2f6c6320417c76260d0e005e"
+    },
+    {
+      "path": "复刻图10-夏夜线香花火.jpg",
+      "bytes": 1071258,
+      "crc32": "c0c8331c",
+      "md5": "3ef1c88850ed3ebc07a3964089f8f4a9",
+      "sha256": "3fecf65bd147cdde1e6d31df526c83351c7d850caf4d56bd7fda51b529cb8394"
+    },
+    {
+      "path": "新画01-雨天窗边.jpg",
+      "bytes": 1029134,
+      "crc32": "6ff86a20",
+      "md5": "d6d213209a32a1d6e24d41cda8b6a87a",
+      "sha256": "81a3b7e1b19f8d8095967743f349e3e5accf458b15c2f95b29db934411c43c6d"
+    },
+    {
+      "path": "新画02-放学路上.jpg",
+      "bytes": 1095308,
+      "crc32": "f465ff92",
+      "md5": "86b9635ef424079bdef9bde6be83064a",
+      "sha256": "0534b475c98c511bdd7ea97d12bec4bee5fe1a38470389c36dbf0de994dae120"
+    },
+    {
+      "path": "新画03-厨房做蛋糕.jpg",
+      "bytes": 883283,
+      "crc32": "a072f67f",
+      "md5": "3d8d91ee9301e512af495033a93e35bc",
+      "sha256": "99650d9318df235f5c0f503edacbe72d25767458c8274d0a91f68e4229ee15ab"
+    },
+    {
+      "path": "新画04-阳台晾被子.jpg",
+      "bytes": 819940,
+      "crc32": "4cd14f9d",
+      "md5": "0d4bc36adf17658a52053ac90281453c",
+      "sha256": "fd143909eebc132aed527978cb037011610fcfaa8dbf44a00f4a3bd4d03d4053"
+    },
+    {
+      "path": "新画05-海边沙堡.jpg",
+      "bytes": 857437,
+      "crc32": "af12e892",
+      "md5": "26375699388444fff316fce3d0e4b86c",
+      "sha256": "86459ba26859dc56ec3cb5196a9e6f46a05db0039de431b78681e51100cd4233"
+    },
+    {
+      "path": "新画06-夏夜西瓜电视.jpg",
+      "bytes": 1083557,
+      "crc32": "f30b1bf1",
+      "md5": "c7fd4c0db77cfb2318866ff92abd1b77",
+      "sha256": "4762fa4cd422abf3db0f94bc819fb1bdddc80cb2469c45d082c5c37da0630688"
+    },
+    {
+      "path": "新画07-雪天堆雪人.jpg",
+      "bytes": 971965,
+      "crc32": "7ff90c18",
+      "md5": "85c3bc916810e5e1dc6bfc8ad657eceb",
+      "sha256": "c7930946536b419e06347791fbc9d103d177e531ff643433de2bfd28a9488744"
+    },
+    {
+      "path": "新画08-幼稚园午睡.jpg",
+      "bytes": 902168,
+      "crc32": "2d5a93a1",
+      "md5": "29f198ddd27318e0bb8991a9ca29c999",
+      "sha256": "07a729ead319909fcb2390f073fc75f0468d35ba35d43f3c00113c76cd986a75"
+    },
+    {
+      "path": "新画09-河堤骑车.jpg",
+      "bytes": 922012,
+      "crc32": "c1d8b413",
+      "md5": "9fa8eb29787834780ae88cca339a855b",
+      "sha256": "98c7782e472f62f514f1aa4ca94fadfc694c19e77eb28ccdcb325d8b57afbccb"
+    },
+    {
+      "path": "新画10-秋日银杏.jpg",
+      "bytes": 1076258,
+      "crc32": "a6f1536f",
+      "md5": "9abd7468ee831844ada671b9a09b1dc2",
+      "sha256": "f2ddd2a5407678889899c3cef30bc68f321e31169be5f4d42ab53f5bc10d92e6"
+    },
+    {
+      "path": "新画2-01-樱花野餐.jpg",
+      "bytes": 1153633,
+      "crc32": "cb2dc20d",
+      "md5": "468598750a147d1d343151c6fe7fa800",
+      "sha256": "798cf8dddac3d25b9a8e049a9402431759842e090d91b3ff3cf8a75d14955208"
+    },
+    {
+      "path": "新画2-02-鲤鱼旗.jpg",
+      "bytes": 964091,
+      "crc32": "7a0af244",
+      "md5": "91ea258acf1a438aa1990c86f4755ad3",
+      "sha256": "78ab5d91356e1671e5a422d2f920a9225e1208a6d84a818cfb5644732cace0b4"
+    },
+    {
+      "path": "新画2-03-向日葵花田.jpg",
+      "bytes": 1066401,
+      "crc32": "2d0d9ba7",
+      "md5": "0c6711e32ef48cc51b81cf0c6c4b3ff1",
+      "sha256": "7845804f0126a67075d2f6aa5310e4e2b4aebf2a59ee573e23b25229b28b7b5a"
+    },
+    {
+      "path": "新画2-04-夏日祭捞金鱼.jpg",
+      "bytes": 1183605,
+      "crc32": "600f9d69",
+      "md5": "3e75fd2193a858d7abc3fc12e634727f",
+      "sha256": "88e56ba713d8816b5430119819300e8cc828cd6ace0c2faddaaced99b9b2a4c0"
+    },
+    {
+      "path": "新画2-05-露营星空.jpg",
+      "bytes": 1099907,
+      "crc32": "9de08817",
+      "md5": "59289571bcb567b31911f73c365213ca",
+      "sha256": "28aec82d789d1a4c35dada81d5e2829fd81faf5373e6b05ae8e7098414681191"
+    },
+    {
+      "path": "新画2-06-雨后踩水洼.jpg",
+      "bytes": 1097404,
+      "crc32": "551a1765",
+      "md5": "f093b941b860c6c5024b9155055a245c",
+      "sha256": "5738346f1d3d710f2b50a88d7d6bd94d01e6d8e58c96f7731b0633f01acc3694"
+    },
+    {
+      "path": "新画2-07-被炉吃橘子.jpg",
+      "bytes": 970662,
+      "crc32": "060e80eb",
+      "md5": "d8afc966da9aa8a713c105195e2753ad",
+      "sha256": "0cf3057fda88a54da6ab03221897373455bf4f9cd5309d3b5e3d3a32e149dd41"
+    },
+    {
+      "path": "新画2-08-装饰圣诞树.jpg",
+      "bytes": 1036141,
+      "crc32": "0d64e50c",
+      "md5": "59ea9e04d1771c050e3a778e3a8462ef",
+      "sha256": "50905a18a7f3269b005b346a43d0b7f7039ad33478a66a969e6524fb3a60defd"
+    },
+    {
+      "path": "新画2-09-被窝手电看绘本.jpg",
+      "bytes": 848419,
+      "crc32": "12df5ae7",
+      "md5": "81c2cefecf04f32b8d947c1a2a205384",
+      "sha256": "35d142449e86001c53e6b63a5168a47ab41463ba3207e2ef3324ff8dc40de57c"
+    },
+    {
+      "path": "新画2-10-趴着画蜡笔画.jpg",
+      "bytes": 820233,
+      "crc32": "8049796c",
+      "md5": "a45ef5573fdcd797d1fdf4ca696e90ec",
+      "sha256": "59bda60600bfb4aabff9f8b4cdbc24e7afd2ef1ff0292632b1aa5a274b67f26e"
+    }
+  ],
+  "drive_status": "not_uploaded"
+}

@@ -1,0 +1,153 @@
+{
+  "archive": "google_drive/成品壁纸-22张（两套）.zip",
+  "archive_md5": "14df4fe4b668dab0eda8913885d4f0cb",
+  "crc_verified": true,
+  "target": "deliveries/anniversary/旧成品归档",
+  "file_count": 20,
+  "files": [
+    {
+      "path": "朝朝暮暮01-日出.jpg",
+      "bytes": 521800,
+      "crc32": "622e430b",
+      "md5": "5cd81d310871193babd8a6d20adb2b29",
+      "sha256": "d903093b1246584bd6f259eac5fe5d79a37d6ed5e2dd671a1a58d3e788d45c78"
+    },
+    {
+      "path": "朝朝暮暮02-早餐.jpg",
+      "bytes": 429042,
+      "crc32": "ef3cca6f",
+      "md5": "b381cd9c2db3a32d636d653099bfe7d3",
+      "sha256": "4668e64152d278bc5a23fa381c2de2d44eef42221b41fe326bcfce1e837fe779"
+    },
+    {
+      "path": "朝朝暮暮03-花田.jpg",
+      "bytes": 862456,
+      "crc32": "9182d0f0",
+      "md5": "f9ee810a1400ae3b7ecf4e69d888c2f9",
+      "sha256": "8d3e725c3b1b588b9b795646ade637fc63dbb1c8bdbd25dbaae3f2004bfd0614"
+    },
+    {
+      "path": "朝朝暮暮04-树下午睡.jpg",
+      "bytes": 594832,
+      "crc32": "f75242f4",
+      "md5": "f98be4fe53579bfcaa3cbd972c8dc8d2",
+      "sha256": "53b6f7131900d4954b494cf9819e50de4888a2d14096e47ec42cb44da0daf350"
+    },
+    {
+      "path": "朝朝暮暮05-雨中共伞.jpg",
+      "bytes": 498644,
+      "crc32": "469fe2ce",
+      "md5": "6fac57772b5288a586397549d5986cff",
+      "sha256": "b0f36e9eed84c1152e255f44bb0447824070fb2b80095e59bd5a4b58e491a87a"
+    },
+    {
+      "path": "朝朝暮暮06-海边日落.jpg",
+      "bytes": 453906,
+      "crc32": "face946e",
+      "md5": "ada69acd193fe55fba0f9cb7ff4037bc",
+      "sha256": "34ddeb4249071a7dc50ba600e5715aa154f5b4db8948033a19c53846a468051c"
+    },
+    {
+      "path": "朝朝暮暮07-摩天轮.jpg",
+      "bytes": 418838,
+      "crc32": "7bd222ba",
+      "md5": "9e501af1c6a0f8f13cd72a4b199d2810",
+      "sha256": "0d77b631755cce5cfa620080cf087e06894318682a85bb676888f806a10a82d7"
+    },
+    {
+      "path": "朝朝暮暮08-星空.jpg",
+      "bytes": 821889,
+      "crc32": "b20392e9",
+      "md5": "cb4540b0f67893251385528cc24d316a",
+      "sha256": "80e622eaf3336fbe0973de33a3701c0268c8370ddbbf64d74eae8e0c401bb8b6"
+    },
+    {
+      "path": "朝朝暮暮09-月下河灯.jpg",
+      "bytes": 484166,
+      "crc32": "cc506923",
+      "md5": "370f726b0e646e92e5cee3221410d1d1",
+      "sha256": "0eb71d5d989eadd890e2c0364326db70fc3730b99ec9efedc325e0db7a406dae"
+    },
+    {
+      "path": "朝朝暮暮10-晚安.jpg",
+      "bytes": 396068,
+      "crc32": "6fbd63b3",
+      "md5": "f353bb9ee5d0e15f8a88b52a822686bf",
+      "sha256": "9b5d924cbde31a5e962a0a125d8269eebcc3a411012b23cc26888bf8f9fd3552"
+    },
+    {
+      "path": "黄昏01-山顶云海.jpg",
+      "bytes": 433658,
+      "crc32": "dc2c4411",
+      "md5": "8b1798dd9128a3d5dc1b541d8e73728f",
+      "sha256": "7a90db5baa6dcfc13cc47c4f6e29ffca5e147de0a6065a862e559296b7927596"
+    },
+    {
+      "path": "黄昏02-镜面沙滩.jpg",
+      "bytes": 422797,
+      "crc32": "b7f19587",
+      "md5": "14dbdaec54b672cf56e4817c73a7df5f",
+      "sha256": "eb53a4d8e67071191c77ed8429286146d9a7d30078bb518009b9a72d2bb51d39"
+    },
+    {
+      "path": "黄昏03-草坡蒲公英.jpg",
+      "bytes": 467171,
+      "crc32": "9bcf052c",
+      "md5": "299ac83a8b7a04f2a4fb10b115bbab95",
+      "sha256": "c28d73032d8f1d1c3ef2b63c33689980adcf30da3b7ebcd6d6eac1e471d147fc"
+    },
+    {
+      "path": "黄昏04-湖上小船.jpg",
+      "bytes": 380155,
+      "crc32": "6294151f",
+      "md5": "9d4cc7510dd051d80184f6f77cea2642",
+      "sha256": "82724640882e422f35567064c3065cff8ca3badce01dd4825c2104ed0110e509"
+    },
+    {
+      "path": "黄昏05-麦田小路.jpg",
+      "bytes": 471598,
+      "crc32": "1d049885",
+      "md5": "242ca0c07858824fd8012599c69ca05d",
+      "sha256": "b1e6c43d3d68cb23b602909bc9c31e8571c2c7c74379afd63fce90e931a3b80c"
+    },
+    {
+      "path": "黄昏06-屋顶晚霞.jpg",
+      "bytes": 393442,
+      "crc32": "51bc5ac9",
+      "md5": "d2d46256c9acc68467bbfff572b35367",
+      "sha256": "61205fca75f4f1382850597dd1c311fb48d66ec151e04d1b9687c1be1a6f81cb"
+    },
+    {
+      "path": "黄昏07-灯塔海崖.jpg",
+      "bytes": 407541,
+      "crc32": "7ba7ee44",
+      "md5": "435987d6cbb186a1c92d4318befb304c",
+      "sha256": "51bdfcd77a63f9e22125b21f5a23fa6a032f566fced53c62f75866bd1fb963bf"
+    },
+    {
+      "path": "黄昏08-蓝调长椅.jpg",
+      "bytes": 423982,
+      "crc32": "1c31029c",
+      "md5": "6c6b822d33df37a9141c73aa00fd8c92",
+      "sha256": "ef542ecee345c34b81eed17ba32ea1b4403f7d1903738206cefab21087997e25"
+    },
+    {
+      "path": "黄昏09-月升海面.jpg",
+      "bytes": 429336,
+      "crc32": "5617bc13",
+      "md5": "83b5833ed103caec074a90af77a4b80e",
+      "sha256": "770d1291d5441aa653dcdfad6cb052f02112ff2f5f39833d2ca5f3ba800fd874"
+    },
+    {
+      "path": "黄昏10-牵手回家.jpg",
+      "bytes": 401613,
+      "crc32": "10e5e6a1",
+      "md5": "f7db1a928a608cd84739f07150e725ee",
+      "sha256": "741db6b4091bb3d9c682d6510f6413c31248658b0c85c26257c1652611358103"
+    }
+  ],
+  "drive_status": "fresh_listing_20_path_md5_verified",
+  "drive_folder": "1_LbtYnNYKYTOppHsrNaELWEKJ709uywn",
+  "note": "ZIP名22张，但实际20个成员，两套各10张",
+  "zip_trashed": true
+}

@@ -1,0 +1,229 @@
+{
+  "status": "local_complete_drive_separate",
+  "clean_count": 10,
+  "ui_count": 10,
+  "same_folder_previews": 2,
+  "ui": "illustrative not actual phone screenshot",
+  "files": [
+    {
+      "file": "02-复刻无手机UI/01-花海星眠.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2347315,
+      "sha256": "d205f530571ea3c427dabb3f2e885e0de2c04f9e42e386168da94902df5d9582",
+      "md5": "d98587b12183ef8d97a8d2a302c7de76"
+    },
+    {
+      "file": "03-复刻有手机UI/01-花海星眠.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1560363,
+      "sha256": "51d5691c43f0dbb852e56979e34c613bc06a296d4c18c25ba3ddb452b886a60a",
+      "md5": "97728ab709e28f4d5772cc4e2a7ea0bd"
+    },
+    {
+      "file": "02-复刻无手机UI/02-月湾纸船.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2013750,
+      "sha256": "98e2b7ad4d38c526fff93c7691ed0993ae25fb5fc5a1ae84bb1f62afe2a18062",
+      "md5": "3e218270b1f341dc632a501a0eb8db97"
+    },
+    {
+      "file": "03-复刻有手机UI/02-月湾纸船.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1335514,
+      "sha256": "61783fcb3792a4e5c8cba12cd487b15b2099cf5f9dc9a78f796d9f6e8a97f911",
+      "md5": "d550f3ef9fe6a7b58a5e399ee40d69e2"
+    },
+    {
+      "file": "02-复刻无手机UI/03-云端任意门.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2127505,
+      "sha256": "f7f21e3e9703dddf83d116a4d957fbac8fc2b8755a12918c47730618c5e59fa6",
+      "md5": "d33127c162bbbfe1a905a5450edae071"
+    },
+    {
+      "file": "03-复刻有手机UI/03-云端任意门.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1397930,
+      "sha256": "859f2318c8b7ed9314244162d5f964d53cc83226c1b65dd518c3a708a8e0e367",
+      "md5": "671db3d1ea8a1f1dc3d70884efa4534b"
+    },
+    {
+      "file": "02-复刻无手机UI/04-星桥漫步.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2278730,
+      "sha256": "04bff862491c144219bf74463994c4ee843024b33ea9ca4c01ce12e9bb7970d5",
+      "md5": "ef252c0eef316af5ca6a7dea724bcdbd"
+    },
+    {
+      "file": "03-复刻有手机UI/04-星桥漫步.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1487177,
+      "sha256": "2879fd406d8813f3a2a272de20a99236662bc8ccc1751d019131a7cf3e3c8b0d",
+      "md5": "ee103beeed7a097a855abcad2f02f258"
+    },
+    {
+      "file": "02-复刻无手机UI/05-蒲公英远航.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2148104,
+      "sha256": "ac46aa853688b299c40440dc9129f10130bd31b04cd3a96b7f151b6bc6696eab",
+      "md5": "5a53e1983603bd233c36fb1283f1cd50"
+    },
+    {
+      "file": "03-复刻有手机UI/05-蒲公英远航.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1496966,
+      "sha256": "3a4df75eed9d2bb627d7e9c2a5c2c7f149d699b140c26c8ac8a3b3db9bc2b23d",
+      "md5": "9a5845967d62176c172e8c481e362c5b"
+    },
+    {
+      "file": "02-复刻无手机UI/06-星夜铜锣烧.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2608374,
+      "sha256": "d932bc7071338114786db32c65a9fe5b1b1d00024bfbd3fa36355eec8a597be1",
+      "md5": "5d04ca2c2d84df674ab8457773e8ae6b"
+    },
+    {
+      "file": "03-复刻有手机UI/06-星夜铜锣烧.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1696726,
+      "sha256": "bac793b70f9eaa6a0b40499a8a01ed2909ed95300a85bffe0150683382672c52",
+      "md5": "fa6a6f4d5a69eadabbd2183d09b6a859"
+    },
+    {
+      "file": "02-复刻无手机UI/07-银河秋千.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2253919,
+      "sha256": "632c8289bdf27a10b520ee2286bbbfc593f7b436bc9c100d69715667f1eea797",
+      "md5": "47ef7880c8d1455c262a766c448b3952"
+    },
+    {
+      "file": "03-复刻有手机UI/07-银河秋千.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1497714,
+      "sha256": "7be450591519493919f43b9026dcbe77aa13dc7c2d66b1c9862262343a5e49e3",
+      "md5": "8ce6c05bb10e03444986104f167fe486"
+    },
+    {
+      "file": "02-复刻无手机UI/08-星海小列车.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2422469,
+      "sha256": "3bbc4c3a2fa6b5728ae997e65304e917ae90d5f6960d7cf7debc1563a294da9a",
+      "md5": "8fbae02e7d8e20a8c9c2f547248f7e02"
+    },
+    {
+      "file": "03-复刻有手机UI/08-星海小列车.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1661012,
+      "sha256": "285c83bdd847495228e9997d1c337dc98e81256282a0b8bfbb3c7a4aa1f97366",
+      "md5": "712defb3962cb6c1c5ebeb511d99141a"
+    },
+    {
+      "file": "02-复刻无手机UI/09-月光许愿瓶.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2404185,
+      "sha256": "bbeb4be2020f174feb4d85473d7816acf3ba86ccdc0ef416a5dcda3f8f64f862",
+      "md5": "f427a64b0f6bff8ee551c4604f57472f"
+    },
+    {
+      "file": "03-复刻有手机UI/09-月光许愿瓶.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1570421,
+      "sha256": "105a4f923e57c251209d34a6589008d429147fc3694b5cd6bb0fe8d4b913f7d6",
+      "md5": "116e30b7d730fc48743cd0286ffde3c1"
+    },
+    {
+      "file": "02-复刻无手机UI/10-竹蜻蜓花星.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 2297502,
+      "sha256": "5bdfae3e40b19b90e49218ff717c03d443b7bdfaefdcd2a598b706945b17be5a",
+      "md5": "4adbf2da15e632629109bd03e361716a"
+    },
+    {
+      "file": "03-复刻有手机UI/10-竹蜻蜓花星.png",
+      "dimensions": [
+        688,
+        1536
+      ],
+      "bytes": 1539094,
+      "sha256": "e42d0a78c63bd1cc59829afb30d5189b5e2f8ee86c8413aea904f01789f2df3a",
+      "md5": "2cdab19340af9dbb04ec26e2fbe77983"
+    },
+    {
+      "file": "02-复刻无手机UI/总预览.jpg",
+      "dimensions": [
+        1170,
+        1100
+      ],
+      "bytes": 407233,
+      "sha256": "65ac82469d920ad2f0d5543b986877fd53503b9b076b8a866f9e45a9e7325b53",
+      "md5": "d41ab0257a28b984afe1add6541b528f"
+    },
+    {
+      "file": "03-复刻有手机UI/总预览.jpg",
+      "dimensions": [
+        1170,
+        1100
+      ],
+      "bytes": 442602,
+      "sha256": "1d7d3eecfbc9d6a57e0a820b351a2f2767d888b31a68fccaa3f8232ca7bd62e6",
+      "md5": "c70300dd0295648ba667734397c85a52"
+    }
+  ]
+}
