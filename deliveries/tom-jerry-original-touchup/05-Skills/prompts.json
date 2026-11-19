@@ -1,0 +1,56 @@
+{
+  "record_type": "成功调用的配方摘要，非逐字提示词日志",
+  "reference_use": "ORIGINAL STYLE AND COMPOSITION; matching original 01–10, not dream outputs",
+  "jobs": [
+    {
+      "file": "01-沙发抱枕.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/01.jpg",
+      "edit": "沙发抱枕"
+    },
+    {
+      "file": "02-被角小星星.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/02.jpg",
+      "edit": "被角小星星"
+    },
+    {
+      "file": "03-窗台小伙伴.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/03.jpg",
+      "edit": "窗台小伙伴"
+    },
+    {
+      "file": "04-茶杯小饼干.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/04.jpg",
+      "edit": "茶杯小饼干"
+    },
+    {
+      "file": "05-分享小奶酪.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/05.jpg",
+      "edit": "分享小奶酪"
+    },
+    {
+      "file": "06-午睡小被角.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/06.jpg",
+      "edit": "午睡小被角"
+    },
+    {
+      "file": "07-火柴盒早安.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/07.jpg",
+      "edit": "火柴盒早安"
+    },
+    {
+      "file": "08-枕边轻轻拍.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/08.jpg",
+      "edit": "枕边轻轻拍"
+    },
+    {
+      "file": "09-围巾暖暖.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/09.jpg",
+      "edit": "围巾暖暖"
+    },
+    {
+      "file": "10-故事书小书签.png",
+      "reference": "deliveries/tom-jerry/01-原片与文案/01-原片/10.jpg",
+      "edit": "故事书小书签"
+    }
+  ]
+}

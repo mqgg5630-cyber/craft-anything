@@ -1,0 +1,132 @@
+[
+  {
+    "file": "01-沙发抱枕.png",
+    "generated_size": [
+      848,
+      1264
+    ],
+    "phone_size": [
+      848,
+      1884
+    ],
+    "top_canvas_extension_px": 620,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  },
+  {
+    "file": "02-被角小星星.png",
+    "generated_size": [
+      704,
+      1526
+    ],
+    "phone_size": [
+      704,
+      1564
+    ],
+    "top_canvas_extension_px": 38,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  },
+  {
+    "file": "03-窗台小伙伴.png",
+    "generated_size": [
+      848,
+      1264
+    ],
+    "phone_size": [
+      848,
+      1884
+    ],
+    "top_canvas_extension_px": 620,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  },
+  {
+    "file": "04-茶杯小饼干.png",
+    "generated_size": [
+      704,
+      1526
+    ],
+    "phone_size": [
+      704,
+      1564
+    ],
+    "top_canvas_extension_px": 38,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  },
+  {
+    "file": "05-分享小奶酪.png",
+    "generated_size": [
+      848,
+      1264
+    ],
+    "phone_size": [
+      848,
+      1884
+    ],
+    "top_canvas_extension_px": 620,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  },
+  {
+    "file": "06-午睡小被角.png",
+    "generated_size": [
+      768,
+      1376
+    ],
+    "phone_size": [
+      768,
+      1707
+    ],
+    "top_canvas_extension_px": 331,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  },
+  {
+    "file": "07-火柴盒早安.png",
+    "generated_size": [
+      768,
+      1376
+    ],
+    "phone_size": [
+      768,
+      1707
+    ],
+    "top_canvas_extension_px": 331,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  },
+  {
+    "file": "08-枕边轻轻拍.png",
+    "generated_size": [
+      768,
+      1376
+    ],
+    "phone_size": [
+      768,
+      1707
+    ],
+    "top_canvas_extension_px": 331,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  },
+  {
+    "file": "09-围巾暖暖.png",
+    "generated_size": [
+      768,
+      1376
+    ],
+    "phone_size": [
+      768,
+      1707
+    ],
+    "top_canvas_extension_px": 331,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  },
+  {
+    "file": "10-故事书小书签.png",
+    "generated_size": [
+      848,
+      1264
+    ],
+    "phone_size": [
+      848,
+      1884
+    ],
+    "top_canvas_extension_px": 620,
+    "method": "伸展原图顶部32像素背景到新增顶部空间；不缩放角色、不裁切原图内容"
+  }
+]

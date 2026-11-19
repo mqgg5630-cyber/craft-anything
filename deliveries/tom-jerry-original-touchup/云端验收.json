@@ -1,0 +1,104 @@
+[
+  {
+    "folder": "02-复刻无手机UI",
+    "fresh_cloud_count": 11,
+    "path_name_md5_match": true,
+    "files": [
+      {
+        "name": "01-沙发抱枕.png",
+        "md5": "47c89b5e2dc69617a6c6575eda5ae9a4"
+      },
+      {
+        "name": "02-被角小星星.png",
+        "md5": "22c1f8d481f96de5473694ec217e1689"
+      },
+      {
+        "name": "03-窗台小伙伴.png",
+        "md5": "78bd607e486f97d8c275783a04cebab4"
+      },
+      {
+        "name": "04-茶杯小饼干.png",
+        "md5": "f5e56f4bb8ef7d0739a2769f00fb3da8"
+      },
+      {
+        "name": "05-分享小奶酪.png",
+        "md5": "004c101ce2dfbe56ff1dc7fca41a5b8f"
+      },
+      {
+        "name": "06-午睡小被角.png",
+        "md5": "58aaa9d0a2c6f8b7d0537e83824981c3"
+      },
+      {
+        "name": "07-火柴盒早安.png",
+        "md5": "c53db49a1a302e521cdf2a92890a2b3b"
+      },
+      {
+        "name": "08-枕边轻轻拍.png",
+        "md5": "4656755b333e17f179948b158dda4b24"
+      },
+      {
+        "name": "09-围巾暖暖.png",
+        "md5": "00836b30746d0d6b3463df515ab6947a"
+      },
+      {
+        "name": "10-故事书小书签.png",
+        "md5": "52f677a33de3b3a9e4402876faac4987"
+      },
+      {
+        "name": "总预览.jpg",
+        "md5": "465bc7013e92dbcfa7c69e08ed904daa"
+      }
+    ]
+  },
+  {
+    "folder": "03-复刻有手机UI",
+    "fresh_cloud_count": 11,
+    "path_name_md5_match": true,
+    "files": [
+      {
+        "name": "01-沙发抱枕.png",
+        "md5": "da2e1bb2eb19bec83110d33556c3cd76"
+      },
+      {
+        "name": "02-被角小星星.png",
+        "md5": "28df55d3d47992387beb08c6eebc1624"
+      },
+      {
+        "name": "03-窗台小伙伴.png",
+        "md5": "b0c0ba4c75b72c1006d80812ddbca1d3"
+      },
+      {
+        "name": "04-茶杯小饼干.png",
+        "md5": "2adedf8c3c456f28faa2aee438573c9d"
+      },
+      {
+        "name": "05-分享小奶酪.png",
+        "md5": "7f3c063e1157cee344572cf1c2bbd55b"
+      },
+      {
+        "name": "06-午睡小被角.png",
+        "md5": "97be60b7831a9d21bcdeb3a716b1b730"
+      },
+      {
+        "name": "07-火柴盒早安.png",
+        "md5": "80f1a2ebc734a8b1b8da4ddb2583bb2c"
+      },
+      {
+        "name": "08-枕边轻轻拍.png",
+        "md5": "4dfd3aaf31b40c9150033f55cda35acd"
+      },
+      {
+        "name": "09-围巾暖暖.png",
+        "md5": "5f21326238cf232682bfe21b5ae2a0db"
+      },
+      {
+        "name": "10-故事书小书签.png",
+        "md5": "3743f5626555d7646d81620c166c5d22"
+      },
+      {
+        "name": "总预览.jpg",
+        "md5": "8eed53f14a66294402efb901ec3edd6a"
+      }
+    ]
+  }
+]
