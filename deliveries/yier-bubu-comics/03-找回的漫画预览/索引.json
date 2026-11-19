@@ -1,0 +1,68 @@
+[
+  {
+    "local": "pages-37.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-37/preview.jpg",
+    "sha": "acb57e60769e6c597fa5a61a891d1557f2ef66f8"
+  },
+  {
+    "local": "pages-s01.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-s01/preview.jpg",
+    "sha": "d3339b040f9621a4b0780dfb608748ae2cfe94e9"
+  },
+  {
+    "local": "pages-s02.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-s02/preview.jpg",
+    "sha": "ebe9f72beb80a070790200918301296488d9caf1"
+  },
+  {
+    "local": "pages-s03.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-s03/preview.jpg",
+    "sha": "69862245691b630e0f55b3e734a61e7f51fe5c58"
+  },
+  {
+    "local": "pages-s04.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-s04/preview.jpg",
+    "sha": "a5a427dfa9e838f345ca7fb5c9db8ce8c1c099c0"
+  },
+  {
+    "local": "pages-s05.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-s05/preview.jpg",
+    "sha": "5af708491fc5e6414362f37dcfdc1cdd488de93c"
+  },
+  {
+    "local": "pages-s06.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-s06/preview.jpg",
+    "sha": "e30f60a95ab1ed6996a9cc61475bd13e5f628d84"
+  },
+  {
+    "local": "pages-xhs.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-xhs/preview.jpg",
+    "sha": "2dc79353554b0eeea83f610164ff1df251ad55ac"
+  },
+  {
+    "local": "pages-xhs2.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-xhs2/preview.jpg",
+    "sha": "5043408f9dec6d47283d7c33c7dfd48138d465b5"
+  },
+  {
+    "local": "pages-xhs3.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages-xhs3/preview.jpg",
+    "sha": "d57b3474943918b8f677727cee6d2ea967567b7d"
+  },
+  {
+    "local": "pages.jpg",
+    "branch": "arena/6467c7b2-leanrea",
+    "path": "healing-comic/examples/pages/preview.jpg",
+    "sha": "52a7b02f4962edcd5995cb5760aba45ff444f26b"
+  }
+]

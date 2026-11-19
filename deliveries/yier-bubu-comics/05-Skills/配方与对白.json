@@ -1,0 +1,138 @@
+{
+  "reference": "01-参考原片/01.webp",
+  "reference_scope": "only first of five carousel images retrieved",
+  "recipe_type": "successful generation call summaries, not verbatim logs",
+  "style": "白色一二灰色老鼠帽+棕色布布水獭帽，棕色轮廓，暖柔粉彩森林花丛，两个白色对白气泡",
+  "jobs": [
+    {
+      "file": "01-草莓慢慢走.png",
+      "scene": "草莓慢慢走",
+      "dialogue": [
+        "走慢一点呀！",
+        "甜甜的日子不赶路。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "bb841f6cb28de28f753a6f81b66833e5"
+    },
+    {
+      "file": "02-蘑菇躲雨.png",
+      "scene": "蘑菇躲雨",
+      "dialogue": [
+        "下雨也没关系。",
+        "我把干燥的一边留给你。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "4bc16bad5781f74873c3d421af405d61"
+    },
+    {
+      "file": "03-叶子小船.png",
+      "scene": "叶子小船",
+      "dialogue": [
+        "我们漂到哪里呀？",
+        "漂到开心的地方。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "d273cf8873ca8ec1189a85957b5305f1"
+    },
+    {
+      "file": "04-蓝莓小篮.png",
+      "scene": "蓝莓小篮",
+      "dialogue": [
+        "这颗最大，给你！",
+        "那我们一人一半。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "51b3f2bd4fc6d0f13b2ada51c7f2aa6d"
+    },
+    {
+      "file": "05-蒲公英愿望.png",
+      "scene": "蒲公英愿望",
+      "dialogue": [
+        "你许了什么愿望？",
+        "明天也和你一起玩。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "ba321910e683c9e4b9178ff2093400cb"
+    },
+    {
+      "file": "06-烤红薯暖手.png",
+      "scene": "烤红薯暖手",
+      "dialogue": [
+        "手手暖起来了！",
+        "心里也要热乎乎。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "38cde0cbafcbfde52c1eae0cc6d732bb"
+    },
+    {
+      "file": "07-花环送给你.png",
+      "scene": "花环送给你",
+      "dialogue": [
+        "今天是什么节日？",
+        "是想让你开心的日子。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "406e8050a74846660eccbfa7094596a7"
+    },
+    {
+      "file": "08-落叶小被子.png",
+      "scene": "落叶小被子",
+      "dialogue": [
+        "累了就歇一会儿。",
+        "醒来还要牵你的手。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "7b2021d5727b2e763a964333741ed495"
+    },
+    {
+      "file": "09-萤火虫路灯.png",
+      "scene": "萤火虫路灯",
+      "dialogue": [
+        "天黑了，怕不怕？",
+        "牵着你，就不怕啦。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "de7827a6e39609cae437f480a20e8ed1"
+    },
+    {
+      "file": "10-带晚霞回家.png",
+      "scene": "带晚霞回家",
+      "dialogue": [
+        "今天好像没做大事。",
+        "可我攒了好多开心。"
+      ],
+      "size": [
+        896,
+        1200
+      ],
+      "md5": "b1d4cfdd8e3a28b2bc9d001d9bb20e2c"
+    }
+  ]
+}
