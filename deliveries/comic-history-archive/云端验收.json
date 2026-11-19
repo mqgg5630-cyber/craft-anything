@@ -4,7 +4,7 @@
   "pdf_count": 12,
   "total_pages": 106,
   "pdf_names_parents_count_md5_match": true,
-  "original_png_individual_upload_complete": false,
+  "original_png_individual_upload_complete": true,
   "scope": "healing-comic成品pages路径下106个Git blob去重PNG，非所有壁纸/底图/三视图",
   "pdfs": [
     {
@@ -209,5 +209,11 @@
         "deliveries/comic-history-archive/单张成品/pages/素材08_10.png"
       ]
     }
-  ]
+  ],
+  "png_folder_id": "1iEhKIHbQlQSDu5A4o3dW35-ruDJtuqyW",
+  "png_fresh_file_count": 106,
+  "png_next_page_token": null,
+  "png_incomplete_search": false,
+  "png_names": "001.png—106.png",
+  "png_verification": "106次上传全部成功；重新列目录确认106个独立PNG。云端返回各项MD5，未在脚本中逐项自动比较。"
 }

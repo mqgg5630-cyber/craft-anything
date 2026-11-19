@@ -9,7 +9,10 @@ mqgg5630-cyber：92仓库219个当前分支（上一轮扫描记录）；hukeyin
 带文字漫画成品集中在 hukeying85-ux/leanrea/healing-comic 的 examples/pages* 和 runs/*/pages；多个分支和另一账号的归档副本重复。按Git blob SHA去重，取回106张PNG并校验Git SHA及MD5。包括96张情侣/关系类漫画单页及10张“素材08”手机广告开关说明类漫画，后者单独分册，不冒充纯治愈故事。文案、脚本、三视图、无对白底图及壁纸不计入这106张。
 
 ## 云端交付格式
-历史内容本轮交付为12册可翻页PDF，共106页，一页嵌入一张原尺寸图片，不是预览拼图；PDF已检查页数、每页图像像素尺寸与PNG一致。**这不等于106个独立PNG文件均已上传；独立PNG云端归档仍待完成。** 本目录名字中的“单张成品”指PDF逐页内容，不应误读为106个独立云端PNG。
+106个独立原PNG现已实际上传到子文件夹，编号001.png—106.png；重新列目录返回106个文件、无下一页、incomplete_search=false。不是PDF或预览替代。原12册106页PDF保留用于翻阅。
+
+独立PNG：https://drive.google.com/drive/folders/1iEhKIHbQlQSDu5A4o3dW35-ruDJtuqyW
+编号与来源对应见PNG上传清单.json，上传使用编号名而非清单中旧cloud_name建议名。
 
 云端：https://drive.google.com/drive/folders/1AgrArCBVw162h06_dcRP13ykjPyS_KfK
 新10张不同头套：https://drive.google.com/drive/folders/1T0H_QC02k79yUUmx_7LiMxZ0wYbufAYY
