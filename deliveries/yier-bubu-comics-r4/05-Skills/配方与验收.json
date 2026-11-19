@@ -1,0 +1,121 @@
+{
+  "rule": "同图两只同款同色同造型头套；跨图头套不重复",
+  "method": "generate_image逐张参考R3蘑菇小邮差；成功调用摘要，非逐字日志",
+  "style": "奶油柔和色、暖棕线、圆润小手、花园陪伴小事、两句新对白",
+  "reference": "deliveries/yier-bubu-comics-r3/02-新漫画10张/03-蘑菇小邮差.png",
+  "files": [
+    {
+      "file": "01-小鸡早餐.png",
+      "headwear_left": "小鸡",
+      "headwear_right": "小鸡",
+      "size": [
+        896,
+        1200
+      ],
+      "bytes": 2377057,
+      "md5": "f98b05030eeb3070fbe7d78709950d90"
+    },
+    {
+      "file": "02-柠檬汽水.png",
+      "headwear_left": "柠檬",
+      "headwear_right": "柠檬",
+      "size": [
+        896,
+        1200
+      ],
+      "bytes": 2499849,
+      "md5": "f14feaca2655ffd1d30064f9cd74f4bf"
+    },
+    {
+      "file": "03-考拉午睡.png",
+      "headwear_left": "考拉",
+      "headwear_right": "考拉",
+      "size": [
+        896,
+        1200
+      ],
+      "bytes": 2216130,
+      "md5": "af7f02f8d0d3a62c2a2990655b30bca1"
+    },
+    {
+      "file": "04-向日葵合照.png",
+      "headwear_left": "向日葵",
+      "headwear_right": "向日葵",
+      "size": [
+        896,
+        1200
+      ],
+      "bytes": 2290658,
+      "md5": "f1e08850517fd9150817e5e1ead4b005"
+    },
+    {
+      "file": "05-西瓜小扇.png",
+      "headwear_left": "西瓜",
+      "headwear_right": "西瓜",
+      "size": [
+        928,
+        1152
+      ],
+      "bytes": 2427106,
+      "md5": "fbd4eb78416b11517db3f9753ab173e7"
+    },
+    {
+      "file": "06-小象浇花.png",
+      "headwear_left": "小象",
+      "headwear_right": "小象",
+      "size": [
+        896,
+        1200
+      ],
+      "bytes": 2392439,
+      "md5": "7735438b9d43a4eddae9ee02c532e828"
+    },
+    {
+      "file": "07-布丁小厨房.png",
+      "headwear_left": "布丁",
+      "headwear_right": "布丁",
+      "size": [
+        896,
+        1200
+      ],
+      "bytes": 2098385,
+      "md5": "e7be3086e2e071527a4f5a7e706b7a99"
+    },
+    {
+      "file": "08-小猪雨靴.png",
+      "headwear_left": "小猪",
+      "headwear_right": "小猪",
+      "size": [
+        896,
+        1200
+      ],
+      "bytes": 2517008,
+      "md5": "03142150800a626b487dd4b21b5e6f6e"
+    },
+    {
+      "file": "09-橘子分甜.png",
+      "headwear_left": "橘子",
+      "headwear_right": "橘子",
+      "size": [
+        896,
+        1200
+      ],
+      "bytes": 2370259,
+      "md5": "2136f17cd0bfcabb4d18be8588fd90c7"
+    },
+    {
+      "file": "10-雪人暖灯.png",
+      "headwear_left": "雪人",
+      "headwear_right": "雪人",
+      "size": [
+        848,
+        1264
+      ],
+      "bytes": 1937431,
+      "md5": "edba021184568c702ca5ede514f82442"
+    }
+  ],
+  "overview": "总预览.jpg",
+  "visual_review": "已打开总览目检：每图双方同款，十张不同类型；对白可读；09对白顺序左右交换但内容保留",
+  "conversation": "https://arena.ai/agent/01a1e233-191b-7343-97c4-5f1ae134e8d7"
+}
