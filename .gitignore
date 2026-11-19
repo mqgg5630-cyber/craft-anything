@@ -25,3 +25,8 @@ __pycache__/
 # Download staging and unpacked migration cache (deliverables are saved separately)
 /.local/
 /google_drive/
+
+# Historical comic binaries stored in Drive; provenance manifests stay versioned
+/deliveries/comic-history-archive/单张成品/
+
+/deliveries/comic-history-archive/完整漫画分册/

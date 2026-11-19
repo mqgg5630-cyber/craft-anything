@@ -1,0 +1,213 @@
+{
+  "folder_id": "1AgrArCBVw162h06_dcRP13ykjPyS_KfK",
+  "fresh_file_count": 14,
+  "pdf_count": 12,
+  "total_pages": 106,
+  "pdf_names_parents_count_md5_match": true,
+  "original_png_individual_upload_complete": false,
+  "scope": "healing-comic成品pages路径下106个Git blob去重PNG，非所有壁纸/底图/三视图",
+  "pdfs": [
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-06张完整单页.pdf",
+      "group": "pages",
+      "page_count": 6,
+      "md5": "bb5750a516bf6f9ad03cfc964e287b4e",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages/01-cover.png",
+        "deliveries/comic-history-archive/单张成品/pages/02-consent.png",
+        "deliveries/comic-history-archive/单张成品/pages/03-no-remake.png",
+        "deliveries/comic-history-archive/单张成品/pages/04-professional-help.png",
+        "deliveries/comic-history-archive/单张成品/pages/05-no-surveillance.png",
+        "deliveries/comic-history-archive/单张成品/pages/06-ending.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-37-03张完整单页.pdf",
+      "group": "pages-37",
+      "page_count": 3,
+      "md5": "8b7a2454298672b71a3b64340836b00f",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-37/承诺01.png",
+        "deliveries/comic-history-archive/单张成品/pages-37/承诺02.png",
+        "deliveries/comic-history-archive/单张成品/pages-37/承诺03.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-s01-10张完整单页.pdf",
+      "group": "pages-s01",
+      "page_count": 10,
+      "md5": "9ad65eacf0abcd983bf332e03275e598",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_01.png",
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_02.png",
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_03.png",
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_04.png",
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_05.png",
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_06.png",
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_07.png",
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_08.png",
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_09.png",
+        "deliveries/comic-history-archive/单张成品/pages-s01/系列01_10.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-s02-10张完整单页.pdf",
+      "group": "pages-s02",
+      "page_count": 10,
+      "md5": "eb4ff960fc42ee3069adb7bb4af7b509",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_01.png",
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_02.png",
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_03.png",
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_04.png",
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_05.png",
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_06.png",
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_07.png",
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_08.png",
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_09.png",
+        "deliveries/comic-history-archive/单张成品/pages-s02/系列02_10.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-s03-10张完整单页.pdf",
+      "group": "pages-s03",
+      "page_count": 10,
+      "md5": "8a956a3d614dee37926d95e48f153f9e",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_01.png",
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_02.png",
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_03.png",
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_04.png",
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_05.png",
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_06.png",
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_07.png",
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_08.png",
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_09.png",
+        "deliveries/comic-history-archive/单张成品/pages-s03/系列03_10.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-s04-10张完整单页.pdf",
+      "group": "pages-s04",
+      "page_count": 10,
+      "md5": "c5051dd5cc92c5eeadee97b94af0669e",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_01.png",
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_02.png",
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_03.png",
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_04.png",
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_05.png",
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_06.png",
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_07.png",
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_08.png",
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_09.png",
+        "deliveries/comic-history-archive/单张成品/pages-s04/系列04_10.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-s05-10张完整单页.pdf",
+      "group": "pages-s05",
+      "page_count": 10,
+      "md5": "8082b906e5bc9aa1e6c07e53486c39fa",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_01.png",
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_02.png",
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_03.png",
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_04.png",
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_05.png",
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_06.png",
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_07.png",
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_08.png",
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_09.png",
+        "deliveries/comic-history-archive/单张成品/pages-s05/系列05_10.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-s06-10张完整单页.pdf",
+      "group": "pages-s06",
+      "page_count": 10,
+      "md5": "1ff2488148a3c44d76377a2e9b36d8d7",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_01.png",
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_02.png",
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_03.png",
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_04.png",
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_05.png",
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_06.png",
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_07.png",
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_08.png",
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_09.png",
+        "deliveries/comic-history-archive/单张成品/pages-s06/系列06_10.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-xhs-09张完整单页.pdf",
+      "group": "pages-xhs",
+      "page_count": 9,
+      "md5": "690b9bd5bf439efb09eb68c026c226bc",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-xhs/复刻01.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs/复刻02.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs/复刻03.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs/复刻04.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs/复刻05.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs/复刻06.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs/复刻07.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs/复刻08.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs/复刻09.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-xhs2-09张完整单页.pdf",
+      "group": "pages-xhs2",
+      "page_count": 9,
+      "md5": "f233f4484a1d13cf836d6166f58e03d7",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-xhs2/复刻01.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs2/复刻02.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs2/复刻03.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs2/复刻04.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs2/复刻05.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs2/复刻06.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs2/复刻07.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs2/复刻08.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs2/复刻09.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/pages-xhs3-09张完整单页.pdf",
+      "group": "pages-xhs3",
+      "page_count": 9,
+      "md5": "b3ee35e61b2dd1925c3b69d9c3c0fd0d",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages-xhs3/复刻01.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs3/复刻02.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs3/复刻03.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs3/复刻04.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs3/复刻05.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs3/复刻06.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs3/复刻07.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs3/复刻08.png",
+        "deliveries/comic-history-archive/单张成品/pages-xhs3/复刻09.png"
+      ]
+    },
+    {
+      "file": "deliveries/comic-history-archive/完整漫画分册/素材08-说明类漫画-10张完整单页.pdf",
+      "group": "素材08-说明类漫画",
+      "page_count": 10,
+      "md5": "53d8fcbf0783267bf7e5308fab12ab07",
+      "source_images": [
+        "deliveries/comic-history-archive/单张成品/pages/素材08_01.png",
+        "deliveries/comic-history-archive/单张成品/pages/素材08_02.png",
+        "deliveries/comic-history-archive/单张成品/pages/素材08_03.png",
+        "deliveries/comic-history-archive/单张成品/pages/素材08_04.png",
+        "deliveries/comic-history-archive/单张成品/pages/素材08_05.png",
+        "deliveries/comic-history-archive/单张成品/pages/素材08_06.png",
+        "deliveries/comic-history-archive/单张成品/pages/素材08_07.png",
+        "deliveries/comic-history-archive/单张成品/pages/素材08_08.png",
+        "deliveries/comic-history-archive/单张成品/pages/素材08_09.png",
+        "deliveries/comic-history-archive/单张成品/pages/素材08_10.png"
+      ]
+    }
+  ]
+}

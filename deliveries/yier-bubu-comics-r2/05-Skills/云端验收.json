@@ -1,0 +1,60 @@
+{
+  "folder_id": "1T0H_QC02k79yUUmx_7LiMxZ0wYbufAYY",
+  "fresh_count": 13,
+  "parents_names_count_md5_match": true,
+  "tests_passed": 3,
+  "files": [
+    {
+      "file": "02-新漫画10张/01-兔兔草莓园.png",
+      "md5": "4277231d5b2d9ecd6cae78c21c753fe2"
+    },
+    {
+      "file": "02-新漫画10张/02-青蛙荷叶伞.png",
+      "md5": "46ea86061271c3b78f300289c5e5f9b7"
+    },
+    {
+      "file": "02-新漫画10张/03-猫咪面包屋.png",
+      "md5": "05af697a04661cbed707e0ad4038ab83"
+    },
+    {
+      "file": "02-新漫画10张/04-熊猫竹林茶.png",
+      "md5": "28c9667c2d7e44beb31df7aafe6d9280"
+    },
+    {
+      "file": "02-新漫画10张/05-狐狸捡松果.png",
+      "md5": "20ce9d075cf394891a50044eb600ec34"
+    },
+    {
+      "file": "02-新漫画10张/06-小鹿看晚霞.png",
+      "md5": "52af14f38565487f8a75ae80df6f58f7"
+    },
+    {
+      "file": "02-新漫画10张/07-蜜蜂花园信.png",
+      "md5": "9a85f7c5f80d292de072d8f8b3e68e9a"
+    },
+    {
+      "file": "02-新漫画10张/08-企鹅热可可.png",
+      "md5": "acacc1babf4e6e4f4ea5aa90119bad07"
+    },
+    {
+      "file": "02-新漫画10张/09-恐龙月亮船.png",
+      "md5": "3ad5b9956d910a9bc867fcf1a880395f"
+    },
+    {
+      "file": "02-新漫画10张/10-小羊枕头云.png",
+      "md5": "321ec4af695dd6d55555932f31b17842"
+    },
+    {
+      "file": "02-新漫画10张/总预览.jpg",
+      "md5": "89f794e1a63a3073b5a257260c1474e3"
+    },
+    {
+      "file": "05-Skills/SKILL.md",
+      "md5": "e2f276248cae36931b2c3ca854aa2d22"
+    },
+    {
+      "file": "05-Skills/配方与验收.json",
+      "md5": "7468c00f7bfc5b41414f5cf7a0040f29"
+    }
+  ]
+}

@@ -1,0 +1,2537 @@
+[
+  {
+    "repo": "mqgg5630-cyber/craft-anything",
+    "branches": [
+      {
+        "branch": "arena/ab8fa883-craft-anything",
+        "sha": "2ed6b35169507253f1bba6bf1f800a48f98acbe5",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/e2bbb9ab-craft-anything",
+        "sha": "af2a036dd2bfffc474388076bc60cbee378590b5",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/e134e8d7-craft-anything",
+        "sha": "853e1a7a1bbadfa50c5b9a0967344072df2bd1f0",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "deliveries/bears-261127",
+          "deliveries/bears-261127/01-下载原图",
+          "deliveries/bears-261127/01-下载原图/01.jpeg",
+          "deliveries/bears-261127/01-下载原图/02.png",
+          "deliveries/bears-261127/01-下载原图/03.png",
+          "deliveries/bears-261127/01-下载原图/04.png",
+          "deliveries/bears-261127/01-下载原图/05.png",
+          "deliveries/bears-261127/01-下载原图/06.png",
+          "deliveries/bears-261127/01-下载原图/下载记录.json",
+          "deliveries/vangogh-bubu",
+          "deliveries/vangogh-bubu/旧成品归档",
+          "deliveries/vangogh-bubu/旧成品归档/名画01-梵高·向日葵.jpg",
+          "deliveries/vangogh-bubu/旧成品归档/名画02-梵高·夜间露天咖啡座.jpg",
+          "deliveries/vangogh-bubu/旧成品归档/名画03-梵高·麦田与柏树.jpg",
+          "deliveries/vangogh-bubu/旧成品归档/名画04-梵高·杏花.jpg",
+          "deliveries/vangogh-bubu/旧成品归档/名画05-莫奈·睡莲与日本桥.jpg",
+          "deliveries/vangogh-bubu/旧成品归档/名画06-葛饰北斋·神奈川冲浪里.jpg",
+          "deliveries/vangogh-bubu/旧成品归档/名画07-克里姆特·吻.jpg",
+          "deliveries/vangogh-bubu/旧成品归档/名画08-蒙克·呐喊.jpg",
+          "deliveries/vangogh-bubu/旧成品归档/名画09-维米尔·戴珍珠耳环的少女.jpg",
+          "deliveries/vangogh-bubu/旧成品归档/名画10-达芬奇·蒙娜丽莎.jpg",
+          "tools/wallpaper-job/download_bears.py"
+        ]
+      },
+      {
+        "branch": "arena/3c8ac4ba-craft-anything",
+        "sha": "87fffceba0a54b176b02a3763cc11dddad36a088",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/77ee0396-craft-anything",
+        "sha": "a03ff999e350cd2dd73ece2c24b012c954f33301",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "deliveries/bears-261127",
+          "deliveries/bears-261127/01-下载原图",
+          "deliveries/bears-261127/01-下载原图/01.jpeg",
+          "deliveries/bears-261127/01-下载原图/02.png",
+          "deliveries/bears-261127/01-下载原图/03.png",
+          "deliveries/bears-261127/01-下载原图/04.png",
+          "deliveries/bears-261127/01-下载原图/05.png",
+          "deliveries/bears-261127/01-下载原图/06.png",
+          "deliveries/bears-261127/01-下载原图/下载记录.json",
+          "deliveries/hukeying-0yf-0fuye/01-十六本生活指南电子书/05-引导型恋人指南/book/09-治愈.md",
+          "deliveries/leanrea-全分支/06f0f224-三视图成果/round-01/01_一二_正面.jpg",
+          "deliveries/leanrea-全分支/06f0f224-三视图成果/round-01/02_一二_侧面.jpg",
+          "deliveries/leanrea-全分支/06f0f224-三视图成果/round-01/03_一二_背面.jpg",
+          "deliveries/leanrea-全分支/06f0f224-三视图成果/round-01/04_布布_正面.jpg",
+          "deliveries/leanrea-全分支/06f0f224-三视图成果/round-01/05_布布_侧面.jpg",
+          "deliveries/leanrea-全分支/06f0f224-三视图成果/round-01/06_布布_背面.jpg",
+          "deliveries/leanrea-全分支/06f0f224-三视图成果/round-01/07_一二_四分之三侧.jpg",
+          "deliveries/leanrea-全分支/06f0f224-三视图成果/round-01/08_布布_四分之三侧.jpg",
+          "deliveries/leanrea-全分支/63459e2c-素材采集成果/xhs-replica/文案分轮/第07轮-治愈唯美特辑9张山坡看晚霞吹蒲公英雨-小红书文案.md",
+          "deliveries/leanrea-全分支/63459e2c-素材采集成果/xhs-replica/文案分轮/第08轮-治愈唯美特辑第二版10张麦田里追风屋-小红书文案.md",
+          "deliveries/leanrea-全分支/6467c7b2-日常立冬冬至/01-日常第二版/小红书文案-日常第二版一二布布.md",
+          "deliveries/leanrea-全分支/6467c7b2-日常立冬冬至/01-日常第二版/小红书文案-第一轮日常一二布布.md",
+          "deliveries/leanrea-全分支/6467c7b2-日常立冬冬至/01-日常第二版/小红书文案-第二轮圣诞一二布布.md",
+          "deliveries/leanrea-全分支/6467c7b2-日常立冬冬至/03-立冬第一版/小红书文案-立冬一二布布.md",
+          "deliveries/leanrea-全分支/6467c7b2-日常立冬冬至/05-立冬第二版/小红书文案-立冬第二版一二布布.md",
+          "deliveries/leanrea-全分支/6467c7b2-日常立冬冬至/07-冬至第二版/小红书文案-冬至第二版一二布布.md",
+          "deliveries/leanrea-全分支/6467c7b2-日常立冬冬至/SKILLS-一二和布布复刻.md",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/00-总图.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/00-预览总图-iOS.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/note.json",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/note.md",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/spec.json",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花01-百合花田小路.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花02-紫藤架下午茶.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花03-红花树下送花.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花04-雪夜红梅提灯.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花05-牡丹园插花.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花06-油菜花田放风筝.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花07-绣球花雨巷.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花08-荷塘木栈道.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花09-薰衣草花田黄昏.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/03-鲜花一二布布/鲜花10-桂花院落茶歇.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/00-总图.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/00-预览总图-iOS.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/note.json",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/note.md",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/spec.json",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画01-梵高·向日葵.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画02-梵高·夜间露天咖啡座.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画03-梵高·麦田与柏树.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画04-梵高·杏花.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画05-莫奈·睡莲与日本桥.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画06-葛饰北斋·神奈川冲浪里.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画07-克里姆特·吻.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画08-蒙克·呐喊.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画09-维米尔·戴珍珠耳环的少女.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/12-梵高一二布布/名画10-达芬奇·蒙娜丽莎.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/00-封面-双机预览.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/00-总图.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/00-预览总图-iOS.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/spec.json",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮01-日出.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮02-早餐.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮03-花田.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮04-树下午睡.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮05-雨中共伞.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮06-海边日落.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮07-摩天轮.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮08-星空.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮09-月下河灯.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/朝朝暮暮10-晚安.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/说明.md",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏01-山顶云海.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏02-镜面沙滩.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏03-草坡蒲公英.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏04-湖上小船.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏05-麦田小路.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏06-屋顶晚霞.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏07-灯塔海崖.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏08-蓝调长椅.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏09-月升海面.jpg",
+          "deliveries/leanrea-全分支/7779dfa9-小红书壁纸复刻14组/13-一二布布周年/黄昏10-牵手回家.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/01.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/02.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/03.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/04.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/05.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/06.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/07.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/08.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/09.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art-fit/10.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/01.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/02.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/03.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/04.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/05.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/06.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/07.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/08.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/09.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/art/10.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/preview.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_01.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_02.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_03.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_04.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_05.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_06.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_07.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_08.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_09.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/pages/素材08_10.png",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames/00-contact.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames/f_17.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames/f_2.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames/f_25.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames/f_33.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames/f_41.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames/f_49.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames/f_57.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/source-frames/f_9.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/video",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/video/素材08-r1.mp4",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/素材08-总预览图.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/素材08-源片抽帧参考.jpg",
+          "deliveries/leanrea-全分支/de28dcec-治愈漫画成果/healing-comic/runs/素材08-r1/素材08-源视频-BV1suxg6MEJz.mp4",
+          "tools/wallpaper-job/download_bears.py"
+        ]
+      },
+      {
+        "branch": "main",
+        "sha": "fc93bd091e7810e08b540a67487e3bf5f2b7da2b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/freesub",
+    "branches": [
+      {
+        "branch": "arena/01a08039-freesub",
+        "sha": "098c82f1056167e00a8332cb7ac8fb011e17ebd4",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "f2d5c01987a8265b7451301f7bbe470f60d125cc",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/ego-lite",
+    "branches": [
+      {
+        "branch": "arena/1ebe2b4d-ego-lite",
+        "sha": "18b17377503adc9b92217fcdde41c8409f3066de",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "bacaece43900e8ca68eea3b6f1663835ea38df9e",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "star-history",
+        "sha": "9015c66e0e6fc58edc51f3d668c168727dfb4977",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/dsh-our-free-model",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "8e1674a89c73e735764b4c73419526adb695671a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/xiaohongshu-mcp",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "3b352aa075d63cd5ebae546c9fe7d7d9b81fa7c9",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/ai-money-maker-handbook",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "67e27e71e19502de83747cace750cf966e68ed04",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/YunX-Desktop",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "3700c1c607eea9517f022318d85cb543f05a85dc",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/leanrea",
+    "branches": [
+      {
+        "branch": "arena/cc6ee9ab-leanrea",
+        "sha": "8aad72187382c9917c37f2b63428340378cb0b40",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "healing-comic",
+          "healing-comic/README.md",
+          "healing-comic/SKILL.md",
+          "healing-comic/examples",
+          "healing-comic/examples/spec-3-7.json",
+          "healing-comic/examples/spec-anime.json",
+          "healing-comic/examples/spec-anime2-A.json",
+          "healing-comic/examples/spec-anime2-B.json",
+          "healing-comic/examples/spec-anime2-C.json",
+          "healing-comic/examples/spec-xhs8.json",
+          "healing-comic/examples/spec.json",
+          "healing-comic/examples/storyboard.md",
+          "healing-comic/references",
+          "healing-comic/references/anime-分镜表.md",
+          "healing-comic/references/anime-发布清单.md",
+          "healing-comic/references/anime-旁白说明.md",
+          "healing-comic/references/anime-生图提示词.md",
+          "healing-comic/references/anime-说明.md",
+          "healing-comic/references/anime2-交付说明.md",
+          "healing-comic/references/anime2-批A-漫画文案.md",
+          "healing-comic/references/anime2-批A-生图提示词.md",
+          "healing-comic/references/anime2-批B-漫画文案.md",
+          "healing-comic/references/anime2-批B-生图提示词.md",
+          "healing-comic/references/anime2-批C-漫画文案.md",
+          "healing-comic/references/anime2-批C-生图提示词.md",
+          "healing-comic/references/cases.md",
+          "healing-comic/references/conversion-plan.md",
+          "healing-comic/references/copy-3.7-承诺要小而可兑现.md",
+          "healing-comic/references/copy-复刻版-8件事.md",
+          "healing-comic/references/github-skills.md",
+          "healing-comic/references/skills调研-睡前故事-情侣头像-聊天背景-2026-11-03.md",
+          "healing-comic/references/会话与交付记录-2026-11-03.md",
+          "healing-comic/references/会话与交付记录.md",
+          "healing-comic/references/文案拆解方法.md",
+          "healing-comic/references/晚安故事_哄睡女朋友_文字版_1-5则_2026-11-03.md",
+          "healing-comic/references/晚安故事_哄睡女朋友_文字版_6-10则_2026-11-03.md",
+          "healing-comic/references/晚安童话_文字版合集_给对象_5则_2026-11-03.md",
+          "healing-comic/references/晚安童话_给对象的睡前故事_2026-11-03.md",
+          "healing-comic/scripts",
+          "healing-comic/scripts/animatic.py",
+          "healing-comic/scripts/artlayout.py",
+          "healing-comic/scripts/compose.py",
+          "healing-comic/scripts/fetch_font.sh",
+          "healing-comic/scripts/xhs_bedtime_render.py",
+          "healing-comic/说明.md"
+        ]
+      },
+      {
+        "branch": "arena/2dc86eea-leanrea",
+        "sha": "e4fa173fe40b000d39fe850c434007def2f597f1",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "healing-comic",
+          "healing-comic/README.md",
+          "healing-comic/SKILL.md",
+          "healing-comic/examples",
+          "healing-comic/examples/spec-3-7.json",
+          "healing-comic/examples/spec-anime.json",
+          "healing-comic/examples/spec-anime2-A.json",
+          "healing-comic/examples/spec-anime2-B.json",
+          "healing-comic/examples/spec-anime2-C.json",
+          "healing-comic/examples/spec-xhs8.json",
+          "healing-comic/examples/spec.json",
+          "healing-comic/examples/storyboard.md",
+          "healing-comic/references",
+          "healing-comic/references/anime-分镜表.md",
+          "healing-comic/references/anime-发布清单.md",
+          "healing-comic/references/anime-旁白说明.md",
+          "healing-comic/references/anime-生图提示词.md",
+          "healing-comic/references/anime-说明.md",
+          "healing-comic/references/anime2-交付说明.md",
+          "healing-comic/references/anime2-批A-漫画文案.md",
+          "healing-comic/references/anime2-批A-生图提示词.md",
+          "healing-comic/references/anime2-批B-漫画文案.md",
+          "healing-comic/references/anime2-批B-生图提示词.md",
+          "healing-comic/references/anime2-批C-漫画文案.md",
+          "healing-comic/references/anime2-批C-生图提示词.md",
+          "healing-comic/references/cases.md",
+          "healing-comic/references/conversion-plan.md",
+          "healing-comic/references/copy-3.7-承诺要小而可兑现.md",
+          "healing-comic/references/copy-复刻版-8件事.md",
+          "healing-comic/references/github-skills.md",
+          "healing-comic/references/会话与交付记录.md",
+          "healing-comic/references/文案拆解方法.md",
+          "healing-comic/scripts",
+          "healing-comic/scripts/animatic.py",
+          "healing-comic/scripts/artlayout.py",
+          "healing-comic/scripts/compose.py",
+          "healing-comic/scripts/fetch_font.sh",
+          "healing-comic/说明.md"
+        ]
+      },
+      {
+        "branch": "arena/4d729933-leanrea",
+        "sha": "bacd86697dbb6ca590172022541cfd346148f737",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/7c8f4dad-leanrea",
+        "sha": "9be701b518dab50586004d2d736dc19248cc7e41",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "healing-comic",
+          "healing-comic/README.md",
+          "healing-comic/SKILL.md",
+          "healing-comic/examples",
+          "healing-comic/examples/spec-3-7.json",
+          "healing-comic/examples/spec-anime.json",
+          "healing-comic/examples/spec-anime2-A.json",
+          "healing-comic/examples/spec-anime2-B.json",
+          "healing-comic/examples/spec-anime2-C.json",
+          "healing-comic/examples/spec-anime2-D.json",
+          "healing-comic/examples/spec-xhs8.json",
+          "healing-comic/examples/spec.json",
+          "healing-comic/examples/storyboard.md",
+          "healing-comic/references",
+          "healing-comic/references/anime-分镜表.md",
+          "healing-comic/references/anime-发布清单.md",
+          "healing-comic/references/anime-旁白说明.md",
+          "healing-comic/references/anime-生图提示词.md",
+          "healing-comic/references/anime-说明.md",
+          "healing-comic/references/anime2-交付说明.md",
+          "healing-comic/references/anime2-批A-漫画文案.md",
+          "healing-comic/references/anime2-批A-生图提示词.md",
+          "healing-comic/references/anime2-批B-漫画文案.md",
+          "healing-comic/references/anime2-批B-生图提示词.md",
+          "healing-comic/references/anime2-批C-漫画文案.md",
+          "healing-comic/references/anime2-批C-生图提示词.md",
+          "healing-comic/references/anime2-批D-漫画文案.md",
+          "healing-comic/references/anime2-批D-生图提示词.md",
+          "healing-comic/references/cases.md",
+          "healing-comic/references/conversion-plan.md",
+          "healing-comic/references/copy-3.7-承诺要小而可兑现.md",
+          "healing-comic/references/copy-复刻版-8件事.md",
+          "healing-comic/references/github-skills.md",
+          "healing-comic/references/会话与交付记录.md",
+          "healing-comic/references/文案拆解方法.md",
+          "healing-comic/scripts",
+          "healing-comic/scripts/animatic.py",
+          "healing-comic/scripts/artlayout.py",
+          "healing-comic/scripts/compose.py",
+          "healing-comic/scripts/fetch_font.sh",
+          "healing-comic/说明.md"
+        ]
+      },
+      {
+        "branch": "arena/8abb37a4-leanrea",
+        "sha": "679f55364463010f7eaf7a516e44e0581d3e3d94",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "healing-comic",
+          "healing-comic/README.md",
+          "healing-comic/SKILL.md",
+          "healing-comic/examples",
+          "healing-comic/examples/spec-3-7.json",
+          "healing-comic/examples/spec-anime.json",
+          "healing-comic/examples/spec-anime2-A.json",
+          "healing-comic/examples/spec-anime2-B.json",
+          "healing-comic/examples/spec-xhs8.json",
+          "healing-comic/examples/spec.json",
+          "healing-comic/examples/storyboard.md",
+          "healing-comic/references",
+          "healing-comic/references/anime-分镜表.md",
+          "healing-comic/references/anime-发布清单.md",
+          "healing-comic/references/anime-旁白说明.md",
+          "healing-comic/references/anime-生图提示词.md",
+          "healing-comic/references/anime-说明.md",
+          "healing-comic/references/anime2-交付说明.md",
+          "healing-comic/references/anime2-批A-漫画文案.md",
+          "healing-comic/references/anime2-批A-生图提示词.md",
+          "healing-comic/references/anime2-批B-漫画文案.md",
+          "healing-comic/references/anime2-批B-生图提示词.md",
+          "healing-comic/references/cases.md",
+          "healing-comic/references/conversion-plan.md",
+          "healing-comic/references/copy-3.7-承诺要小而可兑现.md",
+          "healing-comic/references/copy-复刻版-8件事.md",
+          "healing-comic/references/github-skills.md",
+          "healing-comic/references/文案拆解方法.md",
+          "healing-comic/scripts",
+          "healing-comic/scripts/animatic.py",
+          "healing-comic/scripts/artlayout.py",
+          "healing-comic/scripts/compose.py",
+          "healing-comic/scripts/fetch_font.sh",
+          "healing-comic/work",
+          "healing-comic/work/00-会话索引.md",
+          "healing-comic/work/把甜甜的都分给你",
+          "healing-comic/work/把甜甜的都分给你/00_说明.md",
+          "healing-comic/work/把甜甜的都分给你/spec.json",
+          "healing-comic/work/把甜甜的都分给你/storyboard.md",
+          "healing-comic/work/把甜甜的都分给你/生图提示词.md",
+          "healing-comic/work/陪你等天晴",
+          "healing-comic/work/陪你等天晴/00_说明.md",
+          "healing-comic/work/陪你等天晴/spec.json",
+          "healing-comic/work/陪你等天晴/storyboard.md",
+          "healing-comic/work/陪你等天晴/生图提示词.md",
+          "healing-comic/说明.md"
+        ]
+      },
+      {
+        "branch": "arena/39279f3d-leanrea",
+        "sha": "46be2fc6493b100f262e33999503d53d08d5bef5",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "healing-comic",
+          "healing-comic/README.md",
+          "healing-comic/SKILL.md",
+          "healing-comic/examples",
+          "healing-comic/examples/spec-3-7.json",
+          "healing-comic/examples/spec-anime.json",
+          "healing-comic/examples/spec-anime2-A.json",
+          "healing-comic/examples/spec-anime2-B.json",
+          "healing-comic/examples/spec-anime2-C.json",
+          "healing-comic/examples/spec-xhs8.json",
+          "healing-comic/examples/spec.json",
+          "healing-comic/examples/storyboard.md",
+          "healing-comic/references",
+          "healing-comic/references/anime-分镜表.md",
+          "healing-comic/references/anime-发布清单.md",
+          "healing-comic/references/anime-旁白说明.md",
+          "healing-comic/references/anime-生图提示词.md",
+          "healing-comic/references/anime-说明.md",
+          "healing-comic/references/anime2-交付说明.md",
+          "healing-comic/references/anime2-批A-漫画文案.md",
+          "healing-comic/references/anime2-批A-生图提示词.md",
+          "healing-comic/references/anime2-批B-漫画文案.md",
+          "healing-comic/references/anime2-批B-生图提示词.md",
+          "healing-comic/references/anime2-批C-漫画文案.md",
+          "healing-comic/references/anime2-批C-生图提示词.md",
+          "healing-comic/references/cases.md",
+          "healing-comic/references/conversion-plan.md",
+          "healing-comic/references/copy-3.7-承诺要小而可兑现.md",
+          "healing-comic/references/copy-复刻版-8件事.md",
+          "healing-comic/references/github-skills.md",
+          "healing-comic/references/会话与交付记录.md",
+          "healing-comic/references/文案拆解方法.md",
+          "healing-comic/scripts",
+          "healing-comic/scripts/animatic.py",
+          "healing-comic/scripts/artlayout.py",
+          "healing-comic/scripts/compose.py",
+          "healing-comic/scripts/fetch_font.sh",
+          "healing-comic/说明.md"
+        ]
+      },
+      {
+        "branch": "main",
+        "sha": "2a2666278587944f3ecfba39039e8bf5ac6f3c48",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "healing-comic",
+          "healing-comic/README.md",
+          "healing-comic/SKILL.md",
+          "healing-comic/examples",
+          "healing-comic/examples/spec-3-7.json",
+          "healing-comic/examples/spec-anime.json",
+          "healing-comic/examples/spec-anime2-A.json",
+          "healing-comic/examples/spec-anime2-B.json",
+          "healing-comic/examples/spec-anime2-C.json",
+          "healing-comic/examples/spec-xhs8.json",
+          "healing-comic/examples/spec.json",
+          "healing-comic/examples/storyboard.md",
+          "healing-comic/references",
+          "healing-comic/references/anime-分镜表.md",
+          "healing-comic/references/anime-发布清单.md",
+          "healing-comic/references/anime-旁白说明.md",
+          "healing-comic/references/anime-生图提示词.md",
+          "healing-comic/references/anime-说明.md",
+          "healing-comic/references/anime2-交付说明.md",
+          "healing-comic/references/anime2-批A-漫画文案.md",
+          "healing-comic/references/anime2-批A-生图提示词.md",
+          "healing-comic/references/anime2-批B-漫画文案.md",
+          "healing-comic/references/anime2-批B-生图提示词.md",
+          "healing-comic/references/anime2-批C-漫画文案.md",
+          "healing-comic/references/anime2-批C-生图提示词.md",
+          "healing-comic/references/cases.md",
+          "healing-comic/references/conversion-plan.md",
+          "healing-comic/references/copy-3.7-承诺要小而可兑现.md",
+          "healing-comic/references/copy-复刻版-8件事.md",
+          "healing-comic/references/github-skills.md",
+          "healing-comic/references/会话与交付记录.md",
+          "healing-comic/references/文案拆解方法.md",
+          "healing-comic/scripts",
+          "healing-comic/scripts/animatic.py",
+          "healing-comic/scripts/artlayout.py",
+          "healing-comic/scripts/compose.py",
+          "healing-comic/scripts/fetch_font.sh",
+          "healing-comic/说明.md"
+        ]
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/EAgent",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "5b26d6b899dae705cc6e77047d376e83d037a9eb",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/-skills",
+    "branches": [
+      {
+        "branch": "arena/019fa329-skills",
+        "sha": "aace5f21c11e7c41817cdc5451dd3abc0b95a70f",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "e85ec13d15aa9b3fc73b692f43be2015684c85cc",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/skills",
+    "branches": [
+      {
+        "branch": "arena/a4696807-skills",
+        "sha": "552dafa26ede1b4680bfcabb70e15ad54b11eea3",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/be115a3b-skills",
+        "sha": "a1cbe3ce48185966937c6abb5164497d8b662fbb",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/7fcbb597-skills",
+        "sha": "a39067a3fdfc3a65debaba05b1f223d28047a9bb",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/743ba492-skills",
+        "sha": "067c557bdbf19042a30cd97d08220b50adb9ebb5",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "885e2ca4d842d139e9aef4e48d366c63cb1b8013",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/goutoujunshi",
+    "branches": [
+      {
+        "branch": "arena/bb21e632-goutoujunshi",
+        "sha": "30f917afde87b783a77b5db5e7eaf23481a6b0d2",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/d766ed90-goutoujunshi",
+        "sha": "cc23c01cd3edd5ff0ef713b882c6247a2d97f8ed",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/daf1bc30-goutoujunshi",
+        "sha": "7c852111a8ec9ae76f09eb23e66bf1c6d575d121",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/e1541481-goutoujunshi",
+        "sha": "2c8cd7adf8a97f34adebe0e6eafc184941419e99",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a101bf-goutoujunshi",
+        "sha": "ff8060f826264775bc8f41aeb7dd7b567627abe4",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/5547dbb8-goutoujunshi",
+        "sha": "d422b906c43b23a4a837f7b05a55b3a9c0047cf1",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "6db7354a4002dc7c448a9c87ffdad8132570c9d3",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/MultiPost-Extension",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "5522ca01100a58572de3a652aebd7851f5fa648a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/git-pull-arena",
+    "branches": [
+      {
+        "branch": "arena/01a0a4f5-git-pull-arena",
+        "sha": "7f9cc5c8b5db0be9213d17cfb9f08842c38ca13a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a7de-git-pull-arena",
+        "sha": "c11f25d5a0003dde691ccbfc1cb8df25ff5d973c",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a9ba-git-pull-arena",
+        "sha": "14edd417583b61e60c57f6f19432ef2dac3daca1",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a9f0-git-pull-arena",
+        "sha": "6bbcc15c6a122a2d56477630cd0c402c92be4a16",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a98d-git-pull-arena",
+        "sha": "9b91950f3ba500852ec2f10db97f8f893f228366",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a821-git-pull-arena",
+        "sha": "7a655d9fcc8beb4c34216429ab4ca467e998b1c5",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0aa00-git-pull-arena",
+        "sha": "4ebd28812806f8c014744cd301f32eb5999a0e1e",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0fa39-git-pull-arena",
+        "sha": "7f62cf29e0b6c380143545f9a34a7afa6ed3546d",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0ff64-git-pull-arena",
+        "sha": "857c5e2ca4b5c42d8bb47041066442a2b1dee932",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0ff69-git-pull-arena",
+        "sha": "d2106363d73a4b2ee12b82b3bb85d52580bdfe9a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a09fc1-git-pull-arena",
+        "sha": "7a150a651ef2055090ee6cd6a0058f626ee51b73",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a10bde-git-pull-arena",
+        "sha": "acec64fdf7dded7976946ca1e7d02bd3c47f111f",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a10bf3-git-pull-arena",
+        "sha": "f15aba863276979dd0af517be5e4da0131907b7b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a10bfd-git-pull-arena",
+        "sha": "c5982cfa5b4a7c2e2decaa059bc01a6cca330814",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "1ea0467de4c9bda6becb7a74ad927b52cf0087d7",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "v268-patch",
+        "sha": "bec74fa9116f18f5a053bcc52026423513b60be8",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/rea",
+    "branches": [
+      {
+        "branch": "arena/1bfdc2ed-rea",
+        "sha": "2e832c94371fcff6120e348e8ede9693f68f0c4f",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/94caee25-rea",
+        "sha": "f859030f664ea51de59e8e56c9950eee08607a83",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/84877cdd-rea",
+        "sha": "796349825591b5b00e4c77c8c8639147c3464ab7",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "d69acc3455c33f90a2fc4381db43d38b6af50622",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Light-skills",
+    "branches": [
+      {
+        "branch": "arena/ae80330d-light-skills",
+        "sha": "915f68ea3920439b667077069bd8e9fed492f4bb",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0c33a-light-skills",
+        "sha": "e848ab5f3a035a0cf8359f268cf70c1fdb1d909e",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0c338-light-skills",
+        "sha": "5a707f6a2701e2ef1377e379945d02b55c04fc0c",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0c342-light-skills",
+        "sha": "c17f4c5285b30b8fd3ed70af5c6b8914b5ee1cc0",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0c343-light-skills",
+        "sha": "71a938a71e1c8890cdda1815e7d1e680b7e97dd9",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0e7d3-light-skills",
+        "sha": "dd98d6be4c968e88d7a0e6ac3386f764e02ad8f8",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "master",
+        "sha": "6b44f57d1274eb38a6c79dc29c2d21e5e0a225a9",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/AgentArena",
+    "branches": [
+      {
+        "branch": "arena/01a0a3d6-agentarena",
+        "sha": "bd528028e08da4ef23c048d48639e18ae5d835b6",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a3ee-agentarena",
+        "sha": "33d1df17b194f94f19d169542b94bea2371ced9a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a3f1-agentarena",
+        "sha": "dbbd597eefc304ed7bfa5c51c6193aeb0e49a5ee",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "c9dc5b5eaed0ffd21bd456d47c97deeccc06b0f4",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/subs-check-pro",
+    "branches": [
+      {
+        "branch": "arena/d2a66b2d-subs-check-pro",
+        "sha": "ba4b89bdbab3449f3c006a64c2b13135fa64922f",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "d40d6174d67eb34671e21b0f146dc8a6781a8e2b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/social-auto-upload",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "3847fff01f5434a8a32829833163cd6723cabc59",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/EAgentX",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "e5da06068e478f881287523da9b4caa3adea2658",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/zhongqi",
+    "branches": [
+      {
+        "branch": "arena/01a0a95e-zhongqi",
+        "sha": "c88dafe6d28390de2690033f2d01fd885b37f833",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a949-zhongqi",
+        "sha": "79d893597cd8d61f612294b4c1ef0cc96a045526",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a984-zhongqi",
+        "sha": "409dd7861e6ebff600656bdbe788371b7f7cc583",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a09d79-zhongqi",
+        "sha": "554a5e1606e1cdd0631539a6befe4e5e61941696",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "6e7515933253b712c72add00def58184e25e9292",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/c_AMPs-prediction",
+    "branches": [
+      {
+        "branch": "arena/01a06f35-c-amps-prediction",
+        "sha": "112186f2d26b6a077c06b340743f09107ba0994b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a07ad2-c-amps-prediction",
+        "sha": "e0c65cab6efa565dc1429f3770d7701bd9641996",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a07b00-c-amps-prediction",
+        "sha": "d6701f4934c69b649c0ec26afdc3d451ea76c64e",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a07b9f-c-amps-prediction",
+        "sha": "cc28aa76a39523d75cbabe6b938dbca9f43edde4",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a079d0-c-amps-prediction",
+        "sha": "e6f2cbb4114af3a30f1c3ec1de9aec7f574da8a0",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a07059-c-amps-prediction",
+        "sha": "cd5d58093698cc755a5b61be1ac25275a84b3b01",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a07685-c-amps-prediction",
+        "sha": "db2244628271202c4ee25e94a45f1e66e3c4b082",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a07992-c-amps-prediction",
+        "sha": "4199bb0ceb927f11c21fd384d6c2ab9c3f9c9a04",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "master",
+        "sha": "cf7658bc5d504ba6d996fa7b152270e38275dc46",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/laya",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "1e28ac20c0896b1c37a744cd11f740eb98f8b178",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/BrowserSkill",
+    "branches": [
+      {
+        "branch": "arena/01a0b3c5-browserskill",
+        "sha": "0103a127320c7aeee0d798fa73da978a65828987",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0b25b-browserskill",
+        "sha": "ee7ee34f971b85c58eff7d7ccdfc896bf20fc0d9",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0b352-browserskill",
+        "sha": "19f48eb104d0c597e95b7f0d185c54f7f3140e49",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "75e2c64abaf4b7cc75682d94b0c1fd5db0cbd5e5",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/test-auto-arena",
+    "branches": [
+      {
+        "branch": "arena/01a0a93d-test-auto-arena",
+        "sha": "84ebc7b02230851106e07e4fb78c7177e14dfe8f",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a948-test-auto-arena",
+        "sha": "63c121f4407759c7e6a0e84821d3ebbccd2f8cce",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0ad03-test-auto-arena",
+        "sha": "933914d2faf9900b3d4fb567f741f821c327ee3e",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "3a3bc1fb2b2cb15dfa2963e5dc67e389793533f7",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/new",
+    "branches": [
+      {
+        "branch": "arena/01a0a90b-new",
+        "sha": "6fe3dc7602bf3bda6504226d2573c704c4c561c5",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0a839-new",
+        "sha": "0c1f015fab063edd7d10e787d8d2608b55b1a4b6",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a02707-new",
+        "sha": "3abefaf9bfdf367c01b462d2845b8920af2f294a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a02938-new",
+        "sha": "80854b6ef8dd6915426726900140102c5b54ce67",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "45b9ef432f82b63846b8ba38f516a08f1cd4a76b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/image-to-editable-pptx",
+    "branches": [
+      {
+        "branch": "arena/01a04caf-image-to-editable-pptx",
+        "sha": "14c1f5fe36f42a3d6e18942da934ced08356ae75",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "0554105595653aa6134c0df8ee5a36bbe0ec89ca",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/nature-skills",
+    "branches": [
+      {
+        "branch": "arena/01a08b52-nature-skills",
+        "sha": "c35162ba15ee87952254be478ee0f7310655f6ea",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a088f7-nature-skills",
+        "sha": "c62815a1f8db1b8af3f3e596d25dcc83d1345824",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0857d-nature-skills",
+        "sha": "5b974c3d010d9728d4b0732bbe267298306592e8",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "7e626a86a0ac8d078be224e0a76aa1327875b0a1",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Illustrator_MCP",
+    "branches": [
+      {
+        "branch": "arena/01a08e56-illustrator-mcp",
+        "sha": "557f89942e404a52f865d59ac5b959401531bd99",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0328a-illustrator-mcp",
+        "sha": "e07092bd56d6292d4aeaee4a1f41d3870d242258",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "master",
+        "sha": "c814a2922e627efcc9ff6914fb1bc7d51a9585bc",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/diagram-design",
+    "branches": [
+      {
+        "branch": "arena/01a08555-diagram-design",
+        "sha": "f549110d71a62f071b565c813436191ae202c08d",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "dcd9317ed9ec7477b20005544f36e3313664d815",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/HMD-AMP",
+    "branches": [
+      {
+        "branch": "arena/01a069cc-hmd-amp",
+        "sha": "805722ac08fefce2ff0833a46fdd1e2a09cc4639",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a06126-hmd-amp",
+        "sha": "c0756809b8854f94d513681c551fffa7e61dc4a4",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "158879d43b612b2000ee0ef541dc203cf495356e",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/cnki-skills",
+    "branches": [
+      {
+        "branch": "arena/01a01cb0-cnki-skills",
+        "sha": "06da8b7cc6b356aa6c4d65fa7a811eb357472e6f",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a0159f-cnki-skills",
+        "sha": "bec4f215612a24f1466a6427b3a413cde10c38e1",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "master",
+        "sha": "20d65f660456daf53ad0f7c74494ac3b829b925f",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/FigEcho",
+    "branches": [
+      {
+        "branch": "arena/01a0514c-figecho",
+        "sha": "21984f6999e8dbae255c16efeed0dca94a49fd74",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "1e6ca9026c71b4605fd7c47495f3cfde9eb846d9",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/needle",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "ee221ce7c13579d9809209b979a9b7a50936614c",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/ppt-master",
+    "branches": [
+      {
+        "branch": "arena/01a04331-ppt-master",
+        "sha": "024c01eb53bd2b48b53c767de038354e0c8d7831",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "skills/ppt-master/templates/icons/simple-icons/comicfury.svg",
+          "skills/ppt-master/templates/icons/simple-icons/dicebear.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-left-2.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-left.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-right-2.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-right.svg"
+        ]
+      },
+      {
+        "branch": "arena/01a04343-ppt-master",
+        "sha": "af938f94c2c70aab68c15fa28bc00e1b09f98ffc",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "skills/ppt-master/templates/icons/simple-icons/comicfury.svg",
+          "skills/ppt-master/templates/icons/simple-icons/dicebear.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-left-2.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-left.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-right-2.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-right.svg"
+        ]
+      },
+      {
+        "branch": "main",
+        "sha": "ebd74d1f1d61a686f0f80e10abde5029fc4beeca",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "skills/ppt-master/templates/icons/simple-icons/comicfury.svg",
+          "skills/ppt-master/templates/icons/simple-icons/dicebear.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-left-2.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-left.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-right-2.svg",
+          "skills/ppt-master/templates/icons/tabler-outline/arrow-bear-right.svg"
+        ]
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/xiaobei-skill",
+    "branches": [
+      {
+        "branch": "arena/01a04b24-xiaobei-skill",
+        "sha": "66977be14b2a81e5079ac808234d5efe8e625568",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "1b9fe1d3c5a73d069b4d3b516b7d60733784e0ea",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/drawio-scientific-illustrator",
+    "branches": [
+      {
+        "branch": "arena/01a0485f-drawio-scientific-illustrator",
+        "sha": "002b5eb1f084a1c0fcdbb7b790c002b37558bb3f",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "9bbeca93ffd134a29bfc90023f22c65359efe584",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/guizang-ppt-skill",
+    "branches": [
+      {
+        "branch": "arena/01a047c6-guizang-ppt-skill",
+        "sha": "4104ef945c1a23971d5e009053e018d4f5603c14",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a04819-guizang-ppt-skill",
+        "sha": "e74092bc52b1fd1dafb66e7617e7dfa73ded9d4e",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "c91369c449d34755d320a8b81d0734000d99d1ab",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/html-ppt-skill",
+    "branches": [
+      {
+        "branch": "arena/01a047b6-html-ppt-skill",
+        "sha": "ef0ec31e90c3916c3daa86e26643573d3296de77",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "f3a8435d3901697d5ac5e64d356c933637e43107",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/dashi-ppt-skill",
+    "branches": [
+      {
+        "branch": "arena/01a038e0-dashi-ppt-skill",
+        "sha": "028b552adc41cfbbed3036a269ccde6eac0f5153",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/01a038e7-dashi-ppt-skill",
+        "sha": "fc7b7c4260485b2d18a7b60db8fdaacdb83ebdfc",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "7cb23347f91cda1a5519eafc8c040704e389535a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/scipilot-figure-skill",
+    "branches": [
+      {
+        "branch": "arena/01a038ea-scipilot-figure-skill",
+        "sha": "3db0348045e7e56f1dd5608e8eb8b9583393d7da",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "43098ddb9e6a6d142218540c114f9ed38922fc42",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/PPTist",
+    "branches": [
+      {
+        "branch": "arena/01a038de-pptist",
+        "sha": "6a713e08be92e3fe29b4e2cfa0f1d3dafd892d8d",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "master",
+        "sha": "e4912589ffdbec389fcc1bf25a85852dfe3040a8",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/banana-slides",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "871cb401fa1b6cbbb2d28c653afe5cfeeb4ad46b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/CyberPPT",
+    "branches": [
+      {
+        "branch": "arena/01a02dd5-cyberppt",
+        "sha": "a1b08b3e7f71b6364f1ab7f26266695860500e6a",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "assets/icons/simple-icons/comicfury.svg",
+          "assets/icons/simple-icons/dicebear.svg",
+          "assets/icons/tabler-outline/arrow-bear-left-2.svg",
+          "assets/icons/tabler-outline/arrow-bear-left.svg",
+          "assets/icons/tabler-outline/arrow-bear-right-2.svg",
+          "assets/icons/tabler-outline/arrow-bear-right.svg"
+        ]
+      },
+      {
+        "branch": "main",
+        "sha": "980e5576565f0673c67ee41b01d20ed66cb8417c",
+        "truncated": false,
+        "error": null,
+        "hits": [
+          "assets/icons/simple-icons/comicfury.svg",
+          "assets/icons/simple-icons/dicebear.svg",
+          "assets/icons/tabler-outline/arrow-bear-left-2.svg",
+          "assets/icons/tabler-outline/arrow-bear-left.svg",
+          "assets/icons/tabler-outline/arrow-bear-right-2.svg",
+          "assets/icons/tabler-outline/arrow-bear-right.svg"
+        ]
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/scientific-figure-shapes",
+    "branches": [
+      {
+        "branch": "arena/01a02dd6-scientific-figure-shapes",
+        "sha": "e1f80c9cc27b8e52d105f2c8ad6dfa7a0b74e892",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "dac15079e1917308586e943a849c271d66887e8b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Auto-Empirical-Research-Skills",
+    "branches": [
+      {
+        "branch": "arena/01a01f0e-auto-empirical-research-skills",
+        "sha": "69e9a24e76e0274e09d2c78409f3935cd63d0442",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019fc0b5-auto-empirical-research-skills",
+        "sha": "fe4646af74a3f83a3781ac4866b51cce70c750ab",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019fc0c8-auto-empirical-research-skills",
+        "sha": "ef2d477f97afcf0556751dc65e0ec4adec65a0a0",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "0a46331554519ab955117f912c7a96bc0427b025",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Lark-Formatter",
+    "branches": [
+      {
+        "branch": "arena/01a01d74-lark-formatter",
+        "sha": "7a57fca386e07041f61fd7d9777d401f4f5420ce",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "9894d3e6e7d864cc34ddfbe192a36b38a1319e22",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/MedgeClaw",
+    "branches": [
+      {
+        "branch": "arena/01a0193d-medgeclaw",
+        "sha": "c0adc30a89e0863d0ca4ca7fdcc2a20a1284c7c7",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019f8d6f-medgeclaw",
+        "sha": "1ced4cc6cfd03b2a49b51a6ae6b7c61e82f30e2a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019f9dff-medgeclaw",
+        "sha": "83de81fe2a6c3be86c9981a4a70745fe765b26a8",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019f9e3b-medgeclaw",
+        "sha": "92932a62dae24aaf4dc025afa34a2fcd33d6b5ed",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019fa301-medgeclaw",
+        "sha": "aa24b362bda19ceaa8817d29a742d93addcc7ffb",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "fef51d37ee3e1f5754790d9ae20f72c006c78dcc",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/bioSkills",
+    "branches": [
+      {
+        "branch": "arena/019f9c4c-bioskills",
+        "sha": "6ec2ffa169744bfb8d70c7f8e4a76e47e714c48c",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019f9ce2-bioskills",
+        "sha": "59b2b1e1ed0cc88ce9deaffea3fc9a5511e12aba",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019f92fc-bioskills",
+        "sha": "7800f0115bf0d188e38f325ad168883534d23e74",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019f9317-bioskills",
+        "sha": "af92dde359a602e8b2227bf0eb629974867c65e2",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019fd7f1-bioskills",
+        "sha": "fc5e226e194e728bca377d9a94078e8bf56668dd",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "af92dde359a602e8b2227bf0eb629974867c65e2",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/ClawBio",
+    "branches": [
+      {
+        "branch": "arena/019fa326-clawbio",
+        "sha": "b5fc36178582d26ece5fd65dedf24a5e4c17ef9a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "f79f3ebeee8cda830f59a9307f1221ae748181df",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/OpenCut",
+    "branches": [
+      {
+        "branch": "arena/019fa121-opencut",
+        "sha": "4d8c49ed0706c4dc145361e01c6b1f1a87cbb863",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "4d8c49ed0706c4dc145361e01c6b1f1a87cbb863",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/bioSkills-data",
+    "branches": [
+      {
+        "branch": "arena/019f9c4c-bioskills",
+        "sha": "4ae075ccf37ef54309b3f598998c3c03f70a682b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "8cc87bd75e1509c2c2b486adcf5e421334ffa4a3",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/LMArenaBridge-new",
+    "branches": [
+      {
+        "branch": "arena/019f9957-lmarenabridge-new",
+        "sha": "1e95768c270fafaedf301df42817ea8f3914ebdb",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "bcd599eeda2628e34b2a7c52c533e5cb16e5fccf",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/lmarena2api-new",
+    "branches": [
+      {
+        "branch": "arena/019f98ef-lmarena2api-new",
+        "sha": "a0782f934b095676460dfe9b93179a30afb01f9d",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "bed9d7df7f72842d62feff2a1038453025c12371",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/AutoFigure-Edit",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "16f3749e9d512bdf7b7b55c162307bc289750b7a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/AMPidentifier",
+    "branches": [
+      {
+        "branch": "arena/019f9365-ampidentifier",
+        "sha": "ab21707f00c356421f572c8fd157196e52fb7768",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "0c0f788ad44917bbfa4b958baaf7209c71ddf0b1",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/peptimizer",
+    "branches": [
+      {
+        "branch": "arena/019f9358-peptimizer",
+        "sha": "8756d0ba225f7799667c596c2f75749e314128a3",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "master",
+        "sha": "665fa51e89b98e8ef280a95c6f26a82ecdb57f18",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Awesome-Journal-Skills",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "c82fe7682618eaa90799e6791a590a9e24855060",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/academic-ai-prompt",
+    "branches": [
+      {
+        "branch": "arena/019f8e0a-academic-ai-prompt",
+        "sha": "bed22d4289bfda45dbdb76bd745479c341800d3f",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "arena/019f8e05-academic-ai-prompt",
+        "sha": "ad1f18124ea47ce812a43f836368bbad7e0dc8ca",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "3b5128f35ffcf02c308d806ea09657b19a399370",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/OfficeCLI",
+    "branches": [
+      {
+        "branch": "arena/019f8deb-officecli",
+        "sha": "13a894a97ce08239fcbd944ef2f9262bfc96a498",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "9c78827d25d33f53664e68e7ec841d577c763632",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/office365-rest-python-client",
+    "branches": [
+      {
+        "branch": "arena/019f8d6d-office365-rest-python-client",
+        "sha": "6824ad6bcb7a29b68e0c5ce4a5eab6ee7256c91d",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "master",
+        "sha": "7612ef153f680102fd42a9b35f1935dc29e7184c",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/graduate-thesis-polish-and-write-skill",
+    "branches": [
+      {
+        "branch": "arena/019f8d59-graduate-thesis-polish-and-wri",
+        "sha": "4c24fe6ee04bdde03313f97e37ddbef1083c5964",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "main",
+        "sha": "dc35ec5561a525742ee9b6ca2a475ad6980492d0",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/officegen",
+    "branches": [
+      {
+        "branch": "arena/019f8d6f-officegen",
+        "sha": "5247fba361b1ae97ddd765af77eb15eed423ef13",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      },
+      {
+        "branch": "master",
+        "sha": "87dd5501968501555ea3bee60043affc9f67c1fa",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/kaggle-cli",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "42a173ef927cc0cfcd2b8dcf0f1d7daedc802032",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/ai-agents-for-beginners",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "265bf476c760618d51307fdb229d0360eacbe99d",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/omicverse",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "43bc8ac66e3ecb6b2ae50038524800c6b0c2395d",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/omicverse-tutorials",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "2a667facd85bf84c597e93a7048a2811f2fc889d",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/awesome-machine-learning",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "d26871fd3ba725ccd8d457dbef15ea1659bc29b9",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Colab-notebooks",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "eccfc80895acc33c7474021b9aeeed9f16351293",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/hello-agents",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "6c616938c521c89bc4b2bf001bf237d259f1726b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/nvidia-kaggle",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "410c70b0b076b0d0ca76f10a855e7e337d9bd09b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/free-ai-notebooks",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "f818db6a923faa7dc7d0dd2a0ce3638609adb322",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/kaggle-skill",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "1e695e852411b9928c85bcdca7661ecdeb97e105",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/PepADMET-Dataset",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "b353216c2896f079321483ca5da09fe599c7bb6a",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/DeepScientist",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "b36624417f0c6b8238ec02db37b94d6db2faa5b0",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/social-science-paper-writing-skill",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "6f4e06d261e353f57424dee51cdc471c82bc1320",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/biotools",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "d0eeb4f8545e7c3833ef885d5434d05b40392b3b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Awesome-Bioinformatics",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "86812b12322b1da5df821a2af2649607462633b9",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/HUMAN3_PROMPT",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "e52d88d7d45983b31366b2717fdfd47b5690571d",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Open-AutoGLM",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "86f55382982fb054e8fc98ca80609dff8a2cdc3c",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/deeplearning-biology",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "4dfa98a52bc230e54280ee887b105831ca36a2cb",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Machine-Learning-in-Biotechnology-and-Life-Sciences",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "5d03fda1b22b9a92bd33f741d64e4c969bca841b",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/Kaggle_remote_zrok",
+    "branches": [
+      {
+        "branch": "main",
+        "sha": "e4a2776759c974e2640c3fc6ea5a2b9f6423d889",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/CNKI-download",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "396facf9938f7953a7051feb4371b2e3ce0918ea",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/colabcode",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "702b82a6eed5742dd61d0f39e1079a09fd223461",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/bioinformatics",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "26fee00e65327c3dcecb2fc81aad51503e3e5064",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/OneClickRun",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "090a577f8a36fbcff2233a5a560171ab47e58595",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/study_kaggle_usage",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "4072b2d236bba83d5a84e068a563a24b9bf7d6c9",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/CNKI_2_BibTeX",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "d163498e5e54f8591574e68f4ba6eac6d61b34ee",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/dl-colab-notebooks",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "3622c82dbffc3d651bf931b5055447208bc0a546",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/remokaggle",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "134d50ee89d5774ac79734e09bf90dd3ec4ad848",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  },
+  {
+    "repo": "mqgg5630-cyber/writtingskills",
+    "branches": [
+      {
+        "branch": "master",
+        "sha": "24f7eaee128363edad1105a2f98c9dc115009054",
+        "truncated": false,
+        "error": null,
+        "hits": []
+      }
+    ],
+    "branch_page_full": false
+  }
+]
