@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "note_id": "6a8d375100000000240268e9",
+  "title": "海绵宝宝 & 派大星四季治愈壁纸✨",
+  "author": "申小兮-AI视觉",
+  "share_url": "https://xhslink.cn/o/5CIq9nE8i38",
+  "replica_count": 10,
+  "style_anchor": "复刻风格取自原帖 1 / 3 / 5 三张：1 号为扁平二维卡通 + 顶部整片纯色留白，3 号与 5 号为粘土微缩 + 大面积天空留白。2 / 4 / 6 号油画质感仅作参考，未模仿。",
+  "generation": {
+    "model_native_size": "768x1376",
+    "final_size": "1080x1920",
+    "method": "crop to 1080:1920 (top-anchored crop of the empty sky), then Lanczos resample; never stretched",
+    "reference_images": [
+      "01-下载原图/01.webp (扁平卡通 4 张)",
+      "01-下载原图/03.webp + 05.webp (粘土 6 张)"
+    ],
+    "per_file_native_size": {
+      "01-樱花窗边的两杯拿铁": [
+        768,
+        1376
+      ],
+      "02-融化的两支甜筒": [
+        768,
+        1376
+      ],
+      "03-共用一副耳机": [
+        768,
+        1376
+      ],
+      "04-壁炉边的两杯热可可": [
+        768,
+        1376
+      ],
+      "05-山坡上的第一只风筝": [
+        768,
+        1376
+      ],
+      "06-蒲公英的第一口气": [
+        768,
+        1376
+      ],
+      "07-半个西瓜两根吸管": [
+        768,
+        1376
+      ],
+      "08-背靠背数星星": [
+        768,
+        1376
+      ],
+      "09-扫不完的落叶": [
+        768,
+        1376
+      ],
+      "10-一把伞两个人": [
+        768,
+        1376
+      ]
+    }
+  },
+  "clean_ui_policy": "03/04 previews are separate files; 02 clean wallpapers are never overwritten.",
+  "ui": "Deterministic illustrative lock and home previews; not device screenshots.",
+  "sources": [
+    {
+      "file": "01-下载原图/01.webp",
+      "width": 1080,
+      "height": 1922,
+      "bytes": 87996,
+      "sha256": "45c351ae1aa64fce016b1cbd52db767174df62322b4d86b663622ccbbf7fc750"
+    },
+    {
+      "file": "01-下载原图/02.webp",
+      "width": 1080,
+      "height": 1922,
+      "bytes": 218826,
+      "sha256": "13a3b3f74b331229ba6bef1d9a202d917eb8480e54acc22924ed0a7bc29531c1"
+    },
+    {
+      "file": "01-下载原图/03.webp",
+      "width": 1080,
+      "height": 1922,
+      "bytes": 99788,
+      "sha256": "b03a53d2aaf735802d5baa9b528708e8b905cc6dab14e363128badc61b863786"
+    },
+    {
+      "file": "01-下载原图/04.webp",
+      "width": 1080,
+      "height": 1922,
+      "bytes": 170438,
+      "sha256": "10395a65101ac8f92b88ca74fbd8aab028408057eafbcb0d20529480a084fb3d"
+    },
+    {
+      "file": "01-下载原图/05.webp",
+      "width": 1080,
+      "height": 1922,
+      "bytes": 103632,
+      "sha256": "d358b0edcf2edabefbd4a7e8013449ee1695a28d349afb694e934c7888634fdf"
+    },
+    {
+      "file": "01-下载原图/06.webp",
+      "width": 1080,
+      "height": 1922,
+      "bytes": 316096,
+      "sha256": "473ad785d3612b745afc47c617b8264b877140f6a8e5e499844d849e3c8ac1c2"
+    }
+  ],
+  "clean": [
+    {
+      "file": "02-复刻无手机UI/01-樱花窗边的两杯拿铁.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1523942,
+      "sha256": "cfc016902b13565b93c42b55673e74d27a34355c50befb111f585021c639d2ce",
+      "style": "flat-2d"
+    },
+    {
+      "file": "02-复刻无手机UI/02-融化的两支甜筒.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1526630,
+      "sha256": "cb4053b310a0e87a002801149a359d105d50f5c44f3b54d2480ce4caefe19a57",
+      "style": "flat-2d"
+    },
+    {
+      "file": "02-复刻无手机UI/03-共用一副耳机.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1581499,
+      "sha256": "ae037bbdc2951991d6d4ae67a0da991107906cdcb1f70aa526a1e3004f447ccb",
+      "style": "flat-2d"
+    },
+    {
+      "file": "02-复刻无手机UI/04-壁炉边的两杯热可可.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1633529,
+      "sha256": "651d40e748c4e40d6aeeba199fe1d95737b71f0992ba78d5d05f8eda12647a82",
+      "style": "flat-2d"
+    },
+    {
+      "file": "02-复刻无手机UI/05-山坡上的第一只风筝.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1860670,
+      "sha256": "ebb5b23fe2be7e739eee177b6b4b317d5f6a07ec05069dac5e74083666c07a32",
+      "style": "clay-3d"
+    },
+    {
+      "file": "02-复刻无手机UI/06-蒲公英的第一口气.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1587649,
+      "sha256": "a176f645817b521b215ee14d2a72b52637d5e6c3c90c30829f010e4bd6f1bc45",
+      "style": "clay-3d"
+    },
+    {
+      "file": "02-复刻无手机UI/07-半个西瓜两根吸管.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1646477,
+      "sha256": "08856c895ab594234bc10372552bc5c77321e8830864eb28a664ac24ee96f3ac",
+      "style": "clay-3d"
+    },
+    {
+      "file": "02-复刻无手机UI/08-背靠背数星星.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1842186,
+      "sha256": "c43909ff51d71df4215553a6a77e559773c5660fa0aaffaddf2329bd7bb62dee",
+      "style": "clay-3d"
+    },
+    {
+      "file": "02-复刻无手机UI/09-扫不完的落叶.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1770296,
+      "sha256": "b85cae0c49426433332a3d3dd67aa4a392f2f225faec95de56a94732fcbce416",
+      "style": "clay-3d"
+    },
+    {
+      "file": "02-复刻无手机UI/10-一把伞两个人.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1976798,
+      "sha256": "e1affba52eecc6369b9405ecef5f7c9ccd960940f07d4cd7396675bca187da51",
+      "style": "clay-3d"
+    }
+  ],
+  "lock_previews": [
+    {
+      "file": "03-锁屏预览/01-樱花窗边的两杯拿铁-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 243454,
+      "sha256": "f112b79d676bd71770f5d196cd43c5f35a4e722e08e71a6ae1693763919a22f6"
+    },
+    {
+      "file": "03-锁屏预览/02-融化的两支甜筒-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 237715,
+      "sha256": "b1f3de27d63163dfec21d8a1b28dd88d4b42e2c41f1471148d0dba8184370f64"
+    },
+    {
+      "file": "03-锁屏预览/03-共用一副耳机-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 250170,
+      "sha256": "093232604476d13ba8a4e47e9d6023c8befad7482526da126df41d96405fa534"
+    },
+    {
+      "file": "03-锁屏预览/04-壁炉边的两杯热可可-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 270401,
+      "sha256": "5120bf253683839151f47c1cc170c99857aecebf393dc8e3a5f8c672bcb6f00a"
+    },
+    {
+      "file": "03-锁屏预览/05-山坡上的第一只风筝-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 270725,
+      "sha256": "c8bfecc4b8048b8f232ac82df0a14eb94b4096e2659b70039f07508fe947ab20"
+    },
+    {
+      "file": "03-锁屏预览/06-蒲公英的第一口气-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 213640,
+      "sha256": "55a9834058df9ad7237904eccf9a9c04f55c33d93c5176df96f3b8f9b1374e87"
+    },
+    {
+      "file": "03-锁屏预览/07-半个西瓜两根吸管-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 217446,
+      "sha256": "29acc4b5c313e1e62d8efe6ec712cb8787f05ff3822ae93b9cdfd69bf7a70896"
+    },
+    {
+      "file": "03-锁屏预览/08-背靠背数星星-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 250704,
+      "sha256": "2207d87e0ce68a54d37ca23da27fc079aaff29663e1d04baad2b4c63f2dd09af"
+    },
+    {
+      "file": "03-锁屏预览/09-扫不完的落叶-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 259104,
+      "sha256": "8534010da2635162b1774bbd83c37e329942ffc1fd7438d4be74483ad642b899"
+    },
+    {
+      "file": "03-锁屏预览/10-一把伞两个人-锁屏.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 290015,
+      "sha256": "98988d3df03126f66f61981f3c98687a5b41514e311da630a63ce2922de195fb"
+    }
+  ],
+  "home_previews": [
+    {
+      "file": "04-桌面预览/01-樱花窗边的两杯拿铁-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 106335,
+      "sha256": "0931e34cbd97bc030c7c4522c7f9f8d1ffc9472aa25856fbef4cb5dd18cdef4a"
+    },
+    {
+      "file": "04-桌面预览/02-融化的两支甜筒-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 113024,
+      "sha256": "12978aef4391e38958ee5e9d8cf4b5c4676903cb279c13780d147f9576700fe1"
+    },
+    {
+      "file": "04-桌面预览/03-共用一副耳机-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 108857,
+      "sha256": "bd747b49d39d607cbb2bb852d20253bcdd84d70f963675d290ed9bf43fa71c25"
+    },
+    {
+      "file": "04-桌面预览/04-壁炉边的两杯热可可-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 111574,
+      "sha256": "a8ab9cd15e327cde737edf3858c176a8625ec205bf5b67a765ebfc25400928d5"
+    },
+    {
+      "file": "04-桌面预览/05-山坡上的第一只风筝-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 117926,
+      "sha256": "dbd9960c8538293073aaea8c8123d547e93272628323d4096d18a5df249cc99e"
+    },
+    {
+      "file": "04-桌面预览/06-蒲公英的第一口气-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 109066,
+      "sha256": "cdf477c4fbab6b5cc0dca6d535229065d3912590c54e73214105e99fcc118fe1"
+    },
+    {
+      "file": "04-桌面预览/07-半个西瓜两根吸管-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 110224,
+      "sha256": "a96f6502b6966bc48ad1600586175c09357b8e80407629e38e3dc485266c0528"
+    },
+    {
+      "file": "04-桌面预览/08-背靠背数星星-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 143672,
+      "sha256": "061ecaad46adec562a274f3a3d9fa13a883d10ece20ecec5b1b9710beccfa02a"
+    },
+    {
+      "file": "04-桌面预览/09-扫不完的落叶-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 118728,
+      "sha256": "25563bade305f1b6f4c84a18b4a8ca1e332d5d6d88650cc7f66bac062d764552"
+    },
+    {
+      "file": "04-桌面预览/10-一把伞两个人-桌面.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 138137,
+      "sha256": "8ccb34f9fcf9a75c05b8429c1f7aa5cd2e86fbd76aa1e2348b8d190ef1a38bd2"
+    }
+  ],
+  "sheets": [
+    {
+      "file": "05-说明与验收/下载原图总览.jpg",
+      "width": 980,
+      "height": 952,
+      "bytes": 185243,
+      "sha256": "45e720425bc5080ba8c715fe3edf0a19de88d47a2023901bce43437e23af4906"
+    },
+    {
+      "file": "05-说明与验收/封面-双机预览-无UI.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 196301,
+      "sha256": "cf3fccb152a771861cc06b6522f19a03d688e53c108a3ca113b4c1c9be5c8d71"
+    },
+    {
+      "file": "05-说明与验收/封面-双机预览-锁屏.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 201577,
+      "sha256": "f718a754fdaa96cec28254786b3964a81f67ddb3cb6a0383855814d0b2e7873a"
+    },
+    {
+      "file": "05-说明与验收/无UI总览.jpg",
+      "width": 1170,
+      "height": 952,
+      "bytes": 227611,
+      "sha256": "f0d980d231fcb515372878f7e07023d6d03eb9a6b99a25a2ff0eacd33fc816b0"
+    },
+    {
+      "file": "05-说明与验收/桌面预览总览.jpg",
+      "width": 1170,
+      "height": 952,
+      "bytes": 151800,
+      "sha256": "47edbb7fbdc9c57cc71226aa1f300f3b28973945320459b081192ad82b476306"
+    },
+    {
+      "file": "05-说明与验收/锁屏预览总览.jpg",
+      "width": 1170,
+      "height": 952,
+      "bytes": 256676,
+      "sha256": "15e24615d7d504ec82b9de800b1a2503d482b7bc4612b38a612f336cf0f529ba"
+    }
+  ]
+}
