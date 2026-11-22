@@ -1,0 +1,13 @@
+{
+  "status": "partial_rate_limited",
+  "root": "11nkWrd7nYMD4BiK5KLN13Dyi3HEskqiw",
+  "source_folder": "1btvju7ycCOqQJSU9t5Q8gV8i8C-2EmZ7",
+  "images_folder": "1lLtTRkbQYlKLpke9ya6rSXkkoIztbvKe",
+  "ui_folder": "1k_x_QGvaZ-YdSgTxiJf12SUW0O-SAzCX",
+  "uploaded_source": ["01.webp", "02.webp", "03.webp", "04.webp", "05.webp"],
+  "uploaded_images": ["01.png", "02.png", "03.png", "05.png"],
+  "missing_images": ["04.png", "06.png", "07.png", "08.png", "09.png", "10.png"],
+  "missing_ui": ["01.png", "02.png", "03.png", "04.png", "05.png", "06.png", "07.png", "08.png", "09.png", "10.png"],
+  "missing_previews": ["00-原片总预览.jpg", "00-无UI总预览.jpg", "00-模拟UI总预览.jpg"],
+  "verification": "Upload response MD5 matched for five sources and four uploaded images; final folder listing not yet checked."
+}
