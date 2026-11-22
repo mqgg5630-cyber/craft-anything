@@ -1,0 +1,34 @@
+{
+  "status": "partial_rate_limited",
+  "folder_url": "https://drive.google.com/drive/folders/1N0eKeK3K06yUQzwNSRSKky-WVJrdgrze",
+  "folder_ids": {
+    "images": "1vfm-vZw8u6CfW5lyneyqybF3StOpwssC",
+    "ui": "1s-VnYbjWnKuchnHLl6bbksdBPbGbDqfP"
+  },
+  "verified_by_list_md5": {
+    "images/08.png": "66bc49f2f87d197ea68d7468d80756ab",
+    "ui/01.png": "5e0f950aa7debfbec84190ea82f39fee",
+    "ui/05.png": "a05811ce7453f368ef2e5b9190e6f4de",
+    "ui/10.png": "f37221472f25953dbe409b4c9dc162e5",
+    "00-无UI总预览.jpg": "fcdbf2f93f3b57678dfa69a5dd16a8ce",
+    "00-模拟UI总预览.jpg": "b18bd9c0cff9b7b815767b4ba74d4c32"
+  },
+  "pending": [
+    "images/01.png",
+    "images/02.png",
+    "images/03.png",
+    "images/04.png",
+    "images/05.png",
+    "images/06.png",
+    "images/07.png",
+    "images/09.png",
+    "images/10.png",
+    "ui/02.png",
+    "ui/03.png",
+    "ui/04.png",
+    "ui/06.png",
+    "ui/07.png",
+    "ui/08.png",
+    "ui/09.png"
+  ]
+}
