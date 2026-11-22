@@ -1,0 +1,412 @@
+{
+  "generation_calls": 10,
+  "theme_count": 1,
+  "native_dimensions": {
+    "01-phone": [
+      768,
+      1376
+    ],
+    "02-desktop": [
+      1376,
+      768
+    ],
+    "03-ipad-landscape": [
+      1200,
+      896
+    ],
+    "04-ipad-portrait": [
+      896,
+      1200
+    ],
+    "05-watch": [
+      1024,
+      1024
+    ],
+    "06-avatar-a": [
+      1024,
+      1024
+    ],
+    "07-avatar-b": [
+      1024,
+      1024
+    ],
+    "08-moments": [
+      1456,
+      720
+    ],
+    "09-qq-profile": [
+      1376,
+      768
+    ],
+    "10-chat": [
+      768,
+      1376
+    ]
+  },
+  "rules": "No face crop enlargement. Dedicated source per use. Native images retained. UI generic simulation. 4K exports are interpolation, not native 4K.",
+  "files": [
+    {
+      "file": "01-手机-无UI-原生.png",
+      "source": "01-phone",
+      "size": [
+        768,
+        1376
+      ],
+      "process": "native_full_canvas_no_crop",
+      "md5": "56a53bcfcb7d630078a817b03734a544",
+      "bytes": 1265905
+    },
+    {
+      "file": "01-手机-UI模拟.jpg",
+      "source": "01-phone",
+      "size": [
+        768,
+        1376
+      ],
+      "process": "overlay_only_no_crop",
+      "md5": "e4ff97fe2a3ea80696e26df6edca23b2",
+      "bytes": 390804
+    },
+    {
+      "file": "02-电脑-无UI-原生.png",
+      "source": "02-desktop",
+      "size": [
+        1376,
+        768
+      ],
+      "process": "native_full_canvas_no_crop",
+      "md5": "e27a0c9a4c4a8a5af9d5f3ae02fb2edb",
+      "bytes": 1235483
+    },
+    {
+      "file": "02-电脑-UI模拟.jpg",
+      "source": "02-desktop",
+      "size": [
+        1376,
+        768
+      ],
+      "process": "overlay_only_no_crop",
+      "md5": "ed92c7d16e7e27680bea565791416d37",
+      "bytes": 367407
+    },
+    {
+      "file": "03-iPad横屏-无UI-原生.png",
+      "source": "03-ipad-landscape",
+      "size": [
+        1200,
+        896
+      ],
+      "process": "native_full_canvas_no_crop",
+      "md5": "f645cb147909c8913af1958f28041bdf",
+      "bytes": 1445002
+    },
+    {
+      "file": "03-iPad横屏-UI模拟.jpg",
+      "source": "03-ipad-landscape",
+      "size": [
+        1200,
+        896
+      ],
+      "process": "overlay_only_no_crop",
+      "md5": "dce35c3f845b6212d6727fc0e4b20b7c",
+      "bytes": 425964
+    },
+    {
+      "file": "04-iPad竖屏-无UI-原生.png",
+      "source": "04-ipad-portrait",
+      "size": [
+        896,
+        1200
+      ],
+      "process": "native_full_canvas_no_crop",
+      "md5": "8804d305832e40507571d1b56a8493dc",
+      "bytes": 1202743
+    },
+    {
+      "file": "04-iPad竖屏-UI模拟.jpg",
+      "source": "04-ipad-portrait",
+      "size": [
+        896,
+        1200
+      ],
+      "process": "overlay_only_no_crop",
+      "md5": "7880d6b7a1c2af2244aba2d092787d8e",
+      "bytes": 373352
+    },
+    {
+      "file": "05-手表方形-无UI-原生.png",
+      "source": "05-watch",
+      "size": [
+        1024,
+        1024
+      ],
+      "process": "native_full_canvas_no_crop",
+      "md5": "977efb5404235de1b0670a28707619cc",
+      "bytes": 1352872
+    },
+    {
+      "file": "05-手表方形-UI模拟.jpg",
+      "source": "05-watch",
+      "size": [
+        1024,
+        1024
+      ],
+      "process": "overlay_only_no_crop",
+      "md5": "d09d11c22b19500600ced9a8b98153c6",
+      "bytes": 384574
+    },
+    {
+      "file": "06-情头A白熊-无UI-原生.png",
+      "source": "06-avatar-a",
+      "size": [
+        1024,
+        1024
+      ],
+      "process": "native_full_canvas_no_crop",
+      "md5": "66bc06a3cba56a885896e3d2d60c7dde",
+      "bytes": 1239171
+    },
+    {
+      "file": "07-情头B棕熊-无UI-原生.png",
+      "source": "07-avatar-b",
+      "size": [
+        1024,
+        1024
+      ],
+      "process": "native_full_canvas_no_crop",
+      "md5": "da8f989d7c53fa473a40bbe2d427bcc8",
+      "bytes": 1318222
+    },
+    {
+      "file": "08-朋友圈横幅-无UI-原生.png",
+      "source": "08-moments",
+      "size": [
+        1456,
+        720
+      ],
+      "process": "native_full_canvas_no_crop",
+      "md5": "2b97d48636c6b97fa6ad4da100bf8f7a",
+      "bytes": 1398100
+    },
+    {
+      "file": "09-QQ主页横幅-无UI-原生.png",
+      "source": "09-qq-profile",
+      "size": [
+        1376,
+        768
+      ],
+      "process": "native_full_canvas_no_crop",
+      "md5": "4e4bf5228350b61d4501b5cb2dfb14d9",
+      "bytes": 1278718
+    },
+    {
+      "file": "10-聊天背景-无UI-原生.png",
+      "source": "10-chat",
+      "size": [
+        768,
+        1376
+      ],
+      "process": "native_with_typeset_no_crop",
+      "md5": "f5cf2506476aba59da19c8ea1696db15",
+      "bytes": 1409892
+    },
+    {
+      "file": "10-聊天背景-UI模拟.jpg",
+      "source": "10-chat",
+      "size": [
+        768,
+        1376
+      ],
+      "process": "overlay_only_no_crop",
+      "md5": "0e27397aa9750b806f21d1c3b3952e0e",
+      "bytes": 299291
+    },
+    {
+      "file": "06-情头A白熊-圆形UI展示.jpg",
+      "source": "06-avatar-a",
+      "size": [
+        1200,
+        1320
+      ],
+      "process": "full_avatar_scaled_down_circle_mask_preview_only",
+      "md5": "f9eb7adbc1fa6f76ea04b265b25b7614",
+      "bytes": 291562
+    },
+    {
+      "file": "07-情头B棕熊-圆形UI展示.jpg",
+      "source": "07-avatar-b",
+      "size": [
+        1200,
+        1320
+      ],
+      "process": "full_avatar_scaled_down_circle_mask_preview_only",
+      "md5": "57fbc29d5e8a937a401773d4a0472904",
+      "bytes": 291825
+    },
+    {
+      "file": "08-朋友圈-主页UI模拟.jpg",
+      "source": "08-moments",
+      "size": [
+        1080,
+        1440
+      ],
+      "process": "whole_header_contain_no_scene_crop",
+      "md5": "cd69c54b8d9ceb7e5e110bbc3e8d397f",
+      "bytes": 345432
+    },
+    {
+      "file": "09-QQ主页-主页UI模拟.jpg",
+      "source": "09-qq-profile",
+      "size": [
+        1080,
+        1440
+      ],
+      "process": "whole_header_contain_no_scene_crop",
+      "md5": "4f1f5294abbd837a9b24dfa7c6515e10",
+      "bytes": 279890
+    },
+    {
+      "file": "11-手机桌面-UI模拟.jpg",
+      "source": "01-phone",
+      "size": [
+        768,
+        1376
+      ],
+      "process": "overlay_only_no_crop",
+      "md5": "fbafdc09783d5bed1bc65e3bca053005",
+      "bytes": 370547
+    },
+    {
+      "file": "12-手表竖屏-无UI.png",
+      "source": "05-watch",
+      "size": [
+        396,
+        484
+      ],
+      "process": "whole_square_scaled_down_plus_top_clock_safe_matte",
+      "md5": "e648f0bf18012c0597ae5c13d568c2d2",
+      "bytes": 195049
+    },
+    {
+      "file": "12-手表竖屏-UI模拟.jpg",
+      "source": "05-watch",
+      "size": [
+        396,
+        484
+      ],
+      "process": "whole_square_plus_matte_and_overlay",
+      "md5": "1a1208f9be85864dce4844bbc1141900",
+      "bytes": 69537
+    },
+    {
+      "file": "13-情侣壁纸-A白熊-无UI.png",
+      "source": "06-avatar-a + 01-phone",
+      "size": [
+        768,
+        1376
+      ],
+      "process": "full_avatar_badge_scaled_down_over_phone_scene_no_face_crop",
+      "md5": "8e7ce92cd4703a9ca2d476a19cfbcf90",
+      "bytes": 1287142
+    },
+    {
+      "file": "13-情侣壁纸-A白熊-UI模拟.jpg",
+      "source": "06-avatar-a + 01-phone",
+      "size": [
+        768,
+        1376
+      ],
+      "process": "full_avatar_composite_with_clock",
+      "md5": "2a863b0f64f73a8e92a717f16b2ab004",
+      "bytes": 401790
+    },
+    {
+      "file": "13-情侣壁纸-B棕熊-无UI.png",
+      "source": "07-avatar-b + 01-phone",
+      "size": [
+        768,
+        1376
+      ],
+      "process": "full_avatar_badge_scaled_down_over_phone_scene_no_face_crop",
+      "md5": "c4b005e6cbe1d1da0feb5d2cc8b6ab66",
+      "bytes": 1288911
+    },
+    {
+      "file": "13-情侣壁纸-B棕熊-UI模拟.jpg",
+      "source": "07-avatar-b + 01-phone",
+      "size": [
+        768,
+        1376
+      ],
+      "process": "full_avatar_composite_with_clock",
+      "md5": "9b9537e48591707b58225da8c3ce085d",
+      "bytes": 404024
+    },
+    {
+      "file": "14-手机1440p-无UI.png",
+      "source": "01-phone",
+      "size": [
+        1440,
+        2560
+      ],
+      "process": "full_canvas_contain_tiny_ratio_padding_interpolation_not_native_4k",
+      "md5": "cc773a91efb9d213858012223318919b",
+      "bytes": 3082740
+    },
+    {
+      "file": "15-电脑4K导出-无UI.png",
+      "source": "02-desktop",
+      "size": [
+        3840,
+        2160
+      ],
+      "process": "full_canvas_contain_tiny_ratio_padding_interpolation_not_native_4k",
+      "md5": "bc85e060cfaa9b3d7ea31cbc825d379e",
+      "bytes": 4924290
+    },
+    {
+      "file": "16-iPad横屏导出-无UI.png",
+      "source": "03-ipad-landscape",
+      "size": [
+        2732,
+        2048
+      ],
+      "process": "full_canvas_contain_tiny_ratio_padding_interpolation_not_native_4k",
+      "md5": "f1042414f94479497032597d0e893cb9",
+      "bytes": 4938243
+    },
+    {
+      "file": "17-iPad竖屏导出-无UI.png",
+      "source": "04-ipad-portrait",
+      "size": [
+        2048,
+        2732
+      ],
+      "process": "full_canvas_contain_tiny_ratio_padding_interpolation_not_native_4k",
+      "md5": "fc96d5999549a8f85be1138a30029a6d",
+      "bytes": 3733223
+    },
+    {
+      "file": "18-动态光点-720p.mp4",
+      "source": "01-phone",
+      "size": [
+        720,
+        1280
+      ],
+      "process": "periodic_particles_no_character_animation",
+      "md5": "6208b7522449f4bc560d253684fb7cd0",
+      "bytes": 262474
+    },
+    {
+      "file": "18-动态预览-低清.gif",
+      "source": "01-phone",
+      "size": [
+        270,
+        480
+      ],
+      "process": "periodic_particles_no_character_animation",
+      "md5": "7a2496b580166e64a8ee756522d9ced0",
+      "bytes": 2301112
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "status": "awaiting_user_style_selection",
-  "selected_style": null,
+  "status": "user_selected",
+  "selected_style": "09-可可晚安灯串",
   "generation_calls": 10,
   "files": [
     {

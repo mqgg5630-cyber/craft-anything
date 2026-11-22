@@ -1,0 +1,16 @@
+{
+  "status":"user_selected",
+  "id":"09-cocoa-goodnight-lights",
+  "name":"可可晚安灯串",
+  "reference":"deliveries/tom-chat-style-10/images/09-可可晚安灯串.png",
+  "scope":"default for future chat backgrounds, preserve each input character identity and drawing style",
+  "palette":["warm cocoa taupe","cream","amber lights","muted coral hearts"],
+  "motifs":["delicate amber light string on upper edge","cream crescent moons","few small warm hearts","soft cushion/blanket"],
+  "subject_band":[0.24,0.55],
+  "quote":"走过你的朝朝暮暮",
+  "quote_band":[0.07,0.12],
+  "names_band":[0.57,0.61],
+  "names_rule":"use current pair names, never carry tom/jerry to other characters",
+  "keyboard_preview_start":0.64,
+  "warning":"keyboard height and app crop vary; check the chosen device; never burn keyboard into clean deliverable"
+}
