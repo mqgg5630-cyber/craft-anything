@@ -1,9 +1,11 @@
 name: Little Prince public source download
 on:
+  workflow_dispatch:
   push:
-    branches: ['arena/e134e8d7-craft-anything']
+    branches: ['arena/09e7b6a9-craft-anything']
     paths:
       - 'tools/wallpaper-job/download_little_prince.py'
+      - 'deliveries/little-prince-xhs-10/source-manifest.json'
       - '.github/workflows/little-prince-download.yml'
 permissions:
   contents: write
