@@ -111,15 +111,19 @@ def main(share_url, out_dir):
                 pages.append(f'https://{host}/{path}/{note_id}{qs}')
     pages.append(share_url)
     for page in pages:
-        for ua in (DESKTOP, MOBILE):
+        for ua in ('Mozilla/5.0', DESKTOP, MOBILE):
             try:
                 req = urllib.request.Request(page, headers={'User-Agent': ua, 'Accept-Language': 'zh-CN,zh;q=0.9'})
                 with urllib.request.urlopen(req, timeout=35) as resp:
                     final = resp.geturl()
                     html = resp.read(8 * 1024 * 1024).decode('utf-8', 'replace')
-                meta, lists = parse_page(html, note_id)
-                tried.append({'host': urllib.parse.urlparse(page).netloc, 'mobile': ua == MOBILE,
-                              'login_redirect': '/login' in final, 'images': len(lists)})
+                login = '/login' in final
+                meta, lists = ({}, []) if login else parse_page(html, note_id)
+                tried.append({'host': urllib.parse.urlparse(page).netloc,
+                              'path': urllib.parse.urlparse(page).path.split('/')[1],
+                              'ua': 'plain' if ua == 'Mozilla/5.0' else ('mobile' if ua == MOBILE else 'desktop'),
+                              'final_host': urllib.parse.urlparse(final).netloc,
+                              'login_redirect': login, 'images': len(lists)})
                 print(tried[-1], flush=True)
                 if lists:
                     break
