@@ -3,6 +3,8 @@ import io
 from pathlib import Path
 import tempfile
 import unittest
+import json
+import urllib.parse
 from unittest.mock import patch
 
 
@@ -101,6 +103,33 @@ class DownloadTests(unittest.TestCase):
             manifest = __import__('json').loads((folder / '下载记录.json').read_text())
             self.assertEqual(manifest['image_count'], 2)
             self.assertEqual(manifest['images'][0]['file'], '01.png')
+
+    def test_retries_cn_explore_on_login_wall(self):
+        login_url = 'https://www.rednote.com/login?redirectPath=' + urllib.parse.quote(
+            'http://www.rednote.com/discovery/item/6ad212fc000000001802d6be?xsec_token=CBJWQnqV3N9jFvZEw9d-P2ivAQywV0TSY_IY2lRh8EPj8%3D')
+        note_html = '<script>window.__INITIAL_STATE__ = ' + json.dumps(
+            make_initial_state([{'urlDefault': 'https://x/1'}])) + ';</script>'
+        calls = {'n': 0}
+        login_resp = FakeResponse(b'<html>login</html>', url=login_url)
+        note_resp = FakeResponse(note_html.encode('utf-8'),
+                                 url='https://www.xiaohongshu.com/explore/6ad212fc000000001802d6be')
+        responses = [login_resp, note_resp]
+
+        def side_effect(req, *args, **kwargs):
+            resp = responses[min(calls['n'], len(responses) - 1)]
+            calls['n'] += 1
+            return resp
+
+        with tempfile.TemporaryDirectory() as directory, \
+                patch.object(job, 'ROOT', Path(directory) / 'deliveries' / 'lululu-sunset'), \
+                patch.object(job.urllib.request, 'urlopen', side_effect=side_effect), \
+                patch.object(job, 'fetch', side_effect=lambda u: (png_bytes(), 320, 640, 'png')):
+            job.main()
+            folder = job.ROOT / '01-下载原片'
+            self.assertEqual(len(list(folder.glob('*.png'))), 1)
+            debug = json.loads((job.ROOT / 'download-debug.json').read_text())
+            self.assertEqual(debug['status'], 'downloaded')
+            self.assertEqual(len(debug['attempts']), 2)
 
     def test_no_manifest_after_total_failure(self):
         with tempfile.TemporaryDirectory() as directory, \

@@ -17,6 +17,7 @@ from the committed file without touching the images locally.
 import hashlib
 import json
 import re
+import urllib.parse
 import urllib.request
 from pathlib import Path
 from download import fetch
@@ -132,9 +133,22 @@ def main():
     # URLs directly. Still fully cookie-less; this just tries the canonical public
     # page that often serves anonymous viewers.
     if not image_lists and 'login' in (final_url or '').lower():
-        note_id = extract_note_id(final_url) or extract_note_id(SHARE_URL)
-        for candidate in [f'https://www.xiaohongshu.com/explore/{note_id}',
-                          f'https://www.xiaohongshu.com/discovery/item/{note_id}'] if note_id else []:
+        # The note id lives in a URL-encoded redirectPath query parameter.
+        parsed = urllib.parse.urlparse(final_url)
+        redirect = urllib.parse.unquote(urllib.parse.parse_qs(parsed.query).get('redirectPath', [''])[0])
+        note_id = extract_note_id(redirect) or extract_note_id(urllib.parse.unquote(SHARE_URL))
+        xsec = ''
+        m = re.search(r'xsec_token=([^&]+)', redirect)
+        if m:
+            xsec = urllib.parse.unquote(m.group(1))
+        candidates = []
+        if note_id:
+            explore = f'https://www.xiaohongshu.com/explore/{note_id}'
+            if xsec:
+                explore += f'?xsec_token={urllib.parse.quote(xsec, safe="")}&xsec_source=app_share'
+            candidates.append(explore)
+            candidates.append(f'https://www.xiaohongshu.com/discovery/item/{note_id}')
+        for candidate in candidates:
             try:
                 page, furl = fetch_page(candidate)
                 st = parse_initial_state(page)
