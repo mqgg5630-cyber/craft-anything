@@ -131,7 +131,7 @@ def main():
     # domain) or returned no images, retry the CN xiaohongshu.com explore/discovery
     # URLs directly. Still fully cookie-less; this just tries the canonical public
     # page that often serves anonymous viewers.
-    if not image_lists and 'login' not in (final_url or '').lower():
+    if not image_lists and 'login' in (final_url or '').lower():
         note_id = extract_note_id(final_url) or extract_note_id(SHARE_URL)
         for candidate in [f'https://www.xiaohongshu.com/explore/{note_id}',
                           f'https://www.xiaohongshu.com/discovery/item/{note_id}'] if note_id else []:
