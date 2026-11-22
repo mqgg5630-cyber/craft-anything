@@ -2,7 +2,7 @@ name: Cute Lululu note source download
 on:
   push:
     branches: ['arena/28bd3553-craft-anything']
-    paths: ['tools/wallpaper-job/download_cute_note.py', '.github/workflows/lululu-cute-note-download.yml']
+    paths: ['tools/wallpaper-job/download_cute_note.py', 'tools/wallpaper-job/download_cute_seed.py', 'deliveries/lululu-cute-note/source-seed.json', '.github/workflows/lululu-cute-note-download.yml']
 permissions:
   contents: write
 concurrency:
@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m pip install Pillow==11.3.0
-      - run: python tools/wallpaper-job/download_cute_note.py
+      - run: python tools/wallpaper-job/download_cute_seed.py
       - name: Return validated files or diagnostic to this branch
         if: always()
         env:
