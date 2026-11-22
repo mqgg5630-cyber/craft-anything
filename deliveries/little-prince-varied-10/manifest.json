@@ -1,0 +1,109 @@
+{
+  "mode": "user_requested_style_diversity",
+  "generation_count": 10,
+  "count": 10,
+  "native": true,
+  "files": [
+    {
+      "file": "images/01-纸雕星球.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2325910,
+      "md5": "e101fd582052d1e0da10876e119cc423",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/02-动画日落.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1539838,
+      "md5": "b033731bbc0b6b7f858586cae00b1f72",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/03-木刻航行.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2179564,
+      "md5": "da3f9c54eb3eab9a1f638cc4f061c957",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/04-水彩花园.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1738075,
+      "md5": "5cac9e0511fba0316c0cef4cfdfb14a6",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    },
+    {
+      "file": "images/05-黏土小屋.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2041459,
+      "md5": "7705cabf2996b7630f829b03b5ea1568",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/06-极简星轨.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 787629,
+      "md5": "ed7e7428777f6ad11501226e25d23274",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/07-彩窗玫瑰.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2858240,
+      "md5": "99aa7a6d4548de2180fc5da87921fb22",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    },
+    {
+      "file": "images/08-粉笔银河.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2211295,
+      "md5": "bd3f13bae5e834ff3e43fdbb95ad07d1",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/09-刺绣星梦.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2755613,
+      "md5": "b3f3b797cfa96d39c44c1294310752c3",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    },
+    {
+      "file": "images/10-复古太空旅行.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2239244,
+      "md5": "cede37e6db004e8bee325444189dff7f",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    }
+  ],
+  "tests": "PASS count/decode/dimensions/MD5 uniqueness"
+}

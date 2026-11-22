@@ -1,0 +1,72 @@
+{
+  "folder_id": "1oNVF4weGL_vK28IjSmW9TYD3VcogMZ_j",
+  "status": "partial_upload_rate_limit",
+  "generated_local": 10,
+  "generated_uploaded": 9,
+  "verified_cloud_files": 11,
+  "method": "fresh search_files compared with local MD5",
+  "next_page_token": null,
+  "incomplete_search": false,
+  "pending_upload": [
+    "images/10-复古太空旅行.png",
+    "README.md"
+  ],
+  "blocker": "Arena upload limit reached; tool directed no more uploads in this reply. Can retry in a later turn after at least15seconds.",
+  "files": [
+    {
+      "file": "images/01-纸雕星球.png",
+      "md5": "e101fd582052d1e0da10876e119cc423",
+      "match": true
+    },
+    {
+      "file": "images/02-动画日落.png",
+      "md5": "b033731bbc0b6b7f858586cae00b1f72",
+      "match": true
+    },
+    {
+      "file": "images/03-木刻航行.png",
+      "md5": "da3f9c54eb3eab9a1f638cc4f061c957",
+      "match": true
+    },
+    {
+      "file": "images/04-水彩花园.png",
+      "md5": "5cac9e0511fba0316c0cef4cfdfb14a6",
+      "match": true
+    },
+    {
+      "file": "images/05-黏土小屋.png",
+      "md5": "7705cabf2996b7630f829b03b5ea1568",
+      "match": true
+    },
+    {
+      "file": "images/06-极简星轨.png",
+      "md5": "ed7e7428777f6ad11501226e25d23274",
+      "match": true
+    },
+    {
+      "file": "images/07-彩窗玫瑰.png",
+      "md5": "99aa7a6d4548de2180fc5da87921fb22",
+      "match": true
+    },
+    {
+      "file": "images/08-粉笔银河.png",
+      "md5": "bd3f13bae5e834ff3e43fdbb95ad07d1",
+      "match": true
+    },
+    {
+      "file": "images/09-刺绣星梦.png",
+      "md5": "b3f3b797cfa96d39c44c1294310752c3",
+      "match": true
+    },
+    {
+      "file": "00-十种画风总览.jpg",
+      "md5": "9e0f7e6feeb0379359750144e9df47c3",
+      "match": true
+    },
+    {
+      "file": "manifest.json",
+      "md5": "0bfb908e71dfe905cf5c7df20cbd38ef",
+      "match": true
+    }
+  ]
+}
