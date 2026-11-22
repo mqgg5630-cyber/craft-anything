@@ -1,0 +1,168 @@
+{
+  "generated_count": 10,
+  "original_source_count": 5,
+  "used_reference_count": 2,
+  "independent_generation": true,
+  "quality": "AI reference-based new scenes; model native PNG, no upscaling; not author originals",
+  "visual_review": {
+    "method": "All ten checked on contact sheet; 02 and 09 also opened full resolution. Manual review, not OCR.",
+    "text": "No lettering observed within standalone images; labels only on preview board",
+    "status": "9 accepted; 02 costume correction pending",
+    "known_issues": {
+      "02": "Costume drift: Lumei has strawberry shorts, Lulu pink top. Correction call blocked by per-turn 10 image limit; no new corrected file produced.",
+      "06": "Two decorative crescent moons in stylized sky"
+    }
+  },
+  "files": [
+    {
+      "file": "images/01.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2325085,
+      "md5": "82782eb8744c0e9aea8dee306e1944ad",
+      "sha256": "d8a7814b23ab8b5967aa93c9106e68bd252620bf6217ddc76b00c899a2e2421a",
+      "scene": "草地野餐",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/02.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2208460,
+      "md5": "50068480ac495e7fa4dd4889609eab1c",
+      "sha256": "1f1fd58936121fb1d0675fce1325835f23e6b9284760bd97f5ce678b7a67b371",
+      "scene": "一起烘焙",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/03.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2558473,
+      "md5": "9a23c508cd3b8636b4c1fadffd575f00",
+      "sha256": "c5367ac2955460ebc698c4dc6a1390c41c646e2a13423e909849a66659df5ff1",
+      "scene": "雨天共伞",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/04.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2665551,
+      "md5": "4b5374d89209630b1e62a5d36dee120d",
+      "sha256": "7f20174f1c0b6b4e5fe81574551ea8d7fb1adf5239220901c5f02aef25a72bea",
+      "scene": "花园秋千",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/05.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 1727735,
+      "md5": "a1d1917444534773006e2a07b541d982",
+      "sha256": "6871898722e6cf9cfd7cc9de0e8d3684310429c10f8f27440ccc5e0653740d4e",
+      "scene": "海边沙堡",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/06.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2011227,
+      "md5": "03e8f2574c9ddd9f49b1d20e3850a744",
+      "sha256": "9c9674c4528e8f70d25a165422c5a7b36c9efbeabd37b881640c0269238db0db",
+      "scene": "阳台观星",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/07.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2502503,
+      "md5": "08c54744c776de5eed086556c7c634f2",
+      "sha256": "fea4cacd8d5b158a0edbf2763760e71cb85aff15cce1fc20918d2710754a4288",
+      "scene": "温室浇花",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/08.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2008410,
+      "md5": "e9fb9ee99bac7df548a1ca6178eba6f4",
+      "sha256": "ef27ed32624349b952f77c84c8e7d1fb536046692e18303cba868fe2069e5204",
+      "scene": "泡泡浴",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/09.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2087116,
+      "md5": "721985c0ecf9a7783698d312de54ac41",
+      "sha256": "2fa41d4a56e2e4fe87ad994a417d5e006a84611a79fbf2c50efa0c17b406830e",
+      "scene": "旋转木马",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/10.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2190798,
+      "md5": "efb3374fc6a6d7e40050de00bc549135",
+      "sha256": "146c49fc829bee37e78f299a487608e2ca63363767e1aae4d208c43bf036f610",
+      "scene": "雪地伙伴",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    }
+  ]
+}

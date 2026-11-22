@@ -1,0 +1,15 @@
+{
+  "source_count": 5,
+  "used_reference_count": 2,
+  "output_count": 10,
+  "all_decoded": true,
+  "source_hashes_match": true,
+  "outputs_unique": true,
+  "no_previous_output_reused": true,
+  "sizes": [
+    [
+      768,
+      1376
+    ]
+  ]
+}
