@@ -1,0 +1,14 @@
+{
+  "status": "verified_archives_and_previews",
+  "root": "1hlzJcafEuzDOJIXymi54eLSkf-_O9ygN",
+  "source_folder": "1btvju7ycCOqQJSU9t5Q8gV8i8C-2EmZ7",
+  "no_ui_folder": "1aGiiiylq6Qiac6sA7Z2zB96TIoFi3lLr",
+  "mock_ui_folder": "10P92sifcblpBQ2aWwonjPhV8OoVEtEec",
+  "files": [
+    {"name":"无UI无字壁纸_10张.zip", "md5":"450316e650039799bd451d25ab5c76eb", "png_count":10},
+    {"name":"模拟UI锁屏_10张.zip", "md5":"460bcfaf38e4eaf2a27cbdceaed7e322", "png_count":10},
+    {"name":"00-无UI总览.jpg", "md5":"93644623bee8869dd0fbe53e84eeba66"},
+    {"name":"00-模拟UI总览.jpg", "md5":"d75f2df1fefeb25c9d64001045578b56"}
+  ],
+  "method":"ZIP CRC check and count locally; Drive list after upload and MD5 compared to local bytes; original source folder five files also listed and hashes checked."
+}

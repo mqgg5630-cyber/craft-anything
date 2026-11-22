@@ -1,0 +1,116 @@
+{
+  "image_count": 10,
+  "ui_count": 10,
+  "images": [
+    {
+      "file": "images/01.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2612536,
+      "md5": "ec77b65ea29ad5f00dedc708f19b9ae4",
+      "ui_file": "ui/01.png",
+      "ui_bytes": 1497234,
+      "ui_md5": "070072e75ddfde13914717b9c1f92008"
+    },
+    {
+      "file": "images/02.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2250153,
+      "md5": "37185977435bb8fcad9d2a4c26a39e5d",
+      "ui_file": "ui/02.png",
+      "ui_bytes": 1283816,
+      "ui_md5": "86e76fb1b309969a4d01167d1195f44a"
+    },
+    {
+      "file": "images/03.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 848,
+      "height": 1264,
+      "bytes": 2253581,
+      "md5": "1c5b61afd45679da059dc54bc7a02ef4",
+      "ui_file": "ui/03.png",
+      "ui_bytes": 1262485,
+      "ui_md5": "5ad944012b91bc4def50237dcc7f4685"
+    },
+    {
+      "file": "images/04.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2558000,
+      "md5": "5afbb4ef7c022ff13b0c2bdff52654d8",
+      "ui_file": "ui/04.png",
+      "ui_bytes": 1463736,
+      "ui_md5": "ed3e58fd7d6ce57798b8b61968296af7"
+    },
+    {
+      "file": "images/05.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2016983,
+      "md5": "c8a40edc3fa4a2545f46d5f011b2145b",
+      "ui_file": "ui/05.png",
+      "ui_bytes": 1252992,
+      "ui_md5": "72362ed6df0a0c2b171a6b0c71c172aa"
+    },
+    {
+      "file": "images/06.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 720,
+      "height": 1456,
+      "bytes": 2147673,
+      "md5": "e9a8b5f98ffbe81dd73cd0ce2d6d75f1",
+      "ui_file": "ui/06.png",
+      "ui_bytes": 1234795,
+      "ui_md5": "dd02e18b8429aecb0310dd3041e1899b"
+    },
+    {
+      "file": "images/07.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1905891,
+      "md5": "cade7b454ec7aa4a016313df284a4fee",
+      "ui_file": "ui/07.png",
+      "ui_bytes": 1141010,
+      "ui_md5": "56f949b22e6005c71423f574f8624b58"
+    },
+    {
+      "file": "images/08.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1878048,
+      "md5": "55fa84d9485cc6972eb5b01e286ee38b",
+      "ui_file": "ui/08.png",
+      "ui_bytes": 1134046,
+      "ui_md5": "b0abf34926ae344fa6f7dd99958be39c"
+    },
+    {
+      "file": "images/09.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1724771,
+      "md5": "d36da5248bdde986273e53fd0d7b066f",
+      "ui_file": "ui/09.png",
+      "ui_bytes": 1215939,
+      "ui_md5": "09d37094ba81d3fd25e57b8b6a8202c3"
+    },
+    {
+      "file": "images/10.png",
+      "reference": "../lululu-cute-note/source/02.webp, 03.webp, 04.webp (see README for mapping)",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2329502,
+      "md5": "8cc6f9bc62b65d13992c8eeac256ebf8",
+      "ui_file": "ui/10.png",
+      "ui_bytes": 1453318,
+      "ui_md5": "05dddcfdd678296fdd4a20f52c892c31"
+    }
+  ]
+}

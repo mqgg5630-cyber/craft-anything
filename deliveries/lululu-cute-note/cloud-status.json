@@ -1,13 +1,12 @@
 {
-  "status": "partial_rate_limited",
+  "status": "verified_complete_in_archives",
   "root": "11nkWrd7nYMD4BiK5KLN13Dyi3HEskqiw",
   "source_folder": "1btvju7ycCOqQJSU9t5Q8gV8i8C-2EmZ7",
   "images_folder": "1lLtTRkbQYlKLpke9ya6rSXkkoIztbvKe",
   "ui_folder": "1k_x_QGvaZ-YdSgTxiJf12SUW0O-SAzCX",
-  "uploaded_source": ["01.webp", "02.webp", "03.webp", "04.webp", "05.webp"],
-  "uploaded_images": ["01.png", "02.png", "03.png", "05.png"],
-  "missing_images": ["04.png", "06.png", "07.png", "08.png", "09.png", "10.png"],
-  "missing_ui": ["01.png", "02.png", "03.png", "04.png", "05.png", "06.png", "07.png", "08.png", "09.png", "10.png"],
-  "missing_previews": ["00-原片总预览.jpg", "00-无UI总预览.jpg", "00-模拟UI总预览.jpg"],
-  "verification": "Upload response MD5 matched for five sources and four uploaded images; final folder listing not yet checked."
+  "source_count": 5,
+  "single_images_uploaded": ["01.png", "02.png", "03.png", "05.png"],
+  "full_images_archive": {"name":"上一轮无UI完整10张.zip","md5":"31900aab93d40e093eeef5b0c7d7c9aa","png_count":10},
+  "full_ui_archive": {"name":"上一轮模拟UI完整10张.zip","md5":"47d7d8ee6d241dadc0db019dd6847222","png_count":10},
+  "verification":"After upload, folder listing and local MD5 agree for five sources and both archives; ZIP CRCs checked and each has ten PNGs. Prior previews remain local only."
 }
