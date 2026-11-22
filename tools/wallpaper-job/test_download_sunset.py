@@ -28,6 +28,14 @@ class SunsetDownloadTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             job.parse_note('<html>login required</html>', job.SHARE_URL)
 
+    def test_international_state_layout(self):
+        note = {'title': '和你一起奔夕阳', 'imageList': [{}]}
+        state = {'noteData': {'data': note}}
+        html = '<script>window.__INITIAL_STATE__=' + json.dumps(state) + '</script>'
+        found = job.parse_note(html, 'https://www.rednote.com/explore/' + 'a'*24)
+        self.assertEqual(found['title'], note['title'])
+        self.assertEqual(found['noteId'], 'a'*24)
+
     def test_candidate_dedup_and_https(self):
         url = 'https://sns-webpic-qc.xhscdn.com/test'
         self.assertEqual(job.candidates({'urlDefault': url, 'infoList': [{'url': url}]}), [url])

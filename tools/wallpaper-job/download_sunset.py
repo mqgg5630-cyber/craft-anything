@@ -66,6 +66,24 @@ def parse_note(html, final_url):
     notes = [v.get('note', {}) for v in details.values() if isinstance(v, dict)]
     if note_id_match:
         notes = [n for n in notes if n.get('noteId', note_id_match.group(1)) == note_id_match.group(1)]
+    if not notes:
+        # The official international web page uses a different state layout.
+        # Inspect data only, with bounded traversal; never execute page scripts.
+        stack, visited = [(state, 0)], 0
+        while stack:
+            value, depth = stack.pop()
+            visited += 1
+            if visited > 100_000 or depth > 30:
+                raise ValueError('Public note state exceeds traversal cap')
+            if isinstance(value, dict):
+                if (isinstance(value.get('imageList'), list)
+                        and '夕阳' in str(value.get('title', ''))
+                        and (not note_id_match or value.get('noteId', note_id_match.group(1)) == note_id_match.group(1))):
+                    if value not in notes:
+                        notes.append(value)
+                stack.extend((v, depth + 1) for v in value.values() if isinstance(v, (dict, list)))
+            elif isinstance(value, list):
+                stack.extend((v, depth + 1) for v in value if isinstance(v, (dict, list)))
     if len(notes) != 1:
         keys = ','.join(str(k) for k in state)[:90]
         note_keys = ','.join(str(k) for k in state.get('note', {}))[:90]
