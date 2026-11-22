@@ -59,6 +59,17 @@ def iter_image_lists(node, found):
             iter_image_lists(child, found)
 
 
+def extract_note_id(url):
+    match = re.search(r'/(?:explore|discovery/item|item)/([0-9a-zA-Z]+)', url or '')
+    return match.group(1) if match else None
+
+
+def fetch_page(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=35) as response:
+        return response.read(8 * 1024 * 1024).decode('utf-8', 'replace'), response.geturl()
+
+
 def candidate_urls(image):
     urls = []
     for key in ('urlDefault', 'urlPre', 'urlMiddle', 'url'):
@@ -91,10 +102,7 @@ def main():
     html = None
     final_url = None
     try:
-        req = urllib.request.Request(SHARE_URL, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=35) as response:
-            html = response.read(8 * 1024 * 1024).decode('utf-8', 'replace')
-            final_url = response.geturl()
+        html, final_url = fetch_page(SHARE_URL)
     except (OSError, ValueError) as exc:
         debug.update(status='page_fetch_failed', error=f'{type(exc).__name__}: {exc}')
         write_debug(debug)
@@ -117,6 +125,29 @@ def main():
     except (AttributeError, TypeError):
         pass
     debug['note_ids'] = note_ids
+    attempts = [{'url': SHARE_URL, 'final_url': final_url, 'image_list_count': len(image_lists)}]
+
+    # If the share link hit a login wall (common on the international rednote.com
+    # domain) or returned no images, retry the CN xiaohongshu.com explore/discovery
+    # URLs directly. Still fully cookie-less; this just tries the canonical public
+    # page that often serves anonymous viewers.
+    if not image_lists and 'login' not in (final_url or '').lower():
+        note_id = extract_note_id(final_url) or extract_note_id(SHARE_URL)
+        for candidate in [f'https://www.xiaohongshu.com/explore/{note_id}',
+                          f'https://www.xiaohongshu.com/discovery/item/{note_id}'] if note_id else []:
+            try:
+                page, furl = fetch_page(candidate)
+                st = parse_initial_state(page)
+                found = []
+                if st is not None:
+                    iter_image_lists(st, found)
+                attempts.append({'url': candidate, 'final_url': furl, 'image_list_count': len(found)})
+                if found:
+                    html, final_url, state, image_lists = page, furl, st, found
+                    break
+            except (OSError, ValueError) as exc:
+                attempts.append({'url': candidate, 'error': f'{type(exc).__name__}: {exc}'})
+    debug['attempts'] = attempts
     write_debug(debug)
 
     images = image_lists[0] if image_lists else None
