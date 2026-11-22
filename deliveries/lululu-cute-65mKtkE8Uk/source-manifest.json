@@ -1,0 +1,78 @@
+{
+  "share_url": "https://xhslink.cn/o/65mKtkE8Uk",
+  "note_id": "6a6195240000000001030e32",
+  "title": "今天是谁家的可爱噜啊",
+  "author": "卷卷｜wallpaper",
+  "provenance": {
+    "branch": "arena/28bd3553-craft-anything",
+    "commit": "22e451aaf794df07fb4a12a78e9866a336a26041",
+    "manifest_path": "deliveries/lululu-cute-note/source-manifest.json",
+    "actions_run": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45018278983",
+    "note": "Exact previously downloaded public CDN URLs and hashes; identity also confirmed by current runner redirect"
+  },
+  "schema_version": 2,
+  "images": [
+    {
+      "width": 941,
+      "height": 1672,
+      "format": "webp",
+      "bytes": 177452,
+      "md5": "767782ccbdcdc253921b999b8530ae38",
+      "sha256": "62783dc7cd9a27d036e25c18b5fd890a599c82ba26a638230e2b37b90247eee8",
+      "file": "source/01.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/7652d6ea79bc0611fcf4e2d2d91e3bd6/notes_pre_post/1040g3k0322uvkdvn02105o3tlc9g90i0tcndf0g!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    },
+    {
+      "width": 941,
+      "height": 1672,
+      "format": "webp",
+      "bytes": 95942,
+      "md5": "65c4fbaaaf959c3b91b7efbb3152fd07",
+      "sha256": "8bdd5894b5728879867cfa345e9a97072b92ebd9af0d3e0ce2b2c55fda0f1d5a",
+      "file": "source/02.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/ec3856eda0244ebfb8d4f2b313fad8e8/notes_pre_post/1040g3k0322uvkdvn026g5o3tlc9g90i0dr7ehfo!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    },
+    {
+      "width": 941,
+      "height": 1672,
+      "format": "webp",
+      "bytes": 105354,
+      "md5": "20bc4cb4f6f6b2bbf64706c098364d0f",
+      "sha256": "40d255b9f61259957476edc21dda86537be09172120450e307e5aa9831648917",
+      "file": "source/03.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/195d7633b1e20bc5f4e77c5c904fcc47/notes_pre_post/1040g3k0322uvkdvn025g5o3tlc9g90i03t3i8jo!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    },
+    {
+      "width": 941,
+      "height": 1672,
+      "format": "webp",
+      "bytes": 110024,
+      "md5": "c02831962a046c7f9eb8307e5024dcbb",
+      "sha256": "4146fa41653090c4fc71da21ca843c5fea221b2acd08ac397b6d7b9145ae4216",
+      "file": "source/04.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/9a0a18810cb6994b9203e0881d7a4e30/notes_pre_post/1040g3k0322uvkdvn023g5o3tlc9g90i0q7hvat0!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    },
+    {
+      "width": 941,
+      "height": 1672,
+      "format": "webp",
+      "bytes": 117804,
+      "md5": "32331dbc1220176d3f8205afb0cee4d0",
+      "sha256": "e77024b36200641ec9c638eea3d6c7c544e8a6421cb0ea5703c1845a7d2a7588",
+      "file": "source/05.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/cd3340db253e543bc0f5aab7261152be/notes_pre_post/1040g3k0322uvkdvn022g5o3tlc9g90i01d2jndg!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    }
+  ],
+  "status": "downloaded_pending_visual_review",
+  "run_id": "45018681711",
+  "branch": "arena/b7bfcf81-craft-anything",
+  "download_method": "GitHub Actions; exact historical public CDN URLs; full decode and historical MD5/SHA-256 match",
+  "source_quality": "Public CDN files; not independently verified author master files",
+  "page_refresh": "Not retried: previous runner confirmed /login; replay existing verified public asset list only",
+  "reference_count_downloaded": 5
+}

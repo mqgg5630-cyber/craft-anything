@@ -1,15 +1,7 @@
 {
-  "share_url": "https://xhslink.cn/o/65mKtkE8Uk",
-  "run_id": "45018545012",
-  "branch": "arena/b7bfcf81-craft-anything",
-  "status": "blocked_source_download",
-  "resolved_page": "https://www.rednote.com/login",
-  "page_bytes": 237650,
-  "login_redirect": true,
-  "redirect_note_ids": [
-    "6a6195240000000001030e32"
-  ],
-  "error_type": "ValueError",
-  "error": "Public page has no unambiguous carousel",
-  "images_verified": false
+  "status": "downloaded_pending_visual_review",
+  "run_id": "45018681711",
+  "images_verified": true,
+  "historical_hashes_matched": true,
+  "count": 5
 }
