@@ -1,0 +1,39 @@
+{
+  "folder_id": "1hcSeAvlDBEEG7aXyC5H37r920eQ8urct",
+  "folder_name": "噜妹原图-1zbYYyvDu9W-20261122",
+  "method": "fresh list_files, next_page_token null; matched to local MD5",
+  "cloud_count": 5,
+  "all_match": true,
+  "files": [
+    {
+      "file": "01.png",
+      "cloud_md5": "ad0752e7a82d89b1eae7a26c8d088a9e",
+      "local_md5": "ad0752e7a82d89b1eae7a26c8d088a9e",
+      "match": true
+    },
+    {
+      "file": "02.png",
+      "cloud_md5": "67823a352f0a00072be4677cbe6f6598",
+      "local_md5": "67823a352f0a00072be4677cbe6f6598",
+      "match": true
+    },
+    {
+      "file": "03.png",
+      "cloud_md5": "cd5ad666bf799b969c88b72a6f42bb11",
+      "local_md5": "cd5ad666bf799b969c88b72a6f42bb11",
+      "match": true
+    },
+    {
+      "file": "04.png",
+      "cloud_md5": "f6726c48edf93a135586ec9ec4405bf3",
+      "local_md5": "f6726c48edf93a135586ec9ec4405bf3",
+      "match": true
+    },
+    {
+      "file": "05.png",
+      "cloud_md5": "6825b78ac600a763c5a755f8b30e6c39",
+      "local_md5": "6825b78ac600a763c5a755f8b30e6c39",
+      "match": true
+    }
+  ]
+}
