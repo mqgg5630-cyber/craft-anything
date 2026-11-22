@@ -1,15 +1,20 @@
 {
-  "status": "pending_download",
+  "status": "downloaded_pending_visual_review",
   "share_url": "https://xhslink.cn/o/5thkO8Kd6jg",
   "note_id": "6ad212fc000000001802d6be",
   "author": "等噜噜",
   "title": "和你一起奔夕阳 噜噜噜妹壁纸",
   "route": "xhs-link-recreate-10",
   "reference_count_observed": 5,
-  "reference_count_downloaded": 0,
+  "reference_count_downloaded": 5,
   "output_count": 10,
-  "themes_from_caption": ["陪你看日落", "噜噜噜妹", "情侣", "壁纸"],
-  "source_quality": "Public CDN files; not independently verified as author master files.",
+  "themes_from_caption": [
+    "陪你看日落",
+    "噜噜噜妹",
+    "情侣",
+    "壁纸"
+  ],
+  "source_quality": "Validated public CDN files; not independently verified author master files.",
   "image_urls": [
     "https://sns-web-i10.rednotecdn.com/202611221817/c45021d2813370e5da23f30bbbf30ab8/notes_pre_post/1040g3k8326cqvueoka905qlghp0l1h01fu7131o!nd_dft_wlteh_webp_3",
     "https://sns-web-i10.rednotecdn.com/202611221817/5b588be7e197238fbd834e428085ab80/notes_pre_post/1040g3k8326cqvueoka705qlghp0l1h01pro2cso!nd_dft_wlteh_webp_3",
@@ -18,5 +23,51 @@
     "https://sns-web-i10.rednotecdn.com/202611221817/8403b2d64cf63a07a989554856f90ae0/notes_pre_post/1040g3k8326cqvueoka8g5qlghp0l1h01pt7kqn0!nd_dft_wlteh_webp_3"
   ],
   "download_method": "GitHub Actions runner, existing bounded fetch validator",
-  "images": []
+  "images": [
+    {
+      "file": "source/01.webp",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 75062,
+      "md5": "162e67a2332916b7ca1384809ae5bfb1",
+      "sha256": "dc5caf8ed44371d2cf04b4db4970a75abb32410e91fb175ce3cd0c9b69eb7101",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221817/c45021d2813370e5da23f30bbbf30ab8/notes_pre_post/1040g3k8326cqvueoka905qlghp0l1h01fu7131o!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/02.webp",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 88014,
+      "md5": "c1e3c92384f414b4897478ca993205f6",
+      "sha256": "600a0c3fe7a0c55b8a9e8975f0c6aab55e6c45c47b789fad36e14bc9219d9a03",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221817/5b588be7e197238fbd834e428085ab80/notes_pre_post/1040g3k8326cqvueoka705qlghp0l1h01pro2cso!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/03.webp",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 72856,
+      "md5": "34a19c8bb21202e41c075945bb5a1966",
+      "sha256": "75fd756c996002e076ac64f1ff59cfa88cd25b18ef3b85e319778d9cd32ed13c",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221817/1981f7f35af696ec810c8ac230c67a08/notes_pre_post/1040g3k8326cqvueoka7g5qlghp0l1h01cjj2jlg!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/04.webp",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 97022,
+      "md5": "885d65a965b4fddbc78d40c4ab9fba2f",
+      "sha256": "888ffec711a43bb0d71e8203adee9a45396010a81ff5adb024474840a8ce4442",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221817/d806a79b9bd85fd8b28d5359dd76bc22/notes_pre_post/1040g3k8326cqvueoka805qlghp0l1h01pb66us8!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/05.webp",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 100262,
+      "md5": "558ea2032f26b748fb15919f68df928b",
+      "sha256": "ffdb237788bedf63835a573a56f964b5cb529dd577cdd5e54d548b14ae60e8a6",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221817/8403b2d64cf63a07a989554856f90ae0/notes_pre_post/1040g3k8326cqvueoka8g5qlghp0l1h01pt7kqn0!nd_dft_wlteh_webp_3"
+    }
+  ]
 }
