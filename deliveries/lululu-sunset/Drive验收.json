@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-11-22T11:35:58.059707Z",
+  "note_id": "6ad212fc000000001802d6be",
+  "share_url": "https://xhslink.cn/o/5thkO8Kd6jg",
+  "source_status": "unavailable_anonymous_300031",
+  "folders": {
+    "原片": {
+      "id": "1PT2Yz1IWiZBBsv1j6saRmluljZ1u0wtc",
+      "url": "https://drive.google.com/drive/folders/1PT2Yz1IWiZBBsv1j6saRmluljZ1u0wtc"
+    },
+    "结果": {
+      "id": "1C4I92fOACFe7i-VcaKheDAE83ovGVRZg",
+      "url": "https://drive.google.com/drive/folders/1C4I92fOACFe7i-VcaKheDAE83ovGVRZg"
+    }
+  },
+  "uploaded": [
+    {
+      "path": "01-下载原片/原片获取说明.md",
+      "folder": "原片",
+      "drive_id": "1XNID9gKZ-9ZKQo0x5uLIBBg5jJOUE66v",
+      "md5": "7b46799451f8580b4ad7c8fe2f371511",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/01-暮色启程.png",
+      "folder": "结果",
+      "drive_id": "1ezbfqXLTMblAyNyDbVt-RVrJInXyQzmk",
+      "md5": "efe6a18712bebe31899f753752aca203",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/02-海边剪影.png",
+      "folder": "结果",
+      "drive_id": "1gACzD6swTaozb9hSdp1JtltMeTto0eZB",
+      "md5": "20c3d9d1f454e4cd312ca2594cd54321",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/03-草原奔跑.png",
+      "folder": "结果",
+      "drive_id": "1cNlh1xvPO8xpdVXhcK25nGIt7tQp49NN",
+      "md5": "0558cf00bc1306b64b8ee42d65a67ee4",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/04-山丘守望.png",
+      "folder": "结果",
+      "drive_id": "1GRC8eX-v0azQduDu8vBiQwImwqnbEXAr",
+      "md5": "53869a8750989f98e5ff64c6e9b49d21",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/05-携手夕阳.png",
+      "folder": "结果",
+      "drive_id": "1L3D_hgUE1pKkwVVx2N1dNVCdMsj77gz4",
+      "md5": "adb1a43606549cd092b9213fce241cdd",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/06-花田逆光.png",
+      "folder": "结果",
+      "drive_id": "1dEUve9iPDuE4PwtHmYMxzi5VF8QPmRSq",
+      "md5": "8708dd536657c787616082c068feb7da",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/07-城市黄昏.png",
+      "folder": "结果",
+      "drive_id": "16yvU1fESVWFuTYvIdJ5NxF3MzlnLx8tA",
+      "md5": "2c11f5a2e630697649a6afd7bb02413e",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/08-河畔长桥.png",
+      "folder": "结果",
+      "drive_id": "1TAFEodLsl60dSKLV78UZdgBsmY2wE6FM",
+      "md5": "c9d7567abab172b8b5856e3de6f9c455",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/09-星河初现.png",
+      "folder": "结果",
+      "drive_id": "1SUaEBsEYhwt4yJB7kZAFbTCYPhXIrYUp",
+      "md5": "d13eb45d788a691cd31a2c7fa3441230",
+      "verified": true
+    },
+    {
+      "path": "02-复刻无手机UI/10-落日余晖.png",
+      "folder": "结果",
+      "drive_id": "1DVxuLm5N_-4rZyHx3dJRNnygNs6-MJ3i",
+      "md5": "6ceccc78facfc974fe2c0e72043ea574",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/01-暮色启程.png",
+      "folder": "结果",
+      "drive_id": "1jZr9JC3otiHIhawPIqVCZM_ZEtJEM2JH",
+      "md5": "ff9d4c0b45605325a7bebe84018f808a",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/02-海边剪影.png",
+      "folder": "结果",
+      "drive_id": "1WznxF8HgClActqgElQ6gF7M0rgqjAowz",
+      "md5": "d15dae4e59235aab8ad5b342496cbb92",
+      "verified": true
+    },
+    {
+      "path": "03-复刻有手机UI/03-草原奔跑.png",
+      "folder": "结果",
+      "drive_id": "1oiWTLQQ8ha1hvnM4RANmfIBdG7OxVvFo",
+      "md5": "0fee4bd1bb404b79b8c2f2b11f7683fd",
+      "verified": true
+    }
+  ],
+  "pending": [
+    "03-复刻有手机UI/04-山丘守望.png (有UI)",
+    "03-复刻有手机UI/05-携手夕阳.png (有UI)",
+    "03-复刻有手机UI/06-花田逆光.png (有UI)",
+    "03-复刻有手机UI/07-城市黄昏.png (有UI)",
+    "03-复刻有手机UI/08-河畔长桥.png (有UI)",
+    "03-复刻有手机UI/09-星河初现.png (有UI)",
+    "03-复刻有手机UI/10-落日余晖.png (有UI)",
+    "总预览图.jpg",
+    "噜噜噜妹夕阳壁纸-完整交付.zip"
+  ],
+  "note": "Google Drive upload hit a per-session rate limit after the initial burst; the files listed under \"pending\" are already committed to the branch and inside the ZIP, and will be uploaded to the 结果 folder once the limit resets."
+}
