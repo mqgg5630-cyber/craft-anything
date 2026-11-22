@@ -22,6 +22,7 @@ IMAGE_LIMIT = 12 * 1024 * 1024
 TOTAL_LIMIT = 65 * 1024 * 1024
 Image.MAX_IMAGE_PIXELS = 24_000_000
 warnings.simplefilter('error', Image.DecompressionBombWarning)
+PUBLIC_NOTE_URLS = []
 
 
 def check_url(url):
@@ -38,12 +39,17 @@ class SafeRedirect(urllib.request.HTTPRedirectHandler):
         # Some public short links declare an HTTP target; request HTTPS instead.
         if newurl.startswith('http://'):
             newurl = 'https://' + newurl[7:]
-        return super().redirect_request(req, fp, code, msg, headers, check_url(newurl))
+        check_url(newurl)
+        parsed = urllib.parse.urlsplit(newurl)
+        if re.search(r'/(?:explore|discovery/item)/[a-f0-9]{24}', parsed.path):
+            PUBLIC_NOTE_URLS.append(newurl)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
 
 
 def read_url(url, limit):
     req = urllib.request.Request(check_url(url), headers={
-        'User-Agent': 'Mozilla/5.0', 'Referer': 'https://www.xiaohongshu.com/'})
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1',
+        'Referer': 'https://www.xiaohongshu.com/', 'Accept-Language': 'zh-CN,zh;q=0.9'})
     with urllib.request.build_opener(SafeRedirect()).open(req, timeout=25) as response:
         check_url(response.url)
         data = response.read(limit + 1)
@@ -137,12 +143,15 @@ def main():
     except ValueError:
         parsed = urllib.parse.urlsplit(final)
         print(f'::notice title=Public share redirect::{parsed.hostname}{parsed.path}', flush=True)
-        if parsed.hostname not in ('www.rednote.com', 'rednote.com'):
-            raise
-        # The international frontend can return its generic app shell. Try the
-        # same public note path on the domestic official frontend, without login.
-        domestic = urllib.parse.urlunsplit(('https', 'www.xiaohongshu.com', parsed.path, parsed.query, ''))
+        # Use only a note URL actually declared by the public short-link redirect,
+        # not the final /login path. One official public frontend retry, no cookies.
+        if not PUBLIC_NOTE_URLS:
+            raise ValueError('Share redirected to login without exposing a public note URL')
+        declared = urllib.parse.urlsplit(PUBLIC_NOTE_URLS[0])
+        domestic = urllib.parse.urlunsplit(('https', 'www.xiaohongshu.com', declared.path, declared.query, ''))
         html, final = read_url(domestic, 8 * 1024 * 1024)
+        if '/login' in urllib.parse.urlsplit(final).path:
+            raise ValueError('Official public note redirects to login; no authentication attempted')
         note = parse_note(html.decode('utf-8'), final)
     ROOT.parent.mkdir(parents=True, exist_ok=True)
     if ROOT.exists():
