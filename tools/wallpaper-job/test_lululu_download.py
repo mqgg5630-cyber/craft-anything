@@ -4,6 +4,24 @@ from pathlib import Path
 import tempfile
 import unittest
 from unittest.mock import patch
+
+
+class FakeResponse:
+    def __init__(self, body, url='https://www.xiaohongshu.com/explore/abc123'):
+        self._body = body
+        self._url = url
+
+    def read(self, *args):
+        return self._body
+
+    def geturl(self):
+        return self._url
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *exc):
+        return False
 from PIL import Image
 
 spec = importlib.util.spec_from_file_location('download_lululu', Path(__file__).with_name('download_lululu.py'))
@@ -27,14 +45,23 @@ class ParseTests(unittest.TestCase):
         html = '<script>window.__INITIAL_STATE__ = ' + __import__('json').dumps(
             make_initial_state([{'urlDefault': 'https://x/1'}])) + ';</script>'
         state = job.parse_initial_state(html)
-        note = job.first_note_with_images(state)
-        self.assertEqual(note['noteId'], 'abc123')
-        self.assertEqual(len(note['imageList']), 1)
+        found = []
+        job.iter_image_lists(state, found)
+        self.assertEqual(len(found), 1)
+        self.assertEqual(len(found[0]), 1)
+
+    def test_finds_image_list_in_alternate_shape(self):
+        alt = {'weird': {'nest': {'imageList': [{'urlDefault': 'https://x/9'}]}}}
+        found = []
+        job.iter_image_lists(alt, found)
+        self.assertEqual(len(found), 1)
 
     def test_handles_undefined_tokens(self):
         html = '<script>window.__INITIAL_STATE__ = {"note": {"noteDetailMap": {"x": {"note": {"imageList": undefined}}}}};</script>'
         state = job.parse_initial_state(html)
-        self.assertIsNone(job.first_note_with_images(state))
+        found = []
+        job.iter_image_lists(state, found)
+        self.assertEqual(found, [])
 
 
 class CandidateTests(unittest.TestCase):
@@ -62,9 +89,11 @@ class DownloadTests(unittest.TestCase):
             data = png_bytes()
             return data, 320, 640, 'png'
 
+        resp = FakeResponse(html.encode('utf-8'))
+
         with tempfile.TemporaryDirectory() as directory, \
                 patch.object(job, 'ROOT', Path(directory) / 'deliveries' / 'lululu-sunset'), \
-                patch.object(job.urllib.request, 'urlopen', return_value=io.BytesIO(html.encode('utf-8'))), \
+                patch.object(job.urllib.request, 'urlopen', return_value=resp), \
                 patch.object(job, 'fetch', side_effect=fake_fetch):
             job.main()
             folder = job.ROOT / '01-下载原片'
