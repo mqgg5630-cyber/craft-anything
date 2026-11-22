@@ -1,10 +1,21 @@
 {
   "generation_calls": 10,
   "count": 10,
-  "generated_by": "agent image generation, round 3, source images as style reference + ImageMagick English-phrase overlay",
-  "english_phrase": "The stars never fall (replaces original note English line; echoes 星光不落)",
+  "generated_by": "agent image generation, round 4, source style reference + per-image short romantic phrase overlay",
+  "english_phrases": {
+    "01-深蓝星河": "You are my star",
+    "02-深蓝流星": "Make a wish",
+    "03-深蓝月光": "Moonlight, us",
+    "04-深蓝玫瑰": "I tame you",
+    "05-粉橙黄昏": "Golden hour, you",
+    "06-黄昏晚风": "Wind knows us",
+    "07-黄昏星愿": "Wish on me",
+    "08-暖调晨光": "Morning, my dear",
+    "09-晨光花语": "Bloom for you",
+    "10-晨光远行": "I'll come back"
+  },
   "source_reference": "deliveries/little-prince-xhs-10/source (3 verified XHS public CDN webp)",
-  "style": "小王子系列 · 深蓝夜空/粉橙黄昏/暖调晨光，碎金厚涂 impasto，参考原片配色与角色，构图变化 + 统一英文短句叠字",
+  "style": "小王子系列 · 深蓝夜空/粉橙黄昏/暖调晨光，碎金厚涂 impasto，参考原片配色与角色，构图变化 + 每图独立短浪漫英文短句",
   "files": [
     {
       "file": "images/01-深蓝星河.png",
@@ -13,10 +24,10 @@
         768,
         1376
       ],
-      "bytes": 2644304,
-      "md5": "dcecf6728cf6dd3280cec650f752b3c9",
+      "bytes": 2424738,
+      "md5": "42893b245acd9a51555501c46c9161e3",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "You are my star"
     },
     {
       "file": "images/02-深蓝流星.png",
@@ -25,10 +36,10 @@
         768,
         1376
       ],
-      "bytes": 2172649,
-      "md5": "e9a08cc2f06509a310ba1232b23c7228",
+      "bytes": 2372379,
+      "md5": "e9191e3bada33fe5e36b94562a913e0e",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "Make a wish"
     },
     {
       "file": "images/03-深蓝月光.png",
@@ -37,10 +48,10 @@
         768,
         1376
       ],
-      "bytes": 2076680,
-      "md5": "0cce565cd9174202081f58d88a837fbf",
+      "bytes": 2408624,
+      "md5": "9a0a9b3138bcd50553dedc69b6a76909",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "Moonlight, us"
     },
     {
       "file": "images/04-深蓝玫瑰.png",
@@ -49,10 +60,10 @@
         768,
         1376
       ],
-      "bytes": 2111801,
-      "md5": "11b6ee2162d8828c69e89eae15b34b5f",
+      "bytes": 2160057,
+      "md5": "f0d428dceecfad48f76c13fde6ddf3cf",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "I tame you"
     },
     {
       "file": "images/05-粉橙黄昏.png",
@@ -61,10 +72,10 @@
         768,
         1376
       ],
-      "bytes": 2049362,
-      "md5": "f44c32e75d82398afe8f2088552bc7b6",
+      "bytes": 1831525,
+      "md5": "94e448669412b478e1d4c25dca09689f",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "Golden hour, you"
     },
     {
       "file": "images/06-黄昏晚风.png",
@@ -73,10 +84,10 @@
         768,
         1376
       ],
-      "bytes": 2041812,
-      "md5": "643ac585a529ebb4f83f152b6cde8aa4",
+      "bytes": 2028653,
+      "md5": "f938fda9227642dba540ad577e68f2e2",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "Wind knows us"
     },
     {
       "file": "images/07-黄昏星愿.png",
@@ -85,10 +96,10 @@
         768,
         1376
       ],
-      "bytes": 2261657,
-      "md5": "da51359c494d356c14d863d43333f63a",
+      "bytes": 2135584,
+      "md5": "3994344fae7851181b94cedb89deeef9",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "Wish on me"
     },
     {
       "file": "images/08-暖调晨光.png",
@@ -97,10 +108,10 @@
         768,
         1376
       ],
-      "bytes": 1988524,
-      "md5": "51f2aa381c2d1b7a3d6b315a3184b205",
+      "bytes": 2089976,
+      "md5": "32de9a096648751f668db5fe4d294a88",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "Morning, my dear"
     },
     {
       "file": "images/09-晨光花语.png",
@@ -109,10 +120,10 @@
         768,
         1376
       ],
-      "bytes": 2230005,
-      "md5": "748f0ed076b41fea8ed236234cd62602",
+      "bytes": 2097860,
+      "md5": "f6435894c9ce75e0c92c64b409502127",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "Bloom for you"
     },
     {
       "file": "images/10-晨光远行.png",
@@ -121,10 +132,10 @@
         768,
         1376
       ],
-      "bytes": 2251075,
-      "md5": "6eb7fc8dcb02d11407f1f1b78dafc051",
+      "bytes": 2068061,
+      "md5": "8c319a4fdc69bf09f21423c5fc6f8056",
       "native_generation": true,
-      "english_phrase": "The stars never fall"
+      "english_phrase": "I'll come back"
     }
   ],
   "tests": "PASS count=10, full PNG decode, forced 768x1376, MD5 uniqueness, phrase overlaid"
