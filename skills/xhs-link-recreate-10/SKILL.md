@@ -21,6 +21,7 @@ description: 用户提供小红书笔记链接要求复刻10张壁纸时，先�
 - 清单逐张记录：序号、源URL、路径、字节数、格式、宽高、MD5、来源质量（网页展示图或已确认原文件）。
 - 实际解码并人工看图；不能只凭文案、封面链接或搜索缩略图生成。
 - 当前环境直连失败时，先查仓库已有成功下载路径，不应立即把下载工作交回用户。本仓库已有 GitHub Actions 公共原片下载流程（`.github/workflows/wallpaper-download.yml`，共用 `tools/wallpaper-job/download.py` 的大小/解码/尺寸校验）。使用已授权 GitHub 工作流仅下载公开笔记图片，刷新页面CDN地址，在当前工作分支写回校验后的参考文件；不切换或推送其他分支，不更改网络策略或绕过访问权限。小王子示例见 `download_little_prince.py` 与独立工作流。
+- 分享页进入 `/login` 不等于历史已记录的公开图片 URL 也不可用。先用 GitHub branches/tree 和 Actions runs/jobs 检查其他分支，按同一分享链接／笔记 ID 定位已成功的 `source-manifest.json`，保留来源提交与运行证据；只读取其他分支，在当前分支建立 `source-seed.json`，由 Actions 重新下载那些精确的公开地址并完整解码、比对历史 MD5/SHA-256。不要猜资源标识或伪造签名，也不重试突破登录页。奔夕阳完整成功案例见 `deliveries/lululu-sunset-b7/历史成功流程复盘.md`、`download_sunset_b7.py` 与运行 `45017752842`（5张PNG）；之前只查当前分支并在登录跳转后停止会漏掉该回退路径。
 - 成功路径仍失败时才记录 `blocked_source_download`，明确告诉用户实际卡点及尝试结果；最后才请求用户上传原片或提供已授权云盘位置。不得用想象图冒充下载结果，也不先生成后补参考。
 - 不尝试绕过登录、权限和网络限制，不收集账号密码、Cookie或令牌。
 

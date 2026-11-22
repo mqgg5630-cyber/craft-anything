@@ -1,0 +1,313 @@
+{
+  "generated_count": 10,
+  "ui_count": 10,
+  "status": "decoded_and_visually_reviewed",
+  "ui_note": "Generic simulated lock screen, not a real screenshot or installable theme",
+  "native_size_note": "Model-native outputs; no interpolation or upscaling",
+  "files": [
+    {
+      "file": "images/01.png",
+      "kind": "no_ui",
+      "title": "湖畔依偎",
+      "references": [
+        "source/01.png",
+        "source/04.png"
+      ],
+      "change": "码头依偎，双脚垂在木板边缘",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2069018,
+      "md5": "29ec0f4cd726947ac461ace3b5d25927",
+      "sha256": "ef3e6722ec20ff19cc75758f88c92b445ee44b89729a82b021f673a55a9ba04f"
+    },
+    {
+      "file": "ui/01.png",
+      "kind": "simulated_ui",
+      "title": "湖畔依偎",
+      "references": [
+        "source/01.png",
+        "source/04.png"
+      ],
+      "change": "码头依偎，双脚垂在木板边缘",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1204694,
+      "md5": "327e251f4e84b48a970fa51694af85a5",
+      "sha256": "86e396a38411d2dcaded784c90c939931edc121d5eb97e80122413192ccc0086"
+    },
+    {
+      "file": "images/02.png",
+      "kind": "no_ui",
+      "title": "回头等你",
+      "references": [
+        "source/02.png",
+        "source/04.png"
+      ],
+      "change": "草坡小路上回头伸手",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2231334,
+      "md5": "bec54a1da11f86afd0068fe56d3076a2",
+      "sha256": "588d9f51d2cf7f8d824af7d87c5122af17b620526e15636bf98541026af57c67"
+    },
+    {
+      "file": "ui/02.png",
+      "kind": "simulated_ui",
+      "title": "回头等你",
+      "references": [
+        "source/02.png",
+        "source/04.png"
+      ],
+      "change": "草坡小路上回头伸手",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1333860,
+      "md5": "a05e0013d9d51c28cb31f3576b43d2da",
+      "sha256": "ce71638dbddd0d2b10a147230cb697996fa07d3a7ada688c00a2aaada7c044f0"
+    },
+    {
+      "file": "images/03.png",
+      "kind": "no_ui",
+      "title": "草地看云",
+      "references": [
+        "source/03.png",
+        "source/04.png"
+      ],
+      "change": "草地并排躺下牵手看云",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2123087,
+      "md5": "e8fa6c3619c948a33deebb817aaedfec",
+      "sha256": "578139271b9857856475d4f9d639ca1a944176edff12c57d30fcfefa83ad4efe"
+    },
+    {
+      "file": "ui/03.png",
+      "kind": "simulated_ui",
+      "title": "草地看云",
+      "references": [
+        "source/03.png",
+        "source/04.png"
+      ],
+      "change": "草地并排躺下牵手看云",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1209232,
+      "md5": "5aea007f2b08fdc750f69e35befd90e7",
+      "sha256": "a1e106c035783393cc66cefbdb6b804414b32177e6209e6723cf2275b8019e9c"
+    },
+    {
+      "file": "images/04.png",
+      "kind": "no_ui",
+      "title": "牵手过溪",
+      "references": [
+        "source/04.png"
+      ],
+      "change": "溪石间牵手扶她迈步",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2134017,
+      "md5": "f8a7f87c8b38bd58e3f10b707d7bbd55",
+      "sha256": "5400dc318db4f0ca25d4487f894e49594d3fb757327fc44ef03864e80c695e31"
+    },
+    {
+      "file": "ui/04.png",
+      "kind": "simulated_ui",
+      "title": "牵手过溪",
+      "references": [
+        "source/04.png"
+      ],
+      "change": "溪石间牵手扶她迈步",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1276757,
+      "md5": "8c7170ebdbbbf0a855e7a650f208b7f5",
+      "sha256": "42a5d5445c813d0b40159479811df2da83372a26161028053383c624af425365"
+    },
+    {
+      "file": "images/05.png",
+      "kind": "no_ui",
+      "title": "山路同行",
+      "references": [
+        "source/05.png",
+        "source/04.png"
+      ],
+      "change": "山路上指向河谷远景",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2200984,
+      "md5": "b7b1aecae9b312a1b323eb775dce7802",
+      "sha256": "f30f251c5dd0b5f2edc35e57654dc32c0db99c8f0208852a293a166081bc5102"
+    },
+    {
+      "file": "ui/05.png",
+      "kind": "simulated_ui",
+      "title": "山路同行",
+      "references": [
+        "source/05.png",
+        "source/04.png"
+      ],
+      "change": "山路上指向河谷远景",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1288783,
+      "md5": "f8817151bab04da903949962b668358a",
+      "sha256": "f3f94413b1cd0dad471c3d62e89f2d293c933753f5832a051e93c7922a26ae36"
+    },
+    {
+      "file": "images/06.png",
+      "kind": "no_ui",
+      "title": "分你橘子",
+      "references": [
+        "source/01.png",
+        "source/04.png"
+      ],
+      "change": "码头面对面分享橘子",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2076088,
+      "md5": "abb6687558098c0f06e4e0ba71a7e0bd",
+      "sha256": "ded04c70eebef827cb6d91b0b01b969479f2abf7c823c59b9658226ef9f11002"
+    },
+    {
+      "file": "ui/06.png",
+      "kind": "simulated_ui",
+      "title": "分你橘子",
+      "references": [
+        "source/01.png",
+        "source/04.png"
+      ],
+      "change": "码头面对面分享橘子",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1226524,
+      "md5": "02939910eadd6dc2b189a2edb603ac9e",
+      "sha256": "85b807c64846100823636ae068d442062ce937ae38db123eacfec0588fc0a015"
+    },
+    {
+      "file": "images/07.png",
+      "kind": "no_ui",
+      "title": "蒲公英之约",
+      "references": [
+        "source/02.png",
+        "source/04.png"
+      ],
+      "change": "草坡一起吹蒲公英",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2251752,
+      "md5": "e1c9a5b2aca8ec49edde8f960e0192ff",
+      "sha256": "fc5d2e4d1199a4e5c51d135626c71f2d7ecb99424b3e46a9538c45756790df82"
+    },
+    {
+      "file": "ui/07.png",
+      "kind": "simulated_ui",
+      "title": "蒲公英之约",
+      "references": [
+        "source/02.png",
+        "source/04.png"
+      ],
+      "change": "草坡一起吹蒲公英",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1359711,
+      "md5": "f15a9889c2167e26c0be671a35cf1b71",
+      "sha256": "4593ece17052d96d3d5f39c29826c98be45e1cdcd279113acf725d5508a49f86"
+    },
+    {
+      "file": "images/08.png",
+      "kind": "no_ui",
+      "title": "山顶日落",
+      "references": [
+        "source/03.png",
+        "source/05.png"
+      ],
+      "change": "山顶搂肩背影看日落",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1990896,
+      "md5": "40a482150208ffe04aceacf5767438ec",
+      "sha256": "2414f00114761935348af23fc3b65fcabc80a7f350a4c22cdd143e503890f0d8"
+    },
+    {
+      "file": "ui/08.png",
+      "kind": "simulated_ui",
+      "title": "山顶日落",
+      "references": [
+        "source/03.png",
+        "source/05.png"
+      ],
+      "change": "山顶搂肩背影看日落",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1216053,
+      "md5": "31dabbe46c12a452a4271e3e78fc5d32",
+      "sha256": "9225c4b76ca8aa3653c58fe5b6d7904897f49fd957cb84c3c29060dffc1dfdc8"
+    },
+    {
+      "file": "images/09.png",
+      "kind": "no_ui",
+      "title": "背你过河",
+      "references": [
+        "source/04.png",
+        "source/03.png"
+      ],
+      "change": "背着她跨过溪石",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2232490,
+      "md5": "fe63603eac29bd71d6340fed48c200ea",
+      "sha256": "d4e26679501d43f01aaf2a1b763db0bdc2f40c6ef0fb27e2e04d6464879f592b"
+    },
+    {
+      "file": "ui/09.png",
+      "kind": "simulated_ui",
+      "title": "背你过河",
+      "references": [
+        "source/04.png",
+        "source/03.png"
+      ],
+      "change": "背着她跨过溪石",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1286956,
+      "md5": "553c532e67dff12f7ff840f030cb412a",
+      "sha256": "d12d0c55ddf14f0889f7d2bacd1965d8ea92f802bd74b6ade48660833690099d"
+    },
+    {
+      "file": "images/10.png",
+      "kind": "no_ui",
+      "title": "奔向夕阳",
+      "references": [
+        "source/05.png",
+        "source/04.png"
+      ],
+      "change": "牵手跑向落日河谷",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2204799,
+      "md5": "c92d247cbd909d2c793437834578b42c",
+      "sha256": "58ac97f9d86d71216eb9e423bd46ff6df71479ac1fe270549db7e17e423bb7d3"
+    },
+    {
+      "file": "ui/10.png",
+      "kind": "simulated_ui",
+      "title": "奔向夕阳",
+      "references": [
+        "source/05.png",
+        "source/04.png"
+      ],
+      "change": "牵手跑向落日河谷",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1289217,
+      "md5": "efb0fd7a7fa4d500f2b72b53a115c6ed",
+      "sha256": "abdd071a31db38dc3e7f57ca49a95878696940ebc6c926a4d9f0a2463ddc5172"
+    }
+  ],
+  "visual_review": "All ten outputs and UI contact sheets inspected; 03/07/09 additionally inspected at full size; no human-face/hair drift observed",
+  "generation_note": "Ten independent image-generation calls, each attached to the recorded original references, never recursive generated references",
+  "variation_notes": {
+    "02": "Actual framing puts the girl nearer the viewer and boy behind her, rather than matching the requested chase direction exactly.",
+    "10": "Actual result includes the boy turning back toward the viewer; retained as an intentional same-series variation, not a pixel-identical recreation."
+  }
+}

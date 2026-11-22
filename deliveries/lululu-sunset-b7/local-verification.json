@@ -1,0 +1,41 @@
+{
+  "checked_count": 25,
+  "all_hashes_match": true,
+  "all_decoded": true,
+  "independent_no_ui_count": 10,
+  "ui_count": 10,
+  "source_count": 5,
+  "output_sizes": [
+    [
+      768,
+      1376
+    ]
+  ],
+  "files": [
+    "source/01.png",
+    "source/02.png",
+    "source/03.png",
+    "source/04.png",
+    "source/05.png",
+    "images/01.png",
+    "ui/01.png",
+    "images/02.png",
+    "ui/02.png",
+    "images/03.png",
+    "ui/03.png",
+    "images/04.png",
+    "ui/04.png",
+    "images/05.png",
+    "ui/05.png",
+    "images/06.png",
+    "ui/06.png",
+    "images/07.png",
+    "ui/07.png",
+    "images/08.png",
+    "ui/08.png",
+    "images/09.png",
+    "ui/09.png",
+    "images/10.png",
+    "ui/10.png"
+  ]
+}

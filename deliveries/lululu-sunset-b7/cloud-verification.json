@@ -1,0 +1,268 @@
+{
+  "root_folder": "1ilGmIJrIgsU3lANaCTVpxVO3BjxsHoBm",
+  "url": "https://drive.google.com/drive/folders/1ilGmIJrIgsU3lANaCTVpxVO3BjxsHoBm",
+  "folder_mapping": {
+    "source": "1bTtxg_HO9YGHvF1jShvsMNdc4u6gJ-wF",
+    "images": "1dCAlih5UMuAvi5AMx5pb8VtEYR9yM4Y0",
+    "ui": "1reQzhczaJttPwDTmjIona9wPk-4PoxZH"
+  },
+  "method": "Fresh search_files listings of all three image leaf folders and root; compared names, byte counts and MD5. All next_page_token null and incomplete_search false.",
+  "image_count": 25,
+  "verified_file_count": 31,
+  "all_uploaded_files_match": true,
+  "pending_document_uploads": [
+    "README.md",
+    "历史成功流程复盘.md"
+  ],
+  "pending_reason": "Arena file-transfer upload rate limit; these two requests were not sent to Drive; no further uploads attempted in this reply. Files available locally and in repository.",
+  "files": [
+    {
+      "local": "source/01.png",
+      "cloud_md5": "1e9b1e9c9edc662ccb0f1dcc55b88670",
+      "local_md5": "1e9b1e9c9edc662ccb0f1dcc55b88670",
+      "cloud_bytes": 2207473,
+      "local_bytes": 2207473,
+      "match": true
+    },
+    {
+      "local": "source/02.png",
+      "cloud_md5": "1c873338f104337f7ecc55f1edc20d85",
+      "local_md5": "1c873338f104337f7ecc55f1edc20d85",
+      "cloud_bytes": 2364713,
+      "local_bytes": 2364713,
+      "match": true
+    },
+    {
+      "local": "source/03.png",
+      "cloud_md5": "179bcc32f4fe59936a5979ba6bd714eb",
+      "local_md5": "179bcc32f4fe59936a5979ba6bd714eb",
+      "cloud_bytes": 2288008,
+      "local_bytes": 2288008,
+      "match": true
+    },
+    {
+      "local": "source/04.png",
+      "cloud_md5": "244827ebc89e11e53b3c07476a7e5166",
+      "local_md5": "244827ebc89e11e53b3c07476a7e5166",
+      "cloud_bytes": 2435078,
+      "local_bytes": 2435078,
+      "match": true
+    },
+    {
+      "local": "source/05.png",
+      "cloud_md5": "ae17797b2504b42a78a9f0dbd6102e45",
+      "local_md5": "ae17797b2504b42a78a9f0dbd6102e45",
+      "cloud_bytes": 2361197,
+      "local_bytes": 2361197,
+      "match": true
+    },
+    {
+      "local": "images/01.png",
+      "cloud_md5": "29ec0f4cd726947ac461ace3b5d25927",
+      "local_md5": "29ec0f4cd726947ac461ace3b5d25927",
+      "cloud_bytes": 2069018,
+      "local_bytes": 2069018,
+      "match": true
+    },
+    {
+      "local": "images/02.png",
+      "cloud_md5": "bec54a1da11f86afd0068fe56d3076a2",
+      "local_md5": "bec54a1da11f86afd0068fe56d3076a2",
+      "cloud_bytes": 2231334,
+      "local_bytes": 2231334,
+      "match": true
+    },
+    {
+      "local": "images/03.png",
+      "cloud_md5": "e8fa6c3619c948a33deebb817aaedfec",
+      "local_md5": "e8fa6c3619c948a33deebb817aaedfec",
+      "cloud_bytes": 2123087,
+      "local_bytes": 2123087,
+      "match": true
+    },
+    {
+      "local": "images/04.png",
+      "cloud_md5": "f8a7f87c8b38bd58e3f10b707d7bbd55",
+      "local_md5": "f8a7f87c8b38bd58e3f10b707d7bbd55",
+      "cloud_bytes": 2134017,
+      "local_bytes": 2134017,
+      "match": true
+    },
+    {
+      "local": "images/05.png",
+      "cloud_md5": "b7b1aecae9b312a1b323eb775dce7802",
+      "local_md5": "b7b1aecae9b312a1b323eb775dce7802",
+      "cloud_bytes": 2200984,
+      "local_bytes": 2200984,
+      "match": true
+    },
+    {
+      "local": "images/06.png",
+      "cloud_md5": "abb6687558098c0f06e4e0ba71a7e0bd",
+      "local_md5": "abb6687558098c0f06e4e0ba71a7e0bd",
+      "cloud_bytes": 2076088,
+      "local_bytes": 2076088,
+      "match": true
+    },
+    {
+      "local": "images/07.png",
+      "cloud_md5": "e1c9a5b2aca8ec49edde8f960e0192ff",
+      "local_md5": "e1c9a5b2aca8ec49edde8f960e0192ff",
+      "cloud_bytes": 2251752,
+      "local_bytes": 2251752,
+      "match": true
+    },
+    {
+      "local": "images/08.png",
+      "cloud_md5": "40a482150208ffe04aceacf5767438ec",
+      "local_md5": "40a482150208ffe04aceacf5767438ec",
+      "cloud_bytes": 1990896,
+      "local_bytes": 1990896,
+      "match": true
+    },
+    {
+      "local": "images/09.png",
+      "cloud_md5": "fe63603eac29bd71d6340fed48c200ea",
+      "local_md5": "fe63603eac29bd71d6340fed48c200ea",
+      "cloud_bytes": 2232490,
+      "local_bytes": 2232490,
+      "match": true
+    },
+    {
+      "local": "images/10.png",
+      "cloud_md5": "c92d247cbd909d2c793437834578b42c",
+      "local_md5": "c92d247cbd909d2c793437834578b42c",
+      "cloud_bytes": 2204799,
+      "local_bytes": 2204799,
+      "match": true
+    },
+    {
+      "local": "ui/01.png",
+      "cloud_md5": "327e251f4e84b48a970fa51694af85a5",
+      "local_md5": "327e251f4e84b48a970fa51694af85a5",
+      "cloud_bytes": 1204694,
+      "local_bytes": 1204694,
+      "match": true
+    },
+    {
+      "local": "ui/02.png",
+      "cloud_md5": "a05e0013d9d51c28cb31f3576b43d2da",
+      "local_md5": "a05e0013d9d51c28cb31f3576b43d2da",
+      "cloud_bytes": 1333860,
+      "local_bytes": 1333860,
+      "match": true
+    },
+    {
+      "local": "ui/03.png",
+      "cloud_md5": "5aea007f2b08fdc750f69e35befd90e7",
+      "local_md5": "5aea007f2b08fdc750f69e35befd90e7",
+      "cloud_bytes": 1209232,
+      "local_bytes": 1209232,
+      "match": true
+    },
+    {
+      "local": "ui/04.png",
+      "cloud_md5": "8c7170ebdbbbf0a855e7a650f208b7f5",
+      "local_md5": "8c7170ebdbbbf0a855e7a650f208b7f5",
+      "cloud_bytes": 1276757,
+      "local_bytes": 1276757,
+      "match": true
+    },
+    {
+      "local": "ui/05.png",
+      "cloud_md5": "f8817151bab04da903949962b668358a",
+      "local_md5": "f8817151bab04da903949962b668358a",
+      "cloud_bytes": 1288783,
+      "local_bytes": 1288783,
+      "match": true
+    },
+    {
+      "local": "ui/06.png",
+      "cloud_md5": "02939910eadd6dc2b189a2edb603ac9e",
+      "local_md5": "02939910eadd6dc2b189a2edb603ac9e",
+      "cloud_bytes": 1226524,
+      "local_bytes": 1226524,
+      "match": true
+    },
+    {
+      "local": "ui/07.png",
+      "cloud_md5": "f15a9889c2167e26c0be671a35cf1b71",
+      "local_md5": "f15a9889c2167e26c0be671a35cf1b71",
+      "cloud_bytes": 1359711,
+      "local_bytes": 1359711,
+      "match": true
+    },
+    {
+      "local": "ui/08.png",
+      "cloud_md5": "31dabbe46c12a452a4271e3e78fc5d32",
+      "local_md5": "31dabbe46c12a452a4271e3e78fc5d32",
+      "cloud_bytes": 1216053,
+      "local_bytes": 1216053,
+      "match": true
+    },
+    {
+      "local": "ui/09.png",
+      "cloud_md5": "553c532e67dff12f7ff840f030cb412a",
+      "local_md5": "553c532e67dff12f7ff840f030cb412a",
+      "cloud_bytes": 1286956,
+      "local_bytes": 1286956,
+      "match": true
+    },
+    {
+      "local": "ui/10.png",
+      "cloud_md5": "efb0fd7a7fa4d500f2b72b53a115c6ed",
+      "local_md5": "efb0fd7a7fa4d500f2b72b53a115c6ed",
+      "cloud_bytes": 1289217,
+      "local_bytes": 1289217,
+      "match": true
+    },
+    {
+      "local": "00-原片总预览.jpg",
+      "cloud_md5": "3fd7071d8cfb771b495213d1707d37de",
+      "local_md5": "3fd7071d8cfb771b495213d1707d37de",
+      "cloud_bytes": 147292,
+      "local_bytes": 147292,
+      "match": true
+    },
+    {
+      "local": "00-总预览.jpg",
+      "cloud_md5": "7b55df5ad147bbf779c2b5b9d4c92814",
+      "local_md5": "7b55df5ad147bbf779c2b5b9d4c92814",
+      "cloud_bytes": 850522,
+      "local_bytes": 850522,
+      "match": true
+    },
+    {
+      "local": "00-无UI总预览.jpg",
+      "cloud_md5": "694230c037a8adf684ac344a04bacd0b",
+      "local_md5": "694230c037a8adf684ac344a04bacd0b",
+      "cloud_bytes": 299123,
+      "local_bytes": 299123,
+      "match": true
+    },
+    {
+      "local": "00-有UI总预览.jpg",
+      "cloud_md5": "9cf83e90e61d862080fcbca136d2ab6b",
+      "local_md5": "9cf83e90e61d862080fcbca136d2ab6b",
+      "cloud_bytes": 333886,
+      "local_bytes": 333886,
+      "match": true
+    },
+    {
+      "local": "source-manifest.json",
+      "cloud_md5": "ca2b08eeb518b8c5c7d7e5f983fe4cf0",
+      "local_md5": "ca2b08eeb518b8c5c7d7e5f983fe4cf0",
+      "cloud_bytes": 3236,
+      "local_bytes": 3236,
+      "match": true
+    },
+    {
+      "local": "output-manifest.json",
+      "cloud_md5": "ee9f350d51182647808c7712be63bfb2",
+      "local_md5": "ee9f350d51182647808c7712be63bfb2",
+      "cloud_bytes": 9357,
+      "local_bytes": 9357,
+      "match": true
+    }
+  ]
+}
