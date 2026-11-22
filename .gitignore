@@ -34,3 +34,5 @@ __pycache__/
 # Multi-device derivatives and self-contained offline albums are delivered externally
 /deliveries/sakura-full-suite/sets/
 /deliveries/sakura-full-suite/albums/
+
+/deliveries/sakura-image-suite-v2/sets/
