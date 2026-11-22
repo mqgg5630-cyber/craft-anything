@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "status": "downloaded_pending_visual_review",
+  "share_url": "https://xhslink.cn/o/65mKtkE8Uk",
+  "note_id": "6a6195240000000001030e32",
+  "title": "今天是谁家的可爱噜啊",
+  "author": null,
+  "download_method": "GitHub Actions only; public declared CDN URLs; no cookies",
+  "source_quality": "公开笔记的最高可得候选文件，未经重编码；不保证为作者母版。",
+  "source_count": 5,
+  "requested_result_count": 10,
+  "runner_commit": "012ef8a47cb6af397c41c4d85a88afa133d82432",
+  "images": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 169358,
+      "sha256": "acb6bff8f24dae68d6e3a860b7e67074b8fcd82d37a96a8f8d8264f6d70289a9",
+      "md5": "e44f97092aa315bdfa9a0e11b2f35f32"
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 183526,
+      "sha256": "a3c67b72b1facd5934912911a51db1db224e3b43fa737766a62cccea7bf773f8",
+      "md5": "44bb8a0cf9847b9248a09a876cb6068c"
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 183208,
+      "sha256": "b46affde59f15ad1a4774f7570c3378992aa86165d667578e2fec17f9aee959e",
+      "md5": "3bbf7b1858fc480bc88710596340d687"
+    },
+    {
+      "file": "01-下载原片/04.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 213378,
+      "sha256": "23d959d0bec561eae821f688e38d5e8144ce6cde4517f8a72b4aa12c5f315041",
+      "md5": "4095821ddda9d204dd4e80c201952f02"
+    },
+    {
+      "file": "01-下载原片/05.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 266160,
+      "sha256": "50acf41b951e7b39d9f5857d4e3db20bfa17f96b9813e14c1c6391de0cb80f95",
+      "md5": "ebb4be3b24f5adf9c26a170bd3fd9b54"
+    }
+  ]
+}
