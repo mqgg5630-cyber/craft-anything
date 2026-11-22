@@ -22,7 +22,8 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install Pillow==11.3.0
       - run: python tools/wallpaper-job/download_xhs_note.py 'https://xhslink.cn/o/1zbYYyvDu9W' deliveries/lumei-source-1zbYY
-      - name: Return verified source files on the triggering branch
+      - name: Return verified source files (or the diagnostic log) on the triggering branch
+        if: always()
         env:
           JOB_BRANCH: ${{ github.ref_name }}
         run: |

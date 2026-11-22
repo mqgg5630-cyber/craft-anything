@@ -21,6 +21,7 @@ from download import fetch
 DESKTOP = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36'
 MOBILE = 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1'
 JOB_CAP = 80 * 1024 * 1024
+DIAG = {}
 
 
 class NoRedirect(urllib.request.HTTPRedirectHandler):
@@ -98,6 +99,8 @@ def main(share_url, out_dir):
     source = root / '原片'
     chain = redirect_chain(share_url)
     note_id, xsec = note_ref(chain)
+    DIAG.update(redirect_hosts=[urllib.parse.urlparse(u).netloc + urllib.parse.urlparse(u).path for u in chain],
+                note_id=note_id, token_found=bool(xsec))
     print('redirect hops:', len(chain), 'note id found:', bool(note_id), 'token found:', bool(xsec), flush=True)
     meta, lists, tried = {}, [], []
     pages = []
@@ -125,6 +128,7 @@ def main(share_url, out_dir):
                 print(tried[-1], flush=True)
         if lists:
             break
+    DIAG.update(page_attempts=tried, meta=meta, image_lists=len(lists))
     if not lists:
         raise RuntimeError('No public image list available from the note page')
     source.mkdir(parents=True, exist_ok=True)
@@ -138,6 +142,7 @@ def main(share_url, out_dir):
                 data, width, height, fmt = fetch(url)
                 valid.append((width * height, len(data), data, width, height, fmt, url))
             except Exception as exc:  # noqa: BLE001 - skip this candidate only
+                DIAG.setdefault('candidate_errors', []).append(f'{index}:{type(exc).__name__}')
                 print(f'Image {index}: candidate unavailable ({type(exc).__name__})', flush=True)
         if not valid:
             raise RuntimeError(f'No validated public image for item {index}')
@@ -161,4 +166,13 @@ def main(share_url, out_dir):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1], sys.argv[2])
+    out = Path(sys.argv[2])
+    try:
+        main(sys.argv[1], sys.argv[2])
+        DIAG['result'] = 'ok'
+    except Exception as exc:
+        DIAG['result'] = f'failed: {type(exc).__name__}: {exc}'[:300]
+        raise
+    finally:
+        out.mkdir(parents=True, exist_ok=True)
+        (out / 'download-log.json').write_text(json.dumps(DIAG, ensure_ascii=False, indent=2) + '\n')
