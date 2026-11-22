@@ -1,0 +1,13 @@
+{
+  "source_count": 5,
+  "output_count": 10,
+  "all_15_decoded": true,
+  "source_hashes_match": true,
+  "outputs_unique": true,
+  "output_sizes": [
+    [
+      768,
+      1376
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "partial_upload_rate_limited",
+  "root_folder": "1k3NZlfhvXaDOyZ34m5fWrR4QVl4kzEGs",
+  "folders": {
+    "source": "1VqwDGxfKS6jtkaLl9ZjAamkIOI-7T8Al",
+    "images": "1U0kM0UY5uO00-SuTvbdmxeblJy3zBcns"
+  },
+  "fresh_listed_source_count": 2,
+  "fresh_listed_output_count": 0,
+  "next_page_token": null,
+  "incomplete_search": false,
+  "verified_uploaded_files": [
+    {
+      "file": "source/03.webp",
+      "drive_id": "1UhYnk7zlwl7TeH-vtd29t54ODI-xSFN6",
+      "cloud_md5": "20bc4cb4f6f6b2bbf64706c098364d0f",
+      "local_md5": "20bc4cb4f6f6b2bbf64706c098364d0f",
+      "cloud_bytes": 105354,
+      "local_bytes": 105354,
+      "match": true
+    },
+    {
+      "file": "source/05.webp",
+      "drive_id": "1oUD84O3xwPefFPrB0xOuZZpinD0d8W4U",
+      "cloud_md5": "32331dbc1220176d3f8205afb0cee4d0",
+      "local_md5": "32331dbc1220176d3f8205afb0cee4d0",
+      "cloud_bytes": 117804,
+      "local_bytes": 117804,
+      "match": true
+    }
+  ],
+  "remaining_files": [
+    "source/01.webp",
+    "source/02.webp",
+    "source/04.webp",
+    "images/01.png",
+    "images/02.png",
+    "images/03.png",
+    "images/04.png",
+    "images/05.png",
+    "images/06.png",
+    "images/07.png",
+    "images/08.png",
+    "images/09.png",
+    "images/10.png",
+    "00-10张复刻总预览.jpg",
+    "00-原片总预览.jpg",
+    "00-总预览.jpg",
+    "README.md",
+    "source-manifest.json",
+    "output-manifest.json"
+  ],
+  "blocker": "Arena file transfer rate limit; 01/02/04 requests not sent; no further uploads attempted this reply; retry in a later reply after at least 15 seconds"
+}

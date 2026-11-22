@@ -1,0 +1,168 @@
+{
+  "generated_count": 10,
+  "reference_count": 5,
+  "route": "xhs-link-recreate-10",
+  "status": "decoded_and_visually_reviewed",
+  "quality_note": "Model-native PNG outputs; no upscaling; not author originals",
+  "files": [
+    {
+      "file": "images/01.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2035304,
+      "md5": "b90459536db0441d1278d26513bf73c0",
+      "sha256": "e074b7d8f2637d27bd0995dcbae40670e0d2f87d69587ef88afc5d13c26e676b",
+      "title": "害羞可爱噜",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "淡紫手账，捂眼大笑主角",
+      "generation": "Independent reference-based AI recreation; no UI"
+    },
+    {
+      "file": "images/02.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2173476,
+      "md5": "b2f3d3bc534a776d1e910150d8e3b63c",
+      "sha256": "c492e589fefefb145b58c995a12f5bbd44857157a668bec47d4e8905582b5187",
+      "title": "可爱满分",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "淡紫手账，捧脸歪头主角",
+      "generation": "Independent reference-based AI recreation; no UI"
+    },
+    {
+      "file": "images/03.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2185890,
+      "md5": "3ee3f102e484df09b4023a12111d656a",
+      "sha256": "828a8fe27746ec2605096ea2977c0ff513e293b315f6487975672c06750e66f0",
+      "title": "一起比心",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "change": "奶油桃色，贴脸共同比心",
+      "generation": "Independent reference-based AI recreation; no UI"
+    },
+    {
+      "file": "images/04.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2101544,
+      "md5": "ad2fe45e281cb461e745cda25fab04b3",
+      "sha256": "666bd6416dcff3c0137117780585c942fcd90c0078d76a2c21a03892a293009e",
+      "title": "送你一颗心",
+      "references": [
+        "source/02.webp",
+        "source/03.webp"
+      ],
+      "change": "奶油桃色，递送爱心",
+      "generation": "Independent reference-based AI recreation; no UI"
+    },
+    {
+      "file": "images/05.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2193235,
+      "md5": "504b56b9bf256a8ae84c5fe0b948faeb",
+      "sha256": "7691676546458ae3670eb52fcbb00901329c772451c675a055a57487545e29df",
+      "title": "捏捏脸颊",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "奶油桃色，轻捏脸颊",
+      "generation": "Independent reference-based AI recreation; no UI"
+    },
+    {
+      "file": "images/06.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2184829,
+      "md5": "6db2703d29e3d8e0371c3255cbc7b768",
+      "sha256": "b8806bd7d6bcc848bbc8a36c80bc5594a53a0fd77da8771e1800c5c8680e41fd",
+      "title": "一起读故事",
+      "references": [
+        "source/03.webp",
+        "source/02.webp"
+      ],
+      "change": "奶油桃色，坐垫上一起读书",
+      "generation": "Independent reference-based AI recreation; no UI"
+    },
+    {
+      "file": "images/07.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2074788,
+      "md5": "b9f745ed8c62b0f5e1daa90230e1e2bb",
+      "sha256": "1f418b7de97d2af6c2fb4886d2ef8abb0308ddcced8656444b3e238bb9bf0312",
+      "title": "大王驾到",
+      "references": [
+        "source/04.webp"
+      ],
+      "change": "公主茶会，王座与爱心蛋糕",
+      "generation": "Independent reference-based AI recreation; no UI"
+    },
+    {
+      "file": "images/08.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2170839,
+      "md5": "1847c39fe5d7e4c139b5fb9371eb5d62",
+      "sha256": "5b9fcf5794ddc8c7d72a50ce3648f499372f36e4452eec3fd10978b2657b2574",
+      "title": "甜蜜下午茶",
+      "references": [
+        "source/04.webp",
+        "source/03.webp"
+      ],
+      "change": "公主茶会，双人喝茶分享饼干",
+      "generation": "Independent reference-based AI recreation; no UI"
+    },
+    {
+      "file": "images/09.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 1713659,
+      "md5": "3d01c25b70cf7a1097eb6377e8ae0010",
+      "sha256": "9bd1d76836d232430c03deb08d6942c6f5fc87c7ad3d2101a51ced49c2e6e9ed",
+      "title": "超级爱你",
+      "references": [
+        "source/05.webp"
+      ],
+      "change": "奶油黄手账，捧心主角",
+      "generation": "Independent reference-based AI recreation; no UI"
+    },
+    {
+      "file": "images/10.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 1806206,
+      "md5": "bcb20bcd2529b7c0a16337709ca85e24",
+      "sha256": "d9329ddcfb5a85efc30603755446e6fbb15957899dd0ee26259acf18c06e9d84",
+      "title": "今天也开心",
+      "references": [
+        "source/05.webp",
+        "source/01.webp"
+      ],
+      "change": "奶油黄手账，眨眼点赞主角",
+      "generation": "Independent reference-based AI recreation; no UI"
+    }
+  ],
+  "visual_review": "All ten outputs inspected via contact sheet; 03, 08 and 10 additionally inspected at full size; original three style groups preserved; no human face/hair drift observed",
+  "generation_count": 10,
+  "independent_generation": true,
+  "system_ui": false
+}
