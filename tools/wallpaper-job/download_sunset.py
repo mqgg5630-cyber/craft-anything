@@ -65,10 +65,14 @@ def parse_note(html, final_url):
     note_id_match = re.search(r'/(?:explore|discovery/item)/([a-f0-9]{24})', final_url)
     notes = [v.get('note', {}) for v in details.values() if isinstance(v, dict)]
     if note_id_match:
-        notes = [n for n in notes if n.get('noteId') == note_id_match.group(1)]
+        notes = [n for n in notes if n.get('noteId', note_id_match.group(1)) == note_id_match.group(1)]
     if len(notes) != 1:
-        raise ValueError('Cannot unambiguously identify the shared note')
+        keys = ','.join(str(k) for k in state)[:90]
+        note_keys = ','.join(str(k) for k in state.get('note', {}))[:90]
+        raise ValueError(f'Cannot identify note: count={len(notes)}; state={keys}; note={note_keys}')
     note = notes[0]
+    if note_id_match:
+        note.setdefault('noteId', note_id_match.group(1))
     if '夕阳' not in note.get('title', ''):
         raise ValueError('Resolved note title does not match requested sunset note')
     images = note.get('imageList', [])
