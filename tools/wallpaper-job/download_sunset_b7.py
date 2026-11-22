@@ -33,7 +33,16 @@ def main():
     notes = [detail.get('note', {}) for detail in details.values()]
     notes = [note for note in notes if note.get('imageList')]
     if len(notes) != 1:
-        raise RuntimeError(f'Expected one unambiguous public note, found {len(notes)}')
+        def shape(value, depth=0):
+            if depth > 3:
+                return type(value).__name__
+            if isinstance(value, dict):
+                return {key: shape(child, depth + 1) for key, child in value.items()}
+            if isinstance(value, list):
+                return [shape(value[0], depth + 1)] if value else []
+            return type(value).__name__
+        raise RuntimeError(f'Expected one unambiguous public note, found {len(notes)}; '
+                           f'page_path={urlparse(final_url).path}; state_shape={json.dumps(shape(state))}')
     note = notes[0]
     note_id = note.get('noteId', '')
     if not note_id or note_id not in final_url:
