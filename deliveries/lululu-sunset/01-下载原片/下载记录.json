@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "status": "unavailable_anonymous_300031",
+  "share_url": "https://xhslink.cn/o/5thkO8Kd6jg",
+  "note_id": "6ad212fc000000001802d6be",
+  "title": "和你一起奔夕阳 噜噜噜妹壁纸",
+  "image_count": 0,
+  "images": [],
+  "note": "小红书笔记匿名访问返回 error_code=300031 '当前笔记暂时无法浏览'（疑似已下架 / 转私密 / 限区域）。GitHub Actions runner 已尝试 xhslink 解析、登录墙回退、xiaohongshu.com 与 rednote.com 的 explore / discovery/item 公开页（带与不带 xsec_token），均不可用。如需真实原片，请提供图片直链或可用的分享链接，写入 source-manifest.json 的 image_urls 后重新运行 download_lululu.py，校验后会写回同一分支。当前 02/03 文件夹下为同主题原创风格复刻，非作者原图精确复制。"
+}

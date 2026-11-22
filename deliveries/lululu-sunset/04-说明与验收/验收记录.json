@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "source_count": 0,
+  "clean_count": 10,
+  "phone_preview_count": 10,
+  "generation": "Ten independent image-conditioned AI generations; native output, not upscaled.",
+  "ui": "Deterministic illustrative lock-screen overlay, not a device screenshot.",
+  "sources": [],
+  "pairs": [
+    {
+      "number": 1,
+      "clean": {
+        "file": "02-复刻无手机UI/01-暮色启程.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2626800,
+        "sha256": "198bf0c9807b88c41f620a859556cf4ba3d6d22b76abe868a9c83ca59c4e1b7a"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/01-暮色启程.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1762665,
+        "sha256": "c3f1832126f923dfc2e3624dfd026a963d18e90bc0fe368b186600e1446468c7"
+      }
+    },
+    {
+      "number": 2,
+      "clean": {
+        "file": "02-复刻无手机UI/02-海边剪影.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2426535,
+        "sha256": "1c8b67dbfcb53a47453cb15bc05e804d68fe4de0cf605738b209f3d398619da3"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/02-海边剪影.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1536785,
+        "sha256": "2b988f1d1e5a78e1aa2d50b281b76e2012ca528335dbe8ad3e924788bf99359b"
+      }
+    },
+    {
+      "number": 3,
+      "clean": {
+        "file": "02-复刻无手机UI/03-草原奔跑.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2558796,
+        "sha256": "f39b1aa9fa64a069ed9023ba348782463d4978ef750d0cd1a26bfbca1da6c500"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/03-草原奔跑.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1733932,
+        "sha256": "e4ccf8e2dcd8511269333f86fe12f1ccaae37e59ec0b4e462c7f4e82ba28717e"
+      }
+    },
+    {
+      "number": 4,
+      "clean": {
+        "file": "02-复刻无手机UI/04-山丘守望.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2163366,
+        "sha256": "ae0d7295097893367d8db30198416488600338d43712d2e012f52b291b41c4cc"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/04-山丘守望.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1513306,
+        "sha256": "8c4bcc44f801086d944fed4f613fd5879d107aed9c6f17a4f371f59c7548a484"
+      }
+    },
+    {
+      "number": 5,
+      "clean": {
+        "file": "02-复刻无手机UI/05-携手夕阳.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2525625,
+        "sha256": "dff4bea7ea0bf016b88e362e0e85f05f116e5e80767ff4314e2b83e612921326"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/05-携手夕阳.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1706761,
+        "sha256": "2b874b243f221f9b71ed376f2edaae409612dad7822bbaefcf133f207f63bef7"
+      }
+    },
+    {
+      "number": 6,
+      "clean": {
+        "file": "02-复刻无手机UI/06-花田逆光.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2477960,
+        "sha256": "53d15e6db56d8b4764c9c39d0ccf51bc36ee82167c2463d6a5fa745eeac9e4a3"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/06-花田逆光.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1668742,
+        "sha256": "5a1ae1bbf38bd46f5b1257e2eb7da73d01517bd4ebdac2b7177cde08bc456a89"
+      }
+    },
+    {
+      "number": 7,
+      "clean": {
+        "file": "02-复刻无手机UI/07-城市黄昏.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2513530,
+        "sha256": "fd5eb63ce838fcff62c05f63a9b058b09b60dec4827497786f65cd7524edb1cd"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/07-城市黄昏.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1788171,
+        "sha256": "a396c24a3b4757b3fc084fdc55029daefd59cf60c956f9b6cea2bfea302528e9"
+      }
+    },
+    {
+      "number": 8,
+      "clean": {
+        "file": "02-复刻无手机UI/08-河畔长桥.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2383824,
+        "sha256": "ba76ec655591feafa2b9769d81fdf64a619c4e9585f4766ea8aaf55e5cdbbd3c"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/08-河畔长桥.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1443092,
+        "sha256": "7b8f55ec0a204f6403feb29cfbaf918b0c47f348a8de6165dd55f3c2c625881d"
+      }
+    },
+    {
+      "number": 9,
+      "clean": {
+        "file": "02-复刻无手机UI/09-星河初现.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2149465,
+        "sha256": "670421113414086ede3d40fe6eaebc9dce99a8302bf7bd26ddeaf886cd10bfc7"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/09-星河初现.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1384161,
+        "sha256": "5189abd85a0db30030089e38b5181da12ceb043ee9eb3eca460d53572c59c111"
+      }
+    },
+    {
+      "number": 10,
+      "clean": {
+        "file": "02-复刻无手机UI/10-落日余晖.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 2412735,
+        "sha256": "3a840d636a447e7fc1534bc01bed5a510f698b222c99dd40d48a3f6cac4244c0"
+      },
+      "phone_preview": {
+        "file": "03-复刻有手机UI/10-落日余晖.png",
+        "dimensions": [
+          768,
+          1376
+        ],
+        "bytes": 1615053,
+        "sha256": "64d80cf3b2823e80c51e06614f27564e0fe1835cdc9c04434c00aa07d611714a"
+      }
+    }
+  ]
+}

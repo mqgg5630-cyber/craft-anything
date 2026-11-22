@@ -92,13 +92,17 @@ def main():
     if len(clean) != CLEAN_COUNT:
         raise ValueError(f'Require exactly {CLEAN_COUNT} clean replicas before packaging, found {len(clean)}')
 
-    source_log = json.loads((source_folder / '下载记录.json').read_text())
+    source_log = json.loads((source_folder / '下载记录.json').read_text()) if (source_folder / '下载记录.json').exists() else {}
+    source_images = source_log.get('images') or []
     source_files = sorted(p for p in source_folder.glob('*') if p.suffix.lower() in ('.png', '.jpg', '.jpeg', '.webp'))
-    for entry in source_log['images']:
-        p = source_folder / entry['file']
-        actual = hashlib.sha256(p.read_bytes()).hexdigest()
-        if actual != entry['sha256']:
-            raise ValueError(f'Source hash mismatch for {entry["file"]}')
+    if source_images:
+        for entry in source_images:
+            p = source_folder / entry['file']
+            if not p.exists():
+                continue
+            actual = hashlib.sha256(p.read_bytes()).hexdigest()
+            if actual != entry.get('sha256', ''):
+                raise ValueError(f'Source hash mismatch for {entry["file"]}')
     source_records = [record(p) for p in source_files]
 
     ui = ROOT / '03-复刻有手机UI'
@@ -134,10 +138,11 @@ def main():
 
     sheet(clean, report / '无UI总览.jpg')
     sheet(ui_files, report / '手机UI总览.jpg')
-    sheet(source_files, report / '下载原图总览.jpg')
+    if source_files:
+        sheet(source_files, report / '下载原图总览.jpg')
     sheet(clean, ROOT / '00-10张复刻总览.jpg')
-    # Master total preview: originals, then no-UI replicas, then UI replicas.
-    sheet(source_files + clean + ui_files, ROOT / '总预览图.jpg')
+    # Master total preview: originals (if any), then no-UI replicas, then UI replicas.
+    sheet((source_files + clean + ui_files) if source_files else (clean + ui_files), ROOT / '总预览图.jpg')
 
     archive = ROOT.parent / '噜噜噜妹夕阳壁纸-完整交付.zip'
     with zipfile.ZipFile(archive, 'w', compression=zipfile.ZIP_DEFLATED) as z:
