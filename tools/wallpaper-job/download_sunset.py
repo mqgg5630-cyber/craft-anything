@@ -176,4 +176,16 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except Exception as exc:
+        # Expose only a short diagnostic in the Checks API, not signed URLs/bodies.
+        import urllib.error
+        if isinstance(exc, urllib.error.HTTPError):
+            message = f'Public endpoint returned HTTP {exc.code}'
+        elif isinstance(exc, ValueError):
+            message = str(exc)[:180].replace('\n', ' ')
+        else:
+            message = type(exc).__name__
+        print(f'::error title=Public note download blocked::{message}', flush=True)
+        raise SystemExit(1)
