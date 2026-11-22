@@ -1,0 +1,36 @@
+name: Lululu sunset source download
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ['arena/09e7b6a9-craft-anything']
+    paths:
+      - 'tools/wallpaper-job/download_lululu.py'
+      - '.github/workflows/lululu-download.yml'
+permissions:
+  contents: write
+concurrency:
+  group: lululu-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow==11.3.0
+      - run: python tools/wallpaper-job/download_lululu.py
+      - name: Return verified references to the triggering branch
+        env:
+          JOB_BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name 'wallpaper-delivery[bot]'
+          git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
+          git add deliveries/lululu-sunset-10/source deliveries/lululu-sunset-10/source-manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Download five verified Lululu sunset public reference images'
+            git push origin "HEAD:$JOB_BRANCH"
+          fi
