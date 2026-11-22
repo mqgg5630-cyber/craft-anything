@@ -1,0 +1,177 @@
+{
+  "count": 10,
+  "new_generation_calls": 0,
+  "process": "Deterministic Chinese typography over R5 text-free artwork; no new AI painting.",
+  "files": [
+    {
+      "file": "images/01-星河予你.png",
+      "quote": "星河予你",
+      "source": "deliveries/little-prince-no-text-r5/images/01-星夜依偎.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.62,
+        0.36
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2259626,
+      "md5": "0fb0171274848c5dafc90ce4bb9cd4ad"
+    },
+    {
+      "file": "images/02-月色为你.png",
+      "quote": "月色为你",
+      "source": "deliveries/little-prince-no-text-r5/images/02-月光赠你.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.57,
+        0.38
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2219932,
+      "md5": "fbbb3ac1adfc45b180de3f0f485d0e4f"
+    },
+    {
+      "file": "images/03-此心向你.png",
+      "quote": "此心向你",
+      "source": "deliveries/little-prince-no-text-r5/images/03-银河漫步.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.53,
+        0.34
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2269609,
+      "md5": "8eceeb328c91ac22efb73a7691b92772"
+    },
+    {
+      "file": "images/04-与你朝夕.png",
+      "quote": "与你朝夕",
+      "source": "deliveries/little-prince-no-text-r5/images/04-替你摘星.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.65,
+        0.39
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2187357,
+      "md5": "ad9c142bac3c3e4bf626082c900418cf"
+    },
+    {
+      "file": "images/05-余生是你.png",
+      "quote": "余生是你",
+      "source": "deliveries/little-prince-no-text-r5/images/05-晚霞拥抱.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.5,
+        0.34
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2382307,
+      "md5": "80b018095f6eb47d051cea52236828f3"
+    },
+    {
+      "file": "images/06-黄昏有你.png",
+      "quote": "黄昏有你",
+      "source": "deliveries/little-prince-no-text-r5/images/06-把黄昏留给你.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.61,
+        0.36
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2093181,
+      "md5": "043081f285c18f3c05ddcfefcafa711c"
+    },
+    {
+      "file": "images/07-心动不息.png",
+      "quote": "心动不息",
+      "source": "deliveries/little-prince-no-text-r5/images/07-星光落肩.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.65,
+        0.35
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2090984,
+      "md5": "e9d36f62f4483d86d4fddb8c141aefec"
+    },
+    {
+      "file": "images/08-温柔予你.png",
+      "quote": "温柔予你",
+      "source": "deliveries/little-prince-no-text-r5/images/08-晨光吻花.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.58,
+        0.39
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2015951,
+      "md5": "8f6ff72f554990dd6c0c58c9ec3ca06a"
+    },
+    {
+      "file": "images/09-岁岁相依.png",
+      "quote": "岁岁相依",
+      "source": "deliveries/little-prince-no-text-r5/images/09-与你看晨曦.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.52,
+        0.39
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2052407,
+      "md5": "c9a99e257391ad0dd4e56b6f076d3888"
+    },
+    {
+      "file": "images/10-此生与你.png",
+      "quote": "此生与你",
+      "source": "deliveries/little-prince-no-text-r5/images/10-温柔有归处.png",
+      "size": [
+        768,
+        1376
+      ],
+      "text_top_center": [
+        0.55,
+        0.39
+      ],
+      "font_size": 30,
+      "letter_spacing": 8,
+      "bytes": 2307213,
+      "md5": "a3c21f2be060e1f05a523c3c65671716"
+    }
+  ]
+}
