@@ -26,15 +26,18 @@ warnings.simplefilter('error', Image.DecompressionBombWarning)
 
 def check_url(url):
     p = urllib.parse.urlsplit(url)
-    allowed = ('xhslink.cn', 'xiaohongshu.com', 'xhscdn.com', 'rednotecdn.com')
+    allowed = ('xhslink.cn', 'xhslink.com', 'xiaohongshu.com', 'xhscdn.com', 'rednotecdn.com')
     if (p.scheme != 'https' or p.username or p.password or p.port not in (None, 443)
             or not any(p.hostname == d or (p.hostname or '').endswith('.' + d) for d in allowed)):
-        raise ValueError('Unexpected public-note host')
+        raise ValueError(f'Unexpected public-note host: {p.scheme}://{p.hostname}')
     return url
 
 
 class SafeRedirect(urllib.request.HTTPRedirectHandler):
     def redirect_request(self, req, fp, code, msg, headers, newurl):
+        # Some public short links declare an HTTP target; request HTTPS instead.
+        if newurl.startswith('http://'):
+            newurl = 'https://' + newurl[7:]
         return super().redirect_request(req, fp, code, msg, headers, check_url(newurl))
 
 
