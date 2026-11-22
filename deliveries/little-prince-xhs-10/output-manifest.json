@@ -1,20 +1,130 @@
 {
   "generation_calls": 10,
   "count": 10,
-  "generated_by": "agent image generation (this session), not external pipeline",
-  "source_reference": "deliveries/little-prince-xhs-10/source (3 verified XHS public CDN webp, fetched via GitHub Actions)",
-  "style": "小王子系列 · 深蓝夜空/粉橙黄昏/暖调晨光，碎金厚涂 impasto，保留小王子/狐狸/玫瑰/星球/月亮/星迹元素",
+  "generated_by": "agent image generation, round 2, source images used as style reference",
+  "source_reference": "deliveries/little-prince-xhs-10/source (3 verified XHS public CDN webp)",
+  "style": "小王子系列 · 深蓝夜空/粉橙黄昏/暖调晨光，碎金厚涂 impasto，参考原片配色与角色，做构图变化",
   "files": [
-    {"file": "images/01-深蓝星河.png", "reference": "source/03.webp", "size": [768, 1376], "bytes": 2934071, "md5": "2b069efbef701cbe0d6e1dfd6756d0ac", "native_generation": true},
-    {"file": "images/02-深蓝流星.png", "reference": "source/03.webp", "size": [768, 1376], "bytes": 2587940, "md5": "8c9c19e469f8842e57a60591d7459f09", "native_generation": true},
-    {"file": "images/03-深蓝月光.png", "reference": "source/03.webp", "size": [768, 1376], "bytes": 2955349, "md5": "c7d38c00793c870f84a60308e716a627", "native_generation": true},
-    {"file": "images/04-深蓝玫瑰.png", "reference": "source/03.webp", "size": [768, 1376], "bytes": 2831138, "md5": "e62e9256d7697edb2efa93dc1b76ce24", "native_generation": true},
-    {"file": "images/05-粉橙黄昏.png", "reference": "source/02.webp", "size": [768, 1376], "bytes": 2748040, "md5": "17301381d37533f952ebaf5a4fed12c8", "native_generation": true},
-    {"file": "images/06-黄昏晚风.png", "reference": "source/02.webp", "size": [768, 1376], "bytes": 2782695, "md5": "c6be359c6b79f64c101dd1e29ebdafbf", "native_generation": true},
-    {"file": "images/07-黄昏星愿.png", "reference": "source/02.webp", "size": [768, 1376], "bytes": 2847810, "md5": "50a803d7279b37c04f4bc8bf56e55cc5", "native_generation": true},
-    {"file": "images/08-暖调晨光.png", "reference": "source/01.webp", "size": [768, 1376], "bytes": 2868398, "md5": "055b9e998e9c5643f528f9f140d74deb", "native_generation": true},
-    {"file": "images/09-晨光花语.png", "reference": "source/01.webp", "size": [768, 1376], "bytes": 2898835, "md5": "98aecea47587087877ac591506a652a4", "native_generation": true},
-    {"file": "images/10-晨光远行.png", "reference": "source/01.webp", "size": [768, 1376], "bytes": 2930252, "md5": "9bec73fd4d290058e297234335a95228", "native_generation": true}
+    {
+      "file": "images/01-深蓝星河.png",
+      "reference": "source/03.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1925216,
+      "md5": "639530c5523e0a5a6b7e1f271920c4aa",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    },
+    {
+      "file": "images/02-深蓝流星.png",
+      "reference": "source/03.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2931026,
+      "md5": "c4d5c7b7744ce718476c5b0f2fc6a37b",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    },
+    {
+      "file": "images/03-深蓝月光.png",
+      "reference": "source/03.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2873175,
+      "md5": "f0900924cdd28c22da85ff35ffb1b4e2",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    },
+    {
+      "file": "images/04-深蓝玫瑰.png",
+      "reference": "source/03.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2785143,
+      "md5": "629f47b0a9817f409e0fa9f2df8a6b9a",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    },
+    {
+      "file": "images/05-粉橙黄昏.png",
+      "reference": "source/02.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1787199,
+      "md5": "d6a1613d0dae93b8624c0a1638b1cc94",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    },
+    {
+      "file": "images/06-黄昏晚风.png",
+      "reference": "source/02.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1851220,
+      "md5": "30dc0a916dc59c0165c41ca059fd6305",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    },
+    {
+      "file": "images/07-黄昏星愿.png",
+      "reference": "source/02.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2902464,
+      "md5": "43fb2c9707b5cc0cbdc25eefe3b7e6d4",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    },
+    {
+      "file": "images/08-暖调晨光.png",
+      "reference": "source/01.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2815328,
+      "md5": "869009aea2f93611dee1452af919bb44",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    },
+    {
+      "file": "images/09-晨光花语.png",
+      "reference": "source/01.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2908175,
+      "md5": "a921e88370bedd3c82c35d7547bbbbc6",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    },
+    {
+      "file": "images/10-晨光远行.png",
+      "reference": "source/01.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1672856,
+      "md5": "2ffe74c09d6c77c17acc515478f1e5a3",
+      "native_generation": true,
+      "style": "source-referenced impasto recreation"
+    }
   ],
-  "tests": "PASS count=10, full PNG decode, native 768x1376 dimensions, MD5 uniqueness and source reference mapping"
+  "tests": "PASS count=10, full PNG decode, forced 768x1376, MD5 uniqueness"
 }
