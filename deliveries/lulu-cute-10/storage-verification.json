@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "status": "complete_archive_and_preview_uploaded",
+  "delivery_format": "Complete ZIP preserving separate source / clean / simulated-UI folders, plus standalone total preview. Not an expanded per-image cloud mirror.",
+  "folder_id": "1ysREukzaD6TDW1jpFaze0Fe_Aor33eGg",
+  "folder_url": "https://drive.google.com/drive/folders/1ysREukzaD6TDW1jpFaze0Fe_Aor33eGg",
+  "cloud_files_relisted": true,
+  "uploaded_archive_contains": {
+    "source_images": 5,
+    "clean_wallpapers": 10,
+    "simulated_ui_wallpapers": 10,
+    "previews": 4,
+    "other_documentation_files": 4
+  },
+  "immutable_archive_note": "ZIP contains the pre-upload documentation snapshot; latest cloud status is this external record, deliberately outside the ZIP to avoid a self-referential checksum.",
+  "expanded_per_image_mirror_uploaded": false,
+  "previous_sunset_transfer_resumed_or_modified": false,
+  "files": [
+    {
+      "kind": "complete_archive",
+      "workspace_file": ".local/今天是谁家的可爱噜啊-完整交付.zip",
+      "id": "1CWKR1c2ufU2LkSPqas5t2p5fJFeFuHcn",
+      "url": "https://drive.google.com/file/d/1CWKR1c2ufU2LkSPqas5t2p5fJFeFuHcn/view?usp=drivesdk",
+      "bytes": 29331264,
+      "md5": "9103ac58d2bbbb69d2b8d02906573936",
+      "sha256": "c8d11a189353851df675fc8648de3abf0d20d5f9682fc91122394783363864a3",
+      "local_crc_verified": true,
+      "all_29_image_sha256_values_verified": true
+    },
+    {
+      "kind": "standalone_preview",
+      "workspace_file": "deliveries/lulu-cute-10/00-总预览.jpg",
+      "id": "1QOIGQLL-dzfHEebXFvvshr-rBy4Edm-D",
+      "url": "https://drive.google.com/file/d/1QOIGQLL-dzfHEebXFvvshr-rBy4Edm-D/view?usp=drivesdk",
+      "bytes": 696073,
+      "md5": "ade2fea396aadfd6b07b1022541662d3"
+    }
+  ],
+  "all_uploaded_md5_and_size_verified": true
+}

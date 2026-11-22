@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "project": "今天是谁家的可爱噜啊",
+  "share_url": "https://xhslink.cn/o/65mKtkE8Uk",
+  "note_id": "6a6195240000000001030e32",
+  "branch": "arena/cf4bb177-craft-anything",
+  "status": "complete_archive_and_preview_uploaded",
+  "status_at_archive_creation": "local_complete_cloud_archive_pending",
+  "source_download": {
+    "environment": "GitHub Actions runner only",
+    "run_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45018698377",
+    "return_commit": "6c206b7",
+    "source_count": 5,
+    "dimensions": [941, 1672],
+    "unchanged_response_bytes": true,
+    "cookies_or_account_credentials_used": false,
+    "master_quality_claimed": false,
+    "source_manifest_preserved": true
+  },
+  "recreation": {
+    "independent_image_conditioned_generations": 10,
+    "reference_redraws": 5,
+    "new_scenes_same_series": 5,
+    "clean_count": 10,
+    "simulated_ui_count": 10,
+    "native_dimensions": [768, 1376],
+    "upscaled": false,
+    "chinese_text": "Deterministic Noto CJK typesetting, ten distinct quotes. Not model-generated lettering.",
+    "ui": "Non-destructive simulated lockscreen, not a real device screenshot.",
+    "visual_review": "Checked source sheet, raw art sheet and final paired preview; enlarged title text after preview inspection.",
+    "temporary_raw_art": "Not reference originals. Temporary AI art is not needed to rebuild UI/previews from the saved clean wallpapers."
+  },
+  "validation": {
+    "offline_download_tests_passed": 14,
+    "offline_package_tests_passed": 5,
+    "complete_image_decoding": true,
+    "dimensions_and_byte_sizes_verified": true,
+    "sha256_and_md5_verified": true,
+    "source_bytes_match_actions_manifest": true,
+    "ten_clean_and_ten_ui_hashes_distinct": true,
+    "ui_rendering_nonmutating": true,
+    "rust_checks": "Not run; no Rust code changed."
+  },
+  "delivery": {
+    "folders_separate": ["01-下载原片", "02-复刻无UI", "03-复刻模拟UI"],
+    "previews": ["00-总预览.jpg", "04-无UI总览.jpg", "05-模拟UI总览.jpg", "原片总预览.jpg"],
+    "cloud_layout": "Planned complete ZIP preserving the separate folders, plus a standalone preview. Not an expanded per-image mirror.",
+    "latest_storage_status_file": "storage-verification.json",
+    "previous_sunset_delivery_modified": false
+  }
+}

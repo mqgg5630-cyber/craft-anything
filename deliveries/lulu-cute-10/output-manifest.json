@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "source_count": 5,
+  "clean_count": 10,
+  "simulated_ui_count": 10,
+  "source_download_run": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45018698377",
+  "source_return_commit": "6c206b7",
+  "source_original_bytes_preserved": true,
+  "generation": "Ten independent image-conditioned AI artworks; first five reference redraws, last five new scenes. Titles deterministically typeset. No upscaling.",
+  "ui": "Deterministic illustrative lockscreen, not real device screenshots. 2026-11-22, 09:41.",
+  "sources": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 169358,
+      "sha256": "acb6bff8f24dae68d6e3a860b7e67074b8fcd82d37a96a8f8d8264f6d70289a9",
+      "md5": "e44f97092aa315bdfa9a0e11b2f35f32"
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 183526,
+      "sha256": "a3c67b72b1facd5934912911a51db1db224e3b43fa737766a62cccea7bf773f8",
+      "md5": "44bb8a0cf9847b9248a09a876cb6068c"
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 183208,
+      "sha256": "b46affde59f15ad1a4774f7570c3378992aa86165d667578e2fec17f9aee959e",
+      "md5": "3bbf7b1858fc480bc88710596340d687"
+    },
+    {
+      "file": "01-下载原片/04.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 213378,
+      "sha256": "23d959d0bec561eae821f688e38d5e8144ce6cde4517f8a72b4aa12c5f315041",
+      "md5": "4095821ddda9d204dd4e80c201952f02"
+    },
+    {
+      "file": "01-下载原片/05.jpg",
+      "width": 941,
+      "height": 1672,
+      "bytes": 266160,
+      "sha256": "50acf41b951e7b39d9f5857d4e3db20bfa17f96b9813e14c1c6391de0cb80f95",
+      "md5": "ebb4be3b24f5adf9c26a170bd3fd9b54"
+    }
+  ],
+  "pairs": [
+    {
+      "number": 1,
+      "scene": "比心贴贴",
+      "quote": "今天也要和你贴贴",
+      "quote_position_y_fraction": 0.225,
+      "references": [
+        1
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/01-比心贴贴.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1456083,
+        "sha256": "2299e89f21d8869e127f4c7f99228dae93a82b5a61e4a411bfc7981a0b570fa4",
+        "md5": "64420ec409d0ceaca00bd54512b4f6cb"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/01-比心贴贴.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1455092,
+        "sha256": "6ea0f50dbb3a7d042ad49495a54b4a3f05fe7e42bb18e7c207c4eec52acbe2f3",
+        "md5": "8d26336f7dfa729b51828a70eee9bb03"
+      }
+    },
+    {
+      "number": 2,
+      "scene": "捏脸偏爱",
+      "quote": "偏爱都给你",
+      "quote_position_y_fraction": 0.18,
+      "references": [
+        2
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/02-捏脸偏爱.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1225396,
+        "sha256": "161cb9dbbdbd39ef6380391437b0993e7f50cebe8e58a8b337acd7d8f92a0a6e",
+        "md5": "b1ae8ff8bf987a96ef9a67c32547c8f7"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/02-捏脸偏爱.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1230030,
+        "sha256": "f1302678c7e566094d77ea2767279200e0686664a868d22dccce4699b8847429",
+        "md5": "89b47c673776b546aa7f340e21ee282b"
+      }
+    },
+    {
+      "number": 3,
+      "scene": "公主茶会",
+      "quote": "你是我的小公主",
+      "quote_position_y_fraction": 0.205,
+      "references": [
+        3
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/03-公主茶会.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1297741,
+        "sha256": "80ccca5cb89b0bdc5eda77dd18929f69b6e3cfb2504be215e8bf1da85d715c3b",
+        "md5": "65c410f8c065ccf212c2b08be6d281a4"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/03-公主茶会.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1299105,
+        "sha256": "7026f64167fd8844f298aa0f5ab615929798fa582045f393d7c380763ed81b8a",
+        "md5": "293976e06eabf48bd92253c235ce7bd6"
+      }
+    },
+    {
+      "number": 4,
+      "scene": "超能爱你",
+      "quote": "我的超能力\n就是超级爱你",
+      "quote_position_y_fraction": 0.2,
+      "references": [
+        4
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/04-超能爱你.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1228981,
+        "sha256": "ac641a10c450435a11c80856e447c3c2ed7e278788bd40fc96fac7ffe02cfac0",
+        "md5": "d4582c5ffd5bff40da877fb32e9b0220"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/04-超能爱你.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1235648,
+        "sha256": "3265f955659e5f073e68efae146ff00bf1a755f94470b7e68f508a4daefbe740",
+        "md5": "6d95e58d45bc37d65c6ee86bdda88b72"
+      }
+    },
+    {
+      "number": 5,
+      "scene": "可爱躲猫猫",
+      "quote": "这么可爱怎么办",
+      "quote_position_y_fraction": 0.25,
+      "references": [
+        5
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/05-可爱躲猫猫.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1383158,
+        "sha256": "a5396ec81d1f62688c660d068a13d0048ddfb20fc127c65ee2e48dc3f9332943",
+        "md5": "686c840379d813731fd1613728bdc0fb"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/05-可爱躲猫猫.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1380507,
+        "sha256": "548068739fa501e8cd5284a8124e22b588c3258b0ee917ea10ea93216811048f",
+        "md5": "418e7b98d50a63feef7b94d0a756cd69"
+      }
+    },
+    {
+      "number": 6,
+      "scene": "草莓抱抱",
+      "quote": "把甜甜的爱给你",
+      "quote_position_y_fraction": 0.24,
+      "references": [
+        1,
+        2
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/06-草莓抱抱.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1425136,
+        "sha256": "1792b216626953d079f5a0b72bf19aa1dd8a092828ea238d615d375eeec1e723",
+        "md5": "d501801a1f62e326367f70df20e35f42"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/06-草莓抱抱.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1423893,
+        "sha256": "c7c330bcc237cea287428de57077b9fe2c409a3da94d7cf4215f8c6b6f32cd6b",
+        "md5": "be1868a2b0c8d10fdb8f73ba87b62914"
+      }
+    },
+    {
+      "number": 7,
+      "scene": "奶油烘焙",
+      "quote": "和你烤出小幸福",
+      "quote_position_y_fraction": 0.235,
+      "references": [
+        2,
+        3
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/07-奶油烘焙.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1210475,
+        "sha256": "6189a5578370480d958486d4c312b2727af0a41128df935863413fd2471a2dc6",
+        "md5": "d96aa539ee3168f22382b2161706d2d7"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/07-奶油烘焙.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1214289,
+        "sha256": "f5ae6553343aa69d8a37be0e9d4f333648a6625e1c1f34dfae64df70652d0c75",
+        "md5": "af9beefdaa5ec7c93beb33c8bc7bf7a9"
+      }
+    },
+    {
+      "number": 8,
+      "scene": "雨天同行",
+      "quote": "下雨也要一起走",
+      "quote_position_y_fraction": 0.24,
+      "references": [
+        1,
+        2
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/08-雨天同行.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1336509,
+        "sha256": "b49ac275ebf94589cd27fbbb75057a275cb0478517cf799d1c31b5fc25b1df7e",
+        "md5": "520156093d153e525ef1df276806d1e3"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/08-雨天同行.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1338182,
+        "sha256": "e7b8fc50ac0f7e8d1e1472905b450df8389cae555a7799ee895a5235d06788a4",
+        "md5": "91bf10e5e3ae7b3d76a2f4863475bc73"
+      }
+    },
+    {
+      "number": 9,
+      "scene": "书页晚安",
+      "quote": "晚安也想抱抱你",
+      "quote_position_y_fraction": 0.235,
+      "references": [
+        2,
+        5
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/09-书页晚安.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1340543,
+        "sha256": "3b9e71eb62619ce218af77350575e32f097d27ab51a625513795188b2133db7b",
+        "md5": "d20b32e6749b2c9beaa239b25e92c26e"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/09-书页晚安.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1339708,
+        "sha256": "80d5b01bf8e5b050bac9f344aff0d2afdc62e8cc14eaf851aec748d24e2188e3",
+        "md5": "6f68cf19412732e307b18fb6eaf47dd2"
+      }
+    },
+    {
+      "number": 10,
+      "scene": "给你小花",
+      "quote": "把花和偏爱都给你",
+      "quote_position_y_fraction": 0.235,
+      "references": [
+        1,
+        3
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/10-给你小花.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1315647,
+        "sha256": "75608af6e49dd41aaf49b3572911685d7e35d82a0a1eeb5ba9f3c9434c440847",
+        "md5": "790479a8ac51a053e3fbba5ad468514c"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/10-给你小花.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1315986,
+        "sha256": "92e429a207ea91893669ed571dcbf9716a4f7ed73bbdaab149db8c262411f867",
+        "md5": "dba74db5e0dfc462fbce6198f5add6e6"
+      }
+    }
+  ],
+  "previews": [
+    {
+      "file": "00-总预览.jpg",
+      "width": 2000,
+      "height": 1390,
+      "bytes": 696073,
+      "sha256": "d0249dc5be6ee5c89e6d24e1a9b79ce03a00bf0e486eefc151e3f480e8b40f53",
+      "md5": "ade2fea396aadfd6b07b1022541662d3"
+    },
+    {
+      "file": "04-无UI总览.jpg",
+      "width": 1570,
+      "height": 1250,
+      "bytes": 498295,
+      "sha256": "a5b9b10c5e20452995efcbd4be08b28a5d22f6ad8bc9ac6b98d6b85a073c9097",
+      "md5": "413643a48850e943f5e828377782e5bf"
+    },
+    {
+      "file": "05-模拟UI总览.jpg",
+      "width": 1570,
+      "height": 1250,
+      "bytes": 530827,
+      "sha256": "1bfe5f881ae7c0b8ca8c5d77bd91415ea31efc0915b09c577d2aac660302fc28",
+      "md5": "bd919d68abd4591f4f097a94aff01dce"
+    },
+    {
+      "file": "原片总预览.jpg",
+      "width": 1220,
+      "height": 605,
+      "bytes": 167513,
+      "sha256": "6a372757c90cdff7887ab922cc4e06ed5f3ae748873bbdf4d647d114473530d7",
+      "md5": "ac636ae35eaeba0fd45a078bb29e09af"
+    }
+  ],
+  "cloud_status": "See storage-verification.json if present; packaging itself does not upload."
+}
