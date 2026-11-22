@@ -1,0 +1,10 @@
+{
+  "folder": "https://drive.google.com/drive/folders/1cumhbYazQoKK734Osva6IbCLZi3NB4ML",
+  "method": "Re-listed folders and matched file names and Google Drive MD5 to local manifests / bytes",
+  "counts": {
+    "clean": 10,
+    "ui": 10,
+    "contact_sheets": 2
+  },
+  "all_md5_match": true
+}

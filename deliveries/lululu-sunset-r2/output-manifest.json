@@ -1,0 +1,116 @@
+{
+  "image_count": 10,
+  "ui_count": 10,
+  "images": [
+    {
+      "file": "images/01.png",
+      "reference": "../lululu-sunset-new/source/01.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2299890,
+      "md5": "d96dbfb7031e2ec6056d1d276284de32",
+      "ui_file": "ui/01.png",
+      "ui_bytes": 1249096,
+      "ui_md5": "fd75f15849d722a03da54c0a8e6cf535"
+    },
+    {
+      "file": "images/02.png",
+      "reference": "../lululu-sunset-new/source/01.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2438177,
+      "md5": "c60c909300ff74d837209d499d27894e",
+      "ui_file": "ui/02.png",
+      "ui_bytes": 1318069,
+      "ui_md5": "aff48719bd452471f3f0ae0cb4cab0fe"
+    },
+    {
+      "file": "images/03.png",
+      "reference": "../lululu-sunset-new/source/02.webp",
+      "width": 688,
+      "height": 1536,
+      "bytes": 2217992,
+      "md5": "cebbc9e45d5d4823962db9cc64d570f5",
+      "ui_file": "ui/03.png",
+      "ui_bytes": 1303220,
+      "ui_md5": "36862fc1ce462d924014d30b699edbf2"
+    },
+    {
+      "file": "images/04.png",
+      "reference": "../lululu-sunset-new/source/02.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2079324,
+      "md5": "f0f2e63c79cc23aca949c79591f00ec5",
+      "ui_file": "ui/04.png",
+      "ui_bytes": 1203025,
+      "ui_md5": "a75e613f1310074f716c9a0612323d0b"
+    },
+    {
+      "file": "images/05.png",
+      "reference": "../lululu-sunset-new/source/03.webp",
+      "width": 768,
+      "height": 1365,
+      "bytes": 1966609,
+      "md5": "a9bbf55adeb32356d35e5ca9fcc2999c",
+      "ui_file": "ui/05.png",
+      "ui_bytes": 1116566,
+      "ui_md5": "d46f657e635c3230e022319fc3810073"
+    },
+    {
+      "file": "images/06.png",
+      "reference": "../lululu-sunset-new/source/03.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2111874,
+      "md5": "17b5f426e73861a3fa83f81bbb511245",
+      "ui_file": "ui/06.png",
+      "ui_bytes": 1166271,
+      "ui_md5": "e493d7ab0296d5356135a834c1b4131e"
+    },
+    {
+      "file": "images/07.png",
+      "reference": "../lululu-sunset-new/source/04.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2163413,
+      "md5": "ec3ba1a5e176a63e36ba357b4744beed",
+      "ui_file": "ui/07.png",
+      "ui_bytes": 1312721,
+      "ui_md5": "d2ebc0b30e5e16c9ff388162254c3081"
+    },
+    {
+      "file": "images/08.png",
+      "reference": "../lululu-sunset-new/source/04.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2265485,
+      "md5": "d3c5cdf8a88fc9fe82d3cc2730e2e28a",
+      "ui_file": "ui/08.png",
+      "ui_bytes": 1244099,
+      "ui_md5": "70e96992279ca6d8b33819a7a2149293"
+    },
+    {
+      "file": "images/09.png",
+      "reference": "../lululu-sunset-new/source/05.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2123866,
+      "md5": "e45f97d4aed6f16898576f0e6ce39a0c",
+      "ui_file": "ui/09.png",
+      "ui_bytes": 1226069,
+      "ui_md5": "402a9f86428ee00bd2c8676e1f8ecf54"
+    },
+    {
+      "file": "images/10.png",
+      "reference": "../lululu-sunset-new/source/05.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2111813,
+      "md5": "28998f7e79b0227eb8ab2eaa48b8b98c",
+      "ui_file": "ui/10.png",
+      "ui_bytes": 1224212,
+      "ui_md5": "97cbe03fe1381e9c730887bf40b1ff3d"
+    }
+  ]
+}
