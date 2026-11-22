@@ -10,15 +10,41 @@
   "page_attempts": [
     {
       "host": "www.xiaohongshu.com",
-      "mobile": false,
+      "path": "explore",
+      "ua": "plain",
+      "final_host": "www.rednote.com",
       "login_redirect": true,
-      "images": 1
+      "images": 0
+    },
+    {
+      "host": "www.xiaohongshu.com",
+      "path": "explore",
+      "ua": "desktop",
+      "final_host": "www.rednote.com",
+      "login_redirect": true,
+      "images": 0
+    },
+    {
+      "host": "www.xiaohongshu.com",
+      "path": "explore",
+      "ua": "mobile",
+      "final_host": "www.rednote.com",
+      "login_redirect": false,
+      "images": 5
     }
   ],
   "meta": {},
-  "image_lists": 1,
+  "image_lists": 5,
   "candidate_errors": [
-    "1:ValueError"
+    "1:OSError",
+    "1:HTTPError",
+    "2:HTTPError",
+    "3:OSError",
+    "3:HTTPError",
+    "4:OSError",
+    "4:HTTPError",
+    "5:OSError",
+    "5:HTTPError"
   ],
-  "result": "failed: RuntimeError: No validated public image for item 1"
+  "result": "ok"
 }

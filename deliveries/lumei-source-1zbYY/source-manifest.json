@@ -1,0 +1,91 @@
+{
+  "share_url": "https://xhslink.cn/o/1zbYYyvDu9W",
+  "note_id": "6a6195240000000001030e32",
+  "page_attempts": [
+    {
+      "host": "www.xiaohongshu.com",
+      "path": "explore",
+      "ua": "plain",
+      "final_host": "www.rednote.com",
+      "login_redirect": true,
+      "images": 0
+    },
+    {
+      "host": "www.xiaohongshu.com",
+      "path": "explore",
+      "ua": "desktop",
+      "final_host": "www.rednote.com",
+      "login_redirect": true,
+      "images": 0
+    },
+    {
+      "host": "www.xiaohongshu.com",
+      "path": "explore",
+      "ua": "mobile",
+      "final_host": "www.rednote.com",
+      "login_redirect": false,
+      "images": 5
+    }
+  ],
+  "status": "downloaded_pending_visual_review",
+  "image_count": 5,
+  "source_quality": "Validated public CDN files; not independently verified author master files.",
+  "download_method": "GitHub Actions runner, tools/wallpaper-job/download_xhs_note.py",
+  "images": [
+    {
+      "file": "原片/01.png",
+      "format": "png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1730000,
+      "md5": "ad0752e7a82d89b1eae7a26c8d088a9e",
+      "sha256": "dcb2320ddc2445654ebda989c7814366d4e64c7a818b43c1c36bcd7cabda945d",
+      "token": "notes_pre_post/1040g3k0322uvkdvn026g5o3tlc9g90i0dr7ehfo",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0322uvkdvn026g5o3tlc9g90i0dr7ehfo"
+    },
+    {
+      "file": "原片/02.png",
+      "format": "png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1836848,
+      "md5": "67823a352f0a00072be4677cbe6f6598",
+      "sha256": "8b74e2b2d06a96181edd788422e4451ddf89d3f74ed54ea52a13f0a2c501ad4c",
+      "token": "notes_pre_post/1040g3k0322uvkdvn025g5o3tlc9g90i03t3i8jo",
+      "source_url": "https://ci.xiaohongshu.com/notes_pre_post/1040g3k0322uvkdvn025g5o3tlc9g90i03t3i8jo?imageView2/format/png"
+    },
+    {
+      "file": "原片/03.png",
+      "format": "png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1771874,
+      "md5": "cd5ad666bf799b969c88b72a6f42bb11",
+      "sha256": "f2ef946d3266940792a5d3b4486cf8d24052bb1b7166fc52d26131e586c0c4d9",
+      "token": "notes_pre_post/1040g3k0322uvkdvn023g5o3tlc9g90i0q7hvat0",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0322uvkdvn023g5o3tlc9g90i0q7hvat0"
+    },
+    {
+      "file": "原片/04.png",
+      "format": "png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1903354,
+      "md5": "f6726c48edf93a135586ec9ec4405bf3",
+      "sha256": "db8cb4f6081d4a29b86156d358f8f08be17d082b6fe0a21517acdb6d0880d24b",
+      "token": "notes_pre_post/1040g3k0322uvkdvn022g5o3tlc9g90i01d2jndg",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0322uvkdvn022g5o3tlc9g90i01d2jndg"
+    },
+    {
+      "file": "原片/05.png",
+      "format": "png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 2155704,
+      "md5": "6825b78ac600a763c5a755f8b30e6c39",
+      "sha256": "02003b3e687edfa857afac3c6f910ce3e0f2c78ebb50b6228217565a9e71ef11",
+      "token": "notes_pre_post/1040g3k0322uvkdvn02105o3tlc9g90i0tcndf0g",
+      "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k0322uvkdvn02105o3tlc9g90i0tcndf0g"
+    }
+  ]
+}
