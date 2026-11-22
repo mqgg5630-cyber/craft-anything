@@ -1,0 +1,33 @@
+name: Cute Lululu note source download
+on:
+  push:
+    branches: ['arena/28bd3553-craft-anything']
+    paths: ['tools/wallpaper-job/download_cute_note.py', '.github/workflows/lululu-cute-note-download.yml']
+permissions:
+  contents: write
+concurrency:
+  group: cute-lululu-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow==11.3.0
+      - run: python tools/wallpaper-job/download_cute_note.py
+      - name: Return validated files or diagnostic to this branch
+        if: always()
+        env:
+          JOB_BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name 'wallpaper-delivery[bot]'
+          git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
+          git add deliveries/lululu-cute-note
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record cute Lululu public download result'
+            git push origin "HEAD:$JOB_BRANCH"
+          fi
