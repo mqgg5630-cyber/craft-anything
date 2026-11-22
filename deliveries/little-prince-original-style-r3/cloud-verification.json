@@ -1,0 +1,76 @@
+{
+  "folder_id": "12YDSxCDBqHw4Y3s4NifQx9I0f5EGRAGM",
+  "status": "complete",
+  "images_verified": 10,
+  "total_verified": 13,
+  "method": "fresh search_files listing compared with local bytes",
+  "next_page_token": null,
+  "incomplete_search": false,
+  "files": [
+    {
+      "file": "images/01-深蓝并肩.png",
+      "md5": "b14591549fb88dc295c83f3836792803",
+      "match": true
+    },
+    {
+      "file": "images/02-深蓝听风.png",
+      "md5": "b95f877349503199170a50318e263f70",
+      "match": true
+    },
+    {
+      "file": "images/03-深蓝星愿.png",
+      "md5": "7d1b820f0d886dc3bdbef1a6f9f0c5b1",
+      "match": true
+    },
+    {
+      "file": "images/04-深蓝守望.png",
+      "md5": "2ee0fd0d897b79fefaf29891f311548e",
+      "match": true
+    },
+    {
+      "file": "images/05-黄昏相依.png",
+      "md5": "eb281143205e900e9d0d07ab3d48ce56",
+      "match": true
+    },
+    {
+      "file": "images/06-黄昏远眺.png",
+      "md5": "4309cf24298a00d5e92d3a54ecf167f0",
+      "match": true
+    },
+    {
+      "file": "images/07-黄昏等星.png",
+      "md5": "617b7132b052b90e2db42c0f217c7299",
+      "match": true
+    },
+    {
+      "file": "images/08-晨光花开.png",
+      "md5": "6273a82a46f4ad531b974cd194116756",
+      "match": true
+    },
+    {
+      "file": "images/09-晨光相伴.png",
+      "md5": "737b2335067b4ec0bd082193a4debf49",
+      "match": true
+    },
+    {
+      "file": "images/10-晨光归心.png",
+      "md5": "7db3aca6a63518790b4bc6e36df1b4ed",
+      "match": true
+    },
+    {
+      "file": "00-回归原片风格十张总览.jpg",
+      "md5": "c8ec3b2828799cbb72990ff514076366",
+      "match": true
+    },
+    {
+      "file": "manifest.json",
+      "md5": "668813f10e2c0636683c9c2cf2df3237",
+      "match": true
+    },
+    {
+      "file": "README.md",
+      "md5": "f1b3936d67bfeb9d46de9c10b38000f4",
+      "match": true
+    }
+  ]
+}

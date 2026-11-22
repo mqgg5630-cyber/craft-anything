@@ -1,0 +1,108 @@
+{
+  "mode": "original_style_moderate_scene_variation",
+  "generation_calls": 10,
+  "files": [
+    {
+      "file": "images/01-深蓝并肩.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2936385,
+      "md5": "b14591549fb88dc295c83f3836792803",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/02-深蓝听风.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2893564,
+      "md5": "b95f877349503199170a50318e263f70",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/03-深蓝星愿.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2904484,
+      "md5": "7d1b820f0d886dc3bdbef1a6f9f0c5b1",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/04-深蓝守望.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2906829,
+      "md5": "2ee0fd0d897b79fefaf29891f311548e",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/05-黄昏相依.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2612560,
+      "md5": "eb281143205e900e9d0d07ab3d48ce56",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/06-黄昏远眺.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2917118,
+      "md5": "4309cf24298a00d5e92d3a54ecf167f0",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/07-黄昏等星.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2876649,
+      "md5": "617b7132b052b90e2db42c0f217c7299",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/08-晨光花开.png",
+      "size": [
+        768,
+        1365
+      ],
+      "bytes": 2849101,
+      "md5": "6273a82a46f4ad531b974cd194116756",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    },
+    {
+      "file": "images/09-晨光相伴.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 3009619,
+      "md5": "737b2335067b4ec0bd082193a4debf49",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    },
+    {
+      "file": "images/10-晨光归心.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2899338,
+      "md5": "7db3aca6a63518790b4bc6e36df1b4ed",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    }
+  ],
+  "tests": "PASS count10/full_decode/native_size/bytes/MD5_unique",
+  "rule": "Same impasto style, no medium switching; new gestures and compositions."
+}
