@@ -1,9 +1,10 @@
 {
   "generation_calls": 10,
   "count": 10,
-  "generated_by": "agent image generation, round 2, source images used as style reference",
+  "generated_by": "agent image generation, round 3, source images as style reference + ImageMagick English-phrase overlay",
+  "english_phrase": "The stars never fall (replaces original note English line; echoes 星光不落)",
   "source_reference": "deliveries/little-prince-xhs-10/source (3 verified XHS public CDN webp)",
-  "style": "小王子系列 · 深蓝夜空/粉橙黄昏/暖调晨光，碎金厚涂 impasto，参考原片配色与角色，做构图变化",
+  "style": "小王子系列 · 深蓝夜空/粉橙黄昏/暖调晨光，碎金厚涂 impasto，参考原片配色与角色，构图变化 + 统一英文短句叠字",
   "files": [
     {
       "file": "images/01-深蓝星河.png",
@@ -12,10 +13,10 @@
         768,
         1376
       ],
-      "bytes": 1925216,
-      "md5": "639530c5523e0a5a6b7e1f271920c4aa",
+      "bytes": 2644304,
+      "md5": "dcecf6728cf6dd3280cec650f752b3c9",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     },
     {
       "file": "images/02-深蓝流星.png",
@@ -24,10 +25,10 @@
         768,
         1376
       ],
-      "bytes": 2931026,
-      "md5": "c4d5c7b7744ce718476c5b0f2fc6a37b",
+      "bytes": 2172649,
+      "md5": "e9a08cc2f06509a310ba1232b23c7228",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     },
     {
       "file": "images/03-深蓝月光.png",
@@ -36,10 +37,10 @@
         768,
         1376
       ],
-      "bytes": 2873175,
-      "md5": "f0900924cdd28c22da85ff35ffb1b4e2",
+      "bytes": 2076680,
+      "md5": "0cce565cd9174202081f58d88a837fbf",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     },
     {
       "file": "images/04-深蓝玫瑰.png",
@@ -48,10 +49,10 @@
         768,
         1376
       ],
-      "bytes": 2785143,
-      "md5": "629f47b0a9817f409e0fa9f2df8a6b9a",
+      "bytes": 2111801,
+      "md5": "11b6ee2162d8828c69e89eae15b34b5f",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     },
     {
       "file": "images/05-粉橙黄昏.png",
@@ -60,10 +61,10 @@
         768,
         1376
       ],
-      "bytes": 1787199,
-      "md5": "d6a1613d0dae93b8624c0a1638b1cc94",
+      "bytes": 2049362,
+      "md5": "f44c32e75d82398afe8f2088552bc7b6",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     },
     {
       "file": "images/06-黄昏晚风.png",
@@ -72,10 +73,10 @@
         768,
         1376
       ],
-      "bytes": 1851220,
-      "md5": "30dc0a916dc59c0165c41ca059fd6305",
+      "bytes": 2041812,
+      "md5": "643ac585a529ebb4f83f152b6cde8aa4",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     },
     {
       "file": "images/07-黄昏星愿.png",
@@ -84,10 +85,10 @@
         768,
         1376
       ],
-      "bytes": 2902464,
-      "md5": "43fb2c9707b5cc0cbdc25eefe3b7e6d4",
+      "bytes": 2261657,
+      "md5": "da51359c494d356c14d863d43333f63a",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     },
     {
       "file": "images/08-暖调晨光.png",
@@ -96,10 +97,10 @@
         768,
         1376
       ],
-      "bytes": 2815328,
-      "md5": "869009aea2f93611dee1452af919bb44",
+      "bytes": 1988524,
+      "md5": "51f2aa381c2d1b7a3d6b315a3184b205",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     },
     {
       "file": "images/09-晨光花语.png",
@@ -108,10 +109,10 @@
         768,
         1376
       ],
-      "bytes": 2908175,
-      "md5": "a921e88370bedd3c82c35d7547bbbbc6",
+      "bytes": 2230005,
+      "md5": "748f0ed076b41fea8ed236234cd62602",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     },
     {
       "file": "images/10-晨光远行.png",
@@ -120,11 +121,11 @@
         768,
         1376
       ],
-      "bytes": 1672856,
-      "md5": "2ffe74c09d6c77c17acc515478f1e5a3",
+      "bytes": 2251075,
+      "md5": "6eb7fc8dcb02d11407f1f1b78dafc051",
       "native_generation": true,
-      "style": "source-referenced impasto recreation"
+      "english_phrase": "The stars never fall"
     }
   ],
-  "tests": "PASS count=10, full PNG decode, forced 768x1376, MD5 uniqueness"
+  "tests": "PASS count=10, full PNG decode, forced 768x1376, MD5 uniqueness, phrase overlaid"
 }
