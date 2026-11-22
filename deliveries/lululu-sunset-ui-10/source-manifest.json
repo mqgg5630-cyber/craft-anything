@@ -3,7 +3,7 @@
   "note_id": "6ad212fc000000001802d6be",
   "resolved_url": "https://www.rednote.com/login",
   "image_list_source": "previously observed carousel tokens",
-  "status": "downloaded_pending_visual_review",
+  "status": "downloaded_verified_and_used",
   "reference_count_downloaded": 5,
   "source_quality": "Validated public CDN files; not independently verified author master files.",
   "download_method": "GitHub Actions runner, tools/wallpaper-job/download_lululu_ui.py",
@@ -68,5 +68,10 @@
       "candidates_valid": 2,
       "source_url": "https://sns-img-bd.xhscdn.com/notes_pre_post/1040g3k8326cqvueoka8g5qlghp0l1h01pt7kqn0"
     }
-  ]
+  ],
+  "author": "等噜噜",
+  "title": "和你一起奔夕阳 噜噜噜妹壁纸",
+  "metadata_note": "Live page on the runner redirected to rednote.com/login; title/author come from an earlier public page read of the same note ID, image list from previously observed carousel tokens.",
+  "visual_review": "All 5 source images decoded and inspected before generation",
+  "actions_run": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45013798803"
 }

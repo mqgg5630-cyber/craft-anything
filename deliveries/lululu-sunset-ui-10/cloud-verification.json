@@ -1,0 +1,191 @@
+{
+  "root_folder_id": "1w32Xcn9D7WhlQhnjUogsY8k_ycz8dQ7R",
+  "root_folder_name": "噜噜噜妹·和你一起奔夕阳·复刻10张(有无UI)-20261122",
+  "subfolders": {
+    "01-原片": "16pt8UCvMG3G0dhwdplnyCyOTWf2Cjxo0",
+    "02-复刻结果": "1NPXFeaMteaGJI6g3mO3pmIDpBT0Uk4OJ",
+    "02-复刻结果/无UI": "1Z64qNSHiDjP9shmt_Y2iQTkRmLcWQKEh",
+    "02-复刻结果/有UI": "1JgQ971oY-ZW5cWPmurFG_joSaKEsGMeN"
+  },
+  "method": "fresh list_files of the three leaf folders, next_page_token null, incomplete_search false; matched to local MD5",
+  "cloud_count": 25,
+  "local_count": 25,
+  "all_match": true,
+  "files": [
+    {
+      "drive_path": "02-复刻结果/有UI/01-湖畔依偎.png",
+      "local": "复刻结果/有UI/01-湖畔依偎.png",
+      "cloud_md5": "c453516281cbcc51f7c0cc6140e3876c",
+      "local_md5": "c453516281cbcc51f7c0cc6140e3876c",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/01-湖畔依偎.png",
+      "local": "复刻结果/无UI/01-湖畔依偎.png",
+      "cloud_md5": "1591c2fe5a329e6dc47ef5a91b3db301",
+      "local_md5": "1591c2fe5a329e6dc47ef5a91b3db301",
+      "match": true
+    },
+    {
+      "drive_path": "01-原片/01.png",
+      "local": "原片/01.png",
+      "cloud_md5": "1e9b1e9c9edc662ccb0f1dcc55b88670",
+      "local_md5": "1e9b1e9c9edc662ccb0f1dcc55b88670",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/有UI/02-追着你跑.png",
+      "local": "复刻结果/有UI/02-追着你跑.png",
+      "cloud_md5": "d48627a55dcd563a4bdb4383d751bf85",
+      "local_md5": "d48627a55dcd563a4bdb4383d751bf85",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/02-追着你跑.png",
+      "local": "复刻结果/无UI/02-追着你跑.png",
+      "cloud_md5": "a621296d5050d09f4b6e945c144ccbf6",
+      "local_md5": "a621296d5050d09f4b6e945c144ccbf6",
+      "match": true
+    },
+    {
+      "drive_path": "01-原片/02.png",
+      "local": "原片/02.png",
+      "cloud_md5": "1c873338f104337f7ecc55f1edc20d85",
+      "local_md5": "1c873338f104337f7ecc55f1edc20d85",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/有UI/03-草地看云.png",
+      "local": "复刻结果/有UI/03-草地看云.png",
+      "cloud_md5": "224e73950857d80636b53017bcb4c8a2",
+      "local_md5": "224e73950857d80636b53017bcb4c8a2",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/03-草地看云.png",
+      "local": "复刻结果/无UI/03-草地看云.png",
+      "cloud_md5": "b4b053bf2fa5f6f6537818365aeca047",
+      "local_md5": "b4b053bf2fa5f6f6537818365aeca047",
+      "match": true
+    },
+    {
+      "drive_path": "01-原片/03.png",
+      "local": "原片/03.png",
+      "cloud_md5": "179bcc32f4fe59936a5979ba6bd714eb",
+      "local_md5": "179bcc32f4fe59936a5979ba6bd714eb",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/有UI/04-牵手过溪.png",
+      "local": "复刻结果/有UI/04-牵手过溪.png",
+      "cloud_md5": "fbcd2af8df19f90578abef13f521b97e",
+      "local_md5": "fbcd2af8df19f90578abef13f521b97e",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/04-牵手过溪.png",
+      "local": "复刻结果/无UI/04-牵手过溪.png",
+      "cloud_md5": "f23fdb1fa527c77e362e9e26485ba720",
+      "local_md5": "f23fdb1fa527c77e362e9e26485ba720",
+      "match": true
+    },
+    {
+      "drive_path": "01-原片/04.png",
+      "local": "原片/04.png",
+      "cloud_md5": "244827ebc89e11e53b3c07476a7e5166",
+      "local_md5": "244827ebc89e11e53b3c07476a7e5166",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/有UI/05-山路同行.png",
+      "local": "复刻结果/有UI/05-山路同行.png",
+      "cloud_md5": "7202753ce2f2c0dc659912576b69a61a",
+      "local_md5": "7202753ce2f2c0dc659912576b69a61a",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/05-山路同行.png",
+      "local": "复刻结果/无UI/05-山路同行.png",
+      "cloud_md5": "bb39a503974ffe7681cff36196263a4e",
+      "local_md5": "bb39a503974ffe7681cff36196263a4e",
+      "match": true
+    },
+    {
+      "drive_path": "01-原片/05.png",
+      "local": "原片/05.png",
+      "cloud_md5": "ae17797b2504b42a78a9f0dbd6102e45",
+      "local_md5": "ae17797b2504b42a78a9f0dbd6102e45",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/有UI/06-晚霞飞鸟.png",
+      "local": "复刻结果/有UI/06-晚霞飞鸟.png",
+      "cloud_md5": "a5c92d3f81d05004a3d0ae7b203274b3",
+      "local_md5": "a5c92d3f81d05004a3d0ae7b203274b3",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/06-晚霞飞鸟.png",
+      "local": "复刻结果/无UI/06-晚霞飞鸟.png",
+      "cloud_md5": "7f1df4a54db62afa5e2eb2a16ef6e3c2",
+      "local_md5": "7f1df4a54db62afa5e2eb2a16ef6e3c2",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/有UI/07-回头等你.png",
+      "local": "复刻结果/有UI/07-回头等你.png",
+      "cloud_md5": "521fadee62ffa0ed6df43fd419c65dce",
+      "local_md5": "521fadee62ffa0ed6df43fd419c65dce",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/07-回头等你.png",
+      "local": "复刻结果/无UI/07-回头等你.png",
+      "cloud_md5": "214f7cb3e43d39001fafb74232c12eca",
+      "local_md5": "214f7cb3e43d39001fafb74232c12eca",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/有UI/08-山顶看日落.png",
+      "local": "复刻结果/有UI/08-山顶看日落.png",
+      "cloud_md5": "3f10608b910c44ff78d3796eb2b261ee",
+      "local_md5": "3f10608b910c44ff78d3796eb2b261ee",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/08-山顶看日落.png",
+      "local": "复刻结果/无UI/08-山顶看日落.png",
+      "cloud_md5": "8b8bea5dfb3004c9bc41dbd262256315",
+      "local_md5": "8b8bea5dfb3004c9bc41dbd262256315",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/有UI/09-背你回家.png",
+      "local": "复刻结果/有UI/09-背你回家.png",
+      "cloud_md5": "50a1763b23d4ec6b0f520d66a1cded09",
+      "local_md5": "50a1763b23d4ec6b0f520d66a1cded09",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/09-背你回家.png",
+      "local": "复刻结果/无UI/09-背你回家.png",
+      "cloud_md5": "3b96bc45d8dc27ac92d98034e7201bd2",
+      "local_md5": "3b96bc45d8dc27ac92d98034e7201bd2",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/有UI/10-奔向夕阳.png",
+      "local": "复刻结果/有UI/10-奔向夕阳.png",
+      "cloud_md5": "3aff7f874b1c730a53add33c6b8386e7",
+      "local_md5": "3aff7f874b1c730a53add33c6b8386e7",
+      "match": true
+    },
+    {
+      "drive_path": "02-复刻结果/无UI/10-奔向夕阳.png",
+      "local": "复刻结果/无UI/10-奔向夕阳.png",
+      "cloud_md5": "3685774e7d08eba9317d28067ca98cd7",
+      "local_md5": "3685774e7d08eba9317d28067ca98cd7",
+      "match": true
+    }
+  ]
+}

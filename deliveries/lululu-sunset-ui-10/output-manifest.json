@@ -1,0 +1,273 @@
+{
+  "route": "xhs-link-recreate-10 + user-requested UI versions",
+  "generated_count": 10,
+  "ui_count": 10,
+  "native_size_note": "768x1376 model-native output; not upscaled",
+  "ui_note": "Generic illustrative lock screen overlay; not a real device screenshot or theme.",
+  "known_defects": {
+    "03-草地看云.png": "妹妹脸部被画成人类娃娃脸并带黑发，与原片黄色毛绒猪脸不符，待返工",
+    "06-晚霞飞鸟.png": "妹妹脸部偏人类娃娃脸带棕发，与原片黄色毛绒猪脸不符，待返工"
+  },
+  "files": [
+    {
+      "file": "复刻结果/无UI/01-湖畔依偎.png",
+      "kind": "无UI",
+      "reference": "原片/01.png",
+      "change": "码头背影依偎，取景更近，太阳更低",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1952179,
+      "md5": "1591c2fe5a329e6dc47ef5a91b3db301",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/有UI/01-湖畔依偎.png",
+      "kind": "有UI",
+      "reference": "原片/01.png",
+      "change": "码头背影依偎，取景更近，太阳更低",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1187581,
+      "md5": "c453516281cbcc51f7c0cc6140e3876c",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/无UI/02-追着你跑.png",
+      "kind": "无UI",
+      "reference": "原片/02.png",
+      "change": "草坡小路追逐，男孩回头挥手",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2033760,
+      "md5": "a621296d5050d09f4b6e945c144ccbf6",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/有UI/02-追着你跑.png",
+      "kind": "有UI",
+      "reference": "原片/02.png",
+      "change": "草坡小路追逐，男孩回头挥手",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1239013,
+      "md5": "d48627a55dcd563a4bdb4383d751bf85",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/无UI/03-草地看云.png",
+      "kind": "无UI",
+      "reference": "原片/03.png",
+      "change": "草地并排躺下牵手对望",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2219203,
+      "md5": "b4b053bf2fa5f6f6537818365aeca047",
+      "known_defect": "妹妹脸部被画成人类娃娃脸并带黑发，与原片黄色毛绒猪脸不符，待返工"
+    },
+    {
+      "file": "复刻结果/有UI/03-草地看云.png",
+      "kind": "有UI",
+      "reference": "原片/03.png",
+      "change": "草地并排躺下牵手对望",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1285265,
+      "md5": "224e73950857d80636b53017bcb4c8a2",
+      "known_defect": "妹妹脸部被画成人类娃娃脸并带黑发，与原片黄色毛绒猪脸不符，待返工"
+    },
+    {
+      "file": "复刻结果/无UI/04-牵手过溪.png",
+      "kind": "无UI",
+      "reference": "原片/04.png",
+      "change": "踩石过溪，牵手扶她跳过",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2123198,
+      "md5": "f23fdb1fa527c77e362e9e26485ba720",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/有UI/04-牵手过溪.png",
+      "kind": "有UI",
+      "reference": "原片/04.png",
+      "change": "踩石过溪，牵手扶她跳过",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1282817,
+      "md5": "fbcd2af8df19f90578abef13f521b97e",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/无UI/05-山路同行.png",
+      "kind": "无UI",
+      "reference": "原片/05.png",
+      "change": "山路牵手同行，侧后方视角",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2115662,
+      "md5": "bb39a503974ffe7681cff36196263a4e",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/有UI/05-山路同行.png",
+      "kind": "有UI",
+      "reference": "原片/05.png",
+      "change": "山路牵手同行，侧后方视角",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1273406,
+      "md5": "7202753ce2f2c0dc659912576b69a61a",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/无UI/06-晚霞飞鸟.png",
+      "kind": "无UI",
+      "reference": "原片/01.png",
+      "change": "码头对坐递橘子，远处飞鸟",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2055807,
+      "md5": "7f1df4a54db62afa5e2eb2a16ef6e3c2",
+      "known_defect": "妹妹脸部偏人类娃娃脸带棕发，与原片黄色毛绒猪脸不符，待返工"
+    },
+    {
+      "file": "复刻结果/有UI/06-晚霞飞鸟.png",
+      "kind": "有UI",
+      "reference": "原片/01.png",
+      "change": "码头对坐递橘子，远处飞鸟",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1216727,
+      "md5": "a5c92d3f81d05004a3d0ae7b203274b3",
+      "known_defect": "妹妹脸部偏人类娃娃脸带棕发，与原片黄色毛绒猪脸不符，待返工"
+    },
+    {
+      "file": "复刻结果/无UI/07-回头等你.png",
+      "kind": "无UI",
+      "reference": "原片/02.png",
+      "change": "蒲公英草坡，回头伸手等她",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2052831,
+      "md5": "214f7cb3e43d39001fafb74232c12eca",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/有UI/07-回头等你.png",
+      "kind": "有UI",
+      "reference": "原片/02.png",
+      "change": "蒲公英草坡，回头伸手等她",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1270025,
+      "md5": "521fadee62ffa0ed6df43fd419c65dce",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/无UI/08-山顶看日落.png",
+      "kind": "无UI",
+      "reference": "原片/03.png",
+      "change": "山顶背影搂肩远眺河谷",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1904251,
+      "md5": "8b8bea5dfb3004c9bc41dbd262256315",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/有UI/08-山顶看日落.png",
+      "kind": "有UI",
+      "reference": "原片/03.png",
+      "change": "山顶背影搂肩远眺河谷",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1232045,
+      "md5": "3f10608b910c44ff78d3796eb2b261ee",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/无UI/09-背你回家.png",
+      "kind": "无UI",
+      "reference": "原片/04.png",
+      "change": "溪石上背着她过河",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2254202,
+      "md5": "3b96bc45d8dc27ac92d98034e7201bd2",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/有UI/09-背你回家.png",
+      "kind": "有UI",
+      "reference": "原片/04.png",
+      "change": "溪石上背着她过河",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1306643,
+      "md5": "50a1763b23d4ec6b0f520d66a1cded09",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/无UI/10-奔向夕阳.png",
+      "kind": "无UI",
+      "reference": "原片/05.png",
+      "change": "正后方牵手奔向夕阳",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1964918,
+      "md5": "3685774e7d08eba9317d28067ca98cd7",
+      "known_defect": null
+    },
+    {
+      "file": "复刻结果/有UI/10-奔向夕阳.png",
+      "kind": "有UI",
+      "reference": "原片/05.png",
+      "change": "正后方牵手奔向夕阳",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 1288689,
+      "md5": "3aff7f874b1c730a53add33c6b8386e7",
+      "known_defect": null
+    }
+  ]
+}
