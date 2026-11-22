@@ -1,0 +1,24 @@
+{
+  "redirect_hosts": [
+    "xhslink.cn/o/1zbYYyvDu9W",
+    "www.xiaohongshu.com/discovery/item/6a6195240000000001030e32",
+    "www.rednote.com/discovery/item/6a6195240000000001030e32",
+    "www.rednote.com/login"
+  ],
+  "note_id": "6a6195240000000001030e32",
+  "token_found": true,
+  "page_attempts": [
+    {
+      "host": "www.xiaohongshu.com",
+      "mobile": false,
+      "login_redirect": true,
+      "images": 1
+    }
+  ],
+  "meta": {},
+  "image_lists": 1,
+  "candidate_errors": [
+    "1:ValueError"
+  ],
+  "result": "failed: RuntimeError: No validated public image for item 1"
+}
