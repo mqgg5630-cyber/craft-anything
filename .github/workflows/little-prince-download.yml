@@ -1,7 +1,7 @@
 name: Little Prince public source download
 on:
   push:
-    branches: ['arena/e134e8d7-craft-anything']
+    branches: ['arena/96aefe18-craft-anything']
     paths:
       - 'tools/wallpaper-job/download_little_prince.py'
       - '.github/workflows/little-prince-download.yml'
