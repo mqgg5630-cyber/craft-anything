@@ -1,0 +1,62 @@
+{
+  "share_url": "https://xhslink.cn/o/65mKtkE8Uk",
+  "public_note_url": "https://www.rednote.com/discovery/item/6a6195240000000001030e32",
+  "note_id": "6a6195240000000001030e32",
+  "title": "今天是谁家的可爱噜啊",
+  "author": "卷卷｜wallpaper",
+  "source_quality": "Public note page carousel CDN images, not confirmed author master files.",
+  "status": "downloaded_pending_visual_review",
+  "download_method": "GitHub Actions; public page carousel URLs; bounded decode",
+  "images": [
+    {
+      "file": "source/01.webp",
+      "format": "webp",
+      "width": 941,
+      "height": 1672,
+      "bytes": 177452,
+      "md5": "767782ccbdcdc253921b999b8530ae38",
+      "sha256": "62783dc7cd9a27d036e25c18b5fd890a599c82ba26a638230e2b37b90247eee8",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/7652d6ea79bc0611fcf4e2d2d91e3bd6/notes_pre_post/1040g3k0322uvkdvn02105o3tlc9g90i0tcndf0g!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/02.webp",
+      "format": "webp",
+      "width": 941,
+      "height": 1672,
+      "bytes": 95942,
+      "md5": "65c4fbaaaf959c3b91b7efbb3152fd07",
+      "sha256": "8bdd5894b5728879867cfa345e9a97072b92ebd9af0d3e0ce2b2c55fda0f1d5a",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/ec3856eda0244ebfb8d4f2b313fad8e8/notes_pre_post/1040g3k0322uvkdvn026g5o3tlc9g90i0dr7ehfo!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/03.webp",
+      "format": "webp",
+      "width": 941,
+      "height": 1672,
+      "bytes": 105354,
+      "md5": "20bc4cb4f6f6b2bbf64706c098364d0f",
+      "sha256": "40d255b9f61259957476edc21dda86537be09172120450e307e5aa9831648917",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/195d7633b1e20bc5f4e77c5c904fcc47/notes_pre_post/1040g3k0322uvkdvn025g5o3tlc9g90i03t3i8jo!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/04.webp",
+      "format": "webp",
+      "width": 941,
+      "height": 1672,
+      "bytes": 110024,
+      "md5": "c02831962a046c7f9eb8307e5024dcbb",
+      "sha256": "4146fa41653090c4fc71da21ca843c5fea221b2acd08ac397b6d7b9145ae4216",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/9a0a18810cb6994b9203e0881d7a4e30/notes_pre_post/1040g3k0322uvkdvn023g5o3tlc9g90i0q7hvat0!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/05.webp",
+      "format": "webp",
+      "width": 941,
+      "height": 1672,
+      "bytes": 117804,
+      "md5": "32331dbc1220176d3f8205afb0cee4d0",
+      "sha256": "e77024b36200641ec9c638eea3d6c7c544e8a6421cb0ea5703c1845a7d2a7588",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221937/cd3340db253e543bc0f5aab7261152be/notes_pre_post/1040g3k0322uvkdvn022g5o3tlc9g90i01d2jndg!nd_dft_wlteh_webp_3"
+    }
+  ]
+}
