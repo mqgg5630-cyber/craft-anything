@@ -1,0 +1,146 @@
+{
+  "image_count": 10,
+  "ui_count": 10,
+  "images": [
+    {
+      "file": "images/01.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/01.webp"
+      ],
+      "width": 768,
+      "height": 1376,
+      "bytes": 2079044,
+      "md5": "4ca111d206ea56a334a6778ed1b82327",
+      "ui_file": "ui/01.png",
+      "ui_bytes": 1301317,
+      "ui_md5": "5dd7eb6f32ea791f1daad91e63d7d941"
+    },
+    {
+      "file": "images/02.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/03.webp"
+      ],
+      "width": 848,
+      "height": 1264,
+      "bytes": 2482024,
+      "md5": "d68a54199506b78c7ffc7a77dc77c505",
+      "ui_file": "ui/02.png",
+      "ui_bytes": 1456786,
+      "ui_md5": "bcf1388311fb2535fb91f5a0e8c29772"
+    },
+    {
+      "file": "images/03.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/05.webp"
+      ],
+      "width": 848,
+      "height": 1264,
+      "bytes": 2693559,
+      "md5": "22b559da8d00f58afc180f9036ca013c",
+      "ui_file": "ui/03.png",
+      "ui_bytes": 1729453,
+      "ui_md5": "1ab156f62b043fccf9f70cfca6e6b27e"
+    },
+    {
+      "file": "images/04.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/03.webp"
+      ],
+      "width": 768,
+      "height": 1376,
+      "bytes": 2383227,
+      "md5": "af2b14ffa5f24fa00919a7cfddc9bd4b",
+      "ui_file": "ui/04.png",
+      "ui_bytes": 1410628,
+      "ui_md5": "7e52ae5262602899c863a064ced2d171"
+    },
+    {
+      "file": "images/05.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/03.webp"
+      ],
+      "width": 768,
+      "height": 1376,
+      "bytes": 2133039,
+      "md5": "1bd93098fb1ac893b95ae2c0d93a9119",
+      "ui_file": "ui/05.png",
+      "ui_bytes": 1336166,
+      "ui_md5": "4db7460e29382944457edb5c93de4b5d"
+    },
+    {
+      "file": "images/06.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/02.webp"
+      ],
+      "width": 768,
+      "height": 1376,
+      "bytes": 2635597,
+      "md5": "b154a577c0bd60419eb8b131a1fb6cab",
+      "ui_file": "ui/06.png",
+      "ui_bytes": 1501873,
+      "ui_md5": "520b25fa29cffab6ad8f44c0c9159d5b"
+    },
+    {
+      "file": "images/07.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/03.webp"
+      ],
+      "width": 848,
+      "height": 1264,
+      "bytes": 2530350,
+      "md5": "fdc1c640014537fbb6110b00e611c22a",
+      "ui_file": "ui/07.png",
+      "ui_bytes": 1491862,
+      "ui_md5": "05de37f84041b6c05cb6356aa29766d2"
+    },
+    {
+      "file": "images/08.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/01.webp"
+      ],
+      "width": 768,
+      "height": 1376,
+      "bytes": 2083835,
+      "md5": "f9202a2e85080c4a1e1cff7697d8a83c",
+      "ui_file": "ui/08.png",
+      "ui_bytes": 1277155,
+      "ui_md5": "24d1cf3c43dd79facbb70ed8514c6fc8"
+    },
+    {
+      "file": "images/09.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/03.webp"
+      ],
+      "width": 768,
+      "height": 1376,
+      "bytes": 2293202,
+      "md5": "9e0ea7fa70a84711dbd0e62c0336a4dc",
+      "ui_file": "ui/09.png",
+      "ui_bytes": 1473349,
+      "ui_md5": "9544547ffd7a0ccc075fa2072285d979"
+    },
+    {
+      "file": "images/10.png",
+      "reference": [
+        "../lululu-sunset-new/source/04.webp",
+        "../lululu-sunset-new/source/02.webp"
+      ],
+      "width": 768,
+      "height": 1376,
+      "bytes": 1972350,
+      "md5": "7004419671cc0b5447c8c97405955f12",
+      "ui_file": "ui/10.png",
+      "ui_bytes": 1288631,
+      "ui_md5": "299c4a2f094d44c5992445bfcb999189"
+    }
+  ]
+}

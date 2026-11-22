@@ -5,6 +5,6 @@
 - `images/`：10 张无 UI 单图；`ui/`：对应 10 张静态模拟锁屏，不是实机截图。
 - `00-无UI总预览.jpg`、`00-模拟UI总预览.jpg`：两张总览。
 - 图片保留生成原生尺寸；`output-manifest.json` 记录源图映射、尺寸和哈希。十张输出均经解码及哈希唯一性校验，原片 SHA-256 校验通过。
-- Google Drive 上传遇到限流，当前仅 2 张总览、1 张无 UI 和 3 张模拟 UI 上传成功。重新列目录并对这 6 张核对 MD5；剩余 16 张待续传，见 `cloud-status.json`。
+- Google Drive 已补传完成：两张总览、10 张无 UI 和 10 张模拟 UI。重新列目录核对全部 22 个文件的 MD5，见 `cloud-status.json`。
 
 [星空露营 Google Drive 文件夹](https://drive.google.com/drive/folders/1N0eKeK3K06yUQzwNSRSKky-WVJrdgrze)。

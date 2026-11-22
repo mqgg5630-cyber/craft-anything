@@ -1,0 +1,10 @@
+{
+  "folder": "https://drive.google.com/drive/folders/1jXWLTgQFynhOWehnH9J0w2vf-fVEr1vD",
+  "method": "Drive folder re-list; names and returned MD5 compared to local manifests and preview bytes",
+  "counts": {
+    "images": 10,
+    "ui": 10,
+    "previews": 2
+  },
+  "all_md5_match": true
+}

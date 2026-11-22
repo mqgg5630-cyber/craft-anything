@@ -1,5 +1,5 @@
 {
-  "status": "partial_rate_limited",
+  "status": "complete",
   "folder_url": "https://drive.google.com/drive/folders/1N0eKeK3K06yUQzwNSRSKky-WVJrdgrze",
   "folder_ids": {
     "images": "1vfm-vZw8u6CfW5lyneyqybF3StOpwssC",
@@ -13,22 +13,12 @@
     "00-无UI总预览.jpg": "fcdbf2f93f3b57678dfa69a5dd16a8ce",
     "00-模拟UI总预览.jpg": "b18bd9c0cff9b7b815767b4ba74d4c32"
   },
-  "pending": [
-    "images/01.png",
-    "images/02.png",
-    "images/03.png",
-    "images/04.png",
-    "images/05.png",
-    "images/06.png",
-    "images/07.png",
-    "images/09.png",
-    "images/10.png",
-    "ui/02.png",
-    "ui/03.png",
-    "ui/04.png",
-    "ui/06.png",
-    "ui/07.png",
-    "ui/08.png",
-    "ui/09.png"
-  ]
+  "pending": [],
+  "counts": {
+    "images": 10,
+    "ui": 10,
+    "contact_sheets": 2
+  },
+  "all_22_md5_match": true,
+  "verification_method": "re-listed folder names and checksums, matched local output manifest and previews"
 }
