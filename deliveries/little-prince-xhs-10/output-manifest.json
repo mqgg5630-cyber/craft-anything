@@ -1,117 +1,20 @@
 {
   "generation_calls": 10,
   "count": 10,
+  "generated_by": "agent image generation (this session), not external pipeline",
+  "source_reference": "deliveries/little-prince-xhs-10/source (3 verified XHS public CDN webp, fetched via GitHub Actions)",
+  "style": "小王子系列 · 深蓝夜空/粉橙黄昏/暖调晨光，碎金厚涂 impasto，保留小王子/狐狸/玫瑰/星球/月亮/星迹元素",
   "files": [
-    {
-      "file": "images/01-深蓝星河.png",
-      "reference": "source/03.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2925807,
-      "md5": "44f1b9460bf224e8433661f3663920fb",
-      "native_generation": true
-    },
-    {
-      "file": "images/02-深蓝流星.png",
-      "reference": "source/03.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2895855,
-      "md5": "a88c0cd71a3358b4057b38a043a0121a",
-      "native_generation": true
-    },
-    {
-      "file": "images/03-深蓝月光.png",
-      "reference": "source/03.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2923560,
-      "md5": "68cef6b32db7ecf19ab5286d524a7421",
-      "native_generation": true
-    },
-    {
-      "file": "images/04-深蓝玫瑰.png",
-      "reference": "source/03.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2947597,
-      "md5": "d808e5ac2a51f401f09a3236138400e4",
-      "native_generation": true
-    },
-    {
-      "file": "images/05-粉橙黄昏.png",
-      "reference": "source/02.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2990649,
-      "md5": "2911f9b030b434c06cc65bf50cb5060a",
-      "native_generation": true
-    },
-    {
-      "file": "images/06-黄昏晚风.png",
-      "reference": "source/02.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2893385,
-      "md5": "51d6027be09d9187427ef312fcd8ad62",
-      "native_generation": true
-    },
-    {
-      "file": "images/07-黄昏星愿.png",
-      "reference": "source/02.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2909741,
-      "md5": "18843a5a937c36a30fad66f7b1d6d2ad",
-      "native_generation": true
-    },
-    {
-      "file": "images/08-暖调晨光.png",
-      "reference": "source/01.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2874897,
-      "md5": "0304201430caaabbbca4c08367bfbfe9",
-      "native_generation": true
-    },
-    {
-      "file": "images/09-晨光花语.png",
-      "reference": "source/01.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2872486,
-      "md5": "2e21c700a4cd54d1aab1385680e598f2",
-      "native_generation": true
-    },
-    {
-      "file": "images/10-晨光远行.png",
-      "reference": "source/01.webp",
-      "size": [
-        768,
-        1376
-      ],
-      "bytes": 2898512,
-      "md5": "ededa04080a0827c8e6b56c107d0ea53",
-      "native_generation": true
-    }
+    {"file": "images/01-深蓝星河.png", "reference": "source/03.webp", "size": [768, 1376], "bytes": 2934071, "md5": "2b069efbef701cbe0d6e1dfd6756d0ac", "native_generation": true},
+    {"file": "images/02-深蓝流星.png", "reference": "source/03.webp", "size": [768, 1376], "bytes": 2587940, "md5": "8c9c19e469f8842e57a60591d7459f09", "native_generation": true},
+    {"file": "images/03-深蓝月光.png", "reference": "source/03.webp", "size": [768, 1376], "bytes": 2955349, "md5": "c7d38c00793c870f84a60308e716a627", "native_generation": true},
+    {"file": "images/04-深蓝玫瑰.png", "reference": "source/03.webp", "size": [768, 1376], "bytes": 2831138, "md5": "e62e9256d7697edb2efa93dc1b76ce24", "native_generation": true},
+    {"file": "images/05-粉橙黄昏.png", "reference": "source/02.webp", "size": [768, 1376], "bytes": 2748040, "md5": "17301381d37533f952ebaf5a4fed12c8", "native_generation": true},
+    {"file": "images/06-黄昏晚风.png", "reference": "source/02.webp", "size": [768, 1376], "bytes": 2782695, "md5": "c6be359c6b79f64c101dd1e29ebdafbf", "native_generation": true},
+    {"file": "images/07-黄昏星愿.png", "reference": "source/02.webp", "size": [768, 1376], "bytes": 2847810, "md5": "50a803d7279b37c04f4bc8bf56e55cc5", "native_generation": true},
+    {"file": "images/08-暖调晨光.png", "reference": "source/01.webp", "size": [768, 1376], "bytes": 2868398, "md5": "055b9e998e9c5643f528f9f140d74deb", "native_generation": true},
+    {"file": "images/09-晨光花语.png", "reference": "source/01.webp", "size": [768, 1376], "bytes": 2898835, "md5": "98aecea47587087877ac591506a652a4", "native_generation": true},
+    {"file": "images/10-晨光远行.png", "reference": "source/01.webp", "size": [768, 1376], "bytes": 2930252, "md5": "9bec73fd4d290058e297234335a95228", "native_generation": true}
   ],
-  "tests": "PASS count, full decode, native dimensions, MD5 uniqueness and source MD5"
+  "tests": "PASS count=10, full PNG decode, native 768x1376 dimensions, MD5 uniqueness and source reference mapping"
 }
