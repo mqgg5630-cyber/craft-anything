@@ -1,0 +1,176 @@
+{
+  "folder_id": "1teN4HVk1xjlgukWUe8HrxkqtZKs90O3-",
+  "theme_count": 1,
+  "generation_calls": 10,
+  "cloud_complete": true,
+  "fresh_active_count": 39,
+  "next_page_token": null,
+  "incomplete_search": false,
+  "cloud_md5_all_39_match": true,
+  "cloud_asset_files": 33,
+  "static_images": 31,
+  "mp4": 1,
+  "gif_preview": 1,
+  "docs_scripts_overview": 6,
+  "html_files": 0,
+  "avatar_no_crop_verified": true,
+  "notes": "4K is interpolated export; native avatars 1024x1024; no objective MTF claim; UI generic simulation",
+  "verified": [
+    {
+      "local": "README.md",
+      "md5": "b91772699e5751a8a2aab309b5d257b9"
+    },
+    {
+      "local": "02-全套UI效果总览.jpg",
+      "md5": "186abe6237f92348750aefb0dd3bb5be"
+    },
+    {
+      "local": "images/01-手机-UI模拟.jpg",
+      "md5": "1e8b6324ea7f4a2c9b92e43fb4bffc26"
+    },
+    {
+      "local": "images/01-手机-无UI-原生.png",
+      "md5": "0ecdac34092713ec330adc0188c16fdf"
+    },
+    {
+      "local": "images/02-电脑-UI模拟.jpg",
+      "md5": "6e49399f5e0608f873c09ba2743bd200"
+    },
+    {
+      "local": "images/02-电脑-无UI-原生.png",
+      "md5": "7c889e4dceea69998b70c2fce433ed54"
+    },
+    {
+      "local": "images/03-iPad横屏-UI模拟.jpg",
+      "md5": "1d001309f72b8787611d1d7c97ce4b84"
+    },
+    {
+      "local": "images/03-iPad横屏-无UI-原生.png",
+      "md5": "bbd6990ad12ef33996eb85031ff106d9"
+    },
+    {
+      "local": "images/04-iPad竖屏-UI模拟.jpg",
+      "md5": "9ad43fb3188c45fe3f3cf427e3042952"
+    },
+    {
+      "local": "images/04-iPad竖屏-无UI-原生.png",
+      "md5": "b90ec8228ad0c78329a8e57dcf367c29"
+    },
+    {
+      "local": "images/05-手表方形-UI模拟.jpg",
+      "md5": "e4fe59961b7a99e8f13555ab2f22d788"
+    },
+    {
+      "local": "images/05-手表方形-无UI-原生.png",
+      "md5": "012d26b08d801c21f9ef5be2816a7c1f"
+    },
+    {
+      "local": "images/06-情头A小樱-圆形UI展示.jpg",
+      "md5": "90489be3b5ed80e432619401a4040461"
+    },
+    {
+      "local": "images/06-情头A小樱-无UI-原生.png",
+      "md5": "2ac6a8ba66e576bc92d0578113c63b39"
+    },
+    {
+      "local": "images/07-情头B小狼-圆形UI展示.jpg",
+      "md5": "49992b9e2ef03209662774dead3b6f67"
+    },
+    {
+      "local": "images/07-情头B小狼-无UI-原生.png",
+      "md5": "55790b8b48a9666369d86d08bca77499"
+    },
+    {
+      "local": "images/08-朋友圈-主页UI模拟.jpg",
+      "md5": "1068dee87a97700e9c5cac418b58d9e8"
+    },
+    {
+      "local": "images/08-朋友圈横幅-无UI-原生.png",
+      "md5": "6d854a7fa4d73fd0ef308e25037b0c4a"
+    },
+    {
+      "local": "images/09-QQ主页-主页UI模拟.jpg",
+      "md5": "e9ed5cfb56f23eb985a4c298e1265128"
+    },
+    {
+      "local": "images/09-QQ主页横幅-无UI-原生.png",
+      "md5": "e607e6b55dc529b41c31ab5bd5263139"
+    },
+    {
+      "local": "images/10-聊天背景-UI模拟.jpg",
+      "md5": "c69133d9bc8865e18fe284b19c8d51bb"
+    },
+    {
+      "local": "images/10-聊天背景-无UI-原生.png",
+      "md5": "5f383dd86a0f224dd26cd00546590a8a"
+    },
+    {
+      "local": "images/11-手机桌面-UI模拟.jpg",
+      "md5": "938554a457c643ae04d130b8bb95c35e"
+    },
+    {
+      "local": "images/12-手表竖屏-UI模拟.jpg",
+      "md5": "6c5e9ac2a2c0a19fa44ed7baaccc0bcb"
+    },
+    {
+      "local": "images/12-手表竖屏-无UI.png",
+      "md5": "4dcfdbacaff2c5677bf783127325aabd"
+    },
+    {
+      "local": "images/13-情侣壁纸-A小樱-UI模拟.jpg",
+      "md5": "2766eeea58c44d397c3123d240631560"
+    },
+    {
+      "local": "images/13-情侣壁纸-A小樱-无UI.png",
+      "md5": "52b2717ccfd1432323cb51cb4dbce62c"
+    },
+    {
+      "local": "images/13-情侣壁纸-B小狼-UI模拟.jpg",
+      "md5": "51f983a689c2852a4b31b7959158e318"
+    },
+    {
+      "local": "images/13-情侣壁纸-B小狼-无UI.png",
+      "md5": "7ab1aec157d1e97e5df983deb4e39b6b"
+    },
+    {
+      "local": "images/14-手机1440p-无UI.png",
+      "md5": "d814a5e4a1587172d52c692813701b28"
+    },
+    {
+      "local": "images/15-电脑4K导出-无UI.png",
+      "md5": "cbf5dc31000a36a61fa8bb580f70c62a"
+    },
+    {
+      "local": "images/16-iPad横屏导出-无UI.png",
+      "md5": "c104108667fec092f9774a9946946d49"
+    },
+    {
+      "local": "images/17-iPad竖屏导出-无UI.png",
+      "md5": "0fc7e8f6c33e0eae885668f044602c2b"
+    },
+    {
+      "local": "images/18-动态光点-720p.mp4",
+      "md5": "e81cc7036f23889528ce1a0eaeb54ba7"
+    },
+    {
+      "local": "images/18-动态预览-低清.gif",
+      "md5": "5f41678269ee7b7c6a9ee1424acde42e"
+    },
+    {
+      "local": "skills/render.py",
+      "md5": "3e92a77b9a34515c3b40da940f31960e"
+    },
+    {
+      "local": "skills/SKILL.md",
+      "md5": "4887927e3553497e30a6a15da11eba7f"
+    },
+    {
+      "local": "skills/test_delivery.py",
+      "md5": "9c9cbb4efe21f0e384c648079f004907"
+    },
+    {
+      "local": "素材清单.json",
+      "md5": "89b85819dabc051beaee3d309092de3b"
+    }
+  ]
+}
