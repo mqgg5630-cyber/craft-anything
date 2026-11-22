@@ -1,0 +1,10 @@
+{
+  "input_kind": "wallpaper",
+  "visible_entities": [
+    {"id":"Tom", "locked":["gray-blue cat", "white muzzle/chest/paws", "coral triangular inner ears", "black nose", "original cel-cartoon facial proportions"]},
+    {"id":"Jerry", "locked":["small warm-brown mouse", "large round coral inner ears", "tan muzzle", "black nose", "original relative size to Tom in shared scenes"]}
+  ],
+  "style_locked":"classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign",
+  "scene_adaptation":"cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting",
+  "allowed_changes":"purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity"
+}

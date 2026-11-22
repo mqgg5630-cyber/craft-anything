@@ -1,0 +1,192 @@
+{
+  "folder_id": "1KLgxaE1XrMLsZy9Gq0rQ0oOitEHJ0r7f",
+  "source_file_id": "127dCApDxNW-pp1ivc2HYvaM5Mw-FxrII",
+  "source_md5": "58aaa9d0a2c6f8b7d0537e83824981c3",
+  "source_count": 1,
+  "generated_native_images": 10,
+  "independent_asset_count": 33,
+  "static_images": 31,
+  "mp4": 1,
+  "gif_preview": 1,
+  "other_cloud_files": 9,
+  "fresh_active_count": 42,
+  "next_page_token": null,
+  "incomplete_search": false,
+  "all_cloud_md5_match": true,
+  "cloud_complete": true,
+  "html_files": 0,
+  "planner_tests": 4,
+  "avatar_input_generation_tested": false,
+  "wallpaper_input_generation_tested": true,
+  "workflow": "Agent vision + host generate_image calls; CLI planner does not generate images",
+  "verified": [
+    {
+      "local": "02-全套UI效果总览.jpg",
+      "cloud_md5": "3b38b3f75b67f3a5020b4ee7797bc4ba"
+    },
+    {
+      "local": "README.md",
+      "cloud_md5": "e3dc22d097b3b30327984b50af99eca5"
+    },
+    {
+      "local": "images/01-手机-UI模拟.jpg",
+      "cloud_md5": "2b82c25b26c86672c6ea28394039e772"
+    },
+    {
+      "local": "images/01-手机-无UI-原生.png",
+      "cloud_md5": "445a382cf2138a5325a4c94b3fc2c0c4"
+    },
+    {
+      "local": "images/02-电脑-UI模拟.jpg",
+      "cloud_md5": "19aa69a55c3417a6ad746f05464f8a81"
+    },
+    {
+      "local": "images/02-电脑-无UI-原生.png",
+      "cloud_md5": "b7ab06773d9cbaef1a490ccbd10ffd16"
+    },
+    {
+      "local": "images/03-iPad横屏-UI模拟.jpg",
+      "cloud_md5": "5d1496b3630bfd729c75c619220b1648"
+    },
+    {
+      "local": "images/03-iPad横屏-无UI-原生.png",
+      "cloud_md5": "373fbbf4557a32fb5f071ab9d4b9d6c7"
+    },
+    {
+      "local": "images/04-iPad竖屏-UI模拟.jpg",
+      "cloud_md5": "5db551abcf130adc5b8126e737461384"
+    },
+    {
+      "local": "images/04-iPad竖屏-无UI-原生.png",
+      "cloud_md5": "d8d4054596ea9bf334eed9c9796f86b4"
+    },
+    {
+      "local": "images/05-手表方形-UI模拟.jpg",
+      "cloud_md5": "80aaae1cb1bc3591d63b3aabaa8f9855"
+    },
+    {
+      "local": "images/05-手表方形-无UI-原生.png",
+      "cloud_md5": "743a7ac55145290b0e700c1e90e0b3b7"
+    },
+    {
+      "local": "images/06-情头ATom-圆形UI展示.jpg",
+      "cloud_md5": "eec9eafb631295c47f2c9a0177e754a0"
+    },
+    {
+      "local": "images/06-情头ATom-无UI-原生.png",
+      "cloud_md5": "d266b21af68286421b5b8cd08dcc0a72"
+    },
+    {
+      "local": "images/07-情头BJerry-圆形UI展示.jpg",
+      "cloud_md5": "6a51c88ce835ab444fd9a1f4f733f5af"
+    },
+    {
+      "local": "images/07-情头BJerry-无UI-原生.png",
+      "cloud_md5": "3e08de952214bcb8d9e015eab4a47478"
+    },
+    {
+      "local": "images/08-朋友圈-主页UI模拟.jpg",
+      "cloud_md5": "b2dae7871210a95bd512a8cc814f4a6c"
+    },
+    {
+      "local": "images/08-朋友圈横幅-无UI-原生.png",
+      "cloud_md5": "32da7ece3faf9c0935fa8340930b551a"
+    },
+    {
+      "local": "images/09-QQ主页-主页UI模拟.jpg",
+      "cloud_md5": "3f204a128433be6e36434894347a65bc"
+    },
+    {
+      "local": "images/09-QQ主页横幅-无UI-原生.png",
+      "cloud_md5": "e7fc71d96b02840c1dcafced5f52c1fe"
+    },
+    {
+      "local": "images/10-聊天背景-UI模拟.jpg",
+      "cloud_md5": "bea1c7767c8ed0269a4a96089b1c6336"
+    },
+    {
+      "local": "images/10-聊天背景-无UI-原生.png",
+      "cloud_md5": "221156a913ed34e4734dafb638cdb32a"
+    },
+    {
+      "local": "images/11-手机桌面-UI模拟.jpg",
+      "cloud_md5": "d5a0076b78890bd991542dcbeaed9eb7"
+    },
+    {
+      "local": "images/12-手表竖屏-UI模拟.jpg",
+      "cloud_md5": "5eb0fe2e19081de50ade01cae927f4dd"
+    },
+    {
+      "local": "images/12-手表竖屏-无UI.png",
+      "cloud_md5": "5edeaef7c91a9df9e73260bcad4acd41"
+    },
+    {
+      "local": "images/13-情侣壁纸-ATom-UI模拟.jpg",
+      "cloud_md5": "068bbbcaf3091cca31409eeaf6ec9c3e"
+    },
+    {
+      "local": "images/13-情侣壁纸-ATom-无UI.png",
+      "cloud_md5": "b7f7ca0a6c2dd56ec1d5af7740ccd794"
+    },
+    {
+      "local": "images/13-情侣壁纸-BJerry-UI模拟.jpg",
+      "cloud_md5": "a0679c82dada64fc321c68e7761e8c64"
+    },
+    {
+      "local": "images/13-情侣壁纸-BJerry-无UI.png",
+      "cloud_md5": "efda08dcef155e58b662820b066ef108"
+    },
+    {
+      "local": "images/14-手机1440p-无UI.png",
+      "cloud_md5": "558fa2ebef2cb2a41667ae072541129d"
+    },
+    {
+      "local": "images/15-电脑4K导出-无UI.png",
+      "cloud_md5": "aaeaa59e276ab14d90ae2e0a02e4099b"
+    },
+    {
+      "local": "images/16-iPad横屏导出-无UI.png",
+      "cloud_md5": "d456165c5c9cfe45c778076b81730efc"
+    },
+    {
+      "local": "images/17-iPad竖屏导出-无UI.png",
+      "cloud_md5": "350705afba273006dc9b7210a7473520"
+    },
+    {
+      "local": "images/18-动态光点-720p.mp4",
+      "cloud_md5": "0fabf1d4d8807371671a83e80c8512a1"
+    },
+    {
+      "local": "images/18-动态预览-低清.gif",
+      "cloud_md5": "5efb798cb5b695435607c37a26389cf0"
+    },
+    {
+      "local": "research/GitHub技能调研.md",
+      "cloud_md5": "1651c3c70b5ffca3180f310da2027808"
+    },
+    {
+      "local": "skills/scripts/plan.py",
+      "cloud_md5": "76f938adefa53f0e3cee33c26d80d63c"
+    },
+    {
+      "local": "skills/render.py",
+      "cloud_md5": "38537eec2569460d4bd31bd4fc0579a1"
+    },
+    {
+      "local": "skills/SKILL.md",
+      "cloud_md5": "3c58ca496e9e16a29c1cdd9911d76ebb"
+    },
+    {
+      "local": "source-profile.json",
+      "cloud_md5": "ae24bd83690c7f58be20786daec60105"
+    },
+    {
+      "local": "skills/test_delivery.py",
+      "cloud_md5": "56d4570448cc94aa0e395e0f6f85c51c"
+    },
+    {
+      "local": "素材清单.json",
+      "cloud_md5": "9cdc33210dc49c51925cdffa0abcc3b4"
+    }
+  ]
+}

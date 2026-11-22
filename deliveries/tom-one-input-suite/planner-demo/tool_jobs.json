@@ -1,0 +1,208 @@
+{
+  "reference": "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png",
+  "reference_md5": "58aaa9d0a2c6f8b7d0537e83824981c3",
+  "reference_size": [
+    768,
+    1707
+  ],
+  "profile": {
+    "input_kind": "wallpaper",
+    "visible_entities": [
+      {
+        "id": "Tom",
+        "locked": [
+          "gray-blue cat",
+          "white muzzle/chest/paws",
+          "coral triangular inner ears",
+          "black nose",
+          "original cel-cartoon facial proportions"
+        ]
+      },
+      {
+        "id": "Jerry",
+        "locked": [
+          "small warm-brown mouse",
+          "large round coral inner ears",
+          "tan muzzle",
+          "black nose",
+          "original relative size to Tom in shared scenes"
+        ]
+      }
+    ],
+    "style_locked": "classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign",
+    "scene_adaptation": "cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting",
+    "allowed_changes": "purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity"
+  },
+  "call_budget": 10,
+  "one_subject_pair_policy": "Same visible identity twice with complementary poses; never invent unseen partner identity",
+  "jobs": [
+    {
+      "slot": "01-phone",
+      "selected_entities": [
+        "Tom",
+        "Jerry"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/01-phone.png",
+        "prompt": "ONE standalone 9:16 portrait phone illustration. Use ONLY attached original as identity/style truth. Preserve: Tom: gray-blue cat, white muzzle/chest/paws, coral triangular inner ears, black nose, original cel-cartoon facial proportions; Jerry: small warm-brown mouse, large round coral inner ears, tan muzzle, black nose, original relative size to Tom in shared scenes. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: full cozy scene, top 40 percent calm clock-safe background. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    },
+    {
+      "slot": "02-desktop",
+      "selected_entities": [
+        "Tom",
+        "Jerry"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/02-desktop.png",
+        "prompt": "ONE standalone 16:9 landscape desktop illustration. Use ONLY attached original as identity/style truth. Preserve: Tom: gray-blue cat, white muzzle/chest/paws, coral triangular inner ears, black nose, original cel-cartoon facial proportions; Jerry: small warm-brown mouse, large round coral inner ears, tan muzzle, black nose, original relative size to Tom in shared scenes. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: redraw panoramic room, subjects right, left 40 percent icon-safe negative space. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    },
+    {
+      "slot": "03-ipad-landscape",
+      "selected_entities": [
+        "Tom",
+        "Jerry"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/03-ipad-landscape.png",
+        "prompt": "ONE standalone 4:3 landscape tablet illustration. Use ONLY attached original as identity/style truth. Preserve: Tom: gray-blue cat, white muzzle/chest/paws, coral triangular inner ears, black nose, original cel-cartoon facial proportions; Jerry: small warm-brown mouse, large round coral inner ears, tan muzzle, black nose, original relative size to Tom in shared scenes. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: redraw full scene, subjects lower right, left half for icons. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    },
+    {
+      "slot": "04-ipad-portrait",
+      "selected_entities": [
+        "Tom",
+        "Jerry"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/04-ipad-portrait.png",
+        "prompt": "ONE standalone 3:4 portrait tablet illustration. Use ONLY attached original as identity/style truth. Preserve: Tom: gray-blue cat, white muzzle/chest/paws, coral triangular inner ears, black nose, original cel-cartoon facial proportions; Jerry: small warm-brown mouse, large round coral inner ears, tan muzzle, black nose, original relative size to Tom in shared scenes. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: full scene, upper 40 percent clear, whole heads and paws. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    },
+    {
+      "slot": "05-watch",
+      "selected_entities": [
+        "Tom",
+        "Jerry"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/05-watch.png",
+        "prompt": "ONE standalone 1:1 square watch illustration. Use ONLY attached original as identity/style truth. Preserve: Tom: gray-blue cat, white muzzle/chest/paws, coral triangular inner ears, black nose, original cel-cartoon facial proportions; Jerry: small warm-brown mouse, large round coral inner ears, tan muzzle, black nose, original relative size to Tom in shared scenes. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: medium close-up of visible subjects lower 60 percent, top third calm clock-safe area. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    },
+    {
+      "slot": "06-avatar-a",
+      "selected_entities": [
+        "Tom"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/06-avatar-a.png",
+        "prompt": "ONE standalone 1:1 square individual avatar A illustration. Use ONLY attached original as identity/style truth. Preserve: Tom: gray-blue cat, white muzzle/chest/paws, coral triangular inner ears, black nose, original cel-cartoon facial proportions. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: native head-and-shoulders close-up, face large, entire ears/head/chin with 12 percent margin, facing right, small affectionate gesture. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    },
+    {
+      "slot": "07-avatar-b",
+      "selected_entities": [
+        "Jerry"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/07-avatar-b.png",
+        "prompt": "ONE standalone 1:1 square individual avatar B illustration. Use ONLY attached original as identity/style truth. Preserve: Jerry: small warm-brown mouse, large round coral inner ears, tan muzzle, black nose, original relative size to Tom in shared scenes. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: native head-and-shoulders close-up, face large, entire ears/head/chin with 12 percent margin, facing left, complementary affectionate gesture. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    },
+    {
+      "slot": "08-moments",
+      "selected_entities": [
+        "Tom",
+        "Jerry"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/08-moments.png",
+        "prompt": "ONE standalone 2:1 panoramic social header illustration. Use ONLY attached original as identity/style truth. Preserve: Tom: gray-blue cat, white muzzle/chest/paws, coral triangular inner ears, black nose, original cel-cartoon facial proportions; Jerry: small warm-brown mouse, large round coral inner ears, tan muzzle, black nose, original relative size to Tom in shared scenes. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: subjects center-left, right bottom quarter free of faces for profile avatar. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    },
+    {
+      "slot": "09-qq-profile",
+      "selected_entities": [
+        "Tom",
+        "Jerry"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/09-qq-profile.png",
+        "prompt": "ONE standalone 16:9 social profile header illustration. Use ONLY attached original as identity/style truth. Preserve: Tom: gray-blue cat, white muzzle/chest/paws, coral triangular inner ears, black nose, original cel-cartoon facial proportions; Jerry: small warm-brown mouse, large round coral inner ears, tan muzzle, black nose, original relative size to Tom in shared scenes. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: subjects right half, left third calm for profile information. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    },
+    {
+      "slot": "10-chat",
+      "selected_entities": [
+        "Tom",
+        "Jerry"
+      ],
+      "status": "planned_not_dispatched",
+      "tool": "generate_image",
+      "arguments": {
+        "file_path": "/home/user/craft-anything/deliveries/tom-one-input-suite/planner-demo/masters/10-chat.png",
+        "prompt": "ONE standalone 9:16 portrait chat wallpaper illustration. Use ONLY attached original as identity/style truth. Preserve: Tom: gray-blue cat, white muzzle/chest/paws, coral triangular inner ears, black nose, original cel-cartoon facial proportions; Jerry: small warm-brown mouse, large round coral inner ears, tan muzzle, black nose, original relative size to Tom in shared scenes. Style: classic clean hand-inked vintage cel cartoon, muted tan beige ivory and sofa blue, subtle paper grain; not watercolor, 3D, or chibi redesign. Purpose composition: middle and upper 70 percent pale low-contrast, small subjects at bottom right only. Scene/context: cozy afternoon sofa nap, beige cushion, ivory blanket, Jerry's pale-blue folded napkin; no unrelated fantasy setting. Allowed modifications: purpose-specific framing, gentle sleepy expression, slight paw/blanket changes; individual matching avatars may sit upright holding matching blanket corners while preserving identity. No tiny face crop enlargement, no portrait stretched into landscape, no collage, no text or UI. All heads/ears intact. Maximum available native resolution. Unseen details are plausible adaptations, not recovered original facts.",
+        "images": [
+          "/home/user/craft-anything/deliveries/tom-jerry-original-touchup/02-复刻无手机UI/06-午睡小被角.png"
+        ],
+        "offer_options": false
+      }
+    }
+  ]
+}
