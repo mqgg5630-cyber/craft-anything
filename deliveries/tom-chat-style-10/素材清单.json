@@ -1,0 +1,178 @@
+{
+  "status": "awaiting_user_style_selection",
+  "selected_style": null,
+  "generation_calls": 10,
+  "files": [
+    {
+      "file": "01-蜂蜜奶油格纹.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 151,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "7f48ed10009937368529f82408062990",
+      "bytes": 1636721
+    },
+    {
+      "file": "02-蜜桃情书.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 124,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "08c73f3452cfed7777c6fdb885e0bea2",
+      "bytes": 1496748
+    },
+    {
+      "file": "03-焦糖咖啡馆.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 124,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "04b8c9441ec9f95114427834deb0bbb3",
+      "bytes": 1482224
+    },
+    {
+      "file": "04-奶黄雏菊.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 165,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "08d43737774097aff0b3ca83fd0a7687",
+      "bytes": 1255291
+    },
+    {
+      "file": "05-玫瑰奶昔蝴蝶结.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 165,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "1f328189085e564369bcec198d7eb6b0",
+      "bytes": 1626894
+    },
+    {
+      "file": "06-杏色落日窗.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 193,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "78371d76ed94631a7b23ed71574695fc",
+      "bytes": 1158807
+    },
+    {
+      "file": "07-奶油复古手账.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 165,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "a08b6b025a7d491d0ba63e2fe1c3e8bc",
+      "bytes": 1512140
+    },
+    {
+      "file": "08-燕麦鼠尾草.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 193,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "37bceeee016ec494947dbb9f112e2df7",
+      "bytes": 1474143
+    },
+    {
+      "file": "09-可可晚安灯串.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 165,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "2552785fc4d0f8aa7f18ed1898db3ddd",
+      "bytes": 1513429
+    },
+    {
+      "file": "10-香草草莓野餐.png",
+      "native_size": [
+        768,
+        1376
+      ],
+      "output_size": [
+        768,
+        1376
+      ],
+      "shift_up_pixels": 220,
+      "quote": "走过你的朝朝暮暮",
+      "names": "tom❤jerry",
+      "keyboard_preview_starts_at": 0.64,
+      "md5": "a3dc6ffcd759ffad5e4fab686b63f027",
+      "bytes": 1598432
+    }
+  ],
+  "warning": "Keyboard position is approximate; no chosen default until user selects. Source blank margin shifted, no face crop enlargement. Text added with Noto CJK and DejaVu."
+}
