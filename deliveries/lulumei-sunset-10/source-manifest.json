@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "status": "downloaded_pending_visual_review",
+  "share_url": "https://xhslink.cn/o/5thkO8Kd6jg",
+  "note_id": "6ad212fc000000001802d6be",
+  "title": "和你一起奔夕阳 噜噜噜妹壁纸",
+  "author": null,
+  "download_method": "GitHub Actions only; public declared CDN URLs; no cookies",
+  "source_quality": "公开笔记的最高可得候选文件，未经重编码；不保证为作者母版。",
+  "source_count": 5,
+  "requested_result_count": 10,
+  "runner_commit": "e89f7372ac48507b0014e9344fde5c32f8419a20",
+  "images": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 168228,
+      "sha256": "968542c3ef635a6eb4d179db259653bcb2422f7d534eb2ad70369728ba2882de",
+      "md5": "aaa95c4668c3d851d75ddca598cd1dda"
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 151617,
+      "sha256": "b9b74e74579320446be70e14d52ab77df0470d1f13c093cab56c79615bfd61e0",
+      "md5": "95f2e98ab82e9d56553063ea2deffc96"
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 185212,
+      "sha256": "dbb7f7437f6cf71ef25f437902f67a1bb6186a6ced12ed69ed29c8e6d5f776a6",
+      "md5": "ffc82f814be9dbcd75e26c0b5a3c8134"
+    },
+    {
+      "file": "01-下载原片/04.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 185890,
+      "sha256": "25052d8989c9c6f55149de98e5e4049a94e7f13db8f7adec46e0acf296c38cc5",
+      "md5": "a9052eccba8961d997241e42d670e986"
+    },
+    {
+      "file": "01-下载原片/05.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 155353,
+      "sha256": "61f7ac89f39a9703dc624efe5ab6dcc96c4bfc216088237d29830d678026f2df",
+      "md5": "bca280190fda1b12427b8360c12fad45"
+    }
+  ]
+}
