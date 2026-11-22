@@ -1,0 +1,107 @@
+{
+  "generation_calls": 10,
+  "mode": "approved_original_style_more_scene_variation",
+  "files": [
+    {
+      "file": "images/01-星河轻语.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2888949,
+      "md5": "fabe59c3e25d612439ae5d966f1c2a21",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/02-捧星入梦.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2888482,
+      "md5": "da861435ca5eb67e42b0e458c1fc8c2f",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/03-月下同行.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2970720,
+      "md5": "617e237801a9b370303459386efe30c2",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/04-云端小憩.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2942849,
+      "md5": "23a422ced96603cbbf596b0a957d44e9",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/05-晚霞赠花.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2903937,
+      "md5": "48b26ba23485c177c5365b6c2e27b199",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/06-等一颗流星.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2951100,
+      "md5": "3716f0143d9402e25dabf9f3abdb0aa6",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/07-黄昏回眸.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2901325,
+      "md5": "d48dd7693303bfcc46dd7aa838276678",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/08-晨风花径.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2836023,
+      "md5": "cf594cf5323c88445019641b9f2b9e8c",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    },
+    {
+      "file": "images/09-玫瑰的清晨.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2762696,
+      "md5": "c405f917b533396c106a3bbe861eeb1d",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    },
+    {
+      "file": "images/10-把温柔留住.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2889809,
+      "md5": "015bcebf40759ebe94caefe3bbff72ff",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    }
+  ],
+  "tests": "PASS count10/decode/native_dimensions/nonempty/MD5_unique/no_exact_reuse_of_prior30"
+}
