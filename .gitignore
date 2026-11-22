@@ -40,3 +40,6 @@ __pycache__/
 /deliveries/sakura-native-suite-v3/images/
 
 /deliveries/tom-one-input-suite/images/
+
+# Rebuildable local sunset delivery archive; individual images/manifests stay versioned
+/deliveries/和你一起奔夕阳-完整交付-cf4bb177.zip

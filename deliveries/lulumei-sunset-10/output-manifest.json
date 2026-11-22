@@ -1,0 +1,335 @@
+{
+  "schema_version": 1,
+  "source_count": 5,
+  "clean_count": 10,
+  "simulated_ui_count": 10,
+  "source_download_run": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45017817674",
+  "source_return_commit": "213238f",
+  "source_original_bytes_preserved": true,
+  "generation": "Ten independent image-conditioned AI outputs; first five reference redraws, last five new scenes. No upscaling.",
+  "ui": "Deterministic illustrative lock-screen overlay, not a real device screenshot.",
+  "sources": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 168228,
+      "sha256": "968542c3ef635a6eb4d179db259653bcb2422f7d534eb2ad70369728ba2882de",
+      "md5": "aaa95c4668c3d851d75ddca598cd1dda"
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 151617,
+      "sha256": "b9b74e74579320446be70e14d52ab77df0470d1f13c093cab56c79615bfd61e0",
+      "md5": "95f2e98ab82e9d56553063ea2deffc96"
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 185212,
+      "sha256": "dbb7f7437f6cf71ef25f437902f67a1bb6186a6ced12ed69ed29c8e6d5f776a6",
+      "md5": "ffc82f814be9dbcd75e26c0b5a3c8134"
+    },
+    {
+      "file": "01-下载原片/04.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 185890,
+      "sha256": "25052d8989c9c6f55149de98e5e4049a94e7f13db8f7adec46e0acf296c38cc5",
+      "md5": "a9052eccba8961d997241e42d670e986"
+    },
+    {
+      "file": "01-下载原片/05.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 155353,
+      "sha256": "61f7ac89f39a9703dc624efe5ab6dcc96c4bfc216088237d29830d678026f2df",
+      "md5": "bca280190fda1b12427b8360c12fad45"
+    }
+  ],
+  "pairs": [
+    {
+      "number": 1,
+      "scene": "草坡奔赴",
+      "references": [
+        1
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/01-草坡奔赴.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1859983,
+        "sha256": "3e54f5f10d019986399a147573868a56d8e6e9a5dc5edf498f626cce09669767",
+        "md5": "870f5d84abcff38732ead6ec31a98025"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/01-草坡奔赴.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1131945,
+        "sha256": "dd6d5cccba4e59e35e780428f4e82660430d2d83cb3685452b75ecce31d4de4f",
+        "md5": "c08e4899b09cdb020c4fa9365c0b3395"
+      }
+    },
+    {
+      "number": 2,
+      "scene": "并肩躺平",
+      "references": [
+        2
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/02-并肩躺平.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2181810,
+        "sha256": "88d2b756d912568f35419242b266c5b73e01e7180c02ac36621394a12e01415c",
+        "md5": "2b123c95dd61d6ed8c0248f424804079"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/02-并肩躺平.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1223259,
+        "sha256": "d85b4be6d62d77a91c19ce0f541bfe1531c7956faf2c9321a2564f5583388286",
+        "md5": "f3585939fa6d5a37146678f98433da3a"
+      }
+    },
+    {
+      "number": 3,
+      "scene": "溪石牵手",
+      "references": [
+        3
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/03-溪石牵手.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2256383,
+        "sha256": "1bbd84862540e2e944c62ce2352883e7c675909a9f187e89738ee791ec4d750d",
+        "md5": "52025fc3151b9621f1699933e6ae98a0"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/03-溪石牵手.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1302576,
+        "sha256": "f7199a1fa4be0b8c66486a8eb35514d7d264171a0dec3f8bd7defed777eb701c",
+        "md5": "6716a76f3243a9bed66ccfb23e8b2b92"
+      }
+    },
+    {
+      "number": 4,
+      "scene": "山路同行",
+      "references": [
+        4
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/04-山路同行.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2161895,
+        "sha256": "88e75d1ef295689d6885e17a06a00b1bf5f25bea39bb0d461c826f5619f037f4",
+        "md5": "a9520173ad2c45e12e4f4d03cb09a446"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/04-山路同行.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1288609,
+        "sha256": "06eed102069ce6104e8317d382c7935c6916e3663cfa5e2a1cd75b0210db736e",
+        "md5": "84186017a5c10fd390bb1d26e23c97b5"
+      }
+    },
+    {
+      "number": 5,
+      "scene": "码头日落",
+      "references": [
+        5
+      ],
+      "kind": "reference_redraw",
+      "clean": {
+        "file": "02-复刻无UI/05-码头日落.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2055197,
+        "sha256": "209d4e3633fc3abb4b0b18b1b298515f44ccaa9590fccfbe020da7417b4fba04",
+        "md5": "59a49a25b88a9de7318cda08c5942a9a"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/05-码头日落.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1236268,
+        "sha256": "a0940a532e8c94c361561727bc51ddadee93894cb7239524287f2d230e43b9ab",
+        "md5": "05e60723aecee07ff4d8e77864b92831"
+      }
+    },
+    {
+      "number": 6,
+      "scene": "花坡拥抱",
+      "references": [
+        1,
+        3
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/06-花坡拥抱.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2055849,
+        "sha256": "610bbc0dba23c2094097320bae67c7d5caf89ed3ae35bdde326c3e833f2fd954",
+        "md5": "879b11d55c2996fc8b3ce9d80abba36c"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/06-花坡拥抱.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1292565,
+        "sha256": "e92db1db5aab0f8462cecdfc65b2af6b0a176932e54158fe2003ea9513d4840b",
+        "md5": "473c8db2c98781668479010380ec408c"
+      }
+    },
+    {
+      "number": 7,
+      "scene": "湖畔野餐",
+      "references": [
+        2,
+        5
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/07-湖畔野餐.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2037245,
+        "sha256": "1dfeaca9e13199bf93f57354ecfcb2d5d4a9d791bb6874c64fcfe669444d0ec7",
+        "md5": "50a81a851b3243320d4e30b38803d2ee"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/07-湖畔野餐.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1289014,
+        "sha256": "c535b837d59fb6fdccc04f2fdb2f7c94e3bd1c382bb6c8316df4ef1547a1081e",
+        "md5": "1c9206b6a7e598ff45936a6da2924fa6"
+      }
+    },
+    {
+      "number": 8,
+      "scene": "芦苇晚风",
+      "references": [
+        3,
+        4
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/08-芦苇晚风.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2116391,
+        "sha256": "21f56cd2d1d2d4982d1f92562b4510e9e5f33c79c1e6324c542094ba0b222a6d",
+        "md5": "93cdc1dae109e489927f410d3755c7e9"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/08-芦苇晚风.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1323903,
+        "sha256": "fb82c81d95f8d2d80941256258281a1ed4bcc7734f47a2f762155af8f23f703e",
+        "md5": "9b7c71896882fd2cdd172405c38aee55"
+      }
+    },
+    {
+      "number": 9,
+      "scene": "山坡风筝",
+      "references": [
+        1,
+        4
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/09-山坡风筝.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2221581,
+        "sha256": "804ebf0b8f4ca33c679f4324d4d82da4d4bfd9ea8d6f3e1d1edfbfe9d7872416",
+        "md5": "0ad46cd78e7e6b40812350a6c6e7091a"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/09-山坡风筝.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1393615,
+        "sha256": "3d30a60d1ede270f3bd3edd7a28c63e13e91ee65327ce56338fe96563a2b4ef6",
+        "md5": "17df11fe6c1cbfba571bc010a62fb71c"
+      }
+    },
+    {
+      "number": 10,
+      "scene": "肩靠余晖",
+      "references": [
+        5,
+        2
+      ],
+      "kind": "new_scene_same_series",
+      "clean": {
+        "file": "02-复刻无UI/10-肩靠余晖.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2382871,
+        "sha256": "226719b81f0036cf68403f09007e20ba962b676aefe990fabe8e74ac0f0243da",
+        "md5": "730e96787811cfba978b94d11579e88c"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/10-肩靠余晖.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1375864,
+        "sha256": "9b303c0a09dce6168808b213ee68b482877e12174452645437a204b83687ca2e",
+        "md5": "26f778c6667c7446f0b6d9062f272ccc"
+      }
+    }
+  ],
+  "previews": [
+    {
+      "file": "00-总预览.jpg",
+      "width": 2000,
+      "height": 1390,
+      "bytes": 662804,
+      "sha256": "438502c84689d7e1af88db75fa5346fd0ede784d79ae560142356e216258d6ec",
+      "md5": "84e3e5f3c7c54f59ad219a5514adfa07"
+    },
+    {
+      "file": "04-无UI总览.jpg",
+      "width": 1570,
+      "height": 1250,
+      "bytes": 448626,
+      "sha256": "c08228d9b26a1aa9dbb387a057a8cc91ac4d186ed75b300fe8163d0c02661b4d",
+      "md5": "f2283a9055240ec58663b3d672c5afa4"
+    },
+    {
+      "file": "05-模拟UI总览.jpg",
+      "width": 1570,
+      "height": 1250,
+      "bytes": 474325,
+      "sha256": "b79fc0177c743c8fcfe0bba7499ee65329fbc32964bb2158b1b457fa4c2cbc5f",
+      "md5": "e741da915edd0ccaac76a1a1631cba24"
+    },
+    {
+      "file": "原片总预览.jpg",
+      "width": 1220,
+      "height": 605,
+      "bytes": 123210,
+      "sha256": "246ee6746c73d6c931bbde6925118a35c6351b9ad6464269ec6c1c99bfe447ce",
+      "md5": "4fd92dd3836cca37aba67efd1800d327"
+    }
+  ],
+  "cloud_status": "not_uploaded"
+}

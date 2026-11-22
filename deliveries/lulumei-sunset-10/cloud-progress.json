@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "status": "partial_upload_rate_limited",
+  "root_folder_id": "1mDqSDOFT13tvOiM7q3LEftL1j9Esns1G",
+  "root_url": "https://drive.google.com/drive/folders/1mDqSDOFT13tvOiM7q3LEftL1j9Esns1G",
+  "folder_ids": {
+    "01-下载原片": "1sNqrmBy_rnZ1GVwRZmUULVSg-qxj5SL6",
+    "02-复刻无UI": "1TgNKkr9D0G4VSk-DlVc26gpjYdZ51UKt",
+    "03-复刻模拟UI": "16K3wM2aNYaCJztAgq7Fc8jJq4SUOUtFa",
+    "04-流程与验收": "1RgAsZCvDTSgO9DWtdWqDYxwDwKTLFqgb"
+  },
+  "uploaded_source_count": 5,
+  "uploaded_clean_count": 1,
+  "uploaded_ui_count": 0,
+  "uploaded_preview_count": 1,
+  "minimum_retry_after_seconds": 15,
+  "blocker": "Arena file-transfer gateway reported Merge upload rate limit; instructed no further uploads this reply. 19 result images and documentation remain pending.",
+  "listing_verified": true,
+  "all_uploaded_md5_verified": true,
+  "uploaded": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "id": "1mlDvMMRvfMJtfF88OItZ4yO_sK9GNPMR",
+      "bytes": 168228,
+      "md5": "aaa95c4668c3d851d75ddca598cd1dda"
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "id": "11pYSv7Eg53h7YkZPMiEIM-IAfbn1Xnlo",
+      "bytes": 151617,
+      "md5": "95f2e98ab82e9d56553063ea2deffc96"
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "id": "1L-muujY-b5EyXjxIro1A72ZMn8_BrOAW",
+      "bytes": 185212,
+      "md5": "ffc82f814be9dbcd75e26c0b5a3c8134"
+    },
+    {
+      "file": "01-下载原片/04.jpg",
+      "id": "1Zp4R0m1_sVgsc-mdlz-AbhqwcR407JrQ",
+      "bytes": 185890,
+      "md5": "a9052eccba8961d997241e42d670e986"
+    },
+    {
+      "file": "01-下载原片/05.jpg",
+      "id": "1R-MHyfa10bkOwRkjEKFirD3vA5kS_CKq",
+      "bytes": 155353,
+      "md5": "bca280190fda1b12427b8360c12fad45"
+    },
+    {
+      "file": "02-复刻无UI/02-并肩躺平.png",
+      "id": "1-PE9XsyrpJ_WGqwzbvRU9r7SvER5NKCH",
+      "bytes": 2181810,
+      "md5": "2b123c95dd61d6ed8c0248f424804079"
+    },
+    {
+      "file": "00-总预览.jpg",
+      "id": "1SOd9xVNchLlLv-hL3Ov_r2KDIDqT78H4",
+      "bytes": 662804,
+      "md5": "84e3e5f3c7c54f59ad219a5514adfa07"
+    }
+  ]
+}
