@@ -104,4 +104,13 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except Exception as exc:
+        ROOT.mkdir(parents=True, exist_ok=True)
+        (ROOT / 'download-status.json').write_text(json.dumps({
+            'status': 'blocked_source_download', 'error_type': type(exc).__name__,
+            'error': str(exc), 'run_id': os.environ.get('GITHUB_RUN_ID'),
+            'share_url': SHARE_URL, 'images_verified': False,
+        }, ensure_ascii=False, indent=2), encoding='utf-8')
+        raise
