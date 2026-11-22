@@ -1,0 +1,12 @@
+{
+  "folder_id": "1V1xm9r2hGq6iAgTuGA1CMXO-Z0IElWwn",
+  "fresh_count": 26,
+  "next_page_token": null,
+  "incomplete_search": false,
+  "all_26_cloud_md5_match": true,
+  "cloud_format": "10 self-contained HTML albums holding 330 assets + 10 independent master PNGs + overview + five docs/scripts",
+  "individual_330_drive_files": false,
+  "tests": "3 unittest cases pass: 330 assets hashes/dimensions, HTML embedded bytes and JS syntax, 10 MP4 full decode",
+  "http_links_checked": 362,
+  "browser_folder_save_tested": false
+}

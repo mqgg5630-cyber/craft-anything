@@ -30,3 +30,7 @@ __pycache__/
 /deliveries/comic-history-archive/单张成品/
 
 /deliveries/comic-history-archive/完整漫画分册/
+
+# Multi-device derivatives and self-contained offline albums are delivered externally
+/deliveries/sakura-full-suite/sets/
+/deliveries/sakura-full-suite/albums/

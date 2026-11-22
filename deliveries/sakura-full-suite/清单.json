@@ -1,0 +1,3512 @@
+[
+  {
+    "theme": "星灯约定",
+    "native_size": [
+      848,
+      1264
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "e46c3c672a822a8e0941a53e5ec943a1",
+        "bytes": 1058885
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "925a1fe082a583fe80d4566f026fb82f",
+        "bytes": 1066440
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "0577f8b4bfdc4a2810a80dee8df23945",
+        "bytes": 1041941
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "14191706c24bc1b8d2410dde771811cb",
+        "bytes": 1208894
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "5f9a9c06a72cfeba5a05e523f5c9037d",
+        "bytes": 1236120
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "cf448033582eb0d2b82cda9a00ede3cf",
+        "bytes": 1059656
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "0aeaae4e44d60cd844f2db6fb441319b",
+        "bytes": 1027971
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "8b5ec2050593ea0aae142304ffcdbbe8",
+        "bytes": 1497422
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "01e35dcb4a4b96ade248cd492fed299b",
+        "bytes": 1419998
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "dc845629f08081293db0c40dd2164d99",
+        "bytes": 345603
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "b28d84a250356c0487dcb2d1df54f52a",
+        "bytes": 356175
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "fee24e0256b37b58ed4f3331b3e6c26d",
+        "bytes": 96093
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "5d737ec800c261cd54357bc52f46bba5",
+        "bytes": 99961
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "583665eaba3611c6450a73c3e37f9fed",
+        "bytes": 492258
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "08b1cc19e6a2c42a51fd953a1a586b4b",
+        "bytes": 321361
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "14de432fb0d682c3cc27dc283d682e83",
+        "bytes": 589015
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "b962da38ffe0a12b863ed61ee8685e2d",
+        "bytes": 321711
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "c6a04f52a57a5e7d84b03d8c58b46362",
+        "bytes": 510023
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "6ee5b523c828355a14b04a9e13f48339",
+        "bytes": 531580
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "535e2f633556d553e074fa4abb0be2d0",
+        "bytes": 510100
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "c42853a4ad96d27d3b2b701f2d369d5a",
+        "bytes": 533135
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "7fe13943ec4f823acb2f56086a71f88d",
+        "bytes": 1277288,
+        "source_crop_pixels": [
+          356,
+          356
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "e303c586f00c510ccd92341d2c02735c",
+        "bytes": 290102
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "2caccc4e1937cf120ba4610e8980b9f9",
+        "bytes": 1090378
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "14302db49e65423ef7a6ad33c0eb8fef",
+        "bytes": 1099328
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "6c1ed882af867d88ea1daeb42780b13d",
+        "bytes": 1182475,
+        "source_crop_pixels": [
+          356,
+          356
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "9b74f0ac85d52b2007513cf76a4b7c92",
+        "bytes": 275278
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "27d54640cef8d5b83eb5a78ee99113fe",
+        "bytes": 1084495
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "a44509f0d37674d3f2d3372ecbd4a82e",
+        "bytes": 1093041
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          848,
+          1264
+        ],
+        "md5": "e37e6b309cc410342eed9a6edac16f09",
+        "bytes": 1715647
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "4d3e6c80e204f0c2a144344228159446",
+        "bytes": 529889
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "777f48d11c61de3b4034a6e924db6c00",
+        "bytes": 495223
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "439373749de35885f9303293ab38ff07",
+        "bytes": 2008044
+      }
+    ]
+  },
+  {
+    "theme": "樱桥花语",
+    "native_size": [
+      768,
+      1376
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "c8429bf6e1f4c70a7d6c5eb24e7daccc",
+        "bytes": 1290516
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "e479bdc452629d07174de26dcec33c5e",
+        "bytes": 1299946
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "9c38b15e8050cd3a5756e1e3abaa88c0",
+        "bytes": 1234252
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "d73186a2cfec786dbcd8dd361071dd98",
+        "bytes": 1172226
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "a8c3b46bee4476e3ba53ce798672d0c5",
+        "bytes": 1210698
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "582d7b32c5e8b503d9cbd022a2b1b3b2",
+        "bytes": 1023452
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "042878f4db723335488380f248cff611",
+        "bytes": 984771
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "10fd92f43d2da0f6b0e352968150cfe6",
+        "bytes": 1459184
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "04ad30d627a8f18b8e9b8cf8608ea2f8",
+        "bytes": 1392162
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "f7cb8888e09928cce78c0a15050282ed",
+        "bytes": 303978
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "d3475bb525f47360ec66017fefaee5f0",
+        "bytes": 314955
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "1a199d44f57b72623230579d60c035a3",
+        "bytes": 77370
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "ae6a55a227ca6c15fe80e31fe8cfed5f",
+        "bytes": 81185
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "054b9f98f9c73b2f948cf76b4b1a39b8",
+        "bytes": 446572
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "0a577274c5e832604f7bb37b683a2f88",
+        "bytes": 320506
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "df9ec5f46c662dcad30a6f8755085a6f",
+        "bytes": 540085
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "aba3584e309d2956352bab25999d5747",
+        "bytes": 320868
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "d0f183c625885de87bcd2d7f6c317edf",
+        "bytes": 598333
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "9899ae15d578905f2a2a5c24687fdca4",
+        "bytes": 591246
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "12587ddf801584db6c72d2c4e944a3b4",
+        "bytes": 598450
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "8e311cc097f510b1ae96851ff3c0590e",
+        "bytes": 588988
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "d1aa542d4a7d1446181e95a53f021f14",
+        "bytes": 1340714,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "239a9de5d0aa22210564bc52d6d942d3",
+        "bytes": 300038
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "741e885d468a6593f85f30cf83937e20",
+        "bytes": 1320214
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "b4f3eb74a0d990a3fb993d010ee431cf",
+        "bytes": 1328510
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "1e619d5f1bd50c6d3b1f1436956477ae",
+        "bytes": 1142184,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "1e7509cc687ad33a45080b305cdc0832",
+        "bytes": 269338
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "7965faa1a1c9e9e622b399b75dbfb7af",
+        "bytes": 1306678
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "793cea41ca379c3313af3c25eac2baa7",
+        "bytes": 1316193
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          768,
+          1376
+        ],
+        "md5": "5d967d85bcd68b43e314b1eaed0c32c0",
+        "bytes": 1808326
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "14f4c1902dbfcb578b0550407175a757",
+        "bytes": 493965
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "c6917860e2fdb40d27abb8974639e05d",
+        "bytes": 588778
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "a13f62d713e64babe58f25b7022ade60",
+        "bytes": 2347181
+      }
+    ]
+  },
+  {
+    "theme": "暮色观星",
+    "native_size": [
+      768,
+      1376
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "7e05f4757cf3a5218ec245d1484d281b",
+        "bytes": 1314079
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "7afdc954adb75afe1eb40ac2091d505b",
+        "bytes": 1321728
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "1728072bda2da88735f3766c1871fb88",
+        "bytes": 1244942
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "cb3280d3e435d0c11cae6c63417ddae2",
+        "bytes": 1197783
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "42e64e29ad8bfb998e182c15c8df6662",
+        "bytes": 1235960
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "caa6c7a8a6c9564da19c965d42e8a797",
+        "bytes": 1053320
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "ba0ac292a0b3d2dda93884dbeb2d9f02",
+        "bytes": 1009039
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "cc879dbc1e8c8e9ac854b3bd4463ed53",
+        "bytes": 1483184
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "a1496ff0cc088dfa685de1e333e342e2",
+        "bytes": 1402248
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "8f7930fb4aa46ae8eb439bcaabc1cd0f",
+        "bytes": 339414
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "0bea8ec0f46bd8f36cc9b549ec4ad7b6",
+        "bytes": 350645
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "150ae1b9ef16215d879ecf085b06864a",
+        "bytes": 94681
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "18825ef6be926476028ffef08f8ef247",
+        "bytes": 98537
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "7dab475fe2dfcab58dffb8b3de957815",
+        "bytes": 482810
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "152a692efd9b713d0e07ec51f4a59969",
+        "bytes": 324207
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "11508c03d822017e2b4e9b518b2564aa",
+        "bytes": 577742
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "35a515365f600180eaf78a9cf62b6628",
+        "bytes": 324560
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "22bc8a949df4fac5aebb308a694b1824",
+        "bytes": 616296
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "c44120c8e60f98c2b4bc9b00b49a8235",
+        "bytes": 587138
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "e95ec649be326ec1891cc3a424aba8a2",
+        "bytes": 616265
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "27001f38558fbdcc1db8938dc6760939",
+        "bytes": 589328
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "33060a253429de270992adb19d7bac8b",
+        "bytes": 1166218,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "aa3bfe7897dcea6fe9dc58888c60ad31",
+        "bytes": 268651
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "68a7255bb9e5ead075214681b5894636",
+        "bytes": 1312810
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "282ce09c817934c0a487be1ddc6f595a",
+        "bytes": 1321362
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "873aac24e74709cd3781fd4945f6511c",
+        "bytes": 1187039,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "5b06a8a7552c5e78c30f5be09cb11c15",
+        "bytes": 258608
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "cd95615913e2852db7ef63bd9b79bf64",
+        "bytes": 1311473
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "69fcf4bd41429958a42b33f225faa98f",
+        "bytes": 1319687
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          768,
+          1376
+        ],
+        "md5": "3ac108e909467d99e703d625f5d121b9",
+        "bytes": 1869625
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "91a7a77ee9f0f834e45b8ae337f27f84",
+        "bytes": 551198
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "fe34ac37737eed7bd8689d35f06c2893",
+        "bytes": 610599
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "faaa20a994e78c78f5754ab009ffb492",
+        "bytes": 2536558
+      }
+    ]
+  },
+  {
+    "theme": "花亭乐盒",
+    "native_size": [
+      768,
+      1376
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "0efb112fba870568af07ac4a5bee2bdb",
+        "bytes": 1508271
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "5b1984c6217a772740c28b1426f5f14c",
+        "bytes": 1515218
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "8ef643ccaffeaa5178491beb7e0995d1",
+        "bytes": 1415385
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "ca9665f0724492106585f1657f9415cd",
+        "bytes": 1358491
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "07d774a46f6d9c189f2381c62e75204c",
+        "bytes": 1395256
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "04080e87e6b816786db021f594655420",
+        "bytes": 1203304
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "1fb27958328dcbfc24e420dc4773b384",
+        "bytes": 1128959
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "cfbd4f143f8db31e9ebe5d7f411a66d5",
+        "bytes": 1690945
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "235687ac4cd37c4a22c37963708a3ea1",
+        "bytes": 1589352
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "28810b1974ec924dfe2dc53f758701b6",
+        "bytes": 396788
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "0f5fd32e09b736fdfad20debdf331c5c",
+        "bytes": 401986
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "075abb273005f3031d300188acd432fe",
+        "bytes": 110695
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "e02a14c0a90d323ca6f8ed3d3fb0d346",
+        "bytes": 111867
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "b7b255154ce2d06f8e58780c7c4507aa",
+        "bytes": 557334
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "1a693476c6df5a2b1d14c8431e09ca70",
+        "bytes": 459696
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "c82f6ac197cc62577bfbe8ba015aefc1",
+        "bytes": 667187
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "5395996cc28194c9b3a311ec338e6448",
+        "bytes": 459949
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "0fd83a7b13811182f8ea5cc6d1e38ae9",
+        "bytes": 712461
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "0e49b9728312dd2f5289e9e5940b4cc3",
+        "bytes": 665873
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "a50fc98949bd1dd90ba5fdafaa80231b",
+        "bytes": 712625
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "5d94367ba1f4262ebaf8f20ed63b67b4",
+        "bytes": 670240
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "17bf80308ed032cdb6ae67a91428195c",
+        "bytes": 1387379,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "004ca7a2fee2efcab5750cfb20e814cf",
+        "bytes": 300098
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "d7d0dd36ffe1f3e4317e0414ce953c4d",
+        "bytes": 1536044
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "9f799e084411f3c42fd0da89c10ee379",
+        "bytes": 1540474
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "6011716b2b730a836d1349c183758aa0",
+        "bytes": 1255234,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "eb2ea80fe16909fcf207b780b6c4214a",
+        "bytes": 279495
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "cd0450ea2c08dacaa75e7a52db4728c1",
+        "bytes": 1533283
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "8fce349712125cd9210e0d53460666e1",
+        "bytes": 1537983
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          768,
+          1376
+        ],
+        "md5": "5125336ca8edd83345ccd8599f4f764b",
+        "bytes": 2103387
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "88fd1baae2dd1c3c7accc68768e62b0d",
+        "bytes": 614622
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "97eecf49eb9257fefe37c573e1ada83e",
+        "bytes": 656497
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "8eb4231c5c81f410f9cf87fefd0c36ea",
+        "bytes": 2951543
+      }
+    ]
+  },
+  {
+    "theme": "玫瑰来信",
+    "native_size": [
+      768,
+      1365
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "78af4bd74745869ab758709883a47378",
+        "bytes": 1344148
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "16ae5366e08924fd77e2b14636768ac6",
+        "bytes": 1350696
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "2adc5da1ce1ab6a1ca0aba35bfd40d6b",
+        "bytes": 1277334
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "bdc9fdd1f4957e52af160cea2a5ec8fa",
+        "bytes": 1221434
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "1d98aa6ef2bece09235ecc5d56ac8afd",
+        "bytes": 1259498
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "6a5d5084a240b21ab4390505312dfd53",
+        "bytes": 1070211
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "b891d79530878a63adbd76d597605cb0",
+        "bytes": 1023220
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "03ea76ac2beb04b59e3d2add35703810",
+        "bytes": 1522050
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "d7009bca4375277328acdc83689b4c7d",
+        "bytes": 1443832
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "6ef01c1078aa07ce1ee019f4a4739471",
+        "bytes": 343268
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "6323a90fe246c0895dfe7f8e07b1fca5",
+        "bytes": 353021
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "78e0851778ff451febc6c1ecec0fc2bc",
+        "bytes": 92548
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "3aecb55d10a030476706f965c20a419e",
+        "bytes": 95999
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "4c21d552b1e0c11fdbb18faf10ced1ac",
+        "bytes": 487845
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "7ec7660a9de622fc7adbe38fa899d3bb",
+        "bytes": 343339
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "004de999fc212297147de98f1858be5f",
+        "bytes": 584473
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "f164be7ea3608a0ad0f88d5cb1e24ce6",
+        "bytes": 343617
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "6f2c5e2af01837ff95a8d33d7ab4f8d3",
+        "bytes": 629793
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "a67a61525570b251145c82df852548f8",
+        "bytes": 615527
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "291b8b4c77261b47b91e12a40355795e",
+        "bytes": 629843
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "c90ff2b7c1401bb0a1d83f384b58f70f",
+        "bytes": 610336
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "e4ed887ba985bd463c8dfbc200302801",
+        "bytes": 1273250,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "cc3aad3f6d807d55e241c354e7c1989b",
+        "bytes": 282493
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "16b53917e9fbcd6d341783516f979673",
+        "bytes": 1343685
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "7dfeff0b6682e233006604e7430962a4",
+        "bytes": 1352274
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "a708410f8cb12cc388fd58b6cee58d45",
+        "bytes": 1154848,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "72a2420018d429f8b013167203b47df0",
+        "bytes": 257071
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "e9536ffcaca4506369a987584f1f96d0",
+        "bytes": 1346911
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "32891d5092f7e54bcd6e7e8a2b79c015",
+        "bytes": 1353866
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          768,
+          1365
+        ],
+        "md5": "1db29ab21dd18ab0d9e88ad684d7369c",
+        "bytes": 1884751
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "6c6e752280a15a550ce2aae6d2847664",
+        "bytes": 544988
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "729daeab99a6ad21a0892b5f9385cd1a",
+        "bytes": 620767
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "7cab4ed8030a59af888b89e0328027df",
+        "bytes": 2623037
+      }
+    ]
+  },
+  {
+    "theme": "天鹅晚风",
+    "native_size": [
+      768,
+      1376
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "187cc2ce038a8809370128a92b4915cb",
+        "bytes": 1164165
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "93098fa3244dfdbdefd5a9f434879281",
+        "bytes": 1175072
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "66bf2ef4523f90484e498ee27345c459",
+        "bytes": 1103569
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "e8d188ef2cc5ee3f56c3e2b3c68313ac",
+        "bytes": 1070879
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "3eb5d2badaf085811010eb0a4b28b4ec",
+        "bytes": 1109470
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "50b21525597cbab32d0840ef0a88eaec",
+        "bytes": 931795
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "a20d2f01d0becaf68424ff46ddfb14ba",
+        "bytes": 894032
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "7de2817f1d9d9e2bfd1d554be7aff81e",
+        "bytes": 1320880
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "826f0f48bfeb099aedce82311d577dce",
+        "bytes": 1251701
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "e48bc8439bce0456a85e9d69e5dd139a",
+        "bytes": 291122
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "91500f0a6e6d76746e9878493b5b320a",
+        "bytes": 300661
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "cd10e93aacddc6b0127ec4e4aa6272ec",
+        "bytes": 80671
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "228a2b74ef755bf1abe5759e2539cfce",
+        "bytes": 83978
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "1249a04df5fd15bb16b8ac971f161bf9",
+        "bytes": 422020
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "adfa8aa77884cd482427d3f6f6f6f300",
+        "bytes": 301756
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "1f6979e5ab194d5be3c2253538ad6e14",
+        "bytes": 505170
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "2c29f670c55879665029a74b9ca50f6b",
+        "bytes": 301983
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "8a192811d67bb734e27021e3f7af3b4e",
+        "bytes": 531464
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "6a2c981d6df508fce8231ba5736ee1fd",
+        "bytes": 512005
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "9ab10cc0c889d348d73ed16884754d46",
+        "bytes": 531512
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "8356c604fca9ff8dee44849f30204388",
+        "bytes": 519409
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "3937d1d4594e992e2b05304a55196767",
+        "bytes": 1267033,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "74ca29de6a34cba07385cc90a3c699f6",
+        "bytes": 291148
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "c5871edbf31617774881df92217d8c19",
+        "bytes": 1179616
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "af6e674e9f9e6d5a479b059737543277",
+        "bytes": 1189458
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "b5dae71a4802ceb2696ab84dfc0f871d",
+        "bytes": 1239867,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "9fa764cd922bcd86325c99f47b50b387",
+        "bytes": 280891
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "95dbeacf1dfffc15096b6e423561e78b",
+        "bytes": 1183917
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "f7770cc187f80223825b488e07874c39",
+        "bytes": 1192868
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          768,
+          1376
+        ],
+        "md5": "dff745e8feda640f08eeb4e3ce1674cc",
+        "bytes": 1730740
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "a1dc720510b7178f7dd7208f77ecccb5",
+        "bytes": 508290
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "39d4228abf6b4cd990e1a617205f95c3",
+        "bytes": 561664
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "5493363bed1bdc374302e85cc4998205",
+        "bytes": 2362400
+      }
+    ]
+  },
+  {
+    "theme": "古堡钥匙",
+    "native_size": [
+      768,
+      1376
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "103ba397cfa97595ab179f3b65f4c5d3",
+        "bytes": 1319529
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "644dfef582ce6876677a7163281d00e8",
+        "bytes": 1327421
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "16dd21249b26ea9cfda29609289c9bb7",
+        "bytes": 1254536
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "8316fadb820f19891daa1dd2b3f68780",
+        "bytes": 1203382
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "b32e0fa9413d56f86afb6e5a6ceb65f5",
+        "bytes": 1242526
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "0eab6d6f751fecb38c91e7510f863872",
+        "bytes": 1058589
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "2c4adc972c72401a4497cc3bb89d95c2",
+        "bytes": 1012756
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "9b7d3b66de4e25a39e94c243ae2c2fbb",
+        "bytes": 1487161
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "156a5e22387992e57da91632ee1d95b1",
+        "bytes": 1416879
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "8c9a17bfb2a31c735d4f9d1883547ac1",
+        "bytes": 334200
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "7a34bf0a021cf2e1ad04bef3bd794af8",
+        "bytes": 344618
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "be82adb34b236615d00f9516a87b0a37",
+        "bytes": 90617
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "600ab3ffcddb7753524cfac0f202f419",
+        "bytes": 94206
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "0d34180d89e92f91aaaa0453407f5cd9",
+        "bytes": 479815
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "001021686815650cdf143c5b27864f69",
+        "bytes": 347186
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "d474c18564ee55883608d31000766729",
+        "bytes": 577792
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "c242d52b490409ac765eb73b424bc8bd",
+        "bytes": 347538
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "95950bd05981790d7d233558e2b914d3",
+        "bytes": 619129
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "d7d0e447b55088090ebe55f722f44dfc",
+        "bytes": 592708
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "edd67daeb0e1742a4f6ede5c004d8b4a",
+        "bytes": 619216
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "9c2d47efbbda5536b0796a1941c00f9e",
+        "bytes": 594571
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "ea333ae986a833395076a48a13419e77",
+        "bytes": 1121086,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "d314333ca279752a475c30f332e1da69",
+        "bytes": 253340
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "cd778a517aa331c3216fa848565f8162",
+        "bytes": 1326238
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "ef90c8b14ec58399994b66699665b978",
+        "bytes": 1336242
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "c37c986d58913e8012fab0624fb0e162",
+        "bytes": 1275117,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "7159ee768ff0464e97c858e4fa1d74da",
+        "bytes": 274458
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "a871fcadbd8b4419474c7c3235cfbe29",
+        "bytes": 1336165
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "e135c544106df31939cc87e84d6c1926",
+        "bytes": 1343335
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          768,
+          1376
+        ],
+        "md5": "72ab40e5dea1ca9975209389ad8c9ae8",
+        "bytes": 1915356
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "7b0f8016fa2668e33c7fb9549aefd185",
+        "bytes": 532585
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "85310bfad0715e8c956906b3866568d6",
+        "bytes": 625979
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "a42745aac01b2ae24ba373ef98356b7a",
+        "bytes": 2675968
+      }
+    ]
+  },
+  {
+    "theme": "莓果茶会",
+    "native_size": [
+      768,
+      1376
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "04f96d7a7ee0ca0d029409f3d6a4c293",
+        "bytes": 1278418
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "5ef4219fc799352817259d3c61892de0",
+        "bytes": 1289325
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "714ec5cd46438837a35544b635ff9a56",
+        "bytes": 1203813
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "dc29e7f7a4514dc5d659817402e5037b",
+        "bytes": 1169927
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "8d046cb1311d78b3df1e4c712c93c1be",
+        "bytes": 1209380
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "7f97f4341021d852f790c40e888eedb2",
+        "bytes": 1025762
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "a1f95bcfa059c83ddd45900e19ba1d98",
+        "bytes": 973446
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "2f0a02e63c085c821e206246900c5516",
+        "bytes": 1441945
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "8a5430827472740d0dc38869ebd02702",
+        "bytes": 1358368
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "e8e195a6a620fd7311fc34e3a28278f9",
+        "bytes": 327140
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "4d80ddd53f06bd6b864643a45ad51f55",
+        "bytes": 335968
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "1bc7904fc819fd0a2802d3a7bfddd602",
+        "bytes": 90379
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "e7c518530ced35a99c0ece304c51800d",
+        "bytes": 93129
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "f899437581945720878a42f9a217b30b",
+        "bytes": 469064
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "4880972e78886639c1f46f436e076ad2",
+        "bytes": 339887
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "5ca1221a71b5e4605173f500fc981b7b",
+        "bytes": 562197
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "38150db762d73149ae3f75064980a597",
+        "bytes": 340101
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "6b2b99d9f3154cb37e1e4290857326bc",
+        "bytes": 597969
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "73e949bcbd6c1c080ff454a0802b680d",
+        "bytes": 581806
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "dfb4f393aeec030bc0830f2b9ec27e5c",
+        "bytes": 597932
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "2ae0f8ba278087870d21aa300fe702d0",
+        "bytes": 582717
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "1b6749d0a432b77594c23bf14c1d7f00",
+        "bytes": 1243381,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "7f140cbfcf5736603bbd059302e29ebc",
+        "bytes": 268163
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "381c585a9f832699a202a6aba1f84221",
+        "bytes": 1290521
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "e86d42b99319e9d53a4572db34a3c356",
+        "bytes": 1301152
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "8b57c5dca3a1280fef39132fff5a6af6",
+        "bytes": 1217401,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "08ec90470ad4cdafdf1223ed8ba5f5f9",
+        "bytes": 269891
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "2be86ccef5b3f56088dc6f2575cadbaf",
+        "bytes": 1295483
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "e90551d2afdc8c9ca6e148772d44ad0d",
+        "bytes": 1305340
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          768,
+          1376
+        ],
+        "md5": "c2228e7228f888d243467f1471758a31",
+        "bytes": 1834265
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "b7b8f92fb0e774c7fa9aa7dc1705476a",
+        "bytes": 533928
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "c23ae3359a154c3198ff844fefcdf84d",
+        "bytes": 593978
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "6be689514e8773403d7d084dab4299df",
+        "bytes": 2510606
+      }
+    ]
+  },
+  {
+    "theme": "温室蝶影",
+    "native_size": [
+      768,
+      1376
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "69c402c4adf9f7618719b0e81e1d4ab0",
+        "bytes": 1158743
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "8fc81af2bd21167c3dba50f022b9fb6c",
+        "bytes": 1169274
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "ae5e5aa4c3ff3d4d645dbf6f862816e9",
+        "bytes": 1097686
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "3b03132e123bfe2714a8643e3397cea7",
+        "bytes": 1071627
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "7b23764e523ad0b644b2623a3e2cb397",
+        "bytes": 1112776
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "574657d5f4d84880330d4cab678f8d88",
+        "bytes": 934443
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "443a89530519c8635bba144449d75010",
+        "bytes": 899795
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "52095ab63635f92cdbf1f2b2d904821d",
+        "bytes": 1313134
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "20d6d1fedba9dd922c06d2a393ec111a",
+        "bytes": 1244255
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "7a14666750ab202ac3e8c83b3247263a",
+        "bytes": 299938
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "1b3d627ba4f3078db5ec849c13b25764",
+        "bytes": 311032
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "8adbffce1490d92bfc577526248e2664",
+        "bytes": 83136
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "ccb9d3bab9194377bec9a26a7a8dbdca",
+        "bytes": 86871
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "c844635c1be1a8d47044ccd218ae5e91",
+        "bytes": 430705
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "0d4c4537ed65a011e319dfb0e2877219",
+        "bytes": 291392
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "4c0fe0d68ab4a44ef8cff401997afb3d",
+        "bytes": 514342
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "eadadbfe6ca21c698ef481510f0a3bc1",
+        "bytes": 291707
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "e6bb03bd2f191f0dedf25495767e0524",
+        "bytes": 560777
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "8c21138ff33c84fc12f2b4fac4af6721",
+        "bytes": 540676
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "bb0521824b1d8d319473cb2b7366e5e0",
+        "bytes": 560737
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "11d1b02ca6b083806c30749fab3114eb",
+        "bytes": 541236
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "829800b0a915ad7b9d1f6977b2cf70d6",
+        "bytes": 1130736,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "2ee4fff094a50e4545fe5606e5dfa631",
+        "bytes": 262004
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "5306ef2c07eb1b7ce733da61a366c77a",
+        "bytes": 1167406
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "7300f110a4afff657c46051ad719caf1",
+        "bytes": 1177699
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "f66f8d40d8c3e7bd67ee557e39aa71e4",
+        "bytes": 1106017,
+        "source_crop_pixels": [
+          322,
+          322
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "1e0428ce2bc63dd145d839d5b4e33120",
+        "bytes": 259150
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "49b2c407cc37c5918dd2a1befe04251c",
+        "bytes": 1159633
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "9e10adcf8735563e440448e09eff433e",
+        "bytes": 1170011
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          768,
+          1376
+        ],
+        "md5": "54669ce63d5b1bfffaa160b8e227b96f",
+        "bytes": 1678508
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "783bf6f48acb6109b9e56ccab5d2500a",
+        "bytes": 507132
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "7fc730cad971b2a76ba084a9ab4674dc",
+        "bytes": 522723
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "16b0fb7d253239defb72d1a945f771aa",
+        "bytes": 2445742
+      }
+    ]
+  },
+  {
+    "theme": "纸鹤月光",
+    "native_size": [
+      848,
+      1264
+    ],
+    "rule": "原图完整保留；不同设备为等比适配+设计留白，不是AI扩图；Lanczos插值非原生4K；头像小裁片放大非新增细节；UI为通用模拟非实机；动态为光点叠加非人物动画",
+    "files": [
+      {
+        "file": "01-手机-无UI.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "98b0ac1d34c1986f0ebba02bdf118192",
+        "bytes": 1081095
+      },
+      {
+        "file": "02-手机-锁屏UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "4336953deed525530d98862bde6354fd",
+        "bytes": 1090846
+      },
+      {
+        "file": "03-手机-桌面UI模拟.jpg",
+        "category": "phone",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "4aa47b830ae059c5d7b8c6ae28aeb1e3",
+        "bytes": 1057706
+      },
+      {
+        "file": "04-电脑-无UI.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "7bc554c24027db51e19106fc8690c5ab",
+        "bytes": 1229759
+      },
+      {
+        "file": "04-电脑-UI模拟.jpg",
+        "category": "desktop",
+        "size": [
+          3840,
+          2160
+        ],
+        "md5": "a7b08676e4e108fb2cccd6c770240555",
+        "bytes": 1257246
+      },
+      {
+        "file": "06-iPad横屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "e021b6b61c6bc51cb841bbfbcdef6dba",
+        "bytes": 1078423
+      },
+      {
+        "file": "06-iPad横屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2732,
+          2048
+        ],
+        "md5": "c763901b213164c0abd151f3adb3cdf3",
+        "bytes": 1040577
+      },
+      {
+        "file": "08-iPad竖屏-无UI.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "695eb9107aee406e95989b9c35a7dcbb",
+        "bytes": 1531865
+      },
+      {
+        "file": "08-iPad竖屏-UI模拟.jpg",
+        "category": "home",
+        "size": [
+          2048,
+          2732
+        ],
+        "md5": "eb25772722b01e18e13830d58f8c28c1",
+        "bytes": 1452396
+      },
+      {
+        "file": "10-手表方形-无UI.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "24300dbc62da89de1aaafbc24f8f514d",
+        "bytes": 352908
+      },
+      {
+        "file": "10-手表方形-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "d6315c1fa45a8f3964fba007d1567cf5",
+        "bytes": 364936
+      },
+      {
+        "file": "12-手表竖屏-无UI.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "8a65b11e37c3122cdaa568fbb5939dd6",
+        "bytes": 99389
+      },
+      {
+        "file": "12-手表竖屏-UI模拟.jpg",
+        "category": "watch",
+        "size": [
+          396,
+          484
+        ],
+        "md5": "6f85ec6e9e1fe2690e994902c43b6e0c",
+        "bytes": 103649
+      },
+      {
+        "file": "14-朋友圈封面-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1200
+        ],
+        "md5": "9c8a436e584fd2704dd0b61c512d27eb",
+        "bytes": 499032
+      },
+      {
+        "file": "15-微信朋友圈-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "e10303c3451ea847ae180e589fa86709",
+        "bytes": 350774
+      },
+      {
+        "file": "16-QQ主页背景-无UI.jpg",
+        "category": "social",
+        "size": [
+          2400,
+          1350
+        ],
+        "md5": "808b3b8e8ea19ea061616a8225405fa9",
+        "bytes": 595893
+      },
+      {
+        "file": "17-QQ主页-UI模拟.jpg",
+        "category": "social",
+        "size": [
+          1080,
+          1440
+        ],
+        "md5": "e9fe8c808128ca5c2f2fe8c411f8bc69",
+        "bytes": 351176
+      },
+      {
+        "file": "18-微信聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "33072f02df9b49b0d0dec6df3e74da33",
+        "bytes": 509784
+      },
+      {
+        "file": "19-微信聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "b7a4943108f0c9bc9a4525690a736daa",
+        "bytes": 531278
+      },
+      {
+        "file": "20-QQ聊天背景-无UI.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "70707946049532cc32d0f17799aaa0e0",
+        "bytes": 509820
+      },
+      {
+        "file": "21-QQ聊天-UI模拟.jpg",
+        "category": "chat",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "874a97f6f0f9521a8794c21f4bbc4aff",
+        "bytes": 534760
+      },
+      {
+        "file": "22-情侣头像-A-小樱-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "42d3a37282624f1ffc3cd3ecf9f18ae2",
+        "bytes": 1234661,
+        "source_crop_pixels": [
+          356,
+          356
+        ]
+      },
+      {
+        "file": "23-情侣头像-A-小樱-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "3274288c209b0e482e8f20c5830a400c",
+        "bytes": 283178
+      },
+      {
+        "file": "24-情侣壁纸-A-小樱-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "7ada5b94d276023df3926499c84b750a",
+        "bytes": 1111435
+      },
+      {
+        "file": "25-情侣壁纸-A-小樱-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "bb3c539b21c66c362dce4498c876b209",
+        "bytes": 1123123
+      },
+      {
+        "file": "22-情侣头像-B-小狼-无UI.png",
+        "category": "avatar",
+        "size": [
+          1024,
+          1024
+        ],
+        "md5": "367c84bcf93ab21bfa85b2b59a4e274b",
+        "bytes": 1148178,
+        "source_crop_pixels": [
+          356,
+          356
+        ]
+      },
+      {
+        "file": "23-情侣头像-B-小狼-UI模拟.jpg",
+        "category": "avatar",
+        "size": [
+          1200,
+          1200
+        ],
+        "md5": "98c1110258bb906915dd771d6fddcc0e",
+        "bytes": 260507
+      },
+      {
+        "file": "24-情侣壁纸-B-小狼-无UI.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "48aca370fa9b6fd730ca8e7d8005c559",
+        "bytes": 1104188
+      },
+      {
+        "file": "25-情侣壁纸-B-小狼-锁屏UI模拟.jpg",
+        "category": "couple",
+        "size": [
+          1440,
+          2560
+        ],
+        "md5": "3855a65f6cad7e6fba1039d1ccdf23ef",
+        "bytes": 1114996
+      },
+      {
+        "file": "00-原生主图.png",
+        "category": "master",
+        "size": [
+          848,
+          1264
+        ],
+        "md5": "29d2baa2963d7ab559513b219ee532df",
+        "bytes": 1775645
+      },
+      {
+        "file": "26-多设备搭配效果展示.jpg",
+        "category": "showcase",
+        "size": [
+          2000,
+          1250
+        ],
+        "md5": "b838d97fed72d4e300cc639c75a73d8e",
+        "bytes": 536493
+      },
+      {
+        "file": "27-手机动态-无UI-1080p.mp4",
+        "category": "animation",
+        "size": [
+          1080,
+          1920
+        ],
+        "duration": 4,
+        "frames": 64,
+        "fps": 16,
+        "md5": "45696a2bd8f48ca8284fc86ae901fa9a",
+        "bytes": 504207
+      },
+      {
+        "file": "28-动态预览.gif",
+        "category": "animation_preview",
+        "size": [
+          270,
+          480
+        ],
+        "md5": "647cd3b73168bbe1b680aeec2d0b850c",
+        "bytes": 914425
+      }
+    ]
+  }
+]
