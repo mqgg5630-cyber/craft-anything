@@ -1,0 +1,678 @@
+{
+  "scope": "All 16 remote branch heads listed by GitHub; inventory only, no branch checkout or push",
+  "branches": [
+    {
+      "branch": "arena/09e7b6a9-craft-anything",
+      "commit": "e9862e837425098e9009115abfdaabe9cb7a3377",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/little-prince-download.yml",
+        ".github/workflows/lululu-download.yml",
+        ".github/workflows/wallpaper-download.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_comic.py",
+        "tools/wallpaper-job/download_doraemon.py",
+        "tools/wallpaper-job/download_little_prince.py",
+        "tools/wallpaper-job/download_lululu.py",
+        "tools/wallpaper-job/download_sakura.py",
+        "tools/wallpaper-job/test_download.py"
+      ]
+    },
+    {
+      "branch": "arena/28bd3553-craft-anything",
+      "commit": "1e932b3afdfa11c9154754e270b12924e9ea5626",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/little-prince-download.yml",
+        ".github/workflows/sunset-new-download.yml",
+        ".github/workflows/wallpaper-download.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_comic.py",
+        "tools/wallpaper-job/download_doraemon.py",
+        "tools/wallpaper-job/download_little_prince.py",
+        "tools/wallpaper-job/download_sakura.py",
+        "tools/wallpaper-job/download_sunset.py",
+        "tools/wallpaper-job/test_download.py"
+      ]
+    },
+    {
+      "branch": "arena/2d4fad4b-craft-anything",
+      "commit": "9ecea820c5963c6c7f3b37ce67a88a529f9034d5",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/little-prince-download.yml",
+        ".github/workflows/lululu-ui-download.yml",
+        ".github/workflows/lumei-note-download.yml",
+        ".github/workflows/wallpaper-download.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_comic.py",
+        "tools/wallpaper-job/download_doraemon.py",
+        "tools/wallpaper-job/download_little_prince.py",
+        "tools/wallpaper-job/download_lululu_ui.py",
+        "tools/wallpaper-job/download_sakura.py",
+        "tools/wallpaper-job/download_xhs_note.py",
+        "tools/wallpaper-job/test_download.py"
+      ]
+    },
+    {
+      "branch": "arena/3c8ac4ba-craft-anything",
+      "commit": "87fffceba0a54b176b02a3763cc11dddad36a088",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/xhs-wallpaper-relay.yml"
+      ]
+    },
+    {
+      "branch": "arena/442f0ebc-craft-anything",
+      "commit": "dbe0cafedace8a20b372f4b32512ae95fdfbef46",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/little-prince-download.yml",
+        ".github/workflows/lululu-download.yml",
+        ".github/workflows/wallpaper-download.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_comic.py",
+        "tools/wallpaper-job/download_doraemon.py",
+        "tools/wallpaper-job/download_little_prince.py",
+        "tools/wallpaper-job/download_lululu.py",
+        "tools/wallpaper-job/download_sakura.py",
+        "tools/wallpaper-job/test_download.py",
+        "tools/wallpaper-job/test_lululu_download.py"
+      ]
+    },
+    {
+      "branch": "arena/4ecca08f-craft-anything",
+      "commit": "345a2af6d9af388d11f78d9adf7cec92ecb013e1",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/little-prince-download.yml",
+        ".github/workflows/lululu-download.yml",
+        ".github/workflows/wallpaper-download.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_comic.py",
+        "tools/wallpaper-job/download_doraemon.py",
+        "tools/wallpaper-job/download_little_prince.py",
+        "tools/wallpaper-job/download_lululu.py",
+        "tools/wallpaper-job/download_sakura.py",
+        "tools/wallpaper-job/test_download.py",
+        "tools/wallpaper-job/test_lululu_download.py"
+      ]
+    },
+    {
+      "branch": "arena/6cd91e94-craft-anything",
+      "commit": "e8f117339ca6ec45ce91f5fe9b99a74e16b2970a",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/pull-cloud.yml",
+        ".github/workflows/wallpaper-download.yml",
+        ".github/workflows/wallpaper-rainy.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_budapest.py",
+        "tools/wallpaper-job/download_cloudtown.py",
+        "tools/wallpaper-job/download_garden_cats.py",
+        "tools/wallpaper-job/download_inkbunny.py",
+        "tools/wallpaper-job/download_rainy.py",
+        "tools/wallpaper-job/download_roadhome.py",
+        "tools/wallpaper-job/download_sticker3d.py",
+        "tools/wallpaper-job/download_white_veil.py",
+        "tools/wallpaper-job/test_download.py",
+        "tools/wallpaper-job/test_download_white_veil.py"
+      ]
+    },
+    {
+      "branch": "arena/719dcd47-craft-anything",
+      "commit": "c6014b5bafcc9fabca31ff55ead6b1a0e4eed841",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/pull-cloud.yml",
+        ".github/workflows/wallpaper-download.yml",
+        ".github/workflows/wallpaper-rainy.yml",
+        ".github/workflows/wallpaper-spongebob.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_budapest.py",
+        "tools/wallpaper-job/download_cloudtown.py",
+        "tools/wallpaper-job/download_garden_cats.py",
+        "tools/wallpaper-job/download_inkbunny.py",
+        "tools/wallpaper-job/download_rainy.py",
+        "tools/wallpaper-job/download_roadhome.py",
+        "tools/wallpaper-job/download_spongebob.py",
+        "tools/wallpaper-job/download_sticker3d.py",
+        "tools/wallpaper-job/download_white_veil.py",
+        "tools/wallpaper-job/package_spongebob.py",
+        "tools/wallpaper-job/test_download.py",
+        "tools/wallpaper-job/test_download_white_veil.py",
+        "tools/wallpaper-job/test_spongebob.py"
+      ]
+    },
+    {
+      "branch": "arena/77ee0396-craft-anything",
+      "commit": "a03ff999e350cd2dd73ece2c24b012c954f33301",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/pull-cloud.yml",
+        ".github/workflows/wallpaper-download.yml",
+        ".github/workflows/wallpaper-rainy.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_budapest.py",
+        "tools/wallpaper-job/download_cloudtown.py",
+        "tools/wallpaper-job/download_garden_cats.py",
+        "tools/wallpaper-job/download_inkbunny.py",
+        "tools/wallpaper-job/download_rainy.py",
+        "tools/wallpaper-job/download_roadhome.py",
+        "tools/wallpaper-job/download_sticker3d.py",
+        "tools/wallpaper-job/download_white_veil.py",
+        "tools/wallpaper-job/test_download.py",
+        "tools/wallpaper-job/test_download_white_veil.py"
+      ]
+    },
+    {
+      "branch": "arena/96aefe18-craft-anything",
+      "commit": "acdf70015440234d28b0cd88c0c06a672ae32f73",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/little-prince-download.yml",
+        ".github/workflows/wallpaper-download.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_comic.py",
+        "tools/wallpaper-job/download_doraemon.py",
+        "tools/wallpaper-job/download_little_prince.py",
+        "tools/wallpaper-job/download_sakura.py",
+        "tools/wallpaper-job/test_download.py"
+      ]
+    },
+    {
+      "branch": "arena/ab8fa883-craft-anything",
+      "commit": "2ed6b35169507253f1bba6bf1f800a48f98acbe5",
+      "tree_truncated": false,
+      "relevant_files": []
+    },
+    {
+      "branch": "arena/b7bfcf81-craft-anything",
+      "commit": "ca83e824ce76f497d2d3b15fd4ea662781d60073",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/little-prince-download.yml",
+        ".github/workflows/sunset-b7-download.yml",
+        ".github/workflows/wallpaper-download.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_comic.py",
+        "tools/wallpaper-job/download_doraemon.py",
+        "tools/wallpaper-job/download_little_prince.py",
+        "tools/wallpaper-job/download_sakura.py",
+        "tools/wallpaper-job/download_sunset_b7.py",
+        "tools/wallpaper-job/test_download.py"
+      ]
+    },
+    {
+      "branch": "arena/cf4bb177-craft-anything",
+      "commit": "a2dae2b2b5856e1eeb71c85dbcb200ccea820bed",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/little-prince-download.yml",
+        ".github/workflows/sunset-download.yml",
+        ".github/workflows/wallpaper-download.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_comic.py",
+        "tools/wallpaper-job/download_doraemon.py",
+        "tools/wallpaper-job/download_little_prince.py",
+        "tools/wallpaper-job/download_sakura.py",
+        "tools/wallpaper-job/download_sunset.py",
+        "tools/wallpaper-job/test_download.py",
+        "tools/wallpaper-job/test_download_sunset.py"
+      ]
+    },
+    {
+      "branch": "arena/e134e8d7-craft-anything",
+      "commit": "5674a9c693bd98465378907d1e9191a4bc9e5ed0",
+      "tree_truncated": false,
+      "relevant_files": [
+        ".github/workflows/little-prince-download.yml",
+        ".github/workflows/wallpaper-download.yml",
+        "tools/wallpaper-job/download.py",
+        "tools/wallpaper-job/download_bears.py",
+        "tools/wallpaper-job/download_comic.py",
+        "tools/wallpaper-job/download_doraemon.py",
+        "tools/wallpaper-job/download_little_prince.py",
+        "tools/wallpaper-job/download_sakura.py",
+        "tools/wallpaper-job/test_download.py"
+      ]
+    },
+    {
+      "branch": "arena/e2bbb9ab-craft-anything",
+      "commit": "af2a036dd2bfffc474388076bc60cbee378590b5",
+      "tree_truncated": false,
+      "relevant_files": []
+    },
+    {
+      "branch": "main",
+      "commit": "fc93bd091e7810e08b540a67487e3bf5f2b7da2b",
+      "tree_truncated": false,
+      "relevant_files": []
+    }
+  ],
+  "successful_runs": [
+    {
+      "id": 43794093804,
+      "head_sha": "8dcabbbab83b4dc606fda706de1ca3fa09cc7dc1",
+      "head_branch": "arena/3c8ac4ba-craft-anything",
+      "conclusion": "success",
+      "html_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/43794093804",
+      "path": ".github/workflows/xhs-wallpaper-relay.yml",
+      "jobs": [
+        {
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Set up job",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/cache@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Bootstrap runner key",
+              "conclusion": "success"
+            },
+            {
+              "name": "Install relay dependencies",
+              "conclusion": "success"
+            },
+            {
+              "name": "Fetch and encrypt note images",
+              "conclusion": "success"
+            },
+            {
+              "name": "Commit encrypted output and sanitized failure report",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/cache@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Complete job",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43996297687,
+      "head_sha": "e31a7758b4b285ce68f6e49db603b0e904274dc3",
+      "head_branch": "arena/77ee0396-craft-anything",
+      "conclusion": "success",
+      "html_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/43996297687",
+      "path": ".github/workflows/wallpaper-rainy.yml",
+      "jobs": [
+        {
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Set up job",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python -m pip install Pillow==11.3.0",
+              "conclusion": "success"
+            },
+            {
+              "name": "Download nine public slides",
+              "conclusion": "success"
+            },
+            {
+              "name": "Commit verified sources on the triggering branch",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Complete job",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44444090638,
+      "head_sha": "3a0714238bb5a741ebadb06d9242342f2e4eb7ae",
+      "head_branch": "arena/e134e8d7-craft-anything",
+      "conclusion": "success",
+      "html_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/44444090638",
+      "path": ".github/workflows/wallpaper-download.yml",
+      "jobs": [
+        {
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Set up job",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python -m pip install Pillow==11.3.0",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python tools/wallpaper-job/download_comic.py",
+              "conclusion": "success"
+            },
+            {
+              "name": "Return verified source files on the triggering branch",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Complete job",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44652225661,
+      "head_sha": "a4522efa551e2d78fb955f6f648952823eeb2742",
+      "head_branch": "arena/719dcd47-craft-anything",
+      "conclusion": "success",
+      "html_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/44652225661",
+      "path": ".github/workflows/wallpaper-spongebob.yml",
+      "jobs": [
+        {
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Set up job",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python -m pip install Pillow==11.3.0",
+              "conclusion": "success"
+            },
+            {
+              "name": "Download six public slides (note 6a8d375100000000240268e9)",
+              "conclusion": "success"
+            },
+            {
+              "name": "Commit verified sources on the triggering branch",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Complete job",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44998400733,
+      "head_sha": "78650cfe56ae4840fcaec21daace24ce9eba2798",
+      "head_branch": "arena/e134e8d7-craft-anything",
+      "conclusion": "success",
+      "html_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/44998400733",
+      "path": ".github/workflows/little-prince-download.yml",
+      "jobs": [
+        {
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Set up job",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python -m pip install Pillow==11.3.0",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python tools/wallpaper-job/download_little_prince.py",
+              "conclusion": "success"
+            },
+            {
+              "name": "Return verified references to the triggering branch",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Complete job",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45012091815,
+      "head_sha": "81db021eed8fbbd5fdc2fdf317ac654122d83764",
+      "head_branch": "arena/09e7b6a9-craft-anything",
+      "conclusion": "success",
+      "html_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45012091815",
+      "path": ".github/workflows/lululu-download.yml",
+      "jobs": [
+        {
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Set up job",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python -m pip install Pillow==11.3.0",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python tools/wallpaper-job/download_lululu.py",
+              "conclusion": "success"
+            },
+            {
+              "name": "Return verified references to the triggering branch",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Complete job",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45013798803,
+      "head_sha": "957916d2dfb1d5a8a01fce9757a60c74ee1095b0",
+      "head_branch": "arena/2d4fad4b-craft-anything",
+      "conclusion": "success",
+      "html_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45013798803",
+      "path": ".github/workflows/lululu-ui-download.yml",
+      "jobs": [
+        {
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Set up job",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python -m pip install Pillow==11.3.0",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python tools/wallpaper-job/download_lululu_ui.py",
+              "conclusion": "success"
+            },
+            {
+              "name": "Return verified source files on the triggering branch",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Complete job",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45015091113,
+      "head_sha": "98c4bf1f7711379f9eda04c64db0c589853bd4c0",
+      "head_branch": "arena/28bd3553-craft-anything",
+      "conclusion": "success",
+      "html_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45015091113",
+      "path": ".github/workflows/sunset-new-download.yml",
+      "jobs": [
+        {
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Set up job",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python -m pip install Pillow==11.3.0",
+              "conclusion": "success"
+            },
+            {
+              "name": "Run python tools/wallpaper-job/download_sunset.py",
+              "conclusion": "success"
+            },
+            {
+              "name": "Commit validated source files on this branch",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/setup-python@v5",
+              "conclusion": "success"
+            },
+            {
+              "name": "Post Run actions/checkout@v4",
+              "conclusion": "success"
+            },
+            {
+              "name": "Complete job",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
