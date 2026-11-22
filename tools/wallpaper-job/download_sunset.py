@@ -132,7 +132,18 @@ def main():
     if os.environ.get('GITHUB_ACTIONS') != 'true':
         raise RuntimeError('Network download is restricted to GitHub Actions')
     html, final = read_url(SHARE_URL, 8 * 1024 * 1024)
-    note = parse_note(html.decode('utf-8'), final)
+    try:
+        note = parse_note(html.decode('utf-8'), final)
+    except ValueError:
+        parsed = urllib.parse.urlsplit(final)
+        print(f'::notice title=Public share redirect::{parsed.hostname}{parsed.path}', flush=True)
+        if parsed.hostname not in ('www.rednote.com', 'rednote.com'):
+            raise
+        # The international frontend can return its generic app shell. Try the
+        # same public note path on the domestic official frontend, without login.
+        domestic = urllib.parse.urlunsplit(('https', 'www.xiaohongshu.com', parsed.path, parsed.query, ''))
+        html, final = read_url(domestic, 8 * 1024 * 1024)
+        note = parse_note(html.decode('utf-8'), final)
     ROOT.parent.mkdir(parents=True, exist_ok=True)
     if ROOT.exists():
         raise ValueError('Delivery already exists; refusing to overwrite')
