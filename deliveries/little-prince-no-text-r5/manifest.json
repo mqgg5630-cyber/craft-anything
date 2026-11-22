@@ -1,0 +1,108 @@
+{
+  "generation_calls": 10,
+  "mode": "approved_original_style_without_text",
+  "text_policy": "Remove original English quote; do not replace with new quote. Titles exist only in filenames and overview, not artwork.",
+  "files": [
+    {
+      "file": "images/01-星夜依偎.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2977072,
+      "md5": "ecf0a949f8c95a670959d00e86f2e157",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/02-月光赠你.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2875633,
+      "md5": "458372045151ae6454d07e701301647d",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/03-银河漫步.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2936868,
+      "md5": "d02dbc102cee6ad880dc891812404fbc",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/04-替你摘星.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2896639,
+      "md5": "8a2aa4e7b35476151fe21b5a2dc119d0",
+      "reference": "../little-prince-xhs-10/source/03.webp"
+    },
+    {
+      "file": "images/05-晚霞拥抱.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2986918,
+      "md5": "ab5ab04e491fe657dae1437091f07536",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/06-把黄昏留给你.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2888998,
+      "md5": "de11f7cc8f8fa556f5614d8c0b07665f",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/07-星光落肩.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2869766,
+      "md5": "9cd4236b221c03f4b5530e1d165abed4",
+      "reference": "../little-prince-xhs-10/source/02.webp"
+    },
+    {
+      "file": "images/08-晨光吻花.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2811880,
+      "md5": "c60d1cca5aa6ba4f36935bc5b7fa6eae",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    },
+    {
+      "file": "images/09-与你看晨曦.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2890475,
+      "md5": "7b2a99dff9ee6550b281dbb70b6e5ab6",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    },
+    {
+      "file": "images/10-温柔有归处.png",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2905368,
+      "md5": "2ace03e422a176f62bbbf6fe9ab8b34a",
+      "reference": "../little-prince-xhs-10/source/01.webp"
+    }
+  ],
+  "tests": "PASS count10/full_decode/native_dimensions/nonempty/MD5_unique"
+}
