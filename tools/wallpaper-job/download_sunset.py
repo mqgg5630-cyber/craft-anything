@@ -59,7 +59,7 @@ def read_url(url, limit):
     return data, final
 
 
-def parse_note(html, final_url):
+def parse_note(html, final_url, title_hint='夕阳'):
     match = re.search(r'window\.__INITIAL_STATE__\s*=\s*(.*?)</script>', html, re.S)
     if not match:
         raise ValueError('Public note state unavailable; may require app/login')
@@ -83,7 +83,7 @@ def parse_note(html, final_url):
                 raise ValueError('Public note state exceeds traversal cap')
             if isinstance(value, dict):
                 if (isinstance(value.get('imageList'), list)
-                        and '夕阳' in str(value.get('title', ''))
+                        and title_hint in str(value.get('title', ''))
                         and (not note_id_match or value.get('noteId', note_id_match.group(1)) == note_id_match.group(1))):
                     if value not in notes:
                         notes.append(value)
@@ -97,8 +97,8 @@ def parse_note(html, final_url):
     note = notes[0]
     if note_id_match:
         note.setdefault('noteId', note_id_match.group(1))
-    if '夕阳' not in note.get('title', ''):
-        raise ValueError('Resolved note title does not match requested sunset note')
+    if title_hint not in note.get('title', ''):
+        raise ValueError('Resolved note title does not match requested note')
     images = note.get('imageList', [])
     if not 1 <= len(images) <= 20:
         raise ValueError('Unexpected carousel image count')
