@@ -1,0 +1,117 @@
+{
+  "generation_calls": 10,
+  "count": 10,
+  "files": [
+    {
+      "file": "images/01-深蓝星河.png",
+      "reference": "source/03.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2925807,
+      "md5": "44f1b9460bf224e8433661f3663920fb",
+      "native_generation": true
+    },
+    {
+      "file": "images/02-深蓝流星.png",
+      "reference": "source/03.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2895855,
+      "md5": "a88c0cd71a3358b4057b38a043a0121a",
+      "native_generation": true
+    },
+    {
+      "file": "images/03-深蓝月光.png",
+      "reference": "source/03.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2923560,
+      "md5": "68cef6b32db7ecf19ab5286d524a7421",
+      "native_generation": true
+    },
+    {
+      "file": "images/04-深蓝玫瑰.png",
+      "reference": "source/03.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2947597,
+      "md5": "d808e5ac2a51f401f09a3236138400e4",
+      "native_generation": true
+    },
+    {
+      "file": "images/05-粉橙黄昏.png",
+      "reference": "source/02.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2990649,
+      "md5": "2911f9b030b434c06cc65bf50cb5060a",
+      "native_generation": true
+    },
+    {
+      "file": "images/06-黄昏晚风.png",
+      "reference": "source/02.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2893385,
+      "md5": "51d6027be09d9187427ef312fcd8ad62",
+      "native_generation": true
+    },
+    {
+      "file": "images/07-黄昏星愿.png",
+      "reference": "source/02.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2909741,
+      "md5": "18843a5a937c36a30fad66f7b1d6d2ad",
+      "native_generation": true
+    },
+    {
+      "file": "images/08-暖调晨光.png",
+      "reference": "source/01.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2874897,
+      "md5": "0304201430caaabbbca4c08367bfbfe9",
+      "native_generation": true
+    },
+    {
+      "file": "images/09-晨光花语.png",
+      "reference": "source/01.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2872486,
+      "md5": "2e21c700a4cd54d1aab1385680e598f2",
+      "native_generation": true
+    },
+    {
+      "file": "images/10-晨光远行.png",
+      "reference": "source/01.webp",
+      "size": [
+        768,
+        1376
+      ],
+      "bytes": 2898512,
+      "md5": "ededa04080a0827c8e6b56c107d0ea53",
+      "native_generation": true
+    }
+  ],
+  "tests": "PASS count, full decode, native dimensions, MD5 uniqueness and source MD5"
+}

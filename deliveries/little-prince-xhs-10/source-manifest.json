@@ -1,5 +1,5 @@
 {
-  "status": "downloaded_pending_visual_review",
+  "status": "downloaded_verified_and_used",
   "share_url": "https://xhslink.cn/o/8AL0Drxsydk",
   "note_id": "6ae4c02f000000001b01ef9b",
   "author": "Vickywallpaper",
@@ -7,7 +7,7 @@
   "route": "xhs-link-recreate-10",
   "reference_count_observed": 3,
   "reference_count_downloaded": 3,
-  "output_count": 0,
+  "output_count": 10,
   "themes_from_caption": [
     "深蓝夜空款",
     "粉橙黄昏款",
@@ -48,5 +48,6 @@
       "sha256": "46e8dae17355880b0015509200ea66e5b3e2333f7cab5927dd4355571438bda6",
       "source_url": "https://sns-web-i10.rednotecdn.com/202611221522/32ebcc6a8f12b014940bc81fff173f46/notes_pre_post/1040g3k8326v1e3nfma8g5plljionc98j61jvfv8!nd_dft_wlteh_webp_3"
     }
-  ]
+  ],
+  "visual_review": "All 3 source images inspected before generation"
 }

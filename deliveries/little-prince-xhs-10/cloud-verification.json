@@ -1,0 +1,138 @@
+{
+  "folder_id": "1F0MoQx7HAsqmvfQBl1Oen4mWqHrmAK8w",
+  "method": "Fresh search_files listing matched to local bytes",
+  "next_page_token": null,
+  "incomplete_search": false,
+  "verified_files": 21,
+  "generated_images": 10,
+  "source_images": 3,
+  "files": [
+    {
+      "file": "00-10张复刻总览.jpg",
+      "cloud_md5": "292c2eabaec9d894fad4f1cfd781be70",
+      "local_md5": "292c2eabaec9d894fad4f1cfd781be70",
+      "match": true
+    },
+    {
+      "file": "images/01-深蓝星河.png",
+      "cloud_md5": "44f1b9460bf224e8433661f3663920fb",
+      "local_md5": "44f1b9460bf224e8433661f3663920fb",
+      "match": true
+    },
+    {
+      "file": "images/02-深蓝流星.png",
+      "cloud_md5": "a88c0cd71a3358b4057b38a043a0121a",
+      "local_md5": "a88c0cd71a3358b4057b38a043a0121a",
+      "match": true
+    },
+    {
+      "file": "images/03-深蓝月光.png",
+      "cloud_md5": "68cef6b32db7ecf19ab5286d524a7421",
+      "local_md5": "68cef6b32db7ecf19ab5286d524a7421",
+      "match": true
+    },
+    {
+      "file": "images/04-深蓝玫瑰.png",
+      "cloud_md5": "d808e5ac2a51f401f09a3236138400e4",
+      "local_md5": "d808e5ac2a51f401f09a3236138400e4",
+      "match": true
+    },
+    {
+      "file": "images/05-粉橙黄昏.png",
+      "cloud_md5": "2911f9b030b434c06cc65bf50cb5060a",
+      "local_md5": "2911f9b030b434c06cc65bf50cb5060a",
+      "match": true
+    },
+    {
+      "file": "images/06-黄昏晚风.png",
+      "cloud_md5": "51d6027be09d9187427ef312fcd8ad62",
+      "local_md5": "51d6027be09d9187427ef312fcd8ad62",
+      "match": true
+    },
+    {
+      "file": "images/07-黄昏星愿.png",
+      "cloud_md5": "18843a5a937c36a30fad66f7b1d6d2ad",
+      "local_md5": "18843a5a937c36a30fad66f7b1d6d2ad",
+      "match": true
+    },
+    {
+      "file": "images/08-暖调晨光.png",
+      "cloud_md5": "0304201430caaabbbca4c08367bfbfe9",
+      "local_md5": "0304201430caaabbbca4c08367bfbfe9",
+      "match": true
+    },
+    {
+      "file": "images/09-晨光花语.png",
+      "cloud_md5": "2e21c700a4cd54d1aab1385680e598f2",
+      "local_md5": "2e21c700a4cd54d1aab1385680e598f2",
+      "match": true
+    },
+    {
+      "file": "images/10-晨光远行.png",
+      "cloud_md5": "ededa04080a0827c8e6b56c107d0ea53",
+      "local_md5": "ededa04080a0827c8e6b56c107d0ea53",
+      "match": true
+    },
+    {
+      "file": "branch-download-audit.json",
+      "cloud_md5": "1119d638db191a35ab62f11666244973",
+      "local_md5": "1119d638db191a35ab62f11666244973",
+      "match": true
+    },
+    {
+      "file": "output-manifest.json",
+      "cloud_md5": "2179c31320bf3558684238527137d0a7",
+      "local_md5": "2179c31320bf3558684238527137d0a7",
+      "match": true
+    },
+    {
+      "file": "README.md",
+      "cloud_md5": "cf482b256994d1cd4e594e30928c5c1a",
+      "local_md5": "cf482b256994d1cd4e594e30928c5c1a",
+      "match": true
+    },
+    {
+      "file": "source-manifest.json",
+      "cloud_md5": "1bf069c36a80186b668c25d81fc2fb72",
+      "local_md5": "1bf069c36a80186b668c25d81fc2fb72",
+      "match": true
+    },
+    {
+      "file": "test_delivery.py",
+      "cloud_md5": "7cfb047e70bdef517de107976f53a9ed",
+      "local_md5": "7cfb047e70bdef517de107976f53a9ed",
+      "match": true
+    },
+    {
+      "file": "下载方法复盘.md",
+      "cloud_md5": "2ad7f4c796d4c678e46b6d81c77cb906",
+      "local_md5": "2ad7f4c796d4c678e46b6d81c77cb906",
+      "match": true
+    },
+    {
+      "file": "source/01.webp",
+      "cloud_md5": "e914db86ec80b4ce6622646f255ed8a0",
+      "local_md5": "e914db86ec80b4ce6622646f255ed8a0",
+      "match": true
+    },
+    {
+      "file": "source/02.webp",
+      "cloud_md5": "92b92bf0e34b61545789f2de30f9e9bc",
+      "local_md5": "92b92bf0e34b61545789f2de30f9e9bc",
+      "match": true
+    },
+    {
+      "file": "source/03.webp",
+      "cloud_md5": "f88c7cc4032331ed96f0a4fab32a875c",
+      "local_md5": "f88c7cc4032331ed96f0a4fab32a875c",
+      "match": true
+    },
+    {
+      "file": "skills/xhs-link-recreate-10/SKILL.md",
+      "cloud_name": "SKILL-小红书链接复刻10张.md",
+      "cloud_md5": "a6a98bbe28b02dfd3315e8b062a65e32",
+      "local_md5": "a6a98bbe28b02dfd3315e8b062a65e32",
+      "match": true
+    }
+  ]
+}
