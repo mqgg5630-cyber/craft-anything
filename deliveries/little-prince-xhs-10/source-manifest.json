@@ -1,23 +1,52 @@
 {
-  "status": "blocked_source_download",
+  "status": "downloaded_pending_visual_review",
   "share_url": "https://xhslink.cn/o/8AL0Drxsydk",
   "note_id": "6ae4c02f000000001b01ef9b",
   "author": "Vickywallpaper",
   "title": "✨小王子系列壁纸",
   "route": "xhs-link-recreate-10",
   "reference_count_observed": 3,
-  "reference_count_downloaded": 0,
+  "reference_count_downloaded": 3,
   "output_count": 0,
   "themes_from_caption": [
     "深蓝夜空款",
     "粉橙黄昏款",
     "暖调晨光款"
   ],
-  "source_quality": "网页CDN展示图URL；并未确认作者无损原文件",
-  "blocker": "urllib下载首张CDN图片失败：TLS/SSL connection has been closed (EOF)。未生成任何复刻。",
+  "source_quality": "Validated public CDN files; not independently verified author master files.",
   "image_urls": [
     "https://sns-web-i10.rednotecdn.com/202611221522/2e72b1d59aa9554aa10a958fb5875f9a/notes_pre_post/1040g3k8326v1e3nfma905plljionc98jba6ikgg!nd_dft_wlteh_webp_3",
     "https://sns-web-i10.rednotecdn.com/202611221522/87c5eae757258a7085344af86d2243f4/notes_pre_post/1040g3k8326v1e3nfma805plljionc98j70sso6g!nd_dft_wlteh_webp_3",
     "https://sns-web-i10.rednotecdn.com/202611221522/32ebcc6a8f12b014940bc81fff173f46/notes_pre_post/1040g3k8326v1e3nfma8g5plljionc98j61jvfv8!nd_dft_wlteh_webp_3"
+  ],
+  "download_method": "GitHub Actions runner, existing bounded fetch validator",
+  "images": [
+    {
+      "file": "source/01.webp",
+      "width": 941,
+      "height": 1672,
+      "bytes": 364538,
+      "md5": "e914db86ec80b4ce6622646f255ed8a0",
+      "sha256": "ebc141d1012e249bc2b6fb78c29bb60cbc8b6356ba3115f7e9899bb0a44b1f28",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221522/2e72b1d59aa9554aa10a958fb5875f9a/notes_pre_post/1040g3k8326v1e3nfma905plljionc98jba6ikgg!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/02.webp",
+      "width": 941,
+      "height": 1672,
+      "bytes": 407784,
+      "md5": "92b92bf0e34b61545789f2de30f9e9bc",
+      "sha256": "413faf3f2a6d4a4ef250ac8c940f1be6708831487075bfe456ffbf5abf340a47",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221522/87c5eae757258a7085344af86d2243f4/notes_pre_post/1040g3k8326v1e3nfma805plljionc98j70sso6g!nd_dft_wlteh_webp_3"
+    },
+    {
+      "file": "source/03.webp",
+      "width": 941,
+      "height": 1672,
+      "bytes": 469758,
+      "md5": "f88c7cc4032331ed96f0a4fab32a875c",
+      "sha256": "46e8dae17355880b0015509200ea66e5b3e2333f7cab5927dd4355571438bda6",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611221522/32ebcc6a8f12b014940bc81fff173f46/notes_pre_post/1040g3k8326v1e3nfma8g5plljionc98j61jvfv8!nd_dft_wlteh_webp_3"
+    }
   ]
 }
