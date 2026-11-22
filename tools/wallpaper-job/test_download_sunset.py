@@ -15,6 +15,8 @@ class SunsetDownloadTests(unittest.TestCase):
             with self.subTest(url=url), self.assertRaises(ValueError):
                 job.check_url(url)
         self.assertEqual(job.check_url(job.SHARE_URL), job.SHARE_URL)
+        url = 'https://www.rednote.com/explore/' + 'a' * 24
+        self.assertEqual(job.check_url(url), url)
 
     def test_note_selection(self):
         note = {'noteId': 'a' * 24, 'title': '和你一起奔夕阳', 'imageList': [{}]}
