@@ -1,0 +1,21 @@
+{
+  "method": "Google Drive list_files by parent, matched ordered names and returned MD5 against local manifests",
+  "groups": [
+    {
+      "name": "原片",
+      "count": 5,
+      "md5_match": true
+    },
+    {
+      "name": "无UI",
+      "count": 10,
+      "md5_match": true
+    },
+    {
+      "name": "模拟UI",
+      "count": 10,
+      "md5_match": true
+    }
+  ],
+  "folder": "https://drive.google.com/drive/folders/1VvrfUhrWURjPBxRx9bgfip8SzZXCuTe6"
+}
