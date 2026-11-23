@@ -1,0 +1,155 @@
+{
+  "generated_count": 10,
+  "original_source_count": 5,
+  "used_reference_count": 1,
+  "independent_generation": true,
+  "quality": "AI reference-based new scenes; model native PNG, no upscaling; not author originals",
+  "visual_review": {
+    "status": "reviewed",
+    "method": "All ten inspected individually on contact sheet; 03 and 09 also opened at full resolution",
+    "text": "No lettering observed within standalone wallpapers; manual review, not OCR",
+    "identity": "No costume swapping observed on contact sheet; animal faces and reference clothing retained; subtle materials/composition variations inherent to AI reference recreation"
+  },
+  "files": [
+    {
+      "file": "images/01.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2537441,
+      "md5": "b8127980b66c7d71c6f560ae8ce9c6a2",
+      "sha256": "888b2c64aa7ac676fc442c90ee3673abacba96599a207a1f68756df5a28fc0a2",
+      "scene": "草莓采摘",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/02.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 1944745,
+      "md5": "97b023c075b47caf602e81ed1553528c",
+      "sha256": "0f82960a000a034d0d45859a32ed4a83f94a50dae3d242efc8712bb77a6cf9d6",
+      "scene": "一起放风筝",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/03.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2413547,
+      "md5": "17232116ff8eb8c1157b224c29d0884a",
+      "sha256": "61b0e1bf3b65d725a02e7384b39128856560dc3c88854d3291dad33cc5806371",
+      "scene": "花田小火车",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/04.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2079348,
+      "md5": "3830f0091438bacba616952d5cd12a8c",
+      "sha256": "40680ba2746f9b7ceac9ae159be7e91eee0747dc22c2fdc6132276bfd0eccf72",
+      "scene": "小小画室",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/05.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2102317,
+      "md5": "6327daf3be3037035092f7c391bdd5bf",
+      "sha256": "b4feb8dbff9c4757377fd1af36749a1c84c42454c0bc9b67d38d997fa7b84f71",
+      "scene": "荷塘垂钓",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/06.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2745515,
+      "md5": "5f79db2bf20d6be4077c812cdc756b57",
+      "sha256": "db396608d9cb06d880efbf451445816263dc90e05bb83b9212be508bcc47734b",
+      "scene": "森林露营",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/07.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2221109,
+      "md5": "1901c5ef5c7155a14fe32f54317ba481",
+      "sha256": "720514cd609b8232b29c64f8d967ec858d3a86d580029a75bca164a45845c7da",
+      "scene": "热气球旅行",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/08.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2257119,
+      "md5": "1558eb13d641487d194497c46fc0c072",
+      "sha256": "e4b3f6d00f9bb1c71639a1dcd8740d0e92de6d2c5725820e66da97fd1628ebdd",
+      "scene": "牵手轮滑",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/09.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2400329,
+      "md5": "814b96caaac66cfaa2455e2a22ad15db",
+      "sha256": "026094addd04242924a8e96eff7edce0c1f39ec7b7ce75d7963aa3c5b1515627",
+      "scene": "晴日晾衣",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    },
+    {
+      "file": "images/10.png",
+      "width": 768,
+      "height": 1376,
+      "format": "png",
+      "bytes": 2220277,
+      "md5": "22c8be9eea91d811b17be4f285ed9c25",
+      "sha256": "5809e66a21796fb351c808aeb1aaae3dbaf5980c17e03b189e9f88949b28b9fb",
+      "scene": "音乐时光",
+      "references": [
+        "source/03.webp"
+      ],
+      "text_policy": "No lettering, slogans, watermark or UI"
+    }
+  ]
+}

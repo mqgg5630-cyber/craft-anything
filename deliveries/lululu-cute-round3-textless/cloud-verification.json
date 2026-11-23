@@ -1,0 +1,145 @@
+{
+  "status": "verified_uploaded_scope",
+  "verification_basis": "Fresh Google Drive search_files listing, after all uploads; compared to actual local bytes",
+  "folder_id": "1O8pL8493INPy4_7IxBpelq4l24tAIWV2",
+  "listed_count": 13,
+  "png_count": 10,
+  "preview_count": 1,
+  "document_count": 2,
+  "next_page_token": null,
+  "incomplete_search": false,
+  "all_match": true,
+  "scope_note": "Round2/3 outputs, preview and two docs only. Original-source and round1 historic pending uploads not included. Audit file itself local/repository only.",
+  "files": [
+    {
+      "file": "images/01.png",
+      "cloud_name": "01-草莓采摘.png",
+      "drive_id": "13WKOOvqc68lWJj96mIeIRceGszdylo9Q",
+      "local_md5": "b8127980b66c7d71c6f560ae8ce9c6a2",
+      "cloud_md5": "b8127980b66c7d71c6f560ae8ce9c6a2",
+      "local_bytes": 2537441,
+      "cloud_bytes": 2537441,
+      "match": true
+    },
+    {
+      "file": "images/02.png",
+      "cloud_name": "02-一起放风筝.png",
+      "drive_id": "1DT_5komXFp58gZ1ybfY3zXAWTrYqc4vj",
+      "local_md5": "97b023c075b47caf602e81ed1553528c",
+      "cloud_md5": "97b023c075b47caf602e81ed1553528c",
+      "local_bytes": 1944745,
+      "cloud_bytes": 1944745,
+      "match": true
+    },
+    {
+      "file": "images/03.png",
+      "cloud_name": "03-花田小火车.png",
+      "drive_id": "1SBCheNiiaGv4Qf_zCFA6MPdbFnrjKNqJ",
+      "local_md5": "17232116ff8eb8c1157b224c29d0884a",
+      "cloud_md5": "17232116ff8eb8c1157b224c29d0884a",
+      "local_bytes": 2413547,
+      "cloud_bytes": 2413547,
+      "match": true
+    },
+    {
+      "file": "images/04.png",
+      "cloud_name": "04-小小画室.png",
+      "drive_id": "17oYlqs-5TN9fknniHPtPjCFtmC7Z2GMx",
+      "local_md5": "3830f0091438bacba616952d5cd12a8c",
+      "cloud_md5": "3830f0091438bacba616952d5cd12a8c",
+      "local_bytes": 2079348,
+      "cloud_bytes": 2079348,
+      "match": true
+    },
+    {
+      "file": "images/05.png",
+      "cloud_name": "05-荷塘垂钓.png",
+      "drive_id": "1uAC5Sbn6N2dDvC-mx1RqtLVSTBvfOL44",
+      "local_md5": "6327daf3be3037035092f7c391bdd5bf",
+      "cloud_md5": "6327daf3be3037035092f7c391bdd5bf",
+      "local_bytes": 2102317,
+      "cloud_bytes": 2102317,
+      "match": true
+    },
+    {
+      "file": "images/06.png",
+      "cloud_name": "06-森林露营.png",
+      "drive_id": "1CWsru0ucysCM8EwieLWQsdnptpO4I1WG",
+      "local_md5": "5f79db2bf20d6be4077c812cdc756b57",
+      "cloud_md5": "5f79db2bf20d6be4077c812cdc756b57",
+      "local_bytes": 2745515,
+      "cloud_bytes": 2745515,
+      "match": true
+    },
+    {
+      "file": "images/07.png",
+      "cloud_name": "07-热气球旅行.png",
+      "drive_id": "1Z6_56IDOAVE98nEufXddmszQHw0oH6Br",
+      "local_md5": "1901c5ef5c7155a14fe32f54317ba481",
+      "cloud_md5": "1901c5ef5c7155a14fe32f54317ba481",
+      "local_bytes": 2221109,
+      "cloud_bytes": 2221109,
+      "match": true
+    },
+    {
+      "file": "images/08.png",
+      "cloud_name": "08-牵手轮滑.png",
+      "drive_id": "1Kvl0IdbHfBEWrwogy_gOulJprS6um85I",
+      "local_md5": "1558eb13d641487d194497c46fc0c072",
+      "cloud_md5": "1558eb13d641487d194497c46fc0c072",
+      "local_bytes": 2257119,
+      "cloud_bytes": 2257119,
+      "match": true
+    },
+    {
+      "file": "images/09.png",
+      "cloud_name": "09-晴日晾衣.png",
+      "drive_id": "1G0OgaNvJ66SEqbBqG96sAdjSrzXGb_KW",
+      "local_md5": "814b96caaac66cfaa2455e2a22ad15db",
+      "cloud_md5": "814b96caaac66cfaa2455e2a22ad15db",
+      "local_bytes": 2400329,
+      "cloud_bytes": 2400329,
+      "match": true
+    },
+    {
+      "file": "images/10.png",
+      "cloud_name": "10-音乐时光.png",
+      "drive_id": "1Uz_n-I5F4gTy3Wl-b5NlXPvMIIo3cBLL",
+      "local_md5": "22c8be9eea91d811b17be4f285ed9c25",
+      "cloud_md5": "22c8be9eea91d811b17be4f285ed9c25",
+      "local_bytes": 2220277,
+      "cloud_bytes": 2220277,
+      "match": true
+    },
+    {
+      "file": "00-10张新场景总预览.jpg",
+      "cloud_name": "00-第三轮10张总预览.jpg",
+      "drive_id": "1HSbGdx6llxzdyOKyQOgRLbJTiR9BLmqk",
+      "local_md5": "393448a93ce20bd3bd33b00bcc822043",
+      "cloud_md5": "393448a93ce20bd3bd33b00bcc822043",
+      "local_bytes": 491536,
+      "cloud_bytes": 491536,
+      "match": true
+    },
+    {
+      "file": "output-manifest.json",
+      "cloud_name": "output-manifest.json",
+      "drive_id": "11y87Mxx6FACkX0dqJjKyvsOkQiU8cj5j",
+      "local_md5": "e0fe621419be20a9b7b1c0e12c0519b0",
+      "cloud_md5": "e0fe621419be20a9b7b1c0e12c0519b0",
+      "local_bytes": 4833,
+      "cloud_bytes": 4833,
+      "match": true
+    },
+    {
+      "file": "README.md",
+      "cloud_name": "README.md",
+      "drive_id": "19yWDHZ4pU2AliheOcpzZ10hQH8gf2wIO",
+      "local_md5": "872557d68712150e7dff08adf69092e4",
+      "cloud_md5": "872557d68712150e7dff08adf69092e4",
+      "local_bytes": 3661,
+      "cloud_bytes": 3661,
+      "match": true
+    }
+  ]
+}

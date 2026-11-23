@@ -53,4 +53,4 @@ python deliveries/lululu-cute-round2-textless/verify_delivery.py
 
 `output-manifest.json`记录每张结果与02/03参考的映射和人工检查结论。`local-verification.json`记录机器检查结论。机器检查不替代无字与角色一致性的人工评审。
 
-本轮交付在仓库及文件查看器中，**未上传Google Drive**。此前第一轮云盘仍有待补传项，不将本轮或前轮称为已完整上云。
+后续本轮10张独立PNG（02文件名标注服装待修）及总预览已上传 [Google Drive](https://drive.google.com/drive/folders/1qujPZV5GDyO7tnT3gB_ePI81-MdJV9Hw)。上传验收见 `cloud-verification.json`。第一轮云盘仍有待补传项，不将第一轮称为完整上云。

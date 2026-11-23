@@ -1,0 +1,145 @@
+{
+  "status": "verified_uploaded_scope",
+  "verification_basis": "Fresh Google Drive search_files listing, after all uploads; compared to actual local bytes",
+  "folder_id": "1qujPZV5GDyO7tnT3gB_ePI81-MdJV9Hw",
+  "listed_count": 13,
+  "png_count": 10,
+  "preview_count": 1,
+  "document_count": 2,
+  "next_page_token": null,
+  "incomplete_search": false,
+  "all_match": true,
+  "scope_note": "Round2/3 outputs, preview and two docs only. Original-source and round1 historic pending uploads not included. Audit file itself local/repository only.",
+  "files": [
+    {
+      "file": "images/01.png",
+      "cloud_name": "01-草地野餐.png",
+      "drive_id": "1fVwSDNmlS99RrQwtYjBy6TvR0cgvuSqN",
+      "local_md5": "82782eb8744c0e9aea8dee306e1944ad",
+      "cloud_md5": "82782eb8744c0e9aea8dee306e1944ad",
+      "local_bytes": 2325085,
+      "cloud_bytes": 2325085,
+      "match": true
+    },
+    {
+      "file": "images/02.png",
+      "cloud_name": "02-一起烘焙-服装待修.png",
+      "drive_id": "1tmziQhJu-nSeUSuY2iYM0m8HuOahDJx8",
+      "local_md5": "50068480ac495e7fa4dd4889609eab1c",
+      "cloud_md5": "50068480ac495e7fa4dd4889609eab1c",
+      "local_bytes": 2208460,
+      "cloud_bytes": 2208460,
+      "match": true
+    },
+    {
+      "file": "images/03.png",
+      "cloud_name": "03-雨天共伞.png",
+      "drive_id": "1-k9XAQmXkcEnxWh55xh2snT1Zsv-AdOS",
+      "local_md5": "9a23c508cd3b8636b4c1fadffd575f00",
+      "cloud_md5": "9a23c508cd3b8636b4c1fadffd575f00",
+      "local_bytes": 2558473,
+      "cloud_bytes": 2558473,
+      "match": true
+    },
+    {
+      "file": "images/04.png",
+      "cloud_name": "04-花园秋千.png",
+      "drive_id": "1XhkIHQeSE6sEaVYgcLSOhSxqUPt0IwzA",
+      "local_md5": "4b5374d89209630b1e62a5d36dee120d",
+      "cloud_md5": "4b5374d89209630b1e62a5d36dee120d",
+      "local_bytes": 2665551,
+      "cloud_bytes": 2665551,
+      "match": true
+    },
+    {
+      "file": "images/05.png",
+      "cloud_name": "05-海边沙堡.png",
+      "drive_id": "1T2dxI1d3DBVE1kEqmArsioRYEDdmpUoh",
+      "local_md5": "a1d1917444534773006e2a07b541d982",
+      "cloud_md5": "a1d1917444534773006e2a07b541d982",
+      "local_bytes": 1727735,
+      "cloud_bytes": 1727735,
+      "match": true
+    },
+    {
+      "file": "images/06.png",
+      "cloud_name": "06-阳台观星.png",
+      "drive_id": "120S98w8z33IwEM9xmpZ15j-oYlAvKltD",
+      "local_md5": "03e8f2574c9ddd9f49b1d20e3850a744",
+      "cloud_md5": "03e8f2574c9ddd9f49b1d20e3850a744",
+      "local_bytes": 2011227,
+      "cloud_bytes": 2011227,
+      "match": true
+    },
+    {
+      "file": "images/07.png",
+      "cloud_name": "07-温室浇花.png",
+      "drive_id": "1T47T50fkZVYN8RW71-4-WUEyb9vpV13V",
+      "local_md5": "08c54744c776de5eed086556c7c634f2",
+      "cloud_md5": "08c54744c776de5eed086556c7c634f2",
+      "local_bytes": 2502503,
+      "cloud_bytes": 2502503,
+      "match": true
+    },
+    {
+      "file": "images/08.png",
+      "cloud_name": "08-泡泡浴.png",
+      "drive_id": "17TQ07S7MVxUHXdPEVHyA4ZthWRZyLZ7K",
+      "local_md5": "e9fb9ee99bac7df548a1ca6178eba6f4",
+      "cloud_md5": "e9fb9ee99bac7df548a1ca6178eba6f4",
+      "local_bytes": 2008410,
+      "cloud_bytes": 2008410,
+      "match": true
+    },
+    {
+      "file": "images/09.png",
+      "cloud_name": "09-旋转木马.png",
+      "drive_id": "1jC-zUMliy-GLKKa0pPSQk9hTQkiecVtw",
+      "local_md5": "721985c0ecf9a7783698d312de54ac41",
+      "cloud_md5": "721985c0ecf9a7783698d312de54ac41",
+      "local_bytes": 2087116,
+      "cloud_bytes": 2087116,
+      "match": true
+    },
+    {
+      "file": "images/10.png",
+      "cloud_name": "10-雪地伙伴.png",
+      "drive_id": "1YaJJF1KioFKEcQNGWlFQWGufBLMEC3IA",
+      "local_md5": "efb3374fc6a6d7e40050de00bc549135",
+      "cloud_md5": "efb3374fc6a6d7e40050de00bc549135",
+      "local_bytes": 2190798,
+      "cloud_bytes": 2190798,
+      "match": true
+    },
+    {
+      "file": "00-10张新场景总预览.jpg",
+      "cloud_name": "00-第二轮10张总预览.jpg",
+      "drive_id": "1Zqu1wol4ZIynxHwo07o_SZ6q00PX5Csr",
+      "local_md5": "1306036e817713486c3980a933b54fdb",
+      "cloud_md5": "1306036e817713486c3980a933b54fdb",
+      "local_bytes": 459081,
+      "cloud_bytes": 459081,
+      "match": true
+    },
+    {
+      "file": "output-manifest.json",
+      "cloud_name": "output-manifest.json",
+      "drive_id": "1Z78k5vkh4nyfW7CCCCh2A15DjmpxQkz1",
+      "local_md5": "e608e4dd57f6232e0a23c650aecd960a",
+      "cloud_md5": "e608e4dd57f6232e0a23c650aecd960a",
+      "local_bytes": 5182,
+      "cloud_bytes": 5182,
+      "match": true
+    },
+    {
+      "file": "README.md",
+      "cloud_name": "README.md",
+      "drive_id": "1US8iw0D7GPteHry-kDiRx-sYKdzc8RwR",
+      "local_md5": "4aefe0af1d8e9af41fe9443d52e7e0e6",
+      "cloud_md5": "4aefe0af1d8e9af41fe9443d52e7e0e6",
+      "local_bytes": 3937,
+      "cloud_bytes": 3937,
+      "match": true
+    }
+  ]
+}
