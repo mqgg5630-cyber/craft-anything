@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "status": "downloaded_pending_visual_review",
+  "share_url": "https://xhslink.cn/o/3kQq76Fee2O",
+  "note_id": "6af66414000000002203bdb3",
+  "title": "祝福文字 新年壁纸 |",
+  "author": null,
+  "download_method": "GitHub Actions only; public declared CDN URLs; no cookies",
+  "source_quality": "公开笔记的最高可得候选文件，未经重编码；不保证为作者母版。",
+  "source_count": 4,
+  "requested_result_count": 10,
+  "runner_commit": "75094402746be2aed1b8d57db27d2276a82699af",
+  "images": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 1080,
+      "height": 2343,
+      "bytes": 563554,
+      "sha256": "b580c3ade15e707922f15040b1b39926b0b9168f9c83906fd4ff4edf24296ffb",
+      "md5": "96e17f2a1553a00effa81164ff6ec09c"
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "width": 1080,
+      "height": 2343,
+      "bytes": 562044,
+      "sha256": "63713fbc9411af25a7c3176ab8304972f5315ac09043bbac62987f9c564f4f42",
+      "md5": "8546608d3e0f074ac0d77640263c66d4"
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "width": 1080,
+      "height": 2343,
+      "bytes": 563413,
+      "sha256": "e60db9baf93eee77425d70ca7a90b3c9801e4bff8bf29d09768553bf7f290a0f",
+      "md5": "356b2a2faaeec06a8510774ca3e9f1e3"
+    },
+    {
+      "file": "01-下载原片/04.jpg",
+      "width": 1080,
+      "height": 2343,
+      "bytes": 560338,
+      "sha256": "4a5fdb87f37a3a6bfc117821202806f32250634cb6fe83c0e2ff2b8034fd74fd",
+      "md5": "ccbbc19eda7fe6f2684f98266a620ec1"
+    }
+  ]
+}
