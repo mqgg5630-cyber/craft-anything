@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "status": "downloaded_pending_visual_review",
+  "share_url": "https://xhslink.cn/o/24CQFIRp9Er",
+  "note_id": "69af7ccc000000001a02eba0",
+  "title": "简单清新壁纸",
+  "author": null,
+  "download_method": "GitHub Actions only; public declared CDN URLs; no cookies",
+  "source_quality": "公开笔记的最高可得候选文件，未经重编码；不保证为作者母版。",
+  "source_count": 1,
+  "requested_result_count": 10,
+  "runner_commit": "781e28f14b2f7e4a6a1047260bf49429e14def7e",
+  "images": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 884,
+      "height": 1845,
+      "bytes": 77993,
+      "sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "md5": "826cbe35811740e6b9bc4d1ccadeeea4"
+    }
+  ],
+  "reference_image_index": 1,
+  "selection": "First carousel image only; other images not downloaded or used.",
+  "observed_carousel_count": 9,
+  "other_carousel_images_downloaded": false
+}
