@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "reference_count": 4,
+  "decoded_source_native_final_images": 24,
+  "count": 10,
+  "exact_size": [
+    1080,
+    2343
+  ],
+  "unique_native": 10,
+  "unique_final": 10,
+  "unique_main_phrases": 20,
+  "source_main_phrases_retained": 0,
+  "native_dimensions": [
+    704,
+    1520
+  ],
+  "adaptation": "uniform Lanczos upscale plus slight center crop; no anisotropic stretching",
+  "typography": "real MaShanZheng font; no model-rendered main/side wording",
+  "ui": false
+}

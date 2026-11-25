@@ -1,0 +1,1141 @@
+{
+  "share_url": "https://xhslink.cn/o/3kQq76Fee2O",
+  "note_id": "6af66414000000002203bdb3",
+  "source_dimensions": [
+    1080,
+    2343
+  ],
+  "status": "complete_visually_reviewed",
+  "copy_policy": "20 distinct newly typeset main phrases and 20 new side phrases. None of source eight main phrases or side inscription is reused. Generated red impressions are visual ornament, not transcribed text or authenticated personal seals.",
+  "source_main_copy_forbidden": [
+    "萬穩萬當",
+    "不如一默",
+    "歡喜由心",
+    "自在如風",
+    "愛財愛己",
+    "風生水起",
+    "安康如意",
+    "順遂福來"
+  ],
+  "independent_generations": true,
+  "all_native_artwork_dimensions": [
+    704,
+    1520
+  ],
+  "source_medium": "antique xuan-paper/silk collage with floral panel and two vertical brush-lettered slips",
+  "files": [
+    {
+      "file": "images/01.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3859305,
+      "md5": "cfb5246ae60d759a57deb6c134973baf",
+      "sha256": "9a1f54a4234a69ae29cc59c64e0b66763a7a03666c7405473041b0ecc5258bca",
+      "main_copy": {
+        "right": "春祺夏安",
+        "left": "秋绥冬禧"
+      },
+      "side_copy": [
+        "一程春风",
+        "满目新晴"
+      ],
+      "scene": "紅梅與舊紙",
+      "reference": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/01.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2339174,
+        "md5": "f1facd3874e30996335d120166b88c3e",
+        "sha256": "8d4dda6bfac9998efd57949ade2d3b02adc0ddaf672ef4170aaf575565bdd8a6"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "春祺夏安",
+            "font_px": 132,
+            "box_normalized": [
+              0.613,
+              0.35,
+              0.783,
+              0.695
+            ],
+            "glyph_centers": [
+              [
+                749,
+                971
+              ],
+              [
+                749,
+                1140
+              ],
+              [
+                749,
+                1309
+              ],
+              [
+                749,
+                1478
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "秋绥冬禧",
+            "font_px": 132,
+            "box_normalized": [
+              0.2,
+              0.608,
+              0.39,
+              0.97
+            ],
+            "glyph_centers": [
+              [
+                314,
+                1580
+              ],
+              [
+                314,
+                1759
+              ],
+              [
+                314,
+                1938
+              ],
+              [
+                314,
+                2118
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    },
+    {
+      "file": "images/02.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3468492,
+      "md5": "43af7b430e5e60ae2c6d0cc8b84ab08f",
+      "sha256": "06e1d41b908b65be4644aa3d60952420a12b748b7ae3cefcee3b2948179e5733",
+      "main_copy": {
+        "right": "岁启新章",
+        "left": "福满人间"
+      },
+      "side_copy": [
+        "灯火可亲",
+        "团圆有期"
+      ],
+      "scene": "桃花與薄宣",
+      "reference": [
+        "source/02.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/02.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2243963,
+        "md5": "bce8bf9e380060933df577c5e8099b20",
+        "sha256": "4249ed2485af0c5b65ecea29471a7c7ea349a538d54870d50927770294701323"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "岁启新章",
+            "font_px": 132,
+            "box_normalized": [
+              0.61,
+              0.345,
+              0.79,
+              0.695
+            ],
+            "glyph_centers": [
+              [
+                751,
+                960
+              ],
+              [
+                751,
+                1132
+              ],
+              [
+                751,
+                1304
+              ],
+              [
+                751,
+                1476
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "福满人间",
+            "font_px": 132,
+            "box_normalized": [
+              0.2,
+              0.5,
+              0.39,
+              0.905
+            ],
+            "glyph_centers": [
+              [
+                314,
+                1337
+              ],
+              [
+                314,
+                1543
+              ],
+              [
+                314,
+                1749
+              ],
+              [
+                314,
+                1955
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    },
+    {
+      "file": "images/03.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3529237,
+      "md5": "b20050d73f9d243363ee9205058d813f",
+      "sha256": "511010ef9a0b7225431f2ceca04d0029e7fbd148033d2279263528c6a46bbf70",
+      "main_copy": {
+        "right": "所行皆坦",
+        "left": "所遇皆暖"
+      },
+      "side_copy": [
+        "心怀明朗",
+        "步履生光"
+      ],
+      "scene": "海棠與層紙",
+      "reference": [
+        "source/03.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/03.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2333937,
+        "md5": "e7b5bd8ae6c5ea7f8d2a69d6d096cc0e",
+        "sha256": "9afd0ffbf457daba67de1f3a925aae53c03129480e17f89828b1c9607a6cda89"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "所行皆坦",
+            "font_px": 126,
+            "box_normalized": [
+              0.73,
+              0.29,
+              0.88,
+              0.64
+            ],
+            "glyph_centers": [
+              [
+                864,
+                829
+              ],
+              [
+                864,
+                1003
+              ],
+              [
+                864,
+                1176
+              ],
+              [
+                864,
+                1350
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "所遇皆暖",
+            "font_px": 118,
+            "box_normalized": [
+              0.11,
+              0.54,
+              0.25,
+              0.9
+            ],
+            "glyph_centers": [
+              [
+                189,
+                1413
+              ],
+              [
+                189,
+                1596
+              ],
+              [
+                189,
+                1778
+              ],
+              [
+                189,
+                1961
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    },
+    {
+      "file": "images/04.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3468718,
+      "md5": "add2dd84c935ba8833a50c61359b327f",
+      "sha256": "a8ab9fe6065f5ff407223fc087808056a7f35de9e21b2ae4177df6d4b9975411",
+      "main_copy": {
+        "right": "长乐未央",
+        "left": "喜悦成双"
+      },
+      "side_copy": [
+        "愿逢美好",
+        "常见晴光"
+      ],
+      "scene": "山茶與絹邊",
+      "reference": [
+        "source/04.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/04.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2172707,
+        "md5": "57e90f3d148115108cc8646163c47608",
+        "sha256": "ab377c214b6b6e99509c3464308d0f0bbff396a3964f05d480fa0d93088ac60e"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "长乐未央",
+            "font_px": 132,
+            "box_normalized": [
+              0.61,
+              0.345,
+              0.79,
+              0.875
+            ],
+            "glyph_centers": [
+              [
+                751,
+                1086
+              ],
+              [
+                751,
+                1315
+              ],
+              [
+                751,
+                1544
+              ],
+              [
+                751,
+                1772
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "喜悦成双",
+            "font_px": 132,
+            "box_normalized": [
+              0.2,
+              0.5,
+              0.395,
+              0.99
+            ],
+            "glyph_centers": [
+              [
+                316,
+                1402
+              ],
+              [
+                316,
+                1631
+              ],
+              [
+                316,
+                1860
+              ],
+              [
+                316,
+                2089
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    },
+    {
+      "file": "images/05.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3623471,
+      "md5": "2cf1fe426cd451f7f8763d6267e26c3b",
+      "sha256": "ef2eb847e6b5ffdea054205225e719a47d614d5f1915bba875c1a68b1fda17d1",
+      "main_copy": {
+        "right": "花开有信",
+        "left": "好运有期"
+      },
+      "side_copy": [
+        "春来有约",
+        "喜至无声"
+      ],
+      "scene": "南天竹紅果",
+      "reference": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/05.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2420625,
+        "md5": "813f91916b4c46d929532e21f414360d",
+        "sha256": "7c61c0e61361361305442af5ef982cdc0e635e4618ec16ddff466df0466d6a10"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "花开有信",
+            "font_px": 132,
+            "box_normalized": [
+              0.61,
+              0.345,
+              0.79,
+              0.875
+            ],
+            "glyph_centers": [
+              [
+                751,
+                1086
+              ],
+              [
+                751,
+                1315
+              ],
+              [
+                751,
+                1544
+              ],
+              [
+                751,
+                1772
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "好运有期",
+            "font_px": 132,
+            "box_normalized": [
+              0.2,
+              0.5,
+              0.395,
+              0.985
+            ],
+            "glyph_centers": [
+              [
+                316,
+                1396
+              ],
+              [
+                316,
+                1625
+              ],
+              [
+                316,
+                1854
+              ],
+              [
+                316,
+                2083
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    },
+    {
+      "file": "images/06.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3600307,
+      "md5": "ea742b902329ede4558c606ce9809317",
+      "sha256": "1108d936d0859d479c561be7510a9001608a785a614957693fbe6be1df8e1e85",
+      "main_copy": {
+        "right": "心栖暖处",
+        "left": "日有小欢"
+      },
+      "side_copy": [
+        "闲煮清茶",
+        "笑看流年"
+      ],
+      "scene": "秋菊與紙箋",
+      "reference": [
+        "source/02.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/06.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2229652,
+        "md5": "12f3076e5ccc9979db856749c7a9f887",
+        "sha256": "15b6436c995b2c09f1a236a9a53fe22d49566b1cb58c6358085cc7f6cdf4d14c"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "心栖暖处",
+            "font_px": 132,
+            "box_normalized": [
+              0.61,
+              0.345,
+              0.79,
+              0.695
+            ],
+            "glyph_centers": [
+              [
+                751,
+                960
+              ],
+              [
+                751,
+                1132
+              ],
+              [
+                751,
+                1304
+              ],
+              [
+                751,
+                1476
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "日有小欢",
+            "font_px": 132,
+            "box_normalized": [
+              0.2,
+              0.5,
+              0.39,
+              0.985
+            ],
+            "glyph_centers": [
+              [
+                314,
+                1396
+              ],
+              [
+                314,
+                1625
+              ],
+              [
+                314,
+                1854
+              ],
+              [
+                314,
+                2083
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    },
+    {
+      "file": "images/07.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3372066,
+      "md5": "225086d1e443930e4bff29589e3cf794",
+      "sha256": "dfa82031b285b70dd7b06ee15e32edfdfe78e37cabe10fbb65e16570786d11bd",
+      "main_copy": {
+        "right": "福随春至",
+        "left": "喜伴岁长"
+      },
+      "side_copy": [
+        "春山可望",
+        "来日可期"
+      ],
+      "scene": "桂枝與淡絹",
+      "reference": [
+        "source/03.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/07.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2102962,
+        "md5": "9b867be068fc0904007deabb2ac1d154",
+        "sha256": "93926376b3ac3dc4f236bafe5b1955c07d1e96a29bc94e77524ee3821d1672f9"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "福随春至",
+            "font_px": 132,
+            "box_normalized": [
+              0.61,
+              0.345,
+              0.79,
+              0.88
+            ],
+            "glyph_centers": [
+              [
+                751,
+                1092
+              ],
+              [
+                751,
+                1321
+              ],
+              [
+                751,
+                1549
+              ],
+              [
+                751,
+                1778
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "喜伴岁长",
+            "font_px": 132,
+            "box_normalized": [
+              0.2,
+              0.5,
+              0.395,
+              0.985
+            ],
+            "glyph_centers": [
+              [
+                316,
+                1396
+              ],
+              [
+                316,
+                1625
+              ],
+              [
+                316,
+                1854
+              ],
+              [
+                316,
+                2083
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    },
+    {
+      "file": "images/08.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3367710,
+      "md5": "26344484c3e9a6353020a3e445364a91",
+      "sha256": "3c3a14f82df17eddd071a19e1c58ab60f539c68cc70147a7aa71a3948cbf9125",
+      "main_copy": {
+        "right": "朝迎瑞气",
+        "left": "暮揽祥光"
+      },
+      "side_copy": [
+        "朝暮皆好",
+        "四时有光"
+      ],
+      "scene": "牡丹與紙影",
+      "reference": [
+        "source/04.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/08.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2235343,
+        "md5": "0578d9d02212d6387edda6bc16539fb0",
+        "sha256": "d250cdb8cfa376326a48ab2e01f8bba809bd9826907632c3366f5e29b1349875"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "朝迎瑞气",
+            "font_px": 132,
+            "box_normalized": [
+              0.61,
+              0.345,
+              0.79,
+              0.875
+            ],
+            "glyph_centers": [
+              [
+                751,
+                1086
+              ],
+              [
+                751,
+                1315
+              ],
+              [
+                751,
+                1544
+              ],
+              [
+                751,
+                1772
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "暮揽祥光",
+            "font_px": 132,
+            "box_normalized": [
+              0.2,
+              0.5,
+              0.395,
+              0.985
+            ],
+            "glyph_centers": [
+              [
+                316,
+                1396
+              ],
+              [
+                316,
+                1625
+              ],
+              [
+                316,
+                1854
+              ],
+              [
+                316,
+                2083
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    },
+    {
+      "file": "images/09.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3457204,
+      "md5": "1ca42597401f822f1a821650e2f5133a",
+      "sha256": "8494499ea60c249ef0a4001ddbda2771ce26f4e5a26c7112687a5eeb4ff3f04e",
+      "main_copy": {
+        "right": "家和景明",
+        "left": "岁丰人悦"
+      },
+      "side_copy": [
+        "家常有暖",
+        "岁月生香"
+      ],
+      "scene": "梅枝與花箋",
+      "reference": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/09.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2195280,
+        "md5": "c1ea5ea4393413d376e8328e5a6db1cd",
+        "sha256": "036b07486460c7269335053e65462a3060cd1a81bb704fde5bc879f6ae566efe"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "家和景明",
+            "font_px": 132,
+            "box_normalized": [
+              0.61,
+              0.345,
+              0.79,
+              0.72
+            ],
+            "glyph_centers": [
+              [
+                751,
+                967
+              ],
+              [
+                751,
+                1154
+              ],
+              [
+                751,
+                1341
+              ],
+              [
+                751,
+                1529
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "岁丰人悦",
+            "font_px": 132,
+            "box_normalized": [
+              0.2,
+              0.54,
+              0.395,
+              0.96
+            ],
+            "glyph_centers": [
+              [
+                316,
+                1435
+              ],
+              [
+                316,
+                1650
+              ],
+              [
+                316,
+                1865
+              ],
+              [
+                316,
+                2080
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    },
+    {
+      "file": "images/10.png",
+      "width": 1080,
+      "height": 2343,
+      "format": "PNG",
+      "bytes": 3594347,
+      "md5": "7d6d0b0573446c86506073475f288dc2",
+      "sha256": "e426bb9e1ca535ea9dfde0fa4d564f8b156ea29db2d2e178fbd7caa319be3f02",
+      "main_copy": {
+        "right": "新程似锦",
+        "left": "佳事连年"
+      },
+      "side_copy": [
+        "心向远方",
+        "一路芬芳"
+      ],
+      "scene": "櫻枝與春紙",
+      "reference": [
+        "source/02.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/10.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2429540,
+        "md5": "833eba87787952d9aeb5e38cc6d6b988",
+        "sha256": "57ea05ab69482c86b6548040c5a401bbce6505d5553960a627bd4e6628bdb06c"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale then small centered crop; not anisotropic; final pixels not model-native",
+        "uniform_scale": 1.5414473684210526,
+        "scaled_dimensions": [
+          1085.178947368421,
+          2343.0
+        ],
+        "final_dimensions": [
+          1080,
+          2343
+        ]
+      },
+      "typography": {
+        "font": "assets/fonts/cjk/MaShanZheng-Regular.ttf",
+        "font_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+        "columns": [
+          {
+            "column": "right",
+            "text": "新程似锦",
+            "font_px": 132,
+            "box_normalized": [
+              0.61,
+              0.345,
+              0.79,
+              0.695
+            ],
+            "glyph_centers": [
+              [
+                751,
+                960
+              ],
+              [
+                751,
+                1132
+              ],
+              [
+                751,
+                1304
+              ],
+              [
+                751,
+                1476
+              ]
+            ]
+          },
+          {
+            "column": "left",
+            "text": "佳事连年",
+            "font_px": 132,
+            "box_normalized": [
+              0.2,
+              0.5,
+              0.395,
+              0.985
+            ],
+            "glyph_centers": [
+              [
+                316,
+                1396
+              ],
+              [
+                316,
+                1625
+              ],
+              [
+                316,
+                1854
+              ],
+              [
+                316,
+                2083
+              ]
+            ]
+          }
+        ],
+        "side_font_px": 29,
+        "grey_offset_impression": true
+      },
+      "ui": false
+    }
+  ],
+  "glyph_coverage": {
+    "font_cmap_checked": true,
+    "missing_characters": [],
+    "note": "Initial traditional-copy draft had missing glyphs; not delivered. All final simplified copy is covered by brush font."
+  },
+  "visual_review": {
+    "raw_all10_reviewed": true,
+    "final_contact_sheet_all10_reviewed": true,
+    "full_size_opened": [
+      "images/01.png",
+      "images/03.png",
+      "images/10.png"
+    ],
+    "checked": [
+      "paper/linen/floral style",
+      "10 distinct background arrangements",
+      "all main and side phrases replaced",
+      "no missing glyph boxes in corrected final board",
+      "text fits respective paper slips",
+      "1080x2343 all finals"
+    ],
+    "limitations": "Manual visual review plus font cmap and deterministic rendering tests, not OCR. Decorative AI red stamp-like impressions not treated as textual blessings or authenticated seals."
+  }
+}
