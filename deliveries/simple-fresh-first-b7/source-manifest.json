@@ -6,7 +6,8 @@
   "provenance": {
     "branch": "arena/28bd3553-craft-anything",
     "commit": "720e5b8c3d4258a81232ad4141e2c50dc22d07b0",
-    "manifest_path": "deliveries/fresh-wallpapers/source-manifest.json"
+    "manifest_path": "deliveries/fresh-wallpapers/source-manifest.json",
+    "successful_run": "45523102531"
   },
   "schema_version": 2,
   "images": [
@@ -22,11 +23,16 @@
       "historical_hash_match": true
     }
   ],
-  "status": "downloaded_pending_visual_review",
+  "status": "downloaded_verified_and_visually_reviewed",
   "run_id": "45524409680",
   "branch": "arena/b7bfcf81-craft-anything",
   "download_method": "GitHub Actions; exact historical public CDN URLs; full decode and historical MD5/SHA-256 match",
   "source_quality": "Public CDN files; not independently verified author master files",
-  "page_refresh": "Not retried: previous runner confirmed /login; replay existing verified public asset list only",
-  "reference_count_downloaded": 1
+  "page_refresh": "Not requested: exact same-note historical public URL replay for first image only",
+  "reference_count_downloaded": 1,
+  "reference_image_index": 1,
+  "observed_original_carousel_count": 9,
+  "other_carousel_images_downloaded": false,
+  "other_carousel_images_used": false,
+  "visual_review": "First original opened at full size before generation: ivory paper, teal mulberry leaves and burgundy fruit, branch above, tray bowl and jar bottom right, vertical blessing at left"
 }

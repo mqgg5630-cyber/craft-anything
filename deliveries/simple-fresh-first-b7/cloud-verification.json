@@ -1,0 +1,187 @@
+{
+  "status": "verified_complete_requested_deliverables",
+  "verification_basis": "Fresh search_files listings of all 3 Drive folders after all uploads; not upload acknowledgements",
+  "root_folder_id": "1nXnOZFiEQ5-QJ7koRsBUNEtE6DaSBESS",
+  "folder_ids": {
+    "source": "1hndd8tksnb1vqxg-VVtuGDN522aV42HG",
+    "images": "14FVICWAs3M1BN8g6NoLlfhFD0G2qP3Dt"
+  },
+  "fresh_counts": {
+    "root_items": 7,
+    "root_files": 5,
+    "root_subfolders": 2,
+    "source_files": 1,
+    "final_files": 10,
+    "total_files": 16
+  },
+  "next_page_tokens": [
+    null,
+    null,
+    null
+  ],
+  "incomplete_search": false,
+  "all_match": true,
+  "scope": "First original, 10 final exact-size quote wallpapers, 2 previews, 2 manifests and README; native artwork/code/font/audit local-repository only",
+  "files": [
+    {
+      "file": "source/01.webp",
+      "cloud_name": "01-唯一参考原片.webp",
+      "drive_id": "1Ky9BWyVvlgMGHFpsEtPdsaKeSWIJoUpE",
+      "local_md5": "98690e291254d4fe752af505f42ae66f",
+      "cloud_md5": "98690e291254d4fe752af505f42ae66f",
+      "local_bytes": 75728,
+      "cloud_bytes": 75728,
+      "match": true
+    },
+    {
+      "file": "images/01.png",
+      "cloud_name": "01-平安喜乐.png",
+      "drive_id": "1aPFXeY5AhV6_ilgSgnJll2pNrFNYJG6u",
+      "local_md5": "4e8c4af865cfefa6a292c9b46e605655",
+      "cloud_md5": "4e8c4af865cfefa6a292c9b46e605655",
+      "local_bytes": 1594759,
+      "cloud_bytes": 1594759,
+      "match": true
+    },
+    {
+      "file": "images/02.png",
+      "cloud_name": "02-万事胜意.png",
+      "drive_id": "1SXu0mnQ_oFcC7KEBnlQCoeYZJNbPCKcB",
+      "local_md5": "af36e48f83a822e3468468d8b216ed6d",
+      "cloud_md5": "af36e48f83a822e3468468d8b216ed6d",
+      "local_bytes": 1669980,
+      "cloud_bytes": 1669980,
+      "match": true
+    },
+    {
+      "file": "images/03.png",
+      "cloud_name": "03-日日欢喜.png",
+      "drive_id": "1O5N9oQubu19NxfSMy26mNSBAJb-Isg9K",
+      "local_md5": "539ac9899d51947e069f7ecd3d1b5e8f",
+      "cloud_md5": "539ac9899d51947e069f7ecd3d1b5e8f",
+      "local_bytes": 1575999,
+      "cloud_bytes": 1575999,
+      "match": true
+    },
+    {
+      "file": "images/04.png",
+      "cloud_name": "04-心有暖阳.png",
+      "drive_id": "1kncXXDCVDpMW6GIMHVgS8Y3_wRqS-JL6",
+      "local_md5": "09c33eadbae25e93456dcfd05d8da54d",
+      "cloud_md5": "09c33eadbae25e93456dcfd05d8da54d",
+      "local_bytes": 1582640,
+      "cloud_bytes": 1582640,
+      "match": true
+    },
+    {
+      "file": "images/05.png",
+      "cloud_name": "05-顺遂无忧.png",
+      "drive_id": "1r1eq_ZP7aEzRwKcu-94fnKd0OhbJIC_c",
+      "local_md5": "ff67e701cb4dd24eb22f6f9986e4c53f",
+      "cloud_md5": "ff67e701cb4dd24eb22f6f9986e4c53f",
+      "local_bytes": 1571982,
+      "cloud_bytes": 1571982,
+      "match": true
+    },
+    {
+      "file": "images/06.png",
+      "cloud_name": "06-好事发生.png",
+      "drive_id": "15R8yOowxafxg14rYn8EzD-ZfXApUZoy1",
+      "local_md5": "19eb932ab77dd39955cf4a918d91141e",
+      "cloud_md5": "19eb932ab77dd39955cf4a918d91141e",
+      "local_bytes": 1716174,
+      "cloud_bytes": 1716174,
+      "match": true
+    },
+    {
+      "file": "images/07.png",
+      "cloud_name": "07-慢慢变好.png",
+      "drive_id": "1hBEcn3qtoBNuE-8QouIg0LSP3OQ0DWBN",
+      "local_md5": "025f6fd35bd495f591c9001e57c94485",
+      "cloud_md5": "025f6fd35bd495f591c9001e57c94485",
+      "local_bytes": 1594616,
+      "cloud_bytes": 1594616,
+      "match": true
+    },
+    {
+      "file": "images/08.png",
+      "cloud_name": "08-一切如愿.png",
+      "drive_id": "1OeAiScHG8QMvZOQGsgr2AIHnhl0M0tB6",
+      "local_md5": "13ec6e57a00722af0e3ccbd0adc31898",
+      "cloud_md5": "13ec6e57a00722af0e3ccbd0adc31898",
+      "local_bytes": 1568503,
+      "cloud_bytes": 1568503,
+      "match": true
+    },
+    {
+      "file": "images/09.png",
+      "cloud_name": "09-喜乐常在.png",
+      "drive_id": "1ZBMbw6fIP67A4xIj-ZCNjFhHX-JKC9Lr",
+      "local_md5": "c9078d74f280a33ca1665866cb8d4ae8",
+      "cloud_md5": "c9078d74f280a33ca1665866cb8d4ae8",
+      "local_bytes": 2100370,
+      "cloud_bytes": 2100370,
+      "match": true
+    },
+    {
+      "file": "images/10.png",
+      "cloud_name": "10-自在安然.png",
+      "drive_id": "1m-E_y6iGJxeJyI_jvVgMQg1YkOwaHQa1",
+      "local_md5": "86c58ac72310dcd7a7e862b362828f05",
+      "cloud_md5": "86c58ac72310dcd7a7e862b362828f05",
+      "local_bytes": 1720594,
+      "cloud_bytes": 1720594,
+      "match": true
+    },
+    {
+      "file": "00-10张成品总预览.jpg",
+      "cloud_name": "00-10张成品总预览.jpg",
+      "drive_id": "1W1PKBimivxEJfpeRCANSQvuaE2WIKtn7",
+      "local_md5": "b0a0535a22df194663213f9d3d5635f5",
+      "cloud_md5": "b0a0535a22df194663213f9d3d5635f5",
+      "local_bytes": 296370,
+      "cloud_bytes": 296370,
+      "match": true
+    },
+    {
+      "file": "00-原片与成品总预览.jpg",
+      "cloud_name": "00-原片与成品总预览.jpg",
+      "drive_id": "1PXCtrH5snVb_5sBX9esKGPsh0fCalggY",
+      "local_md5": "d56876e21e89fb6e0a0dbda85794bf6b",
+      "cloud_md5": "d56876e21e89fb6e0a0dbda85794bf6b",
+      "local_bytes": 333318,
+      "cloud_bytes": 333318,
+      "match": true
+    },
+    {
+      "file": "source-manifest.json",
+      "cloud_name": "source-manifest.json",
+      "drive_id": "1puqZxyOBBSGYU0fYP6QSriJofJPoe8vP",
+      "local_md5": "743de0a5efd4f385c7293418e0cb47cf",
+      "cloud_md5": "743de0a5efd4f385c7293418e0cb47cf",
+      "local_bytes": 1740,
+      "cloud_bytes": 1740,
+      "match": true
+    },
+    {
+      "file": "output-manifest.json",
+      "cloud_name": "output-manifest.json",
+      "drive_id": "1Fy-7qMo2TxTn2rU9hATMkLTWw3CZGCa6",
+      "local_md5": "e776ab0848ca9a61f5a1a92823b6e4c4",
+      "cloud_md5": "e776ab0848ca9a61f5a1a92823b6e4c4",
+      "local_bytes": 19543,
+      "cloud_bytes": 19543,
+      "match": true
+    },
+    {
+      "file": "README.md",
+      "cloud_name": "README.md",
+      "drive_id": "1bDJbSC49w2lKykrC4m1HpToALdUkrnjL",
+      "local_md5": "8f454f92488bfc595c33e1c083e90d41",
+      "cloud_md5": "8f454f92488bfc595c33e1c083e90d41",
+      "local_bytes": 6368,
+      "cloud_bytes": 6368,
+      "match": true
+    }
+  ]
+}

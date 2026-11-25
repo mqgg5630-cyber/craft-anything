@@ -1,0 +1,743 @@
+{
+  "generated_count": 10,
+  "final_count": 10,
+  "reference_count": 1,
+  "reference_image_index": 1,
+  "all_final_size": [
+    884,
+    1851
+  ],
+  "other_note_images_used": false,
+  "koi_references_used": false,
+  "ui_generated": false,
+  "visual_review": {
+    "status": "reviewed",
+    "method": "All ten native artwork backgrounds and all ten final typeset images individually inspected on contact sheets",
+    "reference_scope": "Only new-note original01; no koi or other 8 carousel images used",
+    "style": "Restrained handpainted mulberry still-life, warm ivory fibrous paper, muted teal leaves and plum fruit; gentle arrangement variants",
+    "text": "All ten vertical four-character phrases visually checked; true local font glyphs rather than generated lettering",
+    "sizes": "All ten final PNGs exactly 884x1851; uniform scaling and minimal center crop, not native model output size"
+  },
+  "files": [
+    {
+      "file": "images/01.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 1594759,
+      "md5": "4e8c4af865cfefa6a292c9b46e605655",
+      "sha256": "200966dbc06ad597b92552ce6c38115f7e9c74bb458e6e72292bad1bb69f66f8",
+      "phrase": "平安喜乐",
+      "scene": "垂枝桑果与木盘陶碗",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/01.png",
+        "format": "png",
+        "width": 704,
+        "height": 1504,
+        "bytes": 1372133,
+        "md5": "11855180276e9de375d065265a85a6ac",
+        "sha256": "ca6a844eabf90609990c52837c2dbf199923be6f6b5f41928b9ee6a2d6dc5d33"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2556818181818181,
+        "continuous_scaled_size": [
+          884.0,
+          1888.5454545454545
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "平",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "安",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "喜",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "乐",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "images/02.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 1669980,
+      "md5": "af36e48f83a822e3468468d8b216ed6d",
+      "sha256": "63a304bf116e7081a77a857008de1966a7027eee7c2714b82e44ae104c79b4f7",
+      "phrase": "万事胜意",
+      "scene": "双层枝叶与圆罐",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/02.png",
+        "format": "png",
+        "width": 704,
+        "height": 1504,
+        "bytes": 1462015,
+        "md5": "65b5f6643d1a38518a8fbf75d51a0241",
+        "sha256": "7a123ee076bf0cd3e2b8dc97827f71b097f617e1c35cf05e38eb66b2512a3c00"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2556818181818181,
+        "continuous_scaled_size": [
+          884.0,
+          1888.5454545454545
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "万",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "事",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "胜",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "意",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "images/03.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 1575999,
+      "md5": "539ac9899d51947e069f7ecd3d1b5e8f",
+      "sha256": "39e9590cb6aa0cb7912df39e82889bb0c540d2c9438de57ff9a500c1ef2fa8ac",
+      "phrase": "日日欢喜",
+      "scene": "竹篮桑果与米色陶罐",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/03.png",
+        "format": "png",
+        "width": 704,
+        "height": 1504,
+        "bytes": 1325673,
+        "md5": "c30acd37c0c15eab437e86112cc16de0",
+        "sha256": "cff5c16e93421e35ea7b9d1dfd93a648c949b8cc571fb370b7a36f9303b77ee3"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2556818181818181,
+        "continuous_scaled_size": [
+          884.0,
+          1888.5454545454545
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "日",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "日",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "欢",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "喜",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "images/04.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 1582640,
+      "md5": "09c33eadbae25e93456dcfd05d8da54d",
+      "sha256": "87d076e14cf0a130f35dcbc2b6d663c4fdef1d4b9df4c693796cd88e80e4729f",
+      "phrase": "心有暖阳",
+      "scene": "斜枝桑果与双碗",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/04.png",
+        "format": "png",
+        "width": 704,
+        "height": 1504,
+        "bytes": 1364475,
+        "md5": "b94380519ef256b420fa04a3e6fcb336",
+        "sha256": "a50f690e32fbf4ce3730b1b3dccd57e4dc105b538a225e39392a2b56c77ce283"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2556818181818181,
+        "continuous_scaled_size": [
+          884.0,
+          1888.5454545454545
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "心",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "有",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "暖",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "阳",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "images/05.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 1571982,
+      "md5": "ff67e701cb4dd24eb22f6f9986e4c53f",
+      "sha256": "4775101ac1aaca44e65e5db2855f666993302e32c73b26e670706a5e1a4b65f6",
+      "phrase": "顺遂无忧",
+      "scene": "浅盘桑果与高罐",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/05.png",
+        "format": "png",
+        "width": 704,
+        "height": 1504,
+        "bytes": 1314476,
+        "md5": "80e2a42bc0f7c92319d4a4b66e6f778c",
+        "sha256": "1239a4ec8461293156249600fb3be8dbbb19df1725818412d2010948e3a8408e"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2556818181818181,
+        "continuous_scaled_size": [
+          884.0,
+          1888.5454545454545
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "顺",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "遂",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "无",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "忧",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "images/06.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 1716174,
+      "md5": "19eb932ab77dd39955cf4a918d91141e",
+      "sha256": "85b34a05ab5b2b61b304edf6db2962a17a6f3aa99c282d3787a98565682dc84d",
+      "phrase": "好事发生",
+      "scene": "陶杯果碟与长柄木勺",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/06.png",
+        "format": "png",
+        "width": 704,
+        "height": 1504,
+        "bytes": 1536953,
+        "md5": "498a23b15e54797bba7061691a7d4dff",
+        "sha256": "df1caed2f5cf4c797ca0304fd4af53245dbebdb50863396d001d3d11c55aa700"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2556818181818181,
+        "continuous_scaled_size": [
+          884.0,
+          1888.5454545454545
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "好",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "事",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "发",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "生",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "images/07.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 1594616,
+      "md5": "025f6fd35bd495f591c9001e57c94485",
+      "sha256": "e82e475d9fd398722f508ce2caf8c2b1770ca8deeda3ee968af9c6d5100b9c34",
+      "phrase": "慢慢变好",
+      "scene": "竹盘果碗与布盖罐",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/07.png",
+        "format": "png",
+        "width": 704,
+        "height": 1504,
+        "bytes": 1344285,
+        "md5": "8e5f2ebf79e1325bf1c0c20017c8e8d7",
+        "sha256": "ef53bc0952b1bbb012de4168ee671e7068fee5ce67378cb0a8839dd5bc5deea5"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2556818181818181,
+        "continuous_scaled_size": [
+          884.0,
+          1888.5454545454545
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "慢",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "慢",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "变",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "好",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "images/08.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 1568503,
+      "md5": "13ec6e57a00722af0e3ccbd0adc31898",
+      "sha256": "4442d5ec0d8814e2c663b926e3fc0f57c52065e1e13b38de52b7582876402d76",
+      "phrase": "一切如愿",
+      "scene": "枝下果碗与散落桑果",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/08.png",
+        "format": "png",
+        "width": 704,
+        "height": 1504,
+        "bytes": 1327264,
+        "md5": "03ccf5dfba0a4f600aa020c6a2772d3e",
+        "sha256": "0c2a06ac9656a5b3980a11153936e7e83a8ad7268f730e9e023686816905c683"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2556818181818181,
+        "continuous_scaled_size": [
+          884.0,
+          1888.5454545454545
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "一",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "切",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "如",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "愿",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "images/09.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 2100370,
+      "md5": "c9078d74f280a33ca1665866cb8d4ae8",
+      "sha256": "f69ba199ea8171fe8bca3ff2958c17d18ebc578ab1825552f39f3335fcc486bc",
+      "phrase": "喜乐常在",
+      "scene": "淡墨桑叶与木盘果碗",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/09.png",
+        "format": "png",
+        "width": 704,
+        "height": 1504,
+        "bytes": 1755527,
+        "md5": "d334e808b8a82bcd1e45dd3ac9ae1078",
+        "sha256": "213fc34f3538383e2ef2b3b29935e3d82b0fe89b1ad3ab72572abdff613a8250"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2556818181818181,
+        "continuous_scaled_size": [
+          884.0,
+          1888.5454545454545
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "喜",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "乐",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "常",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "在",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "images/10.png",
+      "format": "png",
+      "width": 884,
+      "height": 1851,
+      "bytes": 1720594,
+      "md5": "86c58ac72310dcd7a7e862b362828f05",
+      "sha256": "2fc9ad2166b0c7de9733a84bde79172e81597a877932b992489a28a69b72ca80",
+      "phrase": "自在安然",
+      "scene": "长穗桑果与木盘果碗",
+      "references": [
+        "source/01.webp"
+      ],
+      "native_artwork": {
+        "file": "artwork/10.png",
+        "format": "png",
+        "width": 704,
+        "height": 1474,
+        "bytes": 1538236,
+        "md5": "29e3498d94f7c72dd9abfc4145861d7f",
+        "sha256": "507e9f4a8e1da98c945b99902a5f2189dc6fe39ee2f177ed35e06fd62602d5c6"
+      },
+      "adaptation": {
+        "method": "Uniform Lanczos scale then symmetric crop to EXACT first-reference size; no anisotropic stretch",
+        "uniform_scale": 1.2557666214382632,
+        "continuous_scaled_size": [
+          884.0597014925373,
+          1851.0
+        ],
+        "target_size": [
+          884,
+          1851
+        ],
+        "not_native_resolution": true
+      },
+      "typography": {
+        "method": "Locally typeset true Chinese glyphs, not model-generated lettering",
+        "font": "MaShanZheng-Regular.ttf",
+        "font_size": 76,
+        "fill": "#39372e",
+        "layout": [
+          {
+            "character": "自",
+            "center": [
+              106,
+              907
+            ]
+          },
+          {
+            "character": "在",
+            "center": [
+              106,
+              994
+            ]
+          },
+          {
+            "character": "安",
+            "center": [
+              106,
+              1081
+            ]
+          },
+          {
+            "character": "然",
+            "center": [
+              106,
+              1168
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

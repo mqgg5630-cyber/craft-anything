@@ -46,7 +46,7 @@ def main():
         run_id=os.environ.get('GITHUB_RUN_ID'), branch=os.environ.get('GITHUB_REF_NAME'),
         download_method='GitHub Actions; exact historical public CDN URLs; full decode and historical MD5/SHA-256 match',
         source_quality='Public CDN files; not independently verified author master files',
-        page_refresh='Not retried: previous runner confirmed /login; replay existing verified public asset list only')
+        page_refresh='Not requested: same-note historical first-image exact public URL replay')
     total = 0
     with tempfile.TemporaryDirectory() as temp:
         stage = Path(temp)

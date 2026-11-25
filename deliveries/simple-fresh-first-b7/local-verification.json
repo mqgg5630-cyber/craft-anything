@@ -1,0 +1,25 @@
+{
+  "source_count": 1,
+  "generated_count": 10,
+  "final_count": 10,
+  "all_final_size": [
+    884,
+    1851
+  ],
+  "all_21_images_decoded": true,
+  "all_output_hashes_unique": true,
+  "source_hash_matches": true,
+  "all_phrases_four_characters": true,
+  "font_glyphs_locally_typeset": true,
+  "artwork_native_sizes": [
+    [
+      704,
+      1474
+    ],
+    [
+      704,
+      1504
+    ]
+  ],
+  "adaptation": "Resized with uniform scaling/cropping; final exact size not represented as native model size"
+}
