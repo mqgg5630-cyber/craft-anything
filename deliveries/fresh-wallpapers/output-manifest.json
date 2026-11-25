@@ -1,0 +1,389 @@
+{
+  "target_size": [
+    884,
+    1851
+  ],
+  "target_basis": "fresh source 01 public CDN size; sources differ",
+  "images": [
+    {
+      "index": 1,
+      "fresh_reference": "source/01.webp",
+      "koi_reference": "../koi-dream/source/01.webp",
+      "files": [
+        {
+          "path": "generated/01.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1700200,
+          "sha256": "4aec19c65033142eb60cfb69cbd2d47641fb351a40399154464ef87b5a9f03d9",
+          "md5": "024d5cb513d3edbba27bf34965d11052"
+        },
+        {
+          "path": "images/01.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1940432,
+          "sha256": "872bf12917e2b29da92bbbe2938dc3524de3b6264417bfae5aba7647b4588e23",
+          "md5": "e88ac55610b1c1dce4c745dd5f21195e"
+        },
+        {
+          "path": "ui/01.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1932691,
+          "sha256": "f003e3b13771c81ae4af4aae492fe2429f68fbb3238cf803fa0cb1ca1677a33a",
+          "md5": "edbf42ade30b89c78c50a1649c5a326b"
+        }
+      ],
+      "fit_method": "proportional center-crop and resize"
+    },
+    {
+      "index": 2,
+      "fresh_reference": "source/02.webp",
+      "koi_reference": "../koi-dream/source/03.webp",
+      "files": [
+        {
+          "path": "generated/02.png",
+          "size": [
+            848,
+            1264
+          ],
+          "bytes": 1429093,
+          "sha256": "bee9a215650a2145dfb4b99b9a931bf1077b883dabe0e85643403aec9820665e",
+          "md5": "cafa40ecabd154347965512e089d833b"
+        },
+        {
+          "path": "images/02.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1777731,
+          "sha256": "89e867381b2733b1a65129f5d796f43df0fe2ce2a7dcd3473a984e662769dce3",
+          "md5": "ba45794a1242986793faed4e9e94ec8c"
+        },
+        {
+          "path": "ui/02.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1768730,
+          "sha256": "8a5ea0444f5217d90afc12844a4d993bc23f47de2ef6113c9657c0c3cd0747de",
+          "md5": "ba00a01ea05b4044bd1263737efd000b"
+        }
+      ],
+      "fit_method": "proportional center-crop and resize"
+    },
+    {
+      "index": 3,
+      "fresh_reference": "source/03.webp",
+      "koi_reference": "../koi-dream/source/01.webp",
+      "files": [
+        {
+          "path": "generated/03.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 996694,
+          "sha256": "b75e70b09d474b50b0c30a8b0f05a616aa95dfc9889cbc29aaa616b3fbf2dafc",
+          "md5": "5d8247b91c5f103af068a8874bc837a9"
+        },
+        {
+          "path": "images/03.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1236476,
+          "sha256": "2b41c63bdea05a02e167a449c6b5de543cd91cc3953c3bb1b105a9adee7da1bd",
+          "md5": "adf4baf5cdea3e74f17baa27ff491f24"
+        },
+        {
+          "path": "ui/03.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1235932,
+          "sha256": "0e6b50f83d2ae2f5bdbe4d168a04051ff242c6a4c72f9dab55e1a8767e54d87f",
+          "md5": "27e5a0c321c220cfffc582c3cd87559f"
+        }
+      ],
+      "fit_method": "proportional center-crop and resize"
+    },
+    {
+      "index": 4,
+      "fresh_reference": "source/04.webp",
+      "koi_reference": "../koi-dream/source/03.webp",
+      "files": [
+        {
+          "path": "generated/04.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1266620,
+          "sha256": "5e20b59c140a625cbb7fe2b21e1a963ee491b59678bbc938ec25a29496f49baf",
+          "md5": "b3e2f207fe1cb51782284823240be29e"
+        },
+        {
+          "path": "images/04.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1312873,
+          "sha256": "a1c67f5fd97ecb2d3b27a77a2ccd65835d4edeb6c9264e151eb03c89e6c552e7",
+          "md5": "07e5297c5cad7e40b13613da12159227"
+        },
+        {
+          "path": "ui/04.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1315696,
+          "sha256": "b7f762c76f0e4798c5761dcbd9bf76d6e8162053b47c9ef3115e4ffcfd855866",
+          "md5": "220c9765da842a5939e1bc3c08485b69"
+        }
+      ],
+      "fit_method": "proportional center-crop and resize"
+    },
+    {
+      "index": 5,
+      "fresh_reference": "source/05.webp",
+      "koi_reference": "../koi-dream/source/03.webp",
+      "files": [
+        {
+          "path": "generated/05.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1289301,
+          "sha256": "e9e6e9397e7de495446cef70953be1a74c5fce2502ffc571cb70b1c238b24e94",
+          "md5": "7196d9f5cfc79850ca65c7a615c22213"
+        },
+        {
+          "path": "images/05.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1551931,
+          "sha256": "748349dbe4f596cf8d91964c3065f8365241573ed1bc5d230c3abf41cab5f6a7",
+          "md5": "80f73eb42da5f4a95153f98427e42628"
+        },
+        {
+          "path": "ui/05.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1555501,
+          "sha256": "e0d240f925f270e04a60fc66c1c058cebfb499aa16224a44b4b7ddf0b0689f61",
+          "md5": "93db4550dd514b7dc953045501c6b2f2"
+        }
+      ],
+      "fit_method": "proportional scale and top/bottom extension"
+    },
+    {
+      "index": 6,
+      "fresh_reference": "source/06.webp",
+      "koi_reference": "../koi-dream/source/03.webp",
+      "files": [
+        {
+          "path": "generated/06.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 676490,
+          "sha256": "c680bee8b9b4026096703ae8fa744ba35426a2a5d83fa77052effa8820f944e7",
+          "md5": "b0b0d46baaaa35cf2d785f8a2a75ea80"
+        },
+        {
+          "path": "images/06.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 907685,
+          "sha256": "f838ec7623aea52452fc698e487a00cfb2e53b0e9c9a6d8882e2489d8cab54f0",
+          "md5": "c66bde45d6641bf1bd3fe114aa9ab2d2"
+        },
+        {
+          "path": "ui/06.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 919670,
+          "sha256": "384af07a05f119f52bb8819fad99f8dd98a9b212946538ec64c9705a9282f71c",
+          "md5": "e2114abad9e5f6d2ff8c9304ec299d31"
+        }
+      ],
+      "fit_method": "proportional center-crop and resize"
+    },
+    {
+      "index": 7,
+      "fresh_reference": "source/07.webp",
+      "koi_reference": "../koi-dream/source/03.webp",
+      "files": [
+        {
+          "path": "generated/07.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 218564,
+          "sha256": "2171b274762515d6a066c7ed38fa7c19088b6fed39bf78cc26ae51a017dc242b",
+          "md5": "24eb8d91e976a1f5d6404579f684486d"
+        },
+        {
+          "path": "images/07.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 323285,
+          "sha256": "3d39db3aa44089184a2944840597d91162843c78ed06e0ac6bad5a7507f851c4",
+          "md5": "801e28d21b61123ff7cb89dda1692e65"
+        },
+        {
+          "path": "ui/07.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 336726,
+          "sha256": "68e4e1d778ec3cf62071239f597ccd2c206548812fb4a34b1fc5ac22b198aba6",
+          "md5": "d4aa9c29d89ff49ef0c5e7a6c730dbc2"
+        }
+      ],
+      "fit_method": "proportional center-crop and resize"
+    },
+    {
+      "index": 8,
+      "fresh_reference": "source/08.webp",
+      "koi_reference": "../koi-dream/source/03.webp",
+      "files": [
+        {
+          "path": "generated/08.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1515578,
+          "sha256": "d6ae506a91a9b475913cff69268b0cdd37b1bba9558ca2a02ab5df68747cf0b0",
+          "md5": "35ecdebfe834626977834240de0ca096"
+        },
+        {
+          "path": "images/08.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1987471,
+          "sha256": "85aa44e0b9f4b59e0747c52cb8882521547d43739a5ba0cdf7d285a8e0037c70",
+          "md5": "f86113faa8f51367ed570fb9c5ba5183"
+        },
+        {
+          "path": "ui/08.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1981175,
+          "sha256": "65d1fbddb0ac8fc69c7c86363ba793033da4ea9b55ff644803e056be48febdff",
+          "md5": "7af0e8f074c1e19b0635224b8d21a9ad"
+        }
+      ],
+      "fit_method": "proportional center-crop and resize"
+    },
+    {
+      "index": 9,
+      "fresh_reference": "source/09.webp",
+      "koi_reference": "../koi-dream/source/03.webp",
+      "files": [
+        {
+          "path": "generated/09.png",
+          "size": [
+            848,
+            1264
+          ],
+          "bytes": 768776,
+          "sha256": "e10192ee1bead23d6f484d971e382bc2e85b0d8fce56d2236288dc6bf19e5919",
+          "md5": "0d6cdc4d5901afba1f3a93accaf7f948"
+        },
+        {
+          "path": "images/09.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 941437,
+          "sha256": "66618b96fe952f96efeed65a06362ca9fef72604c2d14ab66566bd76bea4523b",
+          "md5": "3bcc5b6e54bd429cb90859fb133f7fb5"
+        },
+        {
+          "path": "ui/09.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 949455,
+          "sha256": "86ece13503352c4a3c1b953a5322fb7cbcb3d82019020ddb9a0a0dbba405d6dd",
+          "md5": "9c0abfd19de1a737f1e2cfcfaff689ec"
+        }
+      ],
+      "fit_method": "proportional center-crop and resize"
+    },
+    {
+      "index": 10,
+      "fresh_reference": "source/01.webp",
+      "koi_reference": "../koi-dream/source/03.webp",
+      "files": [
+        {
+          "path": "generated/10.png",
+          "size": [
+            848,
+            1264
+          ],
+          "bytes": 1585296,
+          "sha256": "a70e4f8bd650124ebeb3af75565623f7444b155cb1c4c94e01f26f81f1b96660",
+          "md5": "5b430fce48cd7c16491104894df98c96"
+        },
+        {
+          "path": "images/10.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1734413,
+          "sha256": "9c6c9f959e5d24b448aa841359d56744d03f7d7a18e60d0910f4bc43ce694693",
+          "md5": "b4a86be43b9f74c886f32b85853ade99"
+        },
+        {
+          "path": "ui/10.png",
+          "size": [
+            884,
+            1851
+          ],
+          "bytes": 1729990,
+          "sha256": "32f05f9173d944715aed6823313e903b73b183a5c89913e5890c7b99eaf8def0",
+          "md5": "4483ae749bc95c9e532358cb89df5743"
+        }
+      ],
+      "fit_method": "proportional center-crop and resize"
+    }
+  ]
+}

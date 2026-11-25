@@ -1,0 +1,15 @@
+{
+ "status":"verified_archives_and_previews",
+ "root":"1CmnoKdN8CXz32Xzi_ZBBOsvDkEOSei5s",
+ "folders":{"source":"1VRGyOpnajYw2Q5QBfCOdiJm-98epjyE9","images":"1KKwxewGFCQ8VXGyMZBkTz_A2t4_vw-La","ui":"1jusKVCxflqFyudvCTJCZTrxVgwQm5OM4"},
+ "target_size":[884,1851],
+ "files":[
+  {"name":"公开原片_9张.zip","md5":"5248c07bf1fb0fbfe413ac01767e9acc","count":9},
+  {"name":"00-原片总览.jpg","md5":"3807b1dcb226165c16b79572559d319b"},
+  {"name":"复刻无UI_10张_884x1851.zip","md5":"d195cde03b230858d009dcbcd44fd262","count":10},
+  {"name":"00-无UI总览.jpg","md5":"505c3d803b81e777837c5ad69497fc14"},
+  {"name":"模拟UI_10张_884x1851.zip","md5":"68d93233ecbef4990c3b8d30a939de5a","count":10},
+  {"name":"00-模拟UI总览.jpg","md5":"d41bbd6a1f7de359546d2a558e80673f"}
+ ],
+ "verification":"Local image decoding, exact dimensions, ZIP entry counts and CRC verified; post-upload Drive listings and MD5 compared with local values."
+}
