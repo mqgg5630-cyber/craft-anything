@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "status": "complete_archive_and_total_preview_uploaded",
+  "folder_id": "18lfA56kQ0sglXVmbJ2cW1-3mmPkMHE4l",
+  "folder_url": "https://drive.google.com/drive/folders/18lfA56kQ0sglXVmbJ2cW1-3mmPkMHE4l",
+  "cloud_files_relisted": true,
+  "all_uploaded_md5_and_size_verified": true,
+  "expanded_per_image_mirror_uploaded": false,
+  "delivery_format": "Complete ZIP retaining separate downloaded-source / clean / simulated-UI folders, all previews, full workflow and reproduction assets. Standalone total preview outside ZIP.",
+  "archive_contents": {
+    "source_files": 3,
+    "source_presentation_covers": 1,
+    "source_distinct_wallpapers": 2,
+    "clean_wallpapers": 10,
+    "simulated_ui_wallpapers": 10,
+    "previews": 4,
+    "total_members": 43,
+    "reproduction_scripts_tests_fonts_and_licenses_included": true
+  },
+  "local_validation": {
+    "zip_crc_verified": true,
+    "all_27_archived_image_sha256_values_verified": true,
+    "bundled_reproduction_resource_sha256_values_verified": true,
+    "repository_offline_tests_passed": 22,
+    "extracted_bundle_offline_tests_passed": 8,
+    "standalone_rebuild_identical_with_bundled_fonts": true
+  },
+  "documentation_snapshot": "ZIP contains the pre-upload documentation snapshot. This later storage record is intentionally external to avoid self-referential checksums.",
+  "previous_deliveries_or_transfer_queues_modified": false,
+  "files": [
+    {
+      "kind": "complete_archive",
+      "workspace_file": ".local/锦鲤入梦-原片与十张复刻完整包.zip",
+      "id": "1lX4z6vtbJ_zHrh8ULQi1od0ArKXp18xR",
+      "url": "https://drive.google.com/file/d/1lX4z6vtbJ_zHrh8ULQi1od0ArKXp18xR/view?usp=drivesdk",
+      "bytes": 52802845,
+      "md5": "99636e65de8e43f2fa278a8c0207c61c",
+      "sha256": "73353cd1600ca09c12895270ed1eeeec46f2f0682c76f7b7e966c830d40cf597"
+    },
+    {
+      "kind": "standalone_total_preview",
+      "workspace_file": "deliveries/koi-dream-10/00-总预览.jpg",
+      "id": "1_lUxXJQ-MtcOdJtf6Jw2dwBCpa_-gAOn",
+      "url": "https://drive.google.com/file/d/1_lUxXJQ-MtcOdJtf6Jw2dwBCpa_-gAOn/view?usp=drivesdk",
+      "bytes": 598052,
+      "md5": "2e0c1136972661effc6383bef5b07a6a"
+    }
+  ]
+}

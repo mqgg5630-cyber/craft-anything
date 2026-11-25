@@ -1,0 +1,337 @@
+{
+  "schema_version": 1,
+  "source_count": 3,
+  "source_cover_count": 1,
+  "source_artwork_count": 2,
+  "clean_count": 10,
+  "simulated_ui_count": 10,
+  "source_original_bytes_preserved": true,
+  "source_download_run": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45522544591",
+  "source_return_commit": "d2d19a5",
+  "source_roles": {
+    "01.jpg": "presentation_cover",
+    "02.jpg": "wallpaper",
+    "03.jpg": "wallpaper"
+  },
+  "generation": "Ten independent image-conditioned AI artworks: two reference redraws and eight new compositions. No upscaling. Cover not used as artwork reference.",
+  "clean": "No added clock, caption, icons, branding or watermark.",
+  "ui": "Deterministic simulated lockscreen: 11月22日 星期日, 9:41, small wish and vector icons. Not device screenshots.",
+  "sources": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 253445,
+      "sha256": "35e03076c26e881b17cd15127b27a7ad93c9f06ad10a6dc6cb959d3b75a450b3",
+      "md5": "27071f475c5c26e393de652f2bf07668"
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "width": 853,
+      "height": 1844,
+      "bytes": 352209,
+      "sha256": "cc633d91bf02335e0707da1944f36ddcb9353c8a551309255dc7d485d800d70c",
+      "md5": "b4ea1c12493c064c90cfc346e43864a2"
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "width": 853,
+      "height": 1844,
+      "bytes": 327247,
+      "sha256": "51905fff056772a623e28de4756047d4f7c69c1d329ec4abba87e18471e9f471",
+      "md5": "0ba0d26e4f5c460a4811df2bbfef2160"
+    }
+  ],
+  "pairs": [
+    {
+      "number": 1,
+      "scene": "双鲤成环",
+      "reference_files": [
+        2
+      ],
+      "kind": "reference_redraw",
+      "ui_wish": "时来运转",
+      "clean": {
+        "file": "02-复刻无UI/01-双鲤成环.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2255128,
+        "sha256": "c5e85ff15e208fe3d9b3513b43b6c7f0ac0dfdb9971ceb1599210613f5f24099",
+        "md5": "27d0a92573c80d535372d88874efe645"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/01-双鲤成环.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1839105,
+        "sha256": "3d4c4546f65dee3add3f6b81ad29d43da473b05042cd50979f901e039eca4523",
+        "md5": "31049b41069ddae37d12de507d7de7a4"
+      }
+    },
+    {
+      "number": 2,
+      "scene": "碧波游梦",
+      "reference_files": [
+        3
+      ],
+      "kind": "reference_redraw",
+      "ui_wish": "锦鲤入梦",
+      "clean": {
+        "file": "02-复刻无UI/02-碧波游梦.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2332656,
+        "sha256": "e54ae169e25bf254a8c671b5571f55e09284be2759d5b3a086477de3e638e88d",
+        "md5": "c35f438343688d173f62cb95a65fe2f4"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/02-碧波游梦.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1816643,
+        "sha256": "e95abc3478d214ead88fda64010c3d5012f801feccf4b9d6f2946559c9dcd70d",
+        "md5": "73b139009449fda76877307cae1cf52f"
+      }
+    },
+    {
+      "number": 3,
+      "scene": "金鳞照水",
+      "reference_files": [
+        2,
+        3
+      ],
+      "kind": "new_scene_same_series",
+      "ui_wish": "金鳞纳福",
+      "clean": {
+        "file": "02-复刻无UI/03-金鳞照水.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1839237,
+        "sha256": "60afe866daca16c91af21f1c7b0b07e33b903f29d8df7008382320c62710e82a",
+        "md5": "3efec4c0531646847639b3b7e71b2b5c"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/03-金鳞照水.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1573579,
+        "sha256": "677149e6bf6e8654f0551f0d832296aca17e8dc67199010dd7c661a2c123326d",
+        "md5": "de5492e27f8609ceec9d549fd94a866d"
+      }
+    },
+    {
+      "number": 4,
+      "scene": "朱鲤映月",
+      "reference_files": [
+        2
+      ],
+      "kind": "new_scene_same_series",
+      "ui_wish": "心愿成真",
+      "clean": {
+        "file": "02-复刻无UI/04-朱鲤映月.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2094807,
+        "sha256": "df969a76d1b71ca15b1fea8a58a0910501712b5af5a071dbc24da784f6cf3d11",
+        "md5": "f67465d81c76f3afd1dd81f643bab1b2"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/04-朱鲤映月.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1689803,
+        "sha256": "785a6c4829966b4d2b818e67172dfc4c98abe33f55663533a11671d1da229017",
+        "md5": "cc3107f3a4bf4fa6b589fe9f3b4ce85c"
+      }
+    },
+    {
+      "number": 5,
+      "scene": "逐浪生辉",
+      "reference_files": [
+        2,
+        3
+      ],
+      "kind": "new_scene_same_series",
+      "ui_wish": "好运将至",
+      "clean": {
+        "file": "02-复刻无UI/05-逐浪生辉.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1943415,
+        "sha256": "0853c4642aaeb089ac19243a22d2baef169c92d90f68a0ac0e6c39350f383db8",
+        "md5": "06b97ff78bb1c2fbc459fd909cfddecf"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/05-逐浪生辉.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1597619,
+        "sha256": "ad44d68378019587e4034a6b8513dab92da8eb4423e36df893180d92ca6f7061",
+        "md5": "a83adfcd5620c9069d71c30e05ea1e97"
+      }
+    },
+    {
+      "number": 6,
+      "scene": "荷间三愿",
+      "reference_files": [
+        2,
+        3
+      ],
+      "kind": "new_scene_same_series",
+      "ui_wish": "三愿皆安",
+      "clean": {
+        "file": "02-复刻无UI/06-荷间三愿.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2021565,
+        "sha256": "758d5212d9255ab9e22b88a12b189e3f0584c27de12e1f4e6883eadc24b1f486",
+        "md5": "253a39de6f4465084da958e5786ee297"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/06-荷间三愿.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1628348,
+        "sha256": "53985d5024c88c8b5a8b1ec47f8dbe059969021d543d789dbee04de262d26086",
+        "md5": "f7ac5a199d54333df66b9a74dcae1b97"
+      }
+    },
+    {
+      "number": 7,
+      "scene": "月汀相逢",
+      "reference_files": [
+        2
+      ],
+      "kind": "new_scene_same_series",
+      "ui_wish": "所愿皆圆",
+      "clean": {
+        "file": "02-复刻无UI/07-月汀相逢.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2060449,
+        "sha256": "42405e55fe4cffd17311ed272df2175e71b6e659d71a5c7b66de0e7a637bf35b",
+        "md5": "14e50f2bfed5ebb4dc6ffdb7cae26f36"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/07-月汀相逢.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1678497,
+        "sha256": "cf67f342403f386f31343e037bada2a8ed04da75a7aa55046af2a347f74fe409",
+        "md5": "903777a563819917d0eed773f38e6a8f"
+      }
+    },
+    {
+      "number": 8,
+      "scene": "花影听澜",
+      "reference_files": [
+        3
+      ],
+      "kind": "new_scene_same_series",
+      "ui_wish": "花开见喜",
+      "clean": {
+        "file": "02-复刻无UI/08-花影听澜.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1903681,
+        "sha256": "0f0de798c6775274c670aae750d65794d01a7c647780043d86eae9483ec6448b",
+        "md5": "187ef21c1a961c6f31166e8ab3f960f9"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/08-花影听澜.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1612621,
+        "sha256": "ca3bb46f63fabb658aa535ec09af28ba4f909bda86f249e9d76971c1157858be",
+        "md5": "226d9a46a4436130de8e32876371a195"
+      }
+    },
+    {
+      "number": 9,
+      "scene": "流金长梦",
+      "reference_files": [
+        2,
+        3
+      ],
+      "kind": "new_scene_same_series",
+      "ui_wish": "福运绵长",
+      "clean": {
+        "file": "02-复刻无UI/09-流金长梦.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 2008476,
+        "sha256": "962ad1c5d0a484b946a06971c65f32446a749a24ac564195501bdfac213ab4f4",
+        "md5": "d00b15e32b0611173eb6f8f0a1773190"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/09-流金长梦.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1676112,
+        "sha256": "7308d2674d595d41f59cdc7220d0e5584d309267dda53c7bd782b444d756a868",
+        "md5": "7d8a18d2661db3a87c55515afd32089a"
+      }
+    },
+    {
+      "number": 10,
+      "scene": "莲开有期",
+      "reference_files": [
+        2,
+        3
+      ],
+      "kind": "new_scene_same_series",
+      "ui_wish": "渐入佳境",
+      "clean": {
+        "file": "02-复刻无UI/10-莲开有期.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1582052,
+        "sha256": "adbe24c5d40ab734486645f8214af52b730c24ffba1f97d8e3d6af41e9e0df07",
+        "md5": "0b5d554b4481728ebdafaf5a7abbd211"
+      },
+      "simulated_ui": {
+        "file": "03-复刻模拟UI/10-莲开有期.png",
+        "width": 768,
+        "height": 1376,
+        "bytes": 1382633,
+        "sha256": "1ea242998fff5746605c9248089dd5e404892d97edb6254073581c25cde047b7",
+        "md5": "74892350c6bc15dc453dac63148d1152"
+      }
+    }
+  ],
+  "previews": [
+    {
+      "file": "00-总预览.jpg",
+      "width": 2000,
+      "height": 1390,
+      "bytes": 598052,
+      "sha256": "33042148f0edb9c6e9d7ca65a311b8b3ec3d18597c87e08b2dadb2007743ecf9",
+      "md5": "2e0c1136972661effc6383bef5b07a6a"
+    },
+    {
+      "file": "04-无UI总览.jpg",
+      "width": 1570,
+      "height": 1250,
+      "bytes": 491266,
+      "sha256": "6a14ff53d09f7a7a5994ed78d3e66e78c2273773426304ddbeae88a34aae8ded",
+      "md5": "996f0ef3040629ac369d0f85f844729b"
+    },
+    {
+      "file": "05-模拟UI总览.jpg",
+      "width": 1570,
+      "height": 1250,
+      "bytes": 529084,
+      "sha256": "473c3bfb9e63532742e51c775b8b73050022bea38d0724df0cf314b1fe2107ee",
+      "md5": "2236f21659dc9c274f7340d9f13fb11c"
+    },
+    {
+      "file": "原片总预览.jpg",
+      "width": 740,
+      "height": 605,
+      "bytes": 94012,
+      "sha256": "dbb2470d3a89ca6871c4d82f546217825449f2516d600cc5a9db24942e8abd27",
+      "md5": "6bc3f59740572a94450b0cb18693cad9"
+    }
+  ],
+  "cloud_status": "Consult storage-verification.json if present; this renderer does not upload."
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "project": "锦鲤入梦｜锁屏壁纸",
+  "branch": "arena/cf4bb177-craft-anything",
+  "status_at_packaging": "local_complete; consult external storage-verification.json for later upload state",
+  "source": {
+    "share_url": "https://xhslink.cn/o/3qz2uQpojFp",
+    "note_id": "6acb2a3800000000120390ba",
+    "download_environment": "GitHub Actions only; no note/CDN requests in the agent sandbox",
+    "workflow": ".github/workflows/koi-dream-download.yml",
+    "run_url": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45522544591",
+    "return_commit": "d2d19a5",
+    "files_downloaded": 3,
+    "presentation_covers": 1,
+    "distinct_wallpaper_references": 2,
+    "roles": [
+      {"file":"01-下载原片/01.jpg","role":"presentation_cover","dimensions":[1080,1440]},
+      {"file":"01-下载原片/02.jpg","role":"wallpaper","dimensions":[853,1844]},
+      {"file":"01-下载原片/03.jpg","role":"wallpaper","dimensions":[853,1844]}
+    ],
+    "downloaded_response_bytes_preserved": true,
+    "cookies_credentials_or_access_control_bypass": false,
+    "author_master_quality_claimed": false,
+    "initial_git_push_failure": "GitHub returned server-side 500; recovered by pushing script/tests first, then the workflow. No local download fallback."
+  },
+  "recreation": {
+    "independent_image_conditioned_generations": 10,
+    "reference_redraws": 2,
+    "new_compositions_same_series": 8,
+    "cover_used_as_artwork_reference": false,
+    "reference_files_used": [2,3],
+    "native_dimensions": [768,1376],
+    "upscaled_or_stretched": false,
+    "visual_direction": "Warm ivory rice paper, celadon/sage watercolor, vermilion and ivory-gold long-finned koi, fine gold water contours, generous negative space.",
+    "clean_count": 10,
+    "clean_added_text_clock_icons_or_watermark": false,
+    "simulated_ui_count": 10,
+    "simulated_ui": "Non-destructive gold-brown date, 9:41, four-character wish, lock and small vector status/quick-action icons; not real screenshots.",
+    "second_ui_clock_position": "Shifted left to avoid top-right koi",
+    "source_and_final_sheets_visually_reviewed": true
+  },
+  "validation": {
+    "repository_download_offline_tests_passed": 17,
+    "delivery_acceptance_tests_passed": 5,
+    "all_27_images_decoded_and_hashed": true,
+    "source_hashes_match_actions_manifest": true,
+    "native_dimensions_and_distinct_hashes_verified": true,
+    "clean_images_unmodified_by_ui_renderer": true,
+    "standalone_extracted_bundle_rebuild": "passed using bundled fonts, outside repository working directory",
+    "standalone_tests_passed": 8,
+    "standalone_rebuilt_image_records_identical": true,
+    "real_network_requests_in_offline_tests": false,
+    "rust_checks": "Not run; no Rust code changed."
+  },
+  "delivery": {
+    "independent_picture_files": 23,
+    "preview_files": 4,
+    "archive_includes": ["all downloaded sources", "10 clean PNGs", "10 simulated-UI PNGs", "all 4 previews", "full process documentation", "download and packaging scripts", "workflow", "tests", "fonts and font licenses"],
+    "archive_report": "archive-verification.json",
+    "latest_cloud_state": "storage-verification.json",
+    "cloud_layout": "Complete ZIP retaining separate original / clean / simulated-UI folders plus standalone total preview; not an expanded per-image mirror.",
+    "previous_deliveries_modified": false
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "archive": ".local/锦鲤入梦-原片与十张复刻完整包.zip",
+  "bytes": 52802845,
+  "md5": "99636e65de8e43f2fa278a8c0207c61c",
+  "sha256": "73353cd1600ca09c12895270ed1eeeec46f2f0682c76f7b7e966c830d40cf597",
+  "crc_verified": true,
+  "all_27_image_hashes_verified": true,
+  "resource_hashes_verified": true,
+  "member_count": 43,
+  "members": [
+    "锦鲤入梦/00-总预览.jpg",
+    "锦鲤入梦/01-下载原片/01.jpg",
+    "锦鲤入梦/01-下载原片/02.jpg",
+    "锦鲤入梦/01-下载原片/03.jpg",
+    "锦鲤入梦/02-复刻无UI/01-双鲤成环.png",
+    "锦鲤入梦/02-复刻无UI/02-碧波游梦.png",
+    "锦鲤入梦/02-复刻无UI/03-金鳞照水.png",
+    "锦鲤入梦/02-复刻无UI/04-朱鲤映月.png",
+    "锦鲤入梦/02-复刻无UI/05-逐浪生辉.png",
+    "锦鲤入梦/02-复刻无UI/06-荷间三愿.png",
+    "锦鲤入梦/02-复刻无UI/07-月汀相逢.png",
+    "锦鲤入梦/02-复刻无UI/08-花影听澜.png",
+    "锦鲤入梦/02-复刻无UI/09-流金长梦.png",
+    "锦鲤入梦/02-复刻无UI/10-莲开有期.png",
+    "锦鲤入梦/03-复刻模拟UI/01-双鲤成环.png",
+    "锦鲤入梦/03-复刻模拟UI/02-碧波游梦.png",
+    "锦鲤入梦/03-复刻模拟UI/03-金鳞照水.png",
+    "锦鲤入梦/03-复刻模拟UI/04-朱鲤映月.png",
+    "锦鲤入梦/03-复刻模拟UI/05-逐浪生辉.png",
+    "锦鲤入梦/03-复刻模拟UI/06-荷间三愿.png",
+    "锦鲤入梦/03-复刻模拟UI/07-月汀相逢.png",
+    "锦鲤入梦/03-复刻模拟UI/08-花影听澜.png",
+    "锦鲤入梦/03-复刻模拟UI/09-流金长梦.png",
+    "锦鲤入梦/03-复刻模拟UI/10-莲开有期.png",
+    "锦鲤入梦/04-无UI总览.jpg",
+    "锦鲤入梦/05-模拟UI总览.jpg",
+    "锦鲤入梦/README.md",
+    "锦鲤入梦/full-process.json",
+    "锦鲤入梦/output-manifest.json",
+    "锦鲤入梦/source-manifest.json",
+    "锦鲤入梦/原片总预览.jpg",
+    "锦鲤入梦/04-复现资源/package_koi_dream.py",
+    "锦鲤入梦/04-复现资源/archive_koi_dream.py",
+    "锦鲤入梦/04-复现资源/test_koi_dream_package.py",
+    "锦鲤入梦/04-复现资源/download_koi_dream.py",
+    "锦鲤入梦/04-复现资源/test_download_koi_dream.py",
+    "锦鲤入梦/04-复现资源/download_sunset.py",
+    "锦鲤入梦/04-复现资源/koi-dream-download.yml",
+    "锦鲤入梦/04-复现资源/NotoSansCJKsc-Regular.otf",
+    "锦鲤入梦/04-复现资源/CJK-LICENSE.txt",
+    "锦鲤入梦/04-复现资源/DMSans-Regular.ttf",
+    "锦鲤入梦/04-复现资源/DMSans-LICENSE.txt",
+    "锦鲤入梦/04-复现资源/requirements.txt"
+  ],
+  "resources": [
+    {
+      "file": "锦鲤入梦/04-复现资源/package_koi_dream.py",
+      "bytes": 9382,
+      "sha256": "ac114ea0cac1d1b33e8e9c50b4c01ac19c96e4ad2844c7e7d7c8544286edbe7b"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/archive_koi_dream.py",
+      "bytes": 4431,
+      "sha256": "4eb871cddacd67326f9af7d351de5eac408040c8d46c0e601f019a4e509480ce"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/test_koi_dream_package.py",
+      "bytes": 3413,
+      "sha256": "c289c28a25b8be5114d866ff5bc798e14b1b14c46f60051bbe1c08dbedd6c211"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/download_koi_dream.py",
+      "bytes": 1404,
+      "sha256": "89cf220e6046db2422b3a006437f413a06c1b4386e0a9d89915036142f3ee083"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/test_download_koi_dream.py",
+      "bytes": 2756,
+      "sha256": "f4d26b603dd972dbf0d220ef05e0e0325143ff5814b41a8974eb0facdf445674"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/download_sunset.py",
+      "bytes": 11353,
+      "sha256": "fd2c4ff87e3ee4cf01d75a38bb82793135e6f48889bfaecf1650c6e6e6a2d710"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/koi-dream-download.yml",
+      "bytes": 1609,
+      "sha256": "43a35f90c0e3e646b6685f95f49f3163d522fc577743178d387081951a1d4839"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/NotoSansCJKsc-Regular.otf",
+      "bytes": 16437364,
+      "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/CJK-LICENSE.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/DMSans-Regular.ttf",
+      "bytes": 73524,
+      "sha256": "1adb096acaa3d14f5ed678e99b808b0c8800f62cb342fa5c276298ad8030b458"
+    },
+    {
+      "file": "锦鲤入梦/04-复现资源/DMSans-LICENSE.txt",
+      "bytes": 4400,
+      "sha256": "61b3f97168f02ad34a748c3303d193449807534079894cc6d579eb9ba7318823"
+    }
+  ],
+  "documentation_snapshot": "Pre-upload snapshot; external storage-verification.json is authoritative for later cloud state."
+}
