@@ -1,0 +1,202 @@
+{
+  "archive": ".local/简单清新壁纸-第一张参考-十张祝福完整包.zip",
+  "bytes": 42177218,
+  "md5": "77a514978ea5f5fe37ac86f322978a93",
+  "sha256": "1f3e13940ab9003080cde75ee1f908e18b4151b8675e1540850c7903006a48bc",
+  "member_count": 38,
+  "crc_verified": true,
+  "all_member_hashes_verified": true,
+  "members": [
+    {
+      "file": "简单清新壁纸/00-十张总预览.jpg",
+      "bytes": 349012,
+      "sha256": "e8eb3b86492e2c4df2cf25f2fd2020c5e4dff013f6e6bb1ff709991a1f76d512"
+    },
+    {
+      "file": "简单清新壁纸/01-下载原片/01.jpg",
+      "bytes": 77993,
+      "sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/01-红果平安-平安喜乐.png",
+      "bytes": 1087751,
+      "sha256": "e7853d8bb9ba4c3a21893dbc22b0905d2194a7162f7ab5a7f80f1e83b30d3e66"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/02-青红相伴-岁岁平安.png",
+      "bytes": 1145609,
+      "sha256": "236ae5d36b13b5c78f0967ca4e85d6ad375e4e50ace61f2af2c648861e514256"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/03-粉果清欢-喜乐安康.png",
+      "bytes": 1102735,
+      "sha256": "7140e47945419957e2171b84198db2094c16e3b0f5dd48ec97261cb5acb07a60"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/04-柿柿顺心-事事顺遂.png",
+      "bytes": 1757033,
+      "sha256": "ea8c802428f9ada15b9dc02692b7d13eb501bbf7dbffc0de91facfe20cb9c673"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/05-橘暖生喜-大吉大利.png",
+      "bytes": 1717954,
+      "sha256": "fed1da1bcec149626864336d6a5da2f263c5e691bca9107af620af657ecceff7"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/06-榴实纳福-福满人间.png",
+      "bytes": 1196369,
+      "sha256": "4bc0353cb9c1bb6c8373526e7658be21ca46ca665fd58475fb81d6d02ac1f69f"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/07-桃枝安然-平安顺遂.png",
+      "bytes": 442951,
+      "sha256": "65c80accd5fc9092212dcc95d768b47c15d5b5117939c9d3a7fa821b73951fd3"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/08-梨香如意-万事胜意.png",
+      "bytes": 457479,
+      "sha256": "a3aa5330a69a232a82115ce10bfbb4b94d11f8aa6b71c090e69bc191ab3720a5"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/09-葡萄成双-好事成双.png",
+      "bytes": 1204582,
+      "sha256": "40ab25de5a6118c0fccad1f8861de3eb707a2d953a23058d15723de179ac3e49"
+    },
+    {
+      "file": "简单清新壁纸/02-同尺寸四字祝福/10-枇杷无忧-顺遂无忧.png",
+      "bytes": 1672240,
+      "sha256": "06013d399f01a22010eedca3d568f595424dd1ae71f015f64a3262d1773926ec"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/MaShanZheng-Regular.ttf",
+      "bytes": 5857936,
+      "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/Noto-OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/NotoSansCJKsc-Regular.otf",
+      "bytes": 16437364,
+      "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/OFL-MaShanZheng.txt",
+      "bytes": 4397,
+      "sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/archive_simple_fresh.py",
+      "bytes": 2732,
+      "sha256": "607faf7a8fa8210e5f47d38c05cbca8bdb772e0e4c92afaa783963a42f931d33"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/download_simple_fresh_first.py",
+      "bytes": 1846,
+      "sha256": "1603de4ea635ddcefe91ad4170d6af2daf155daaba050081c7af0dca7639b98e"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/download_sunset.py",
+      "bytes": 11353,
+      "sha256": "fd2c4ff87e3ee4cf01d75a38bb82793135e6f48889bfaecf1650c6e6e6a2d710"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/package_simple_fresh.py",
+      "bytes": 10763,
+      "sha256": "945e30d2a315885ae9c424a98eecf8c0d161756f5f494926fb6e7134b566a988"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/requirements.txt",
+      "bytes": 15,
+      "sha256": "570c9387510a35edf1e287600993944ebc8ee5af602c809cf00cd57e2b723779"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/simple-fresh-first-download.yml",
+      "bytes": 1690,
+      "sha256": "4738fdb383304f757e2ab7b5ec0431a4c5d702a8b30a14ceefa200479ee2f9b4"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/test_download_simple_fresh_first.py",
+      "bytes": 2880,
+      "sha256": "24629dd2ae07dc67ad3beb906ede0fef0ef38c26d8ba9c20584e235cc4e5db29"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/test_simple_fresh_package.py",
+      "bytes": 2389,
+      "sha256": "cd74eb807032d3499e06d5e40cfd432a2cbd1cecd932b0541feffb9dec2abc38"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/01-红果平安.png",
+      "bytes": 996669,
+      "sha256": "79f16584218a3353679231b56dad9fb4108fb25eb95f9db05dc8d2c9da11df35"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/02-青红相伴.png",
+      "bytes": 983407,
+      "sha256": "b2fbd7ac2f92920dc42f4c13690397e421f1f564505111c8b3d2adab925e40bb"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/03-粉果清欢.png",
+      "bytes": 987839,
+      "sha256": "57fd9d640ce33f5225c4b3e3b5c0d407bbcd3f7e2b61a84ac49eca5adc044312"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/04-柿柿顺心.png",
+      "bytes": 1425012,
+      "sha256": "c1383eb25f37f9a326c02edde5df719e2f41f564ca9f486d2124fcede0124585"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/05-橘暖生喜.png",
+      "bytes": 1463919,
+      "sha256": "9d08a323924a5093342a21bbf8015b77900066cdc13280d73be2c70c0e791468"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/06-榴实纳福.png",
+      "bytes": 1062354,
+      "sha256": "4d3d8ffdd510d734c70897e3bb33289645d7a164584a47240457c3fa592b8c25"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/07-桃枝安然.png",
+      "bytes": 1617571,
+      "sha256": "77584f77464f15ca95e6fd998f71188a208399defb766a9c4c101dd4b5bd2df6"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/08-梨香如意.png",
+      "bytes": 1667485,
+      "sha256": "1a40eeb24efd490383ead34c56617cdd9cf9f7299f5b0161c687f817dd1996c5"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/09-葡语成双.png",
+      "bytes": 1016185,
+      "sha256": "419a41c5dd28e411458f0a9e52f8d0405b32bed558a3435cf1887c3e38ebe86a"
+    },
+    {
+      "file": "简单清新壁纸/03-复现资源/底图/10-枇杷无忧.png",
+      "bytes": 1335575,
+      "sha256": "545ff7b3047d226a0487d5a9dd16bba4684f65e0bd369405c5160788375be8f5"
+    },
+    {
+      "file": "简单清新壁纸/README.md",
+      "bytes": 3161,
+      "sha256": "869ec7865753a6e7ac42ed6cc0da761af246b73e9c24809a517ded31a662f095"
+    },
+    {
+      "file": "简单清新壁纸/output-manifest.json",
+      "bytes": 14939,
+      "sha256": "a2abaacb2f804c8e843629cfb27beddd5b16369b3dfbf128a4e765a776b49f63"
+    },
+    {
+      "file": "简单清新壁纸/source-manifest.json",
+      "bytes": 981,
+      "sha256": "ee90d2504944a89643c36ee8bfe891ead3c1d1adacf05bd1e9e3abf310559664"
+    },
+    {
+      "file": "简单清新壁纸/原片总预览.jpg",
+      "bytes": 18560,
+      "sha256": "af0a503dc9d671c19f1295d5b26cefa820d2269bbb1248ca543043605a3a40b9"
+    }
+  ],
+  "snapshot": "Pre-upload; authoritative later cloud state is storage-verification.json outside ZIP."
+}

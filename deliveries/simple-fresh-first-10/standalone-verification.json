@@ -1,0 +1,8 @@
+{
+  "zip_isolated_rebuild": true,
+  "network_used": false,
+  "tests_passed": 6,
+  "ten_outputs_and_overview_byte_identical": true,
+  "stdout": "{\"source_dimensions\": [884, 1845], \"final_count\": 10, \"all_final_dimensions\": [[884, 1845]], \"other_reference_images_used\": 0}\n",
+  "test_log": "test_exact_size_wishes_and_fit (test_simple_fresh_package.DeliveryTests.test_exact_size_wishes_and_fit) ... ok\ntest_exact_ten (test_simple_fresh_package.DeliveryTests.test_exact_ten) ... ok\ntest_first_reference_only (test_simple_fresh_package.DeliveryTests.test_first_reference_only) ... ok\ntest_images_and_hashes (test_simple_fresh_package.DeliveryTests.test_images_and_hashes) ... ok\ntest_mask_components (test_simple_fresh_package.DeliveryTests.test_mask_components) ... ok\ntest_raw_inputs_preserved (test_simple_fresh_package.DeliveryTests.test_raw_inputs_preserved) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.424s\n\nOK\n"
+}

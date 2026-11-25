@@ -1,0 +1,96 @@
+{
+  "status": "complete",
+  "folder_id": "1TnwjMWHdp40wAa9JhIy6QJJgLhzXhbWk",
+  "folder_url": "https://drive.google.com/drive/folders/1TnwjMWHdp40wAa9JhIy6QJJgLhzXhbWk",
+  "original_folder_id": "1PBcXrO3JdGdOieWd-4J_ua0NenqoMzPV",
+  "results_folder_id": "1hkEMUj6HSFdhIow_E3mTt-Q69hNp7tFS",
+  "original": {
+    "id": "170WlJrnWdimPPz_RMNA_kjlQXAMb4OqY",
+    "size_and_md5_match": true
+  },
+  "results": [
+    {
+      "file": "02-同尺寸四字祝福/01-红果平安-平安喜乐.png",
+      "drive_id": "1u3Ig6M_nHLLZw0B6i7YX5Eh2db2afy56",
+      "bytes": 1087751,
+      "md5": "b9e36e209162fdf2bb48072c8c3eb203",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-同尺寸四字祝福/02-青红相伴-岁岁平安.png",
+      "drive_id": "1yX-Xyzbv725uchqF_-3rPf1Luw6hNcAI",
+      "bytes": 1145609,
+      "md5": "751eb8984c3cf858bcdba876f80d5884",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-同尺寸四字祝福/03-粉果清欢-喜乐安康.png",
+      "drive_id": "1dWLKGye8U-qfHXIRuYDhrMRWWA7vVpWN",
+      "bytes": 1102735,
+      "md5": "cdf710c2b444de99a133830d0c5d07b5",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-同尺寸四字祝福/04-柿柿顺心-事事顺遂.png",
+      "drive_id": "1AREnqJKr10DUHe-A_MIfF9YZk1tq8hUT",
+      "bytes": 1757033,
+      "md5": "4a2ec54565b8621e38336e93970cf134",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-同尺寸四字祝福/05-橘暖生喜-大吉大利.png",
+      "drive_id": "14Fn5JyTX_LGIE3kH37oIv7-yWtHYYLQ2",
+      "bytes": 1717954,
+      "md5": "6f3727b595bcaaa035b0874557526e89",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-同尺寸四字祝福/06-榴实纳福-福满人间.png",
+      "drive_id": "1UFNcadiqMTBAAXqzNP-5LwV6AwohJBVV",
+      "bytes": 1196369,
+      "md5": "f1317b555d046304594b8b169e5b9aad",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-同尺寸四字祝福/07-桃枝安然-平安顺遂.png",
+      "drive_id": "1zzybaMDf1TLEcly2I0W6rCfLYz2xWOGy",
+      "bytes": 442951,
+      "md5": "781da3e29523534d70183ccefa2d5af6",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-同尺寸四字祝福/08-梨香如意-万事胜意.png",
+      "drive_id": "1fYuIFI81xRurpiKlnz_bpwUFAswqvGGL",
+      "bytes": 457479,
+      "md5": "dce7e0550bf9fc8e82d8fff9a3fe1639",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-同尺寸四字祝福/09-葡萄成双-好事成双.png",
+      "drive_id": "1_-uB7hEy2wQA2VlbBC38Z0V1oCzVkDdH",
+      "bytes": 1204582,
+      "md5": "857ad26f3639930b2f8c9f617680d9fe",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-同尺寸四字祝福/10-枇杷无忧-顺遂无忧.png",
+      "drive_id": "1tenzTC00oExemwVQ0nY_RhFTzSJ5EkZx",
+      "bytes": 1672240,
+      "md5": "f7bcfb2fab9e313a1c01a7cb4933d288",
+      "size_and_md5_match": true
+    }
+  ],
+  "preview": {
+    "id": "17R33gAZmzpCyk4hjwtCikwzT7qnY-lqs",
+    "upload_response_size_and_md5_match": true
+  },
+  "archive": {
+    "id": "1CqlRyk48gRP0h0vOJo5h5t1jJedO4LtM",
+    "url": "https://drive.google.com/file/d/1CqlRyk48gRP0h0vOJo5h5t1jJedO4LtM/view",
+    "bytes": 42177218,
+    "md5": "77a514978ea5f5fe37ac86f322978a93",
+    "sha256": "1f3e13940ab9003080cde75ee1f908e18b4151b8675e1540850c7903006a48bc",
+    "get_file_size_and_md5_match": true
+  },
+  "verification": "Drive get_file for original/ZIP; paginated-capable list_files for all 10 outputs (no next page); size and MD5 compared with local manifests. ZIP CRC and all member SHA256 verified locally; not a Drive re-download."
+}

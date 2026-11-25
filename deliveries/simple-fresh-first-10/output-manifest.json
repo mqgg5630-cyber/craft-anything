@@ -1,0 +1,479 @@
+{
+  "schema_version": 1,
+  "share_url": "https://xhslink.cn/o/24CQFIRp9Er",
+  "note_id": "69af7ccc000000001a02eba0",
+  "source_download_run": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45524307533",
+  "source_return_commit": "5927d55",
+  "only_first_reference": true,
+  "other_carousel_images_downloaded_or_used": false,
+  "previous_koi_or_other_note_art_used": false,
+  "observed_carousel_count": 9,
+  "source": {
+    "file": "01-下载原片/01.jpg",
+    "width": 884,
+    "height": 1845,
+    "bytes": 77993,
+    "sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+    "md5": "826cbe35811740e6b9bc4d1ccadeeea4"
+  },
+  "output_count": 10,
+  "required_dimensions": [
+    884,
+    1845
+  ],
+  "all_output_dimensions_identical_to_source": true,
+  "generation": "Ten independent image-conditioned artworks. Native generated inputs are proportionally fitted to the first source exact pixel dimensions, then Chinese text is typeset. Not claimed native generation at final size.",
+  "mobile_ui_added": false,
+  "lettering": "Exactly one four-character wish per final image, deterministic licensed brush-font typesetting; no imitation author seals.",
+  "outputs": [
+    {
+      "number": 1,
+      "scene": "红果平安",
+      "wish": "平安喜乐",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "01-红果平安.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "79f16584218a3353679231b56dad9fb4108fb25eb95f9db05dc8d2c9da11df35",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": false,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/01-红果平安-平安喜乐.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 1087751,
+        "sha256": "e7853d8bb9ba4c3a21893dbc22b0905d2194a7162f7ab5a7f80f1e83b30d3e66",
+        "md5": "b9e36e209162fdf2bb48072c8c3eb203"
+      }
+    },
+    {
+      "number": 2,
+      "scene": "青红相伴",
+      "wish": "岁岁平安",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "02-青红相伴.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "b2fbd7ac2f92920dc42f4c13690397e421f1f564505111c8b3d2adab925e40bb",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": false,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/02-青红相伴-岁岁平安.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 1145609,
+        "sha256": "236ae5d36b13b5c78f0967ca4e85d6ad375e4e50ace61f2af2c648861e514256",
+        "md5": "751eb8984c3cf858bcdba876f80d5884"
+      }
+    },
+    {
+      "number": 3,
+      "scene": "粉果清欢",
+      "wish": "喜乐安康",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "03-粉果清欢.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "57fd9d640ce33f5225c4b3e3b5c0d407bbcd3f7e2b61a84ac49eca5adc044312",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": false,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/03-粉果清欢-喜乐安康.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 1102735,
+        "sha256": "7140e47945419957e2171b84198db2094c16e3b0f5dd48ec97261cb5acb07a60",
+        "md5": "cdf710c2b444de99a133830d0c5d07b5"
+      }
+    },
+    {
+      "number": 4,
+      "scene": "柿柿顺心",
+      "wish": "事事顺遂",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "04-柿柿顺心.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "c1383eb25f37f9a326c02edde5df719e2f41f564ca9f486d2124fcede0124585",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": false,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/04-柿柿顺心-事事顺遂.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 1757033,
+        "sha256": "ea8c802428f9ada15b9dc02692b7d13eb501bbf7dbffc0de91facfe20cb9c673",
+        "md5": "4a2ec54565b8621e38336e93970cf134"
+      }
+    },
+    {
+      "number": 5,
+      "scene": "橘暖生喜",
+      "wish": "大吉大利",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "05-橘暖生喜.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "9d08a323924a5093342a21bbf8015b77900066cdc13280d73be2c70c0e791468",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": false,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/05-橘暖生喜-大吉大利.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 1717954,
+        "sha256": "fed1da1bcec149626864336d6a5da2f263c5e691bca9107af620af657ecceff7",
+        "md5": "6f3727b595bcaaa035b0874557526e89"
+      }
+    },
+    {
+      "number": 6,
+      "scene": "榴实纳福",
+      "wish": "福满人间",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "06-榴实纳福.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "4d3d8ffdd510d734c70897e3bb33289645d7a164584a47240457c3fa592b8c25",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": false,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/06-榴实纳福-福满人间.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 1196369,
+        "sha256": "4bc0353cb9c1bb6c8373526e7658be21ca46ca665fd58475fb81d6d02ac1f69f",
+        "md5": "f1317b555d046304594b8b169e5b9aad"
+      }
+    },
+    {
+      "number": 7,
+      "scene": "桃枝安然",
+      "wish": "平安顺遂",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "07-桃枝安然.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "77584f77464f15ca95e6fd998f71188a208399defb766a9c4c101dd4b5bd2df6",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": true,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/07-桃枝安然-平安顺遂.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 442951,
+        "sha256": "65c80accd5fc9092212dcc95d768b47c15d5b5117939c9d3a7fa821b73951fd3",
+        "md5": "781da3e29523534d70183ccefa2d5af6"
+      }
+    },
+    {
+      "number": 8,
+      "scene": "梨香如意",
+      "wish": "万事胜意",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "08-梨香如意.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "1a40eeb24efd490383ead34c56617cdd9cf9f7299f5b0161c687f817dd1996c5",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": true,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/08-梨香如意-万事胜意.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 457479,
+        "sha256": "a3aa5330a69a232a82115ce10bfbb4b94d11f8aa6b71c090e69bc191ab3720a5",
+        "md5": "dce7e0550bf9fc8e82d8fff9a3fe1639"
+      }
+    },
+    {
+      "number": 9,
+      "scene": "葡萄成双",
+      "wish": "好事成双",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "09-葡语成双.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "419a41c5dd28e411458f0a9e52f8d0405b32bed558a3435cf1887c3e38ebe86a",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": false,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/09-葡萄成双-好事成双.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 1204582,
+        "sha256": "40ab25de5a6118c0fccad1f8861de3eb707a2d953a23058d15723de179ac3e49",
+        "md5": "857ad26f3639930b2f8c9f617680d9fe"
+      }
+    },
+    {
+      "number": 10,
+      "scene": "枇杷无忧",
+      "wish": "顺遂无忧",
+      "reference_image_index": 1,
+      "reference_sha256": "312d1ffbcbf63aa7690706f0c6c9af2f3a521ef619a6fcdff350b6460e7f3ea7",
+      "raw_file": "10-枇杷无忧.png",
+      "raw_dimensions": [
+        704,
+        1488
+      ],
+      "raw_sha256": "545ff7b3047d226a0487d5a9dd16bba4684f65e0bd369405c5160788375be8f5",
+      "sizing": {
+        "method": "single isotropic scale + centered crop, no axis stretch",
+        "scale": 1.2556818181818181,
+        "crop_in_raw_pixels": [
+          0.0,
+          9.339366515837014
+        ],
+        "target_dimensions": [
+          884,
+          1845
+        ],
+        "resampling": "Lanczos"
+      },
+      "background_cleanup": false,
+      "text": {
+        "layout": "four vertical characters",
+        "font": "Ma Shan Zheng Regular (SIL OFL)",
+        "color": "#9c5147",
+        "x_fraction": 0.8,
+        "y_fraction": 0.45,
+        "font_px": 80
+      },
+      "result": {
+        "file": "02-同尺寸四字祝福/10-枇杷无忧-顺遂无忧.png",
+        "width": 884,
+        "height": 1845,
+        "bytes": 1672240,
+        "sha256": "06013d399f01a22010eedca3d568f595424dd1ae71f015f64a3262d1773926ec",
+        "md5": "f7bcfb2fab9e313a1c01a7cb4933d288"
+      }
+    }
+  ],
+  "previews": [
+    {
+      "file": "00-十张总预览.jpg",
+      "width": 1630,
+      "height": 1420,
+      "bytes": 349012,
+      "sha256": "e8eb3b86492e2c4df2cf25f2fd2020c5e4dff013f6e6bb1ff709991a1f76d512",
+      "md5": "881a91b7b6e096e8d682bb26556e08c3"
+    },
+    {
+      "file": "原片总预览.jpg",
+      "width": 260,
+      "height": 605,
+      "bytes": 18560,
+      "sha256": "af0a503dc9d671c19f1295d5b26cefa820d2269bbb1248ca543043605a3a40b9",
+      "md5": "eae1d0339faee1e72c0347d000895cbb"
+    }
+  ],
+  "cloud_status": "Consult storage-verification.json if present."
+}
