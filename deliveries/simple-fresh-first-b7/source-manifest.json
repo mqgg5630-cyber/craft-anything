@@ -1,0 +1,32 @@
+{
+  "share_url": "https://xhslink.cn/o/24CQFIRp9Er",
+  "note_id": "69af7ccc000000001a02eba0",
+  "title": "简单清新壁纸",
+  "author": "齐齐",
+  "provenance": {
+    "branch": "arena/28bd3553-craft-anything",
+    "commit": "720e5b8c3d4258a81232ad4141e2c50dc22d07b0",
+    "manifest_path": "deliveries/fresh-wallpapers/source-manifest.json"
+  },
+  "schema_version": 2,
+  "images": [
+    {
+      "width": 884,
+      "height": 1851,
+      "format": "webp",
+      "bytes": 75728,
+      "md5": "98690e291254d4fe752af505f42ae66f",
+      "sha256": "44f463901e8847dd3c40448ecdd1605593a377eba7fe39742c2d9134bb6bb54c",
+      "file": "source/01.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611250904/107a601ebd15d554de2cf3fe90321ac9/notes_pre_post/1040g3k031th26uoj5s405nfpuj908e2so5peq3g!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    }
+  ],
+  "status": "downloaded_pending_visual_review",
+  "run_id": "45524409680",
+  "branch": "arena/b7bfcf81-craft-anything",
+  "download_method": "GitHub Actions; exact historical public CDN URLs; full decode and historical MD5/SHA-256 match",
+  "source_quality": "Public CDN files; not independently verified author master files",
+  "page_refresh": "Not retried: previous runner confirmed /login; replay existing verified public asset list only",
+  "reference_count_downloaded": 1
+}
