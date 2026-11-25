@@ -1,0 +1,498 @@
+{
+  "schema_version": 1,
+  "share_url": "https://xhslink.cn/o/3kQq76Fee2O",
+  "note_id": "6af66414000000002203bdb3",
+  "source_download_run": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45526335316",
+  "source_return_commit": "9e864b6",
+  "sources": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 1080,
+      "height": 2343,
+      "bytes": 563554,
+      "sha256": "b580c3ade15e707922f15040b1b39926b0b9168f9c83906fd4ff4edf24296ffb",
+      "md5": "96e17f2a1553a00effa81164ff6ec09c"
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "width": 1080,
+      "height": 2343,
+      "bytes": 562044,
+      "sha256": "63713fbc9411af25a7c3176ab8304972f5315ac09043bbac62987f9c564f4f42",
+      "md5": "8546608d3e0f074ac0d77640263c66d4"
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "width": 1080,
+      "height": 2343,
+      "bytes": 563413,
+      "sha256": "e60db9baf93eee77425d70ca7a90b3c9801e4bff8bf29d09768553bf7f290a0f",
+      "md5": "356b2a2faaeec06a8510774ca3e9f1e3"
+    },
+    {
+      "file": "01-下载原片/04.jpg",
+      "width": 1080,
+      "height": 2343,
+      "bytes": 560338,
+      "sha256": "4a5fdb87f37a3a6bfc117821202806f32250634cb6fe83c0e2ff2b8034fd74fd",
+      "md5": "ccbbc19eda7fe6f2684f98266a620ec1"
+    }
+  ],
+  "output_count": 10,
+  "required_dimensions": [
+    1080,
+    2343
+  ],
+  "source_phrases_transcribed_for_nonreuse_check": [
+    "欢喜由心",
+    "自在如风",
+    "爱财爱己",
+    "风生水起",
+    "安康如意",
+    "顺遂福来",
+    "萬穩萬當",
+    "不如一默",
+    "万稳万当",
+    "不如一黙"
+  ],
+  "all_twenty_phrases_replaced": true,
+  "generation": "Ten independent image-conditioned botanical paper collages. Native AI assets are 704x1520, proportionally enlarged and lightly cropped; final size is not claimed native generation.",
+  "text": "Two four-character columns, Ma Shan Zheng Regular (SIL OFL), deterministic typesetting. No original calligraphy glyphs pasted.",
+  "decoration": "New abstract floral roundels, not source author seals. No added mobile UI. Generated asset 09 has a bottom-edge crop to exclude an unwanted generated platform-like mark.",
+  "delivery_format": "folders with individual images; no ZIP created or uploaded",
+  "outputs": [
+    {
+      "number": 1,
+      "scene": "梅信",
+      "right_phrase": "春来有信",
+      "left_phrase": "花开有期",
+      "source_reference_index": 1,
+      "raw": {
+        "file": "03-制作资源/底图/01.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2313117,
+        "sha256": "c9865230a56974ff44dfabb6fb528aa93a1feb3edee33a468ae357a680e5e899",
+        "md5": "574eb5fe903a6bb92b4f66fe0ae6526b"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": null,
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/01-春来有信-花开有期.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3754195,
+        "sha256": "6fec0db666d60740262918925c13725457547539563fa204f8b33da4b2bd789f",
+        "md5": "458e950f2cd7b3767282d32ad9a1427c"
+      },
+      "positions": [
+        0.7,
+        0.43,
+        0.3,
+        0.57
+      ]
+    },
+    {
+      "number": 2,
+      "scene": "茶暖",
+      "right_phrase": "岁序更新",
+      "left_phrase": "心有暖阳",
+      "source_reference_index": 2,
+      "raw": {
+        "file": "03-制作资源/底图/02.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2139019,
+        "sha256": "4cd7d3a558ac06d1b5b1ba27f973cd345bd5e492d03d1ed77f82d119d68b38f4",
+        "md5": "6ca549a081cbfc05cd74066647522a81"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": null,
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/02-岁序更新-心有暖阳.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3490611,
+        "sha256": "ad8f772f796f728edb5415be048699f934b4cb30d5952e7ba05910e50a7c0c12",
+        "md5": "fff77ce6a0585874944db7b055af0677"
+      },
+      "positions": [
+        0.69,
+        0.31,
+        0.3,
+        0.66
+      ]
+    },
+    {
+      "number": 3,
+      "scene": "玉兰",
+      "right_phrase": "长安常乐",
+      "left_phrase": "好梦皆圆",
+      "source_reference_index": 3,
+      "raw": {
+        "file": "03-制作资源/底图/03.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2091516,
+        "sha256": "75f7bea756d9ea22f8d914c075d7321c4edf6e786cce0c944d346e00a906d556",
+        "md5": "ed0c4260ca2a16bba9986417529b8de7"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": null,
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/03-长安常乐-好梦皆圆.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3386319,
+        "sha256": "5bc2527a4f65f1c87b52b92ab15bdbc2c5c0649fd09b3968095de7b284155dc0",
+        "md5": "c5dda37bc350a18ef0222df5d6e8fe90"
+      },
+      "positions": [
+        0.7,
+        0.32,
+        0.29,
+        0.55
+      ]
+    },
+    {
+      "number": 4,
+      "scene": "竹喜",
+      "right_phrase": "心纳吉庆",
+      "left_phrase": "日有小欢",
+      "source_reference_index": 4,
+      "raw": {
+        "file": "03-制作资源/底图/04.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2072262,
+        "sha256": "370e38684f7035361cae03a23e3b57a7679fde6078124c9ea29816da798991a7",
+        "md5": "1201561b7b58c5485f092117065945ca"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": null,
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/04-心纳吉庆-日有小欢.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3471205,
+        "sha256": "158d426cc52c97eaf4a1847f87cb4e036ced6aeb411a1084f06fda74e60842fc",
+        "md5": "7093c2a63f5462012b97635ab01dfa8e"
+      },
+      "positions": [
+        0.69,
+        0.38,
+        0.3,
+        0.55
+      ]
+    },
+    {
+      "number": 5,
+      "scene": "海棠",
+      "right_phrase": "福随春至",
+      "left_phrase": "喜伴风来",
+      "source_reference_index": 1,
+      "raw": {
+        "file": "03-制作资源/底图/05.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2317052,
+        "sha256": "adf070fd193983ed1ee1c1d1fea0d389f72066dd8900b9095c4ba532c7b73bca",
+        "md5": "25b1b999112d9935e6f8d0db46e11bf2"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": null,
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/05-福随春至-喜伴风来.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3748757,
+        "sha256": "6dabf61faee1aa29edb253ae39516674c719bebfcef0cd4b595e3ddf41ccced4",
+        "md5": "9282caaa788eaf6b05ec81e148ec0bb0"
+      },
+      "positions": [
+        0.7,
+        0.43,
+        0.3,
+        0.56
+      ]
+    },
+    {
+      "number": 6,
+      "scene": "水仙",
+      "right_phrase": "灯火可亲",
+      "left_phrase": "所遇皆暖",
+      "source_reference_index": 2,
+      "raw": {
+        "file": "03-制作资源/底图/06.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2153720,
+        "sha256": "bb13e9f88246f3ac2622b16d6cd2ebb80eeed2f3e159332f7ee179ef36042338",
+        "md5": "c8cf1b226a6e595d3a46b887ab97d687"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": null,
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/06-灯火可亲-所遇皆暖.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3567329,
+        "sha256": "27e4644db1b63a3b1952cbdf75d681f29988adba5dacae573ce14ccd32428751",
+        "md5": "fa4b19c26dc3f663419669f070ba7639"
+      },
+      "positions": [
+        0.7,
+        0.38,
+        0.3,
+        0.58
+      ]
+    },
+    {
+      "number": 7,
+      "scene": "桃锦",
+      "right_phrase": "山河锦绣",
+      "left_phrase": "前路生花",
+      "source_reference_index": 3,
+      "raw": {
+        "file": "03-制作资源/底图/07.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2218643,
+        "sha256": "4b2a8d281307f2a3726959fdd35b38d0f7fe3e44b6a6e86112d4c5f5181d047c",
+        "md5": "dbc5109de1b3d2dd86d6bdb89e4ea8d1"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": null,
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/07-山河锦绣-前路生花.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3274683,
+        "sha256": "b765ea360ce5f8f3c67794279ca471bb83828dac644bb58af8dad68463f5ee6d",
+        "md5": "5748e5f248b37031a334dad2a38a7387"
+      },
+      "positions": [
+        0.7,
+        0.4,
+        0.3,
+        0.57
+      ]
+    },
+    {
+      "number": 8,
+      "scene": "兰语",
+      "right_phrase": "且听春语",
+      "left_phrase": "静待花开",
+      "source_reference_index": 4,
+      "raw": {
+        "file": "03-制作资源/底图/08.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2374299,
+        "sha256": "dcf68f8d00d0c801241576a27481aa6946462d44bbcdca81fa37d3fd948b754f",
+        "md5": "13643d92fb479678808650e1a693cbd7"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": null,
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/08-且听春语-静待花开.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3485775,
+        "sha256": "3a3f73ac143f278410c91a0440ae3b377be7de4c8d2904c231b0aed3e2aeea0c",
+        "md5": "2c4a0c82913bb653e6dcdd8dfd678dcc"
+      },
+      "positions": [
+        0.7,
+        0.37,
+        0.3,
+        0.57
+      ]
+    },
+    {
+      "number": 9,
+      "scene": "花朝",
+      "right_phrase": "朝朝舒意",
+      "left_phrase": "暮暮安然",
+      "source_reference_index": 1,
+      "raw": {
+        "file": "03-制作资源/底图/09.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2062488,
+        "sha256": "7f792b66a7bddad337728a24994b5864925d5b199abfe95e34141b121e0d75ed",
+        "md5": "6cd824fd1fe19ced4518838cfd4e6feb"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": [
+          0,
+          0,
+          704,
+          1482
+        ],
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/09-朝朝舒意-暮暮安然.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3347710,
+        "sha256": "ca9b0fd48079bdbf98b52e2339a4f1af83cb2e6f4e8e5fb3ccc66bcd1ec20b4f",
+        "md5": "9d0e227b960b1f19d580d5c1b9d0d0e4"
+      },
+      "positions": [
+        0.7,
+        0.38,
+        0.3,
+        0.56
+      ]
+    },
+    {
+      "number": 10,
+      "scene": "腊梅",
+      "right_phrase": "良辰如约",
+      "left_phrase": "新岁长宁",
+      "source_reference_index": 2,
+      "raw": {
+        "file": "03-制作资源/底图/10.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2256286,
+        "sha256": "bc86c0d0b61235ab94dabe891c1b2ccfd401303d5c67f7585764293b40291aac",
+        "md5": "3011945dade647b4102234159ebdd265"
+      },
+      "sizing": {
+        "native_dimensions": [
+          704,
+          1520
+        ],
+        "pre_fit_crop": null,
+        "method": "single isotropic Lanczos scale with centered crop; no axis stretching",
+        "target": [
+          1080,
+          2343
+        ]
+      },
+      "result": {
+        "file": "02-十张新文案壁纸/10-良辰如约-新岁长宁.png",
+        "width": 1080,
+        "height": 2343,
+        "bytes": 3640610,
+        "sha256": "b65fbd9f3f7698159f6b7e693686c92aadbcb3790684557721f1229ece7584b3",
+        "md5": "3ba724789ca5f2050899aa58818de04b"
+      },
+      "positions": [
+        0.7,
+        0.38,
+        0.3,
+        0.55
+      ]
+    }
+  ],
+  "previews": [
+    {
+      "file": "00-十张总预览.jpg",
+      "width": 1640,
+      "height": 1550,
+      "bytes": 627100,
+      "sha256": "1753cd85c439b6fdb5433c66ebdb08b4d8d48ddf2b11528e3cf4b1432f3f7daf",
+      "md5": "9685f16fdd71728c4a48319e3967223f"
+    },
+    {
+      "file": "原片总预览.jpg",
+      "width": 980,
+      "height": 605,
+      "bytes": 127899,
+      "sha256": "3873827f2b1c6c943a6df96ec6ff5634d488f5c7ee2519969d96abee263bfb11",
+      "md5": "c22458e36e9fbf93b2724a9a5ae89b5c"
+    }
+  ]
+}

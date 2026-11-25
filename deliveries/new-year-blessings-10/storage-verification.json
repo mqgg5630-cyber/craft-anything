@@ -1,0 +1,215 @@
+{
+  "status": "complete",
+  "delivery_format": "folders and individual images; no ZIP created or uploaded",
+  "folder_id": "1b_Sb3exIW1-hkK4zPFKuWtZ5ETgu_Kwr",
+  "source_folder_id": "1_rwVbJ8OJQX-E6OnlbpFvVcFbqQfpVjW",
+  "output_folder_id": "1F9W1OLdDbnT1kVR5jrPspUgImIA2rFBJ",
+  "raw_backup_folder_id": "1100ZonIJEmsp_Ok_iYtB4IuXwhLI4cdD",
+  "sources": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "drive_id": "1L0XaNJR_lGojNQzxDhdvubrFjgZ4AtSk",
+      "bytes": 563554,
+      "md5": "96e17f2a1553a00effa81164ff6ec09c",
+      "sha256": "b580c3ade15e707922f15040b1b39926b0b9168f9c83906fd4ff4edf24296ffb",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "drive_id": "1iwI5EKibuVCleOjPzJj6pgCrMrzv-dco",
+      "bytes": 562044,
+      "md5": "8546608d3e0f074ac0d77640263c66d4",
+      "sha256": "63713fbc9411af25a7c3176ab8304972f5315ac09043bbac62987f9c564f4f42",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "drive_id": "1_s2YjuQ-L7xA4Zz8Wd4x3_OPLZrlJp5X",
+      "bytes": 563413,
+      "md5": "356b2a2faaeec06a8510774ca3e9f1e3",
+      "sha256": "e60db9baf93eee77425d70ca7a90b3c9801e4bff8bf29d09768553bf7f290a0f",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "01-下载原片/04.jpg",
+      "drive_id": "1CZqaL43gqpjKuwJHLzdC_zfGfpBWM6Qs",
+      "bytes": 560338,
+      "md5": "ccbbc19eda7fe6f2684f98266a620ec1",
+      "sha256": "4a5fdb87f37a3a6bfc117821202806f32250634cb6fe83c0e2ff2b8034fd74fd",
+      "size_and_md5_match": true
+    }
+  ],
+  "outputs": [
+    {
+      "file": "02-十张新文案壁纸/01-春来有信-花开有期.png",
+      "drive_id": "1hZ5C8BI96iFxv5O3Go6GtICDEfBq94OI",
+      "bytes": 3754195,
+      "md5": "458e950f2cd7b3767282d32ad9a1427c",
+      "sha256": "6fec0db666d60740262918925c13725457547539563fa204f8b33da4b2bd789f",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-十张新文案壁纸/02-岁序更新-心有暖阳.png",
+      "drive_id": "1qHVLxbZiNTitrtygSr1AqQEOWYypMNZB",
+      "bytes": 3490611,
+      "md5": "fff77ce6a0585874944db7b055af0677",
+      "sha256": "ad8f772f796f728edb5415be048699f934b4cb30d5952e7ba05910e50a7c0c12",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-十张新文案壁纸/03-长安常乐-好梦皆圆.png",
+      "drive_id": "11T_ws4PHEgwnKNojAKrP2g6sAxj24eDa",
+      "bytes": 3386319,
+      "md5": "c5dda37bc350a18ef0222df5d6e8fe90",
+      "sha256": "5bc2527a4f65f1c87b52b92ab15bdbc2c5c0649fd09b3968095de7b284155dc0",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-十张新文案壁纸/04-心纳吉庆-日有小欢.png",
+      "drive_id": "1eElvowamDol8UOBklfYgVoFtUcoK2mof",
+      "bytes": 3471205,
+      "md5": "7093c2a63f5462012b97635ab01dfa8e",
+      "sha256": "158d426cc52c97eaf4a1847f87cb4e036ced6aeb411a1084f06fda74e60842fc",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-十张新文案壁纸/05-福随春至-喜伴风来.png",
+      "drive_id": "1ThiMSjFgjRKdITgY4hTz4nMtOQjs1znt",
+      "bytes": 3748757,
+      "md5": "9282caaa788eaf6b05ec81e148ec0bb0",
+      "sha256": "6dabf61faee1aa29edb253ae39516674c719bebfcef0cd4b595e3ddf41ccced4",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-十张新文案壁纸/06-灯火可亲-所遇皆暖.png",
+      "drive_id": "1e6Ff0GO-m65gwVEowye16jUzxzRWSZ5e",
+      "bytes": 3567329,
+      "md5": "fa4b19c26dc3f663419669f070ba7639",
+      "sha256": "27e4644db1b63a3b1952cbdf75d681f29988adba5dacae573ce14ccd32428751",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-十张新文案壁纸/07-山河锦绣-前路生花.png",
+      "drive_id": "136vR2Pc4vonAlEjgTakh9Bs2m5f5rVz6",
+      "bytes": 3274683,
+      "md5": "5748e5f248b37031a334dad2a38a7387",
+      "sha256": "b765ea360ce5f8f3c67794279ca471bb83828dac644bb58af8dad68463f5ee6d",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-十张新文案壁纸/08-且听春语-静待花开.png",
+      "drive_id": "1XyEvysHd4zeWQyUbK-ZKSzo6qzxaKJl9",
+      "bytes": 3485775,
+      "md5": "2c4a0c82913bb653e6dcdd8dfd678dcc",
+      "sha256": "3a3f73ac143f278410c91a0440ae3b377be7de4c8d2904c231b0aed3e2aeea0c",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-十张新文案壁纸/09-朝朝舒意-暮暮安然.png",
+      "drive_id": "1Hu8a8WdZVyCCZGyVBQCfLjAxB_d0bt82",
+      "bytes": 3347710,
+      "md5": "9d0e227b960b1f19d580d5c1b9d0d0e4",
+      "sha256": "ca9b0fd48079bdbf98b52e2339a4f1af83cb2e6f4e8e5fb3ccc66bcd1ec20b4f",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "02-十张新文案壁纸/10-良辰如约-新岁长宁.png",
+      "drive_id": "1OE-p8qw05D_tZcpUd04kECrPoBrzrERp",
+      "bytes": 3640610,
+      "md5": "3ba724789ca5f2050899aa58818de04b",
+      "sha256": "b65fbd9f3f7698159f6b7e693686c92aadbcb3790684557721f1229ece7584b3",
+      "size_and_md5_match": true
+    }
+  ],
+  "raw_backups": [
+    {
+      "file": "03-制作资源/底图/01.png",
+      "drive_id": "1QtJr45gLOVC4AhqWq1_A_dqRD6mzhcw9",
+      "bytes": 2313117,
+      "md5": "574eb5fe903a6bb92b4f66fe0ae6526b",
+      "sha256": "c9865230a56974ff44dfabb6fb528aa93a1feb3edee33a468ae357a680e5e899",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "03-制作资源/底图/02.png",
+      "drive_id": "1OwYvfEL4vqwu7jBl-XkSL0m2VovGMj5N",
+      "bytes": 2139019,
+      "md5": "6ca549a081cbfc05cd74066647522a81",
+      "sha256": "4cd7d3a558ac06d1b5b1ba27f973cd345bd5e492d03d1ed77f82d119d68b38f4",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "03-制作资源/底图/03.png",
+      "drive_id": "1OC4obSL3FYHU4qvl7AZOb96SQjvocMiv",
+      "bytes": 2091516,
+      "md5": "ed0c4260ca2a16bba9986417529b8de7",
+      "sha256": "75f7bea756d9ea22f8d914c075d7321c4edf6e786cce0c944d346e00a906d556",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "03-制作资源/底图/04.png",
+      "drive_id": "1sJkIpFCCgreQr9nUHCgK5iCeP5lw8IO6",
+      "bytes": 2072262,
+      "md5": "1201561b7b58c5485f092117065945ca",
+      "sha256": "370e38684f7035361cae03a23e3b57a7679fde6078124c9ea29816da798991a7",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "03-制作资源/底图/05.png",
+      "drive_id": "1kIm_MjPbcV6TVn4rNa6z7qBOAu46S6p4",
+      "bytes": 2317052,
+      "md5": "25b1b999112d9935e6f8d0db46e11bf2",
+      "sha256": "adf070fd193983ed1ee1c1d1fea0d389f72066dd8900b9095c4ba532c7b73bca",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "03-制作资源/底图/06.png",
+      "drive_id": "167GXD-3_Dr8dM8oYvZF9H88Ph5xYVDoe",
+      "bytes": 2153720,
+      "md5": "c8cf1b226a6e595d3a46b887ab97d687",
+      "sha256": "bb13e9f88246f3ac2622b16d6cd2ebb80eeed2f3e159332f7ee179ef36042338",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "03-制作资源/底图/07.png",
+      "drive_id": "1JJ_tHGyJUPoXF1loqR7vprUuMtfIy_PR",
+      "bytes": 2218643,
+      "md5": "dbc5109de1b3d2dd86d6bdb89e4ea8d1",
+      "sha256": "4b2a8d281307f2a3726959fdd35b38d0f7fe3e44b6a6e86112d4c5f5181d047c",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "03-制作资源/底图/08.png",
+      "drive_id": "15Oy034dgPTu3x7TG9iv5ia2ySj2Xo5gn",
+      "bytes": 2374299,
+      "md5": "13643d92fb479678808650e1a693cbd7",
+      "sha256": "dcf68f8d00d0c801241576a27481aa6946462d44bbcdca81fa37d3fd948b754f",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "03-制作资源/底图/09.png",
+      "drive_id": "1B-7-_iDfVX3hGiXSK8Z9YObzZ4cTjKLt",
+      "bytes": 2062488,
+      "md5": "6cd824fd1fe19ced4518838cfd4e6feb",
+      "sha256": "7f792b66a7bddad337728a24994b5864925d5b199abfe95e34141b121e0d75ed",
+      "size_and_md5_match": true
+    },
+    {
+      "file": "03-制作资源/底图/10.png",
+      "drive_id": "1LW9FnL6OTqmQyo88bFdQCsI9xaZjnW2x",
+      "bytes": 2256286,
+      "md5": "3011945dade647b4102234159ebdd265",
+      "sha256": "bc86c0d0b61235ab94dabe891c1b2ccfd401303d5c67f7585764293b40291aac",
+      "size_and_md5_match": true
+    }
+  ],
+  "preview": {
+    "file": "00-十张总预览.jpg",
+    "drive_id": "1muZ8L2Ke3P4MBHabrNQJjFu5ZjtFyDDy",
+    "bytes": 627100,
+    "md5": "9685f16fdd71728c4a48319e3967223f",
+    "sha256": "1753cd85c439b6fdb5433c66ebdb08b4d8d48ddf2b11528e3cf4b1432f3f7daf",
+    "size_and_md5_match": true
+  },
+  "verification": "Drive list_files read-back for all sources, final images and raw assets; next_page_token null in each list. Compared file sizes and MD5 against local manifests. Preview checked against upload response. Local SHA256 recorded; no Drive re-download claimed."
+}

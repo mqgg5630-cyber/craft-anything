@@ -43,3 +43,7 @@ __pycache__/
 
 # Rebuildable local sunset delivery archive; individual images/manifests stay versioned
 /deliveries/和你一起奔夕阳-完整交付-cf4bb177.zip
+
+# New Year generation inputs are preserved as individual Drive files;
+# final wallpapers and hash/provenance manifests remain versioned.
+/deliveries/new-year-blessings-10/03-制作资源/底图/
