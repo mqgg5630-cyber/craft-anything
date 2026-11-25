@@ -1,0 +1,156 @@
+{
+  "images": [
+    {
+      "file": "images/01.png",
+      "reference": "source/01.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2276399,
+      "md5": "fee4f7aecd08a4df0d7e30e957ae1e9b",
+      "sha256": "8e648a979a152e125e27bd54f7bd934144b76d48c349beb45b01ace4aaaa7611",
+      "ui_file": "ui/01.png",
+      "ui": {
+        "bytes": 1743506,
+        "md5": "5f977db924becfd6833eb57c12122592",
+        "sha256": "784d3d963bae967a40af9077b1cc30d406b5bf42089d6c217f0b398f2defd5f4"
+      }
+    },
+    {
+      "file": "images/02.png",
+      "reference": "source/01.webp",
+      "width": 768,
+      "height": 1352,
+      "bytes": 1820593,
+      "md5": "df7a8ac0497fa81cdf1bbbe191893c4b",
+      "sha256": "f46c2c1ed1b42fe85e9a6f4e9320faccde1b371fcd64acd83d427594f1f26135",
+      "ui_file": "ui/02.png",
+      "ui": {
+        "bytes": 1746184,
+        "md5": "3be8de21dc5903e7995d6eba04bb8f44",
+        "sha256": "99958d3d9f93fa8d3aa600da1538e373ace2ab6659eabe16bec7d2cf5bc408bd"
+      }
+    },
+    {
+      "file": "images/03.png",
+      "reference": "source/01.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2287391,
+      "md5": "2bd8c74fceee44abfb20a83a2bf01039",
+      "sha256": "f4a18abed1fbbec97b61ac40b2a8defaf4aa3b7042e4eece20f4c014016042bb",
+      "ui_file": "ui/03.png",
+      "ui": {
+        "bytes": 1754595,
+        "md5": "a72cef7de8f6939b2ce173c6424120d7",
+        "sha256": "4f4de2e2b3c8be7c6e5a6912022e42e4e44a128ac91eede57ceb8ccca316721e"
+      }
+    },
+    {
+      "file": "images/04.png",
+      "reference": "source/01.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 2293643,
+      "md5": "0303f30fedb74e470e32c0ff493b31c6",
+      "sha256": "214d1ade784940f263b13a02ce000a86cb6d44784da5402e4c7a99a3aa2759e3",
+      "ui_file": "ui/04.png",
+      "ui": {
+        "bytes": 1751889,
+        "md5": "f434f280557cd6c6c099db9c6451cc49",
+        "sha256": "6138daf8dfe926fdd28da42e4c0f0ffb98c1d7006c20a2dfa52948f48fc3014e"
+      }
+    },
+    {
+      "file": "images/05.png",
+      "reference": "source/01.webp",
+      "width": 848,
+      "height": 1264,
+      "bytes": 2234398,
+      "md5": "f5bb7b52504c1d0516d48300434d90e5",
+      "sha256": "dfa810de9c2f8f50e75ed7196305168abb6102c51e7b989547bee7cb5d90c62a",
+      "ui_file": "ui/05.png",
+      "ui": {
+        "bytes": 1717710,
+        "md5": "03117e7930f741b094ab0b67304025b3",
+        "sha256": "0346d6406cbb489111b6e6fb055aeb26d03e33c8f3d9e298786cd83768b68f11"
+      }
+    },
+    {
+      "file": "images/06.png",
+      "reference": "source/03.webp",
+      "width": 720,
+      "height": 1456,
+      "bytes": 1841980,
+      "md5": "db6570c49a297429b86c2b514be40a9f",
+      "sha256": "51e0c47ab05ad3040eada94ca2eec46c317c8dbe0d21915e9d882e56e15b3179",
+      "ui_file": "ui/06.png",
+      "ui": {
+        "bytes": 1783306,
+        "md5": "8bea30167259bfa42f3cc4055980ee25",
+        "sha256": "bb3d354724c0bfc52519ac5ef730bd9cd72dc7ee1c0ca9118f4d26ecfd0d28fa"
+      }
+    },
+    {
+      "file": "images/07.png",
+      "reference": "source/03.webp",
+      "width": 704,
+      "height": 1504,
+      "bytes": 1868332,
+      "md5": "8e5eabf746d367290f1e2d86ebeffc99",
+      "sha256": "012d6081edc5ea0c1a723872563f1fd653eadb46e4f45e06eb5b14118565c35b",
+      "ui_file": "ui/07.png",
+      "ui": {
+        "bytes": 1814248,
+        "md5": "5634a22acf3438558babfaa435321fec",
+        "sha256": "c5cb3e57c708ac26c8e72cbafcf38cb3d88a2004a373c89b18bfbc4f56b5cdad"
+      }
+    },
+    {
+      "file": "images/08.png",
+      "reference": "source/03.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1871703,
+      "md5": "af84494fa3ab2d925882f9cb76fc7717",
+      "sha256": "7442e5eb42bda7d8288be9ce3cb61132ac03fa7416d1c7dd9fdc104f5061fb8f",
+      "ui_file": "ui/08.png",
+      "ui": {
+        "bytes": 1808915,
+        "md5": "c5883f2de9f812bd7b8a446d7075c3c6",
+        "sha256": "928f733aefe09c845d979af8c6782ec564930f525f6a74213c54942d4d0286d4"
+      }
+    },
+    {
+      "file": "images/09.png",
+      "reference": "source/03.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1859916,
+      "md5": "fb1969fa1dce9e59eb26c233bc7c123a",
+      "sha256": "0cd666a5c69e86634b5985b2d819d1617931b20a22a966af93deeb6b78951326",
+      "ui_file": "ui/09.png",
+      "ui": {
+        "bytes": 1801935,
+        "md5": "ae399ae56df7efaf57bf78d4f791b757",
+        "sha256": "3336991cd453af54f2ed46c17283fd9ceadddff0a2ae0a962048d260afd21675"
+      }
+    },
+    {
+      "file": "images/10.png",
+      "reference": "source/03.webp",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1917977,
+      "md5": "5d51041cb57aa0ace6ccaec7113de071",
+      "sha256": "8729e2b5c0a2012c20402d0f87efb8dea8d95ef6e05e8af7b6a24eca8443714f",
+      "ui_file": "ui/10.png",
+      "ui": {
+        "bytes": 1856011,
+        "md5": "f1c6c4d31c2eb7fb9f20ee3c64152f77",
+        "sha256": "2e30459dfad3f4274ded4b0b9ef4eb194eaf61e07eaf734cc34d4b141bcdcb5f"
+      }
+    }
+  ],
+  "count": 10,
+  "note": "02 cropped 24 bottom pixels to remove a generated stray credit; 06–10 have post-added Chinese blessing; UI is a static mockup"
+}

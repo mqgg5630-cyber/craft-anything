@@ -1,0 +1,16 @@
+{
+  "status": "verified_archives_and_previews",
+  "root": "1qcfB9vH1hUnun2wykwtqhOCy5JwJgMzC",
+  "source_folder": "1gcK3eyJ11UreBvGLPEM5UIxZktP8NQ_r",
+  "no_ui_folder": "1_wyE4UQT9BvTjEi6Id14Db8a-XlIxSNV",
+  "ui_folder": "1jU6-DcrWLLh8TiGnCmC6VmNuVeAqHhQp",
+  "files": [
+    {"name":"公开原片_3张.zip","id":"1EIteFt7V8ZZg5KZ53MKZp00WFi_7suIy","md5":"97641d2866bb0ba2be0a5522c3605a77","count":3},
+    {"name":"00-原片总览.jpg","id":"1YzyvStG_4DiPLlW5ZEZYBsKxu87lBly0","md5":"f0b1f15ead486c2af2e3623789c2e607"},
+    {"name":"复刻无UI_10张.zip","id":"1lILM0x8zcH6RAInntAeMAEqVj6DKAy6p","md5":"9ece73e170360f6058759bf91e8ff48d","count":10},
+    {"name":"00-无UI总览.jpg","id":"1ZDp4DpZ-pZ7u_1BvzWNIpKlqt9XfzpSd","md5":"e47600a377b2efaa29fd61c796492307"},
+    {"name":"模拟UI_10张.zip","id":"1umCoXjt2hBf75TXaajV54jFXDZTaRPQ8","md5":"2dd84e47c2767fc659fa9fd2ab32b0a0","count":10},
+    {"name":"00-模拟UI总览.jpg","id":"1BovVJxRcCp7v9EGerC59r7pY0mtxTzUw","md5":"e738ff19a98ffa24b3a4c7ff1e6df1c9"}
+  ],
+  "method":"Decoded each image locally, checked unique hashes, ZIP counts and CRCs; listed Drive folders after upload and matched all six MD5 checksums to local bytes."
+}
