@@ -1,0 +1,410 @@
+{
+  "target_size": [
+    1080,
+    2347
+  ],
+  "size_basis": "All nine public reference images are 1080 × 2347",
+  "method": "Proportional fill crop and resize; added Chinese typography and simulated lock screen UI",
+  "images": [
+    {
+      "index": 1,
+      "words": "日子顺遂",
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/01.png",
+          "dimensions": [
+            768,
+            1376
+          ],
+          "bytes": 2379718,
+          "sha256": "d9666a43337f7b3571d45dc8a1b664a82ed7adfe80dbedf420f3825213ff6acf",
+          "md5": "43684eae37066d2a18e6fe909e1f4be2"
+        },
+        {
+          "path": "images/01.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2789556,
+          "sha256": "9cccac0ad472bfa054ef60c9537c3aeda0fbebbb2846d2887c535e221d54de7e",
+          "md5": "49fd80d302526a64cbe518907420bcdd"
+        },
+        {
+          "path": "ui/01.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2776706,
+          "sha256": "5c164c8769dd966c1d9b9aac50d01035834ca342b40d1fb52b3a575cd6ff1d9c",
+          "md5": "0aebb102473d3dbed81b92c46b09324d"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "words": "喜乐常伴",
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/02.png",
+          "dimensions": [
+            768,
+            1376
+          ],
+          "bytes": 2047599,
+          "sha256": "b7b892a51d721d8bf7f2b872f8cdcc38e295044f09e225be5e1741d5d655f24c",
+          "md5": "8cbe756fe2560b1743aa147e3ce95823"
+        },
+        {
+          "path": "images/02.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 3210577,
+          "sha256": "389a82191e3308ffdacd031f0135a89eff403bff5b9332a1318a6d69fa654ad7",
+          "md5": "409503ea347fdc90e08a3f758e37f8d0"
+        },
+        {
+          "path": "ui/02.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 3187319,
+          "sha256": "3251549888c7582d9554fe613987d4041b80aa82964d810b24115aeaf5219b96",
+          "md5": "a42a20b28f031b2c1fee2826dfcdce92"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "words": "好事将至",
+      "crop_center": [
+        0.35,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/03.png",
+          "dimensions": [
+            848,
+            1264
+          ],
+          "bytes": 2544393,
+          "sha256": "1d448472e7e9832b4179141b82a24e4460ae7d3573dade85b9c678745c049933",
+          "md5": "bb170c4c9864ed90d06855e03788daa9"
+        },
+        {
+          "path": "images/03.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2970785,
+          "sha256": "187422acec29265dea2e40205676f084a17f7a1bc36b4ac084517a9118d8a268",
+          "md5": "1e8e23fe11569d72131d0e2bbd25f335"
+        },
+        {
+          "path": "ui/03.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2955575,
+          "sha256": "b67400bfd152d17d8d384746ae00e4db486848a57968acb36ec98c7e42a22959",
+          "md5": "4e6952cfa9c1e762916ed105c1e01185"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "words": "万事从容",
+      "crop_center": [
+        0.65,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/04.png",
+          "dimensions": [
+            848,
+            1264
+          ],
+          "bytes": 2298365,
+          "sha256": "ccd83799201a887968d986e96f6b1b675ca6ef9f000453a4b882f785cc8f182e",
+          "md5": "46f639e37936fdbdc37665c421c93904"
+        },
+        {
+          "path": "images/04.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2891589,
+          "sha256": "01260b8caaa05cf31503f84b33cde2650a3091b7065cdaca7f4338d1169b1f1e",
+          "md5": "38fb56da13a5c613c8378168f7cff753"
+        },
+        {
+          "path": "ui/04.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2867895,
+          "sha256": "ab42c01bde189b67941c91c3d8a7f28315407a10c429ce2bbd9ccbe361868e67",
+          "md5": "ecc215a78aaf6dea6aa65a58c5d00bcf"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "words": "花开有时",
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/05.png",
+          "dimensions": [
+            768,
+            1376
+          ],
+          "bytes": 1567753,
+          "sha256": "9040f4975d2f191158a75b5baa5a7f26d4c77037b50a161df51db8f485c150a8",
+          "md5": "6cab44f7a9aa28bb03b98ef15098480a"
+        },
+        {
+          "path": "images/05.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2266319,
+          "sha256": "27cbbcf52becf29f28e2a05e581fa612ef032941772e2a4016b28f254f278c40",
+          "md5": "6279f573153cef06d198f1a751b6f01a"
+        },
+        {
+          "path": "ui/05.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2264788,
+          "sha256": "2f8be46799d0fbd53bf896555a0a78b208b765952c483884de37365ae7fdd158",
+          "md5": "1e17d6f236823594513232ffb1d17a81"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "words": "心向暖阳",
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/06.png",
+          "dimensions": [
+            768,
+            1376
+          ],
+          "bytes": 2143214,
+          "sha256": "8e50f1f5fa00f3f2d3d1a16e317c6a17e211db177a8afe773416ce749fe074f8",
+          "md5": "e44721ce4aa1bde5cebf2fc4b8dda286"
+        },
+        {
+          "path": "images/06.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 3277343,
+          "sha256": "e6e1200ebeaf3a36f7832d383e03590aeb6485b5727e151f56c15dd2ba86937a",
+          "md5": "aab41f66960fb2063d18fd1b3408fa15"
+        },
+        {
+          "path": "ui/06.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 3274098,
+          "sha256": "d59277c59ce82c289f526eb6d1c2bbb5c897ebdc5df1fa2fc91f84aa0b42c0f9",
+          "md5": "f3b1075a632016584276d6cc3fd84eba"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "words": "慢慢生活",
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/07.png",
+          "dimensions": [
+            768,
+            1376
+          ],
+          "bytes": 2165209,
+          "sha256": "e393b4609dfb9b4ab787287aec8ba8cf86de5be35a895bd254c4ea446a155948",
+          "md5": "0f2caf463166a138317861b54711995e"
+        },
+        {
+          "path": "images/07.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2937670,
+          "sha256": "28739029223e9c5842370cacd2f46714a31d270f8bf43cab8dc5468895105db9",
+          "md5": "24495d7d8267d8da8df496fb126b88a2"
+        },
+        {
+          "path": "ui/07.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2927054,
+          "sha256": "12e13434c295e366ddf39c7254a92f35ae441921f51e97992df5d4860b43c0b1",
+          "md5": "3c6d76b5268927e8ec4bdfae73c09787"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "words": "岁岁安然",
+      "crop_center": [
+        0.35,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/08.png",
+          "dimensions": [
+            848,
+            1264
+          ],
+          "bytes": 2229989,
+          "sha256": "95e172677f6a913853e756a515ad7a3c84f957c1cf98e1b3a8b7627340be2914",
+          "md5": "bad7ac737d131e24c03e3fcfe5792e1c"
+        },
+        {
+          "path": "images/08.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2971451,
+          "sha256": "260a7d87758c09b8e9ead6616549c28ab4de57a8e363a05b5013c736eb4a9995",
+          "md5": "3f010c8f6b18439d1d8b8b270cbfa7a4"
+        },
+        {
+          "path": "ui/08.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2952270,
+          "sha256": "2f17c5ff528dd8f249583ca21ebd4212e132ed712dfe40d52bcbd479f58106dc",
+          "md5": "5a18de9ee9a970760e810498316e55c5"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "words": "自有花期",
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/09.png",
+          "dimensions": [
+            768,
+            1376
+          ],
+          "bytes": 2134850,
+          "sha256": "3fb795af07ef417e730ac20b85c8560c859abbc7a907bb326e799d73ff5e368d",
+          "md5": "103054b8bc20ec6a5da78348da91d4e0"
+        },
+        {
+          "path": "images/09.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2673236,
+          "sha256": "a86d3c7bf8bd9eb498dada62759034d60cedb87e05ed3a452b15831c4e87ad95",
+          "md5": "11bef66cfa1fa686519b2eea34062baf"
+        },
+        {
+          "path": "ui/09.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2666661,
+          "sha256": "0cf7caaf7deb565758151bdf0df952889d7d8f953aec9b3643a6c8a879a94bc9",
+          "md5": "f365a43996942afbba3d4d4d74fe47c3"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "words": "温柔以待",
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "files": [
+        {
+          "path": "generated/10.png",
+          "dimensions": [
+            768,
+            1376
+          ],
+          "bytes": 2202044,
+          "sha256": "8ee8b0791d5fe29aa1c611013989ce1bb98150ef63698e6886e440dcabeea8e9",
+          "md5": "b2a78d5fd4d93028d90f736a64bf1270"
+        },
+        {
+          "path": "images/10.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2804501,
+          "sha256": "597109ba2277a96e40e8443886365eb01f0a181f2278ec6c1f1687ee5075a2c2",
+          "md5": "9cc01e4ac9160fba7dee1c657f126bcd"
+        },
+        {
+          "path": "ui/10.png",
+          "dimensions": [
+            1080,
+            2347
+          ],
+          "bytes": 2792601,
+          "sha256": "69d51d79b800cf5bde1c2fac2888c20a81e99d2a4892e480e2b41a565760849c",
+          "md5": "023973459b790b144e847aa256b5793d"
+        }
+      ]
+    }
+  ]
+}

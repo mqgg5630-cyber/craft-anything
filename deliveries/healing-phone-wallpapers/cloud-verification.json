@@ -1,0 +1,13 @@
+{
+ "root":"1SfPSBh1r4vyhXqTNaxeh9bdG5Iy0ZUj2",
+ "target_size":[1080,2347],
+ "checks":"Local ZIP entry count and CRC, image decoding and dimensions checked. Drive folder listings, file sizes and MD5 values matched local files.",
+ "files":[
+  {"name":"公开原片_9张.zip","count":9,"size":1223238,"md5":"35b62e7d778131d76be5d59c29885fab"},
+  {"name":"00-原片总览.jpg","size":343722,"md5":"edd61655209b726df2ab46c6a08e4be6"},
+  {"name":"无UI壁纸_10张_1080x2347.zip","count":10,"size":28797375,"md5":"acf61fa5355b8763424c8a2dd3798310"},
+  {"name":"00-无UI总览.jpg","size":397577,"md5":"e2e59f46b83316da27ef13de2860bdc5"},
+  {"name":"模拟UI_10张_1080x2347.zip","count":10,"size":28670265,"md5":"f6cb636e983f1f03c9128de24bbc1328"},
+  {"name":"00-模拟UI总览.jpg","size":410621,"md5":"2cb1c12453796499a46593d5150c277e"}
+ ]
+}
