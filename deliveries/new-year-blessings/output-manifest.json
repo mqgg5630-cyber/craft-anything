@@ -1,0 +1,380 @@
+{
+  "target_size": [
+    1080,
+    2343
+  ],
+  "target_basis": "all four public reference images are 1080 x 2343",
+  "method": "AI backgrounds proportionally cropped and resampled, paper slips, new blessing text and seals overlaid; lockscreen UI is a static mockup",
+  "images": [
+    {
+      "index": 1,
+      "right_column": "岁岁安宁",
+      "left_column": "事事从容",
+      "files": [
+        {
+          "path": "generated/01.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2108437,
+          "sha256": "72c967ff7fe90b542d229b599450da051f7fa29ecf934033dbc468a3dfe55dbd",
+          "md5": "f759f96cc167b716f86ec44d6b1b3861"
+        },
+        {
+          "path": "images/01.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 2906263,
+          "sha256": "99b850fb027fe7442ae2db2874e9057c453cfde36d1c98d390e59351c929e507",
+          "md5": "971aeb9d7c200cc041293daf843b7c03"
+        },
+        {
+          "path": "ui/01.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 2902365,
+          "sha256": "26a07f606ca2d22dbf097876efb2bc6797a1afa1e698b469705087e23c4803fd",
+          "md5": "bff7fe00e33c1cb46c0f488a413939ec"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "right_column": "福满人间",
+      "left_column": "喜上眉梢",
+      "files": [
+        {
+          "path": "generated/02.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2009616,
+          "sha256": "5a7b9e7d5c358d1a0a31fe8efa2ce2c150f8473f8231fec0fe81334b07ed1b97",
+          "md5": "79847ccd339b812cd9a512bbb0e8cd0a"
+        },
+        {
+          "path": "images/02.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 2876681,
+          "sha256": "f8f99c2d1f5554ba2810b3be10faca850229b074713414f9672f71f439e29969",
+          "md5": "c98524200588745aab179d92b587abcb"
+        },
+        {
+          "path": "ui/02.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 2869863,
+          "sha256": "1f913ad0ce041cc65e51188191302effc7bb8c0bb961eb9feb115ed7ac1b7b3a",
+          "md5": "083c6eb5312bb69fd53448a123ecc59d"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "right_column": "心怀热爱",
+      "left_column": "日有清欢",
+      "files": [
+        {
+          "path": "generated/03.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1959478,
+          "sha256": "48ed1fb6b49e13feda7e111f969f644354f7549f2870e6bcadd8d96af31ab5f2",
+          "md5": "1e47d3df2f97ee837792055b37943ba9"
+        },
+        {
+          "path": "images/03.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 2844792,
+          "sha256": "e46d8a2cbd6f44239263c1e3a9d8e28bf983ce6bd6d51d671469062e31c66524",
+          "md5": "a66e2bf888776e3bf74cfe428edf51f6"
+        },
+        {
+          "path": "ui/03.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 2841528,
+          "sha256": "c1a1e241ea0dc7f919c39eb38800870ff025efa07cd7e43a8d1a649db85b1d75",
+          "md5": "4046192c66907c5abff3495f58fb80c9"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "right_column": "财运渐丰",
+      "left_column": "福气盈门",
+      "files": [
+        {
+          "path": "generated/04.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2042074,
+          "sha256": "fd548313c52ee87dc6d7d54fe7c4c8767f68e98d2e628bbbd8ad94d51b442984",
+          "md5": "7e1d108bf554c5a261954c15fd856eb7"
+        },
+        {
+          "path": "images/04.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3212600,
+          "sha256": "c7b729ff198cf6e63034c3da538664b232aa7c58e13c0c14e3341cd96ee74a4a",
+          "md5": "5f06ff017da5ee4c0b71f3e93ecd3cdd"
+        },
+        {
+          "path": "ui/04.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3208156,
+          "sha256": "60394ad062c65fd64c76eabbac2bc2ebb1972f748a6a59871e7b96c361f47ed2",
+          "md5": "cf730bee3f4998539eb02da652a7b17f"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "right_column": "安然向暖",
+      "left_column": "四季皆欢",
+      "files": [
+        {
+          "path": "generated/05.png",
+          "size": [
+            848,
+            1264
+          ],
+          "bytes": 2376204,
+          "sha256": "78273246fe2c8255a5dd0aac975bd65c97e8d47b06ecd828dd16821701adc78e",
+          "md5": "abaddd3c8d78d1bb0bf7b7b508fd7fe4"
+        },
+        {
+          "path": "images/05.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3165657,
+          "sha256": "6c76bec7698c630c0389fcb6551036765eeab37f369b5b146aa32946d13b53e3",
+          "md5": "12110a68aa679107e8f4fa09d3843de6"
+        },
+        {
+          "path": "ui/05.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3153215,
+          "sha256": "5154aa61d79c92684ec9ec913fa44ba6f5ae049ea7be7ed7c5093d98b389c5eb",
+          "md5": "9708acaae36b3a64ba93dfbad26717b7"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "right_column": "愿得所愿",
+      "left_column": "行有坦途",
+      "files": [
+        {
+          "path": "generated/06.png",
+          "size": [
+            704,
+            1527
+          ],
+          "bytes": 2304977,
+          "sha256": "0127277e993f2036e63948772bc5e2c3417f20a55b2e15efc381386d8573fe6d",
+          "md5": "b0d07d78ea92a12a1f9656ab58f47c3e"
+        },
+        {
+          "path": "images/06.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3324066,
+          "sha256": "b01c4dc11c2ae37ec67105344043b36e8dac05e7948491a660c91dc7a7b20653",
+          "md5": "1a2bb2384e4808725f89423b58153a39"
+        },
+        {
+          "path": "ui/06.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3303590,
+          "sha256": "5a1c65dc7ac55ec0da76aefe3788b9845f78afafb5507f0637e62d7c1c2c0ed0",
+          "md5": "5cfe6c671890f1457fe0a1e8ffdd501c"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "right_column": "平安常伴",
+      "left_column": "幸福相随",
+      "files": [
+        {
+          "path": "generated/07.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2118565,
+          "sha256": "bfad6189d0d20b26f3b79ef627dba5fba6578f6952516b92f43e7ce975ace14a",
+          "md5": "8871c3aeb88d0c696d50d27bc17df308"
+        },
+        {
+          "path": "images/07.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3145267,
+          "sha256": "a35150ba562e30601cc4f4e510f9f0cdd052e681338d7d85b60c38e94b7b344e",
+          "md5": "47a92f74d822c5592497da3b664399b0"
+        },
+        {
+          "path": "ui/07.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3135996,
+          "sha256": "f7c2cc403dc261e4cc355bab663eb7d99515357990bb1d430c151bf6265ed99c",
+          "md5": "f8a930b7ac7501d8f293a6dbc746cd07"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "right_column": "诸事和顺",
+      "left_column": "喜乐长留",
+      "files": [
+        {
+          "path": "generated/08.png",
+          "size": [
+            848,
+            1264
+          ],
+          "bytes": 2162293,
+          "sha256": "e6d0cabfd5a079d6fb4ba5d23b355a797da3bba126cab5299d3412cfabe80167",
+          "md5": "0a1db3f1af739558cd00fcfe5a768c2b"
+        },
+        {
+          "path": "images/08.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 2931967,
+          "sha256": "c55c97a32878af925012af5a296e3e33f61d662939df309a134f2eba7fb61818",
+          "md5": "07883d647d969360c21e3ac0761bd992"
+        },
+        {
+          "path": "ui/08.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 2923617,
+          "sha256": "e4a6e5c4a241cd0aeb01744767e6eda685546089dde19ff15812e9463d0c3761",
+          "md5": "137fb6a7f230096aa698edd6eda22f36"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "right_column": "繁花有期",
+      "left_column": "好梦成真",
+      "files": [
+        {
+          "path": "generated/09.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2099245,
+          "sha256": "0549abc06939149330d186b37755efcbebda87225eb72487185fc3677cffcaf7",
+          "md5": "93f4d126b6b1b31c8668e7fbe619466d"
+        },
+        {
+          "path": "images/09.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3073608,
+          "sha256": "0284dc99f1949b0d68d2abdb426dd23009fa6f3674d2e25ff14fae92f8b09861",
+          "md5": "d3a650d937b7f96f66d3b90c763d0cad"
+        },
+        {
+          "path": "ui/09.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3069072,
+          "sha256": "f32a50c9de15619ff21f59fc20946dc14b949ed91ba5a21e70229e379caab2cb",
+          "md5": "a00913365b02c8c4a28d0a6603acc3f6"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "right_column": "万事欣然",
+      "left_column": "福泽绵长",
+      "files": [
+        {
+          "path": "generated/10.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2232445,
+          "sha256": "d081d6e50e27e850486587cf1be04764ac84091752dba31217acb9ba769d54ba",
+          "md5": "ec22d38164275f313e2f2ee50db60a15"
+        },
+        {
+          "path": "images/10.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3209113,
+          "sha256": "2907ad84b54077e6f5a10877f0918373850417c7e9dde004b94c4de52a1b4c53",
+          "md5": "e7d55aefc1b3336593238b0d75c77a08"
+        },
+        {
+          "path": "ui/10.png",
+          "size": [
+            1080,
+            2343
+          ],
+          "bytes": 3198460,
+          "sha256": "018e1483b6a7cfa1033779c524a537a3adacbde82e889444813d3ea1f4ed7f55",
+          "md5": "09ca1411fa3c3d828458874dee303a55"
+        }
+      ]
+    }
+  ]
+}
