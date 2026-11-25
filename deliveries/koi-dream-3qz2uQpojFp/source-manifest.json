@@ -46,11 +46,12 @@
       "historical_hash_match": true
     }
   ],
-  "status": "downloaded_pending_visual_review",
+  "status": "downloaded_verified_and_visually_reviewed",
   "run_id": "45522405135",
   "branch": "arena/b7bfcf81-craft-anything",
   "download_method": "GitHub Actions; exact historical public CDN URLs; full decode and historical MD5/SHA-256 match",
   "source_quality": "Public CDN files; not independently verified author master files",
   "page_refresh": "Not retried: previous runner confirmed /login; replay existing verified public asset list only",
-  "reference_count_downloaded": 3
+  "reference_count_downloaded": 3,
+  "visual_review": "All 3 opened individually before generation; 01 edge-stream wallpaper, 02 lock/home presentation, 03 circular koi wallpaper"
 }

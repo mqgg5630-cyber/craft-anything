@@ -9,7 +9,7 @@
     "锦鲤入屏",
     "6acb2a3800000000120390ba"
   ],
-  "historical_exact_note_match_found": false,
+  "historical_exact_note_match_found": true,
   "branches": [
     {
       "branch": "arena/e2bbb9ab-craft-anything",
@@ -77,9 +77,13 @@
     }
   ],
   "run_id": "45521978093",
-  "status": "blocked_source_download",
-  "source_downloaded_count": 0,
-  "generated_count": 0,
-  "ui_generated_count": 0,
-  "preview_count": 0
+  "status": "resolved_via_user_identified_successful_branch",
+  "source_downloaded_count": 3,
+  "generated_count": 10,
+  "ui_generated_count": 10,
+  "preview_count": 4,
+  "initial_audit_note": "Historical snapshot only; superseded after user identified branch update with new successful same-note run",
+  "resolved_run_id": "45522405135",
+  "historical_successful_run_id": "45521991356",
+  "historical_successful_commit": "1584c75babc309ef2572985dad9e1e79f415e13c"
 }

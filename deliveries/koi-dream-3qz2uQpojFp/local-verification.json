@@ -1,0 +1,20 @@
+{
+  "source_count": 3,
+  "clean_count": 10,
+  "ui_count": 10,
+  "preview_count": 4,
+  "all_23_decoded": true,
+  "source_hashes_match": true,
+  "clean_files_unchanged_by_ui": true,
+  "clean_unique": true,
+  "native_sizes": [
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1522
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "file": "images/04.png",
+    "reason": "Remove generated imitation author attribution from own AI output only; original references untouched",
+    "before_sha256": "ba01da8930f776877229659c41b38b169a75eb6a0b789d6ef854ffad3b547a66",
+    "after_sha256": "55e81418a35454d7a49368fc0739557f09bf28f9ad3f776c9bb80bf3b15ebc9e",
+    "patch_box": [
+      300,
+      1470,
+      410,
+      1510
+    ],
+    "method": "Small feathered texture clone in own generated bottom margin; no resize/upscale"
+  },
+  {
+    "file": "images/05.png",
+    "reason": "Remove generated imitation author attribution from own AI output only; original references untouched",
+    "before_sha256": "7c6f6cfa9c2143f1caa53182fdef14b9eaf5bb62567b3a16c2a6f8e7c2e93faf",
+    "after_sha256": "eb78d20be9f7702f6f4ea835e542f5dad15d5fde7aa0be2f39e6b3c80bf3a412",
+    "patch_box": [
+      300,
+      1470,
+      410,
+      1510
+    ],
+    "method": "Small feathered texture clone in own generated bottom margin; no resize/upscale"
+  },
+  {
+    "file": "images/06.png",
+    "reason": "Remove generated imitation author attribution from own AI output only; original references untouched",
+    "before_sha256": "35728cf2d8fbead69a17ba4244e6c08bd1d8443e86c45e31706109bc140c1dd8",
+    "after_sha256": "f17d0856cf903d452a10f2d83069d1f5d8927adf4544f70d2ad10d2314ae23ac",
+    "patch_box": [
+      300,
+      1470,
+      410,
+      1510
+    ],
+    "method": "Small feathered texture clone in own generated bottom margin; no resize/upscale"
+  }
+]

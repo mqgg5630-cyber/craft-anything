@@ -1,0 +1,323 @@
+{
+  "generated_count": 10,
+  "ui_count": 10,
+  "reference_count": 3,
+  "art_reference_count": 2,
+  "quality": "Model-native PNG, no upscaling; source02 is presentation only",
+  "ui_note": "Simulated lock screen overlay, not real device screenshot or installable theme",
+  "visual_review": {
+    "status": "reviewed",
+    "method": "All 10 clean and all 10 UI inspected in their respective contact sheets; originals inspected individually",
+    "style": "Ivory paper, sage watercolor, metallic gold currents, flowing koi fins; both original layout groups preserved",
+    "known_variations": {
+      "04": "Three koi rather than planned two; accepted as explicit scene variation",
+      "05": "Red koi at upper left instead of planned gold at upper right; UI clock shifted right to clear fish"
+    },
+    "postprocess": "Small imitation-author-name artifacts generated in 04/05/06 corrected only in own AI images using nearby paper texture; original WebPs and their attribution unmodified. See postprocess-log.json",
+    "not_pixel_exact": true
+  },
+  "files": [
+    {
+      "file": "images/01.png",
+      "format": "png",
+      "width": 704,
+      "height": 1522,
+      "bytes": 2270123,
+      "md5": "8b793644e49622c6f170ccc42acb8e19",
+      "sha256": "f30ddc6a15cbeadbf64c8e4179739f5b419ffb27229c6292068a09e5d5784f59",
+      "kind": "no_ui",
+      "title": "右岸流金",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "右侧S形流水，金鲤上红鲤下"
+    },
+    {
+      "file": "ui/01.png",
+      "format": "png",
+      "width": 704,
+      "height": 1522,
+      "bytes": 1781080,
+      "md5": "3d47ea5467796ad9d64ddbd3b9544ede",
+      "sha256": "b19bbc3123f0030958d97487a4285a84bc4675b98960a2debed2e46b3bc6dca8",
+      "kind": "simulated_ui",
+      "title": "右岸流金",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "右侧S形流水，金鲤上红鲤下"
+    },
+    {
+      "file": "images/02.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 2299603,
+      "md5": "4f0bc3a490e1cb9963fb1ed62488ac97",
+      "sha256": "bf912c0830126c4d08e414831c7fbccbbb3ba10fe25f0f1ed83736e7c1dbee00",
+      "kind": "no_ui",
+      "title": "左岸清游",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "左侧流水留白，两鲤相向"
+    },
+    {
+      "file": "ui/02.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1781777,
+      "md5": "fd1b4e0e4e395f7b3b2fc29cc0e3576b",
+      "sha256": "051841894bfdd3f5d98cfff009be507c9f7b6b85e708d181a629ce49d95ae16f",
+      "kind": "simulated_ui",
+      "title": "左岸清游",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "左侧流水留白，两鲤相向"
+    },
+    {
+      "file": "images/03.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1929709,
+      "md5": "777b0fa78899fa82af699196f6612815",
+      "sha256": "022fc2c80d56eab21987d738c49721c68b3f008f9065f5c921c1cee339d25dda",
+      "kind": "no_ui",
+      "title": "双鲤同行",
+      "references": [
+        "source/01.webp",
+        "source/03.webp"
+      ],
+      "change": "下方双鲤同游，上部大留白"
+    },
+    {
+      "file": "ui/03.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1577190,
+      "md5": "71c9e8af5f17a6e8e7db738209f83008",
+      "sha256": "580965b6fcbc997e6e70bc10e97ccd191eb2c480192f8054d4b3b8ab9172059a",
+      "kind": "simulated_ui",
+      "title": "双鲤同行",
+      "references": [
+        "source/01.webp",
+        "source/03.webp"
+      ],
+      "change": "下方双鲤同游，上部大留白"
+    },
+    {
+      "file": "images/04.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1779951,
+      "md5": "972a650751b1ea59bfc5fd04524c56e4",
+      "sha256": "55e81418a35454d7a49368fc0739557f09bf28f9ad3f776c9bb80bf3b15ebc9e",
+      "kind": "no_ui",
+      "title": "三鲤回湾",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "右侧与下缘回流，生成变体为一红两金三条锦鲤"
+    },
+    {
+      "file": "ui/04.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1778506,
+      "md5": "0351581ac2ef750bdd46697666cf934f",
+      "sha256": "65b3d4913f730a25cc3b05d36ddb1d5f4de4d12795c403b8c5bf8e40150a3c95",
+      "kind": "simulated_ui",
+      "title": "三鲤回湾",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "右侧与下缘回流，生成变体为一红两金三条锦鲤"
+    },
+    {
+      "file": "images/05.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1708622,
+      "md5": "a7b9c68e739de6e4f28b73c9f9a247a5",
+      "sha256": "eb78d20be9f7702f6f4ea835e542f5dad15d5fde7aa0be2f39e6b3c80bf3a412",
+      "kind": "no_ui",
+      "title": "斜流入梦",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "左上红鲤与右下金鲤，斜向水路"
+    },
+    {
+      "file": "ui/05.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1706163,
+      "md5": "44cae16bcc2d96081219f49d410fa816",
+      "sha256": "22670912669c0ec6958d08235bdf76d9edd00a8629863cc86659402b3b7b458c",
+      "kind": "simulated_ui",
+      "title": "斜流入梦",
+      "references": [
+        "source/01.webp"
+      ],
+      "change": "左上红鲤与右下金鲤，斜向水路"
+    },
+    {
+      "file": "images/06.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1877163,
+      "md5": "55ae1c75bae7dc0458083e5e041a6899",
+      "sha256": "f17d0856cf903d452a10f2d83069d1f5d8927adf4544f70d2ad10d2314ae23ac",
+      "kind": "no_ui",
+      "title": "双鲤回游",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "下部圆形回游，金鲤左红鲤右"
+    },
+    {
+      "file": "ui/06.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1878154,
+      "md5": "6554cef884f94bda6b8b0e4f5440f43d",
+      "sha256": "938b6cac078aab40a251de518b9e2bfb15c8ffcee7233012397ed2acea27c3c2",
+      "kind": "simulated_ui",
+      "title": "双鲤回游",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "下部圆形回游，金鲤左红鲤右"
+    },
+    {
+      "file": "images/07.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 2062425,
+      "md5": "d3606e46a41f8ec205bddca7c836e7fd",
+      "sha256": "183f3674067b2ce35dbc47cc408ff36a7f53d48882de84cb433df9d5e0143b25",
+      "kind": "no_ui",
+      "title": "椭圆漪澜",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "椭圆流水，红鲤左金鲤右"
+    },
+    {
+      "file": "ui/07.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1744202,
+      "md5": "71a60b88fe957be40b0b876be6b43a0a",
+      "sha256": "ce374bd2d6fa1d90ad2ad646bd657ea313dbf572f183c1cb2043dc3c7b0f0f90",
+      "kind": "simulated_ui",
+      "title": "椭圆漪澜",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "椭圆流水，红鲤左金鲤右"
+    },
+    {
+      "file": "images/08.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 2220080,
+      "md5": "2ddeb572732371725179b94b03032902",
+      "sha256": "2397719d43fcdfc73a6bbc37084943e52dad7da408e338d66f05c41e28b3895e",
+      "kind": "no_ui",
+      "title": "阴阳清漩",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "开放双鲤回旋构图"
+    },
+    {
+      "file": "ui/08.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1848207,
+      "md5": "fc7d18c691496969fa176d73795dca1b",
+      "sha256": "ac6aac045b4fef4c7df34ed412900fe9b8995a5195ee0e75f0cc03233185fd39",
+      "kind": "simulated_ui",
+      "title": "阴阳清漩",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "开放双鲤回旋构图"
+    },
+    {
+      "file": "images/09.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 2197245,
+      "md5": "70adfd47c65ce3b5f0b955ef276248f0",
+      "sha256": "f8547e2ddc5ea47d299ffb1e31a382c8c3033269b350a75698720097fa7de57d",
+      "kind": "no_ui",
+      "title": "顺水生辉",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "下部顺时针环流"
+    },
+    {
+      "file": "ui/09.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1879893,
+      "md5": "4c84ce4a6e274626420417800fcf66c2",
+      "sha256": "2d099b3910cb5b12fc3d88c1bbd33ed5ac763333a73cd688fa5fa4f841b8ed14",
+      "kind": "simulated_ui",
+      "title": "顺水生辉",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "下部顺时针环流"
+    },
+    {
+      "file": "images/10.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 2054630,
+      "md5": "2c6f5dfe76000707c8f888efb7f662b7",
+      "sha256": "0fad5ca0fb13fdf511718c1b26408716f564ca9701dfa0eb2ae3ba31ca4b1dcb",
+      "kind": "no_ui",
+      "title": "金玉相逢",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "开放环流中的双鲤S形动线"
+    },
+    {
+      "file": "ui/10.png",
+      "format": "png",
+      "width": 704,
+      "height": 1520,
+      "bytes": 1758667,
+      "md5": "05f04487514d4c6e07b8b4f2e4453c8f",
+      "sha256": "aac454a437046e9590501f74427e6b164fee4ec45bc45f67821cb1bc91e7a96e",
+      "kind": "simulated_ui",
+      "title": "金玉相逢",
+      "references": [
+        "source/03.webp"
+      ],
+      "change": "开放环流中的双鲤S形动线"
+    }
+  ]
+}
