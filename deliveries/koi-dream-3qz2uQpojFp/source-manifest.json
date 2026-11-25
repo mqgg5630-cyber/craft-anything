@@ -1,0 +1,56 @@
+{
+  "share_url": "https://xhslink.cn/o/3qz2uQpojFp",
+  "note_id": "6acb2a3800000000120390ba",
+  "title": "锦鲤入梦｜锁屏壁纸",
+  "author": "Nihility",
+  "provenance": {
+    "branch": "arena/28bd3553-craft-anything",
+    "commit": "1584c75babc309ef2572985dad9e1e79f415e13c",
+    "manifest_path": "deliveries/koi-dream/source-manifest.json",
+    "successful_run": "45521991356",
+    "method": "Exact public CDN URL replay; compare historical bytes and hashes"
+  },
+  "schema_version": 2,
+  "images": [
+    {
+      "width": 853,
+      "height": 1844,
+      "format": "webp",
+      "bytes": 253386,
+      "md5": "91aed9f5b433e2f3a3905e1797c997b9",
+      "sha256": "1c112d6892f7f3ed893484beaca7edd17239a6a5c2e514231c3c56d5f41e2c1d",
+      "file": "source/01.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611250853/ce5501ae2e52143b6140bfb35fe2b397/notes_pre_post/1040g3k0326633uqf4c1g5phtrkthou56du1qgu8!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    },
+    {
+      "width": 1080,
+      "height": 1440,
+      "format": "webp",
+      "bytes": 178958,
+      "md5": "7e6426be1ec8b3dbf2deb64880a20b10",
+      "sha256": "a18344415186eca569757207d4e2fa1cc858ea031a0ec6989658951819983fe1",
+      "file": "source/02.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611250853/3bd10a02c907044df614d2e3a72b3118/notes_pre_post/1040g3k0326633uqf4c005phtrkthou56m4b2200!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    },
+    {
+      "width": 853,
+      "height": 1844,
+      "format": "webp",
+      "bytes": 298916,
+      "md5": "92310122a48ba518f1f9480464c9ca47",
+      "sha256": "83c3e9c98873d71f7b1bf697001e3e216edf5b5c43e78414ddc127e09d08227c",
+      "file": "source/03.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611250853/5d51ece77f7b216c8772a873fc1fcbbb/notes_pre_post/1040g3k0326633uqf4c105phtrkthou56sntargg!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    }
+  ],
+  "status": "downloaded_pending_visual_review",
+  "run_id": "45522405135",
+  "branch": "arena/b7bfcf81-craft-anything",
+  "download_method": "GitHub Actions; exact historical public CDN URLs; full decode and historical MD5/SHA-256 match",
+  "source_quality": "Public CDN files; not independently verified author master files",
+  "page_refresh": "Not retried: previous runner confirmed /login; replay existing verified public asset list only",
+  "reference_count_downloaded": 3
+}

@@ -1,6 +1,7 @@
 {
-  "status": "blocked_source_download",
-  "error_type": "ValueError",
-  "error": "No unambiguous public carousel",
-  "run_id": "45521978093"
+  "status": "downloaded_pending_visual_review",
+  "run_id": "45522405135",
+  "images_verified": true,
+  "historical_hashes_matched": true,
+  "count": 3
 }
