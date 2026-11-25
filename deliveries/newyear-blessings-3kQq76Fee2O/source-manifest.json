@@ -1,0 +1,66 @@
+{
+  "share_url": "https://xhslink.cn/o/3kQq76Fee2O",
+  "note_id": "6af66414000000002203bdb3",
+  "title": "祝福文字 新年壁纸",
+  "author": "阿倾哥哥",
+  "provenance": {
+    "branch": "arena/28bd3553-craft-anything",
+    "commit": "cc4fe9b00a6fbd03cd602feeb8d49a5e9e98daa3",
+    "manifest": "deliveries/new-year-blessings/source-manifest.json",
+    "method": "Read successful same-note Actions manifest via GitHub API; no image bytes copied"
+  },
+  "schema_version": 2,
+  "images": [
+    {
+      "width": 1080,
+      "height": 2343,
+      "format": "webp",
+      "bytes": 523764,
+      "md5": "37ae8d1775b642644e73eee71983b232",
+      "sha256": "4773124db2da616a855f88e4ca1f3ef15f5776e360b6875b2eba31fb668665e6",
+      "file": "source/01.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611250926/853231aee5f29940b311db3d48d8fdae/1040g2sg327g9sndlng1g5nimrshg95p0qgoes6o!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    },
+    {
+      "width": 1080,
+      "height": 2343,
+      "format": "webp",
+      "bytes": 525124,
+      "md5": "468a4090d1bcb544838f1b155a6c4c15",
+      "sha256": "38d35cfaa8a8090dc65da50f169af3661654c50c74f72e01838d7febd1852eb0",
+      "file": "source/02.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611250926/cc7a1a0c10d818caaa1d2cc94e8df5f9/1040g2sg327g9sndlng005nimrshg95p0m96u92g!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    },
+    {
+      "width": 1080,
+      "height": 2343,
+      "format": "webp",
+      "bytes": 525154,
+      "md5": "af3ae9c565bb5482d0cf11efcfc08e83",
+      "sha256": "3704a50c838c7937422e7e6b1e5161ee3d7e797376eba916ff6629461f1b093e",
+      "file": "source/03.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611250926/76747a18344240080e78647f842f8066/1040g2sg327g9sndlng0g5nimrshg95p01i10gb0!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    },
+    {
+      "width": 1080,
+      "height": 2343,
+      "format": "webp",
+      "bytes": 525794,
+      "md5": "e8d4f1db8bb09907aeea497c7c73b1ab",
+      "sha256": "bb324992438c1d306da023d06a89977867a1996edcd32554d9ff1b7620238214",
+      "file": "source/04.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611250926/fa4872ceb9bbb9c0a387c9d9f42dc8d6/1040g2sg327g9sndlng105nimrshg95p035fa3h0!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    }
+  ],
+  "status": "downloaded_pending_visual_review",
+  "run_id": "45526250708",
+  "branch": "arena/b7bfcf81-craft-anything",
+  "download_method": "GitHub Actions; exact historical public CDN URLs; full decode and historical MD5/SHA-256 match",
+  "source_quality": "Public CDN files; not independently verified author master files",
+  "page_refresh": "Not requested: same-note historical four-image exact public URL replay",
+  "reference_count_downloaded": 4
+}
