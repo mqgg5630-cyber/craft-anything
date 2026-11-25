@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "status": "downloaded_pending_visual_review",
+  "share_url": "https://xhslink.cn/o/3qz2uQpojFp",
+  "note_id": "6acb2a3800000000120390ba",
+  "title": "锦鲤入梦｜锁屏壁纸",
+  "author": null,
+  "download_method": "GitHub Actions only; public declared CDN URLs; no cookies",
+  "source_quality": "公开笔记的最高可得候选文件，未经重编码；不保证为作者母版。",
+  "source_count": 3,
+  "requested_result_count": 10,
+  "runner_commit": "7c8a673f10fde7b35a9525d894fe610f94de1326",
+  "images": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 253445,
+      "sha256": "35e03076c26e881b17cd15127b27a7ad93c9f06ad10a6dc6cb959d3b75a450b3",
+      "md5": "27071f475c5c26e393de652f2bf07668"
+    },
+    {
+      "file": "01-下载原片/02.jpg",
+      "width": 853,
+      "height": 1844,
+      "bytes": 352209,
+      "sha256": "cc633d91bf02335e0707da1944f36ddcb9353c8a551309255dc7d485d800d70c",
+      "md5": "b4ea1c12493c064c90cfc346e43864a2"
+    },
+    {
+      "file": "01-下载原片/03.jpg",
+      "width": 853,
+      "height": 1844,
+      "bytes": 327247,
+      "sha256": "51905fff056772a623e28de4756047d4f7c69c1d329ec4abba87e18471e9f471",
+      "md5": "0ba0d26e4f5c460a4811df2bbfef2160"
+    }
+  ]
+}
