@@ -1,7 +1,7 @@
 """Actions-only public carousel acquisition. No credentials, no login bypass."""
 import hashlib, io, json, os, re, tempfile, urllib.request
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, unquote
 from PIL import Image
 
 ROOT=Path('deliveries/koi-dream-3qz2uQpojFp')
@@ -40,7 +40,9 @@ def main():
     if os.environ.get('GITHUB_ACTIONS')!='true':raise RuntimeError('Actions only')
     ROOT.mkdir(parents=True,exist_ok=True)
     html,final=request(SHARE,8*1024*1024)
-    diagnostic=dict(share_url=SHARE,final_url=final,page_bytes=len(html),run_id=os.environ.get('GITHUB_RUN_ID'))
+    parsed=urlparse(final)
+    note_ids=re.findall(r'/item/([0-9a-f]{24})',unquote(final))
+    diagnostic=dict(share_url=SHARE,final_url=parsed.scheme+'://'+parsed.netloc+parsed.path,note_id=note_ids[0] if len(set(note_ids))==1 else None,page_bytes=len(html),run_id=os.environ.get('GITHUB_RUN_ID'),query_retained=False)
     (ROOT/'page-diagnostic.json').write_text(json.dumps(diagnostic,indent=2)+'\n')
     note=extract(html.decode('utf-8'))
     images=note['imageList']

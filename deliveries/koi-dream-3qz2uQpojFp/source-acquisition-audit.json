@@ -1,0 +1,85 @@
+{
+  "share_url": "https://xhslink.cn/o/3qz2uQpojFp",
+  "note_id": "6acb2a3800000000120390ba",
+  "remote_branch_count": 16,
+  "unique_source_and_downloader_blobs_checked": 54,
+  "match_terms": [
+    "3qz2uQpojFp",
+    "锦鲤入梦",
+    "锦鲤入屏",
+    "6acb2a3800000000120390ba"
+  ],
+  "historical_exact_note_match_found": false,
+  "branches": [
+    {
+      "branch": "arena/e2bbb9ab-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/2d4fad4b-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/ab8fa883-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/3c8ac4ba-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/cf4bb177-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/e134e8d7-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/4ecca08f-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/b7bfcf81-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/09e7b6a9-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/28bd3553-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/442f0ebc-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/96aefe18-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/719dcd47-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/77ee0396-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "arena/6cd91e94-craft-anything",
+      "tree_truncated": false
+    },
+    {
+      "branch": "main",
+      "tree_truncated": false
+    }
+  ],
+  "run_id": "45521978093",
+  "status": "blocked_source_download",
+  "source_downloaded_count": 0,
+  "generated_count": 0,
+  "ui_generated_count": 0,
+  "preview_count": 0
+}
