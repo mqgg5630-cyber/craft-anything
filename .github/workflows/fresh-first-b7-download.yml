@@ -1,0 +1,53 @@
+name: Fresh first-only verified source download
+on:
+  push:
+    branches: ['arena/b7bfcf81-craft-anything']
+    paths:
+      - 'tools/wallpaper-job/download_fresh_first_b7.py'
+      - 'tools/wallpaper-job/test_fresh_first_b7.py'
+      - '.github/workflows/fresh-first-b7-download.yml'
+      - 'deliveries/simple-fresh-first-b7/source-seed.json'
+permissions:
+  contents: write
+concurrency:
+  group: fresh-first-b7-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow==11.3.0
+      - run: python -m unittest discover -s tools/wallpaper-job -p 'test_fresh_first_b7.py' -v
+      - run: python tools/wallpaper-job/download_fresh_first_b7.py
+      - name: Return safe diagnostic only on failure
+        if: failure()
+        env:
+          JOB_BRANCH: ${{ github.ref_name }}
+        run: |
+          test "$JOB_BRANCH" = 'arena/b7bfcf81-craft-anything'
+          if test -f deliveries/simple-fresh-first-b7/download-status.json; then
+            git config user.name 'wallpaper-delivery[bot]'
+            git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
+            git add deliveries/simple-fresh-first-b7/*.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Record new fresh first image public source blocker'
+              git push origin "HEAD:$JOB_BRANCH"
+            fi
+          fi
+      - name: Return fully verified carousel to same branch
+        env:
+          JOB_BRANCH: ${{ github.ref_name }}
+        run: |
+          test "$JOB_BRANCH" = 'arena/b7bfcf81-craft-anything'
+          git config user.name 'wallpaper-delivery[bot]'
+          git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
+          git add deliveries/simple-fresh-first-b7/source deliveries/simple-fresh-first-b7/source-manifest.json deliveries/simple-fresh-first-b7/download-status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Return verified fresh first image source carousel from Actions'
+            git push origin "HEAD:$JOB_BRANCH"
+          fi

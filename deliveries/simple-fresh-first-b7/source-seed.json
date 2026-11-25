@@ -1,0 +1,29 @@
+{
+  "share_url": "https://xhslink.cn/o/24CQFIRp9Er",
+  "public_note_url": "https://www.rednote.com/discovery/item/69af7ccc000000001a02eba0",
+  "note_id": "69af7ccc000000001a02eba0",
+  "title": "简单清新壁纸",
+  "author": "齐齐",
+  "source_quality": "Public page carousel images, not confirmed author master files.",
+  "status": "downloaded_and_visually_reviewed",
+  "download_method": "GitHub Actions; public page carousel URLs; bounded decode",
+  "images": [
+    {
+      "file": "source/01.webp",
+      "format": "webp",
+      "width": 884,
+      "height": 1851,
+      "bytes": 75728,
+      "md5": "98690e291254d4fe752af505f42ae66f",
+      "sha256": "44f463901e8847dd3c40448ecdd1605593a377eba7fe39742c2d9134bb6bb54c",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611250904/107a601ebd15d554de2cf3fe90321ac9/notes_pre_post/1040g3k031th26uoj5s405nfpuj908e2so5peq3g!nd_dft_wlteh_webp_3"
+    }
+  ],
+  "observed_original_carousel_count": 9,
+  "selection": "Only image 1 is downloaded and used; other 8 images excluded",
+  "provenance": {
+    "branch": "arena/28bd3553-craft-anything",
+    "commit": "720e5b8c3d4258a81232ad4141e2c50dc22d07b0",
+    "manifest_path": "deliveries/fresh-wallpapers/source-manifest.json"
+  }
+}
