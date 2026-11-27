@@ -1,0 +1,140 @@
+{
+  "status": "passed",
+  "archive": ".local/delivery-bundles/秋天和秋千-新生成10张-完整交付-852x1848.zip",
+  "bytes": 22667113,
+  "md5": "d7472ad845398c1701bbbe6983b07d01",
+  "sha256": "5c9971a36fb35ea49ae353bc82eaf068e8800752e088ccd88aea23eed57d7679",
+  "member_count": 18,
+  "all_bytes_match": true,
+  "crc_test_passed": true,
+  "new_generations": 10,
+  "old_result_reuse": false,
+  "files": [
+    {
+      "member": "01-下载原片/01.jpg",
+      "source": "source/01.jpg",
+      "bytes": 231735,
+      "sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/01-含笑轻荡.png",
+      "source": "images/01.png",
+      "bytes": 2059047,
+      "sha256": "d7681013f01494cc8077de079eda34db1944ac923ea638ac0dc50e4bfbe5abb8",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/02-仰望落叶.png",
+      "source": "images/02.png",
+      "bytes": 2085425,
+      "sha256": "158781cd5f763e708ae9dfa4e50ae3bc8acad1ca51db9fa05cc76cfeb5d97eae",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/03-眯眼迎风.png",
+      "source": "images/03.png",
+      "bytes": 2038668,
+      "sha256": "5a3c35da4ccff8ef1a7fde5db1188aa6f3858029d0e20616096a16b99f9e0167",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/04-侧望夕阳.png",
+      "source": "images/04.png",
+      "bytes": 2131289,
+      "sha256": "dec960a89c4be1ff1c476896a3e5e0705e02cfe257a6707e5b4cb5639c91c3f8",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/05-笑迎金光.png",
+      "source": "images/05.png",
+      "bytes": 2082077,
+      "sha256": "69008cc12904487fa0df70bfa4805e414e7dff7e8d9f2a207d337c56faf274d6",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/06-困倦小憩.png",
+      "source": "images/06.png",
+      "bytes": 2093351,
+      "sha256": "a00499ba660de3785bbdc743abdecf2146a5893c821e9220d670e279cdbcc2ee",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/07-低头看花.png",
+      "source": "images/07.png",
+      "bytes": 2045875,
+      "sha256": "341304370311cd40bf4f7622df014f3ff4221cd8dcefa6d64a0ee7bf3ad7e438",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/08-秋千微晃.png",
+      "source": "images/08.png",
+      "bytes": 2014408,
+      "sha256": "e299aa22231d83a43470f82030c9ba2833b9a86704b1b52c8ae6fa64a438bdaa",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/09-歪头浅笑.png",
+      "source": "images/09.png",
+      "bytes": 2077857,
+      "sha256": "2f6533258744f9952f9b68847d8f3aaeebdcf0aecf01bf80b64a0b893ddadf06",
+      "match": true
+    },
+    {
+      "member": "02-复刻结果-852x1848/10-开怀秋日.png",
+      "source": "images/10.png",
+      "bytes": 2062637,
+      "sha256": "5a318ebd473ff3539dd779dfdbc1eb3abe8ce05c87510f4a77bb761687b3e04c",
+      "match": true
+    },
+    {
+      "member": "03-总预览/00-10张成品总预览.jpg",
+      "source": "00-10张成品总预览.jpg",
+      "bytes": 793706,
+      "sha256": "97d464917922a5be631f69178053f2cc6fd7aea1752196272521db28c70b35bb",
+      "match": true
+    },
+    {
+      "member": "03-总预览/00-原片与成品对照.jpg",
+      "source": "00-原片与成品对照.jpg",
+      "bytes": 890975,
+      "sha256": "a8763f889e74a2004b4f04463404274f6912e233e3976be13722309550792bf7",
+      "match": true
+    },
+    {
+      "member": "03-总预览/00-原片总预览.jpg",
+      "source": "00-原片总预览.jpg",
+      "bytes": 97111,
+      "sha256": "d07f404860410d0a3c0d2d40c2434078ef32b38f4dda073d0fd6db5864cd994c",
+      "match": true
+    },
+    {
+      "member": "04-说明与清单/README.md",
+      "source": "README.md",
+      "bytes": 6833,
+      "sha256": "a38ca190812bd53a82f48ac034ddbc268e628e7f2723237d452abc9d5b0f5671",
+      "match": true
+    },
+    {
+      "member": "04-说明与清单/source-manifest.json",
+      "source": "source-manifest.json",
+      "bytes": 1580,
+      "sha256": "db1c012f31fbef79e1b82e1849b778e5919c33bdc2eb021d3325d661bd2ac2d5",
+      "match": true
+    },
+    {
+      "member": "04-说明与清单/output-manifest.json",
+      "source": "output-manifest.json",
+      "bytes": 12943,
+      "sha256": "a8e18d23d5c4d98acffa4b584153f6c863c24c1a9feafbd7f2ca9042a3ffd8ba",
+      "match": true
+    },
+    {
+      "member": "04-说明与清单/以后默认尺寸-852x1848.json",
+      "source": "以后默认尺寸-852x1848.json",
+      "bytes": 1154,
+      "sha256": "825f0aa2cf890b84b28839bb2470c09917d6b34fc786fb07ed909d727f7bba84",
+      "match": true
+    }
+  ]
+}

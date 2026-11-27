@@ -1,0 +1,34 @@
+{
+  "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "note_id": "6abdb5a9000000001802f193",
+  "reference_branch": "arena/cf4bb177-craft-anything",
+  "reference_commit": "546656be8111f86ee9363a37264f77b373cbfc95",
+  "reference_run": "45967565012",
+  "attempts": [
+    {
+      "run": "45967658190",
+      "result": "No unambiguous public carousel: initial parser only handled domestic layout"
+    },
+    {
+      "run": "45967769377",
+      "result": "SSL handshake timeout after bounded international state parser change"
+    },
+    {
+      "run": "45967988027",
+      "result": "success: reused proven public-redirect fallback and bounded international-state traversal; staged full decoded carousel, current branch writeback ce4e4e2"
+    }
+  ],
+  "download_in_sandbox": false,
+  "login_or_cookie_bypass": false,
+  "current_branch_only": true,
+  "source_visual_review_before_generation": true,
+  "source_count": 1,
+  "source_dimensions": [
+    852,
+    1848
+  ],
+  "source_md5": "3bca5f33f5d14138709ed324621ddcda",
+  "source_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+  "new_independent_generation_calls": 10,
+  "old_result_files_reused": false
+}

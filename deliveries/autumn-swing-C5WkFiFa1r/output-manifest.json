@@ -1,0 +1,418 @@
+{
+  "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "note_id": "6abdb5a9000000001802f193",
+  "source_count": 1,
+  "result_count": 10,
+  "new_generation_calls": 10,
+  "old_results_reused": false,
+  "source_dimensions": [
+    852,
+    1848
+  ],
+  "default_future_dimensions": [
+    852,
+    1848
+  ],
+  "medium": "Detailed golden-orange cinematic anime landscape with softly rounded chibi white-wool sheep, yellow bib, brown horns, rope swing; no unrelated watercolor/paper-craft change",
+  "status": "complete_visually_reviewed",
+  "files": [
+    {
+      "file": "images/01.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2059047,
+      "md5": "2fd14cca0146752ab2ea7809fa3c7d76",
+      "sha256": "d7681013f01494cc8077de079eda34db1944ac923ea638ac0dc50e4bfbe5abb8",
+      "title": "含笑轻荡",
+      "variation": "微笑，双脚错落，轻缓摆动",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/01.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2593688,
+        "md5": "1aaac55afe4d73661edc7a546706511d",
+        "sha256": "5ddf2af91d301c39efe698899040e94910e8c37d01aa4fbc4401b3949e654fe8"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    },
+    {
+      "file": "images/02.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2085425,
+      "md5": "de66301ab0a41bcac10db65c8d5c8012",
+      "sha256": "158781cd5f763e708ae9dfa4e50ae3bc8acad1ca51db9fa05cc76cfeb5d97eae",
+      "title": "仰望落叶",
+      "variation": "抬头看金色落叶，天空由淡金到暖橙",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/02.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2653102,
+        "md5": "a6ce4c1b77de9d266783f10eb08d0dec",
+        "sha256": "1be8a4b6c4b467a7f9824e42cd2d1c7ce1a279552c6041ed98027a55a2afbfc0"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    },
+    {
+      "file": "images/03.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2038668,
+      "md5": "4adb54d7d1d271bf980e10e683ab9bcc",
+      "sha256": "5a3c35da4ccff8ef1a7fde5db1188aa6f3858029d0e20616096a16b99f9e0167",
+      "title": "眯眼迎风",
+      "variation": "闭眼笑，双脚向前，秋千略偏",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/03.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2565054,
+        "md5": "396bdffbf951a6b1671312202b374e02",
+        "sha256": "04926c186626d665575fd2a98ef25b6e0c602a4413cb54d4085df5f13e548105"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    },
+    {
+      "file": "images/04.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2131289,
+      "md5": "0f3424fc6cf3abc6a437d1cee9149785",
+      "sha256": "dec960a89c4be1ff1c476896a3e5e0705e02cfe257a6707e5b4cb5639c91c3f8",
+      "title": "侧望夕阳",
+      "variation": "侧脸看夕阳，远处田间弯路与高积云",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/04.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2736183,
+        "md5": "298fc756227cadd7faa617d930cd1862",
+        "sha256": "8a60018f38d6af9cc12af7d2926ec2448d709bb4cab9b5c39d64c1f9c4bf4461"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    },
+    {
+      "file": "images/05.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2082077,
+      "md5": "6a336093caaff163cbc0fb38de54c3d1",
+      "sha256": "69008cc12904487fa0df70bfa4805e414e7dff7e8d9f2a207d337c56faf274d6",
+      "title": "笑迎金光",
+      "variation": "张嘴欢笑，树冠间斜射光束",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/05.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2672638,
+        "md5": "030c711f2bee2a000f7317542d1f01cf",
+        "sha256": "dcebe80eea3d06c1c87b4272f0275640c5059bbf98d40a6f396f08284726e739"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    },
+    {
+      "file": "images/06.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2093351,
+      "md5": "f3abcc46a7bc57d41f40c2cfa9dd982c",
+      "sha256": "a00499ba660de3785bbdc743abdecf2146a5893c821e9220d670e279cdbcc2ee",
+      "title": "困倦小憩",
+      "variation": "半闭眼困倦表情，远山光谷与淡粉云",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/06.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2697249,
+        "md5": "a5c34a861561295b7409afa7e4ee284a",
+        "sha256": "844761870962a0b9d7323b2b249d71687622944159f4d34a3d177c2a769266ff"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    },
+    {
+      "file": "images/07.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2045875,
+      "md5": "e51bfffc55d24199ef00bb97d56bfa56",
+      "sha256": "341304370311cd40bf4f7622df014f3ff4221cd8dcefa6d64a0ee7bf3ad7e438",
+      "title": "低头看花",
+      "variation": "低头圆嘴，草地小白花、更多顶端叶片",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/07.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2556571,
+        "md5": "fd02ceb7a2a1cabf90d43b79e77b1919",
+        "sha256": "4839513f1480823af666b7176092de03f4f5ab63ca359a6629a736884586daf7"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    },
+    {
+      "file": "images/08.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2014408,
+      "md5": "c5fabf173ca5b6776c90f6be1afe7bac",
+      "sha256": "e299aa22231d83a43470f82030c9ba2833b9a86704b1b52c8ae6fa64a438bdaa",
+      "title": "秋千微晃",
+      "variation": "迎着镜头轻笑，座板略微偏斜，夕阳光芒",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/08.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2553174,
+        "md5": "a9d444ff76457984a92ecd96664a6b53",
+        "sha256": "ae7c2b44971db4ce0102728d7931a88ed611922f569f3bddced722af94d3bf60"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    },
+    {
+      "file": "images/09.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2077857,
+      "md5": "a8903d9623304f1788a2173758bb3aa1",
+      "sha256": "2f6533258744f9952f9b68847d8f3aaeebdcf0aecf01bf80b64a0b893ddadf06",
+      "title": "歪头浅笑",
+      "variation": "歪头闭眼浅笑，较近取景，额前卷毛变化",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/09.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2674663,
+        "md5": "add044728cc3ef8a0b7e1b28b914a43c",
+        "sha256": "a3d5b34c994414e72113c0dc805e01b3d13974b4bb2d9a3e7e982c0372c15fbb"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    },
+    {
+      "file": "images/10.png",
+      "width": 852,
+      "height": 1848,
+      "format": "PNG",
+      "bytes": 2062637,
+      "md5": "df000bc8082cb443b64e092699342216",
+      "sha256": "5a318ebd473ff3539dd779dfdbc1eb3abe8ce05c87510f4a77bb761687b3e04c",
+      "title": "开怀秋日",
+      "variation": "闭眼大笑，宽阔斜向云带与远处小飞鸟",
+      "references": [
+        "source/01.jpg"
+      ],
+      "new_generation": true,
+      "native_artwork": {
+        "file": "artwork/10.png",
+        "width": 704,
+        "height": 1520,
+        "format": "PNG",
+        "bytes": 2622971,
+        "md5": "8379f105489d2820b0f17e7e3f3f95ab",
+        "sha256": "67f2586aa2d73090c273ec1b3b56bd5962d468b163ba6db8274698d649234b7b"
+      },
+      "adaptation": {
+        "method": "One uniform Lanczos upscale and minimal centered crop; no anisotropic stretch; final pixels are not model-native",
+        "uniform_scale": 1.2157894736842105,
+        "scaled_dimensions": [
+          855.9157894736842,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      },
+      "ui": false,
+      "added_text": false
+    }
+  ],
+  "visual_review": {
+    "all10_native_backgrounds_reviewed": true,
+    "all10_final_contact_sheet_reviewed": true,
+    "full_images_opened": [
+      "images/02.png",
+      "images/07.png"
+    ],
+    "checked": [
+      "white curly wool and brown horns",
+      "yellow bib and ivory sleeves",
+      "two-rope wooden swing and seated character",
+      "golden orange autumn sunset medium retained",
+      "independent face/pose/cloud/light variations",
+      "no added text or system UI",
+      "no old output reused"
+    ],
+    "limitations": "Faithful minor variants rather than ten unrelated scenes; 09 forehead curl differs and 02 eyes larger for upward look. Manual review, not pixel-perfect character identity or OCR."
+  }
+}

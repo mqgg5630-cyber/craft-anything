@@ -1,0 +1,60 @@
+{
+  "status": "passed",
+  "new_generation_calls": 10,
+  "old_results_reused": false,
+  "source_count": 1,
+  "decoded_source_native_final_images": 21,
+  "final_count": 10,
+  "final_dimensions": [
+    852,
+    1848
+  ],
+  "unique_native_artworks": 10,
+  "unique_final_images": 10,
+  "native_dimensions": [
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1520
+    ],
+    [
+      704,
+      1520
+    ]
+  ],
+  "all_final_png": true,
+  "all_reference_only_original": true,
+  "adaptation": "Uniform Lanczos upscale, minimal center crop; not native 852x1848",
+  "previews": 3
+}

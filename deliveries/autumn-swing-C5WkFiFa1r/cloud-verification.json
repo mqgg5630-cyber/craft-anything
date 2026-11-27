@@ -1,0 +1,221 @@
+{
+  "status": "verified_complete",
+  "basis": "Fresh post-upload search_files on all three folders; page tokens null; MD5 and byte-size matched against local data, not inferred from upload receipts",
+  "root_id": "1jh8fgPT0PmOGZapHYuHwcXSrsN2AZxjC",
+  "source_folder_id": "1sVX68foiiIbgMZS-VHUYnovF8bdBSE-D",
+  "result_folder_id": "1G2UjZPRJWl8_rm9GCX0h8A58tnNqc00X",
+  "fresh_counts": {
+    "root_items": 10,
+    "root_files": 8,
+    "root_subfolders": 2,
+    "source_files": 1,
+    "final_files": 10,
+    "total_files": 19
+  },
+  "next_page_tokens": [
+    null,
+    null,
+    null
+  ],
+  "incomplete_search": false,
+  "all_match": true,
+  "new_generation_count": 10,
+  "old_outputs_reused": false,
+  "final_dimensions": [
+    852,
+    1848
+  ],
+  "scope": "1 original, 10 final PNG, 3 previews, README, 2 manifests, dimension preference and full ZIP; native artwork/code/audit local repository only",
+  "files": [
+    {
+      "file": "source/01.jpg",
+      "cloud_name": "01-笔记原片-852x1848.jpg",
+      "drive_id": "1r9ZcmBIa_PslX6Giv6v1qnR9pAYaR26L",
+      "local_md5": "3bca5f33f5d14138709ed324621ddcda",
+      "cloud_md5": "3bca5f33f5d14138709ed324621ddcda",
+      "local_bytes": 231735,
+      "cloud_bytes": 231735,
+      "match": true
+    },
+    {
+      "file": "images/01.png",
+      "cloud_name": "01-含笑轻荡.png",
+      "drive_id": "1VTAVduQ_5thStUEbp9Ag1jsC3MqHy9Fp",
+      "local_md5": "2fd14cca0146752ab2ea7809fa3c7d76",
+      "cloud_md5": "2fd14cca0146752ab2ea7809fa3c7d76",
+      "local_bytes": 2059047,
+      "cloud_bytes": 2059047,
+      "match": true
+    },
+    {
+      "file": "images/02.png",
+      "cloud_name": "02-仰望落叶.png",
+      "drive_id": "1EkEn1rtVFbOvr_ELmaN0cvCp1IG_l4vJ",
+      "local_md5": "de66301ab0a41bcac10db65c8d5c8012",
+      "cloud_md5": "de66301ab0a41bcac10db65c8d5c8012",
+      "local_bytes": 2085425,
+      "cloud_bytes": 2085425,
+      "match": true
+    },
+    {
+      "file": "images/03.png",
+      "cloud_name": "03-眯眼迎风.png",
+      "drive_id": "1AtTNW54xZHC7BcmP7W4sMy2C_uksXanu",
+      "local_md5": "4adb54d7d1d271bf980e10e683ab9bcc",
+      "cloud_md5": "4adb54d7d1d271bf980e10e683ab9bcc",
+      "local_bytes": 2038668,
+      "cloud_bytes": 2038668,
+      "match": true
+    },
+    {
+      "file": "images/04.png",
+      "cloud_name": "04-侧望夕阳.png",
+      "drive_id": "1VEUSg8G8zVRgGB6cXZvaHHtHEKlxgCfU",
+      "local_md5": "0f3424fc6cf3abc6a437d1cee9149785",
+      "cloud_md5": "0f3424fc6cf3abc6a437d1cee9149785",
+      "local_bytes": 2131289,
+      "cloud_bytes": 2131289,
+      "match": true
+    },
+    {
+      "file": "images/05.png",
+      "cloud_name": "05-笑迎金光.png",
+      "drive_id": "1TR6B44b7btSuWz0EseCrmekEMGlkxaS9",
+      "local_md5": "6a336093caaff163cbc0fb38de54c3d1",
+      "cloud_md5": "6a336093caaff163cbc0fb38de54c3d1",
+      "local_bytes": 2082077,
+      "cloud_bytes": 2082077,
+      "match": true
+    },
+    {
+      "file": "images/06.png",
+      "cloud_name": "06-困倦小憩.png",
+      "drive_id": "10bokibHVla7P4n_IB0gUbxRrXaXRZimA",
+      "local_md5": "f3abcc46a7bc57d41f40c2cfa9dd982c",
+      "cloud_md5": "f3abcc46a7bc57d41f40c2cfa9dd982c",
+      "local_bytes": 2093351,
+      "cloud_bytes": 2093351,
+      "match": true
+    },
+    {
+      "file": "images/07.png",
+      "cloud_name": "07-低头看花.png",
+      "drive_id": "1wr3d7avSPqQt2CG00tb4vHOKdepm2gSM",
+      "local_md5": "e51bfffc55d24199ef00bb97d56bfa56",
+      "cloud_md5": "e51bfffc55d24199ef00bb97d56bfa56",
+      "local_bytes": 2045875,
+      "cloud_bytes": 2045875,
+      "match": true
+    },
+    {
+      "file": "images/08.png",
+      "cloud_name": "08-秋千微晃.png",
+      "drive_id": "1vs3m6shyG6BS6w--UZFT-Cy5gnoPNCNS",
+      "local_md5": "c5fabf173ca5b6776c90f6be1afe7bac",
+      "cloud_md5": "c5fabf173ca5b6776c90f6be1afe7bac",
+      "local_bytes": 2014408,
+      "cloud_bytes": 2014408,
+      "match": true
+    },
+    {
+      "file": "images/09.png",
+      "cloud_name": "09-歪头浅笑.png",
+      "drive_id": "1VNltlOvCXnCns9fyr3keys5fE9A6J7YR",
+      "local_md5": "a8903d9623304f1788a2173758bb3aa1",
+      "cloud_md5": "a8903d9623304f1788a2173758bb3aa1",
+      "local_bytes": 2077857,
+      "cloud_bytes": 2077857,
+      "match": true
+    },
+    {
+      "file": "images/10.png",
+      "cloud_name": "10-开怀秋日.png",
+      "drive_id": "1bqZGFsCkSQPs5f5fgjx3TmSx182c51jI",
+      "local_md5": "df000bc8082cb443b64e092699342216",
+      "cloud_md5": "df000bc8082cb443b64e092699342216",
+      "local_bytes": 2062637,
+      "cloud_bytes": 2062637,
+      "match": true
+    },
+    {
+      "file": "00-10张成品总预览.jpg",
+      "cloud_name": "00-10张成品总预览.jpg",
+      "drive_id": "1Jb22sy7g5nknpclMoNzAHeNaeFy6GVkZ",
+      "local_md5": "26d1aa886f1e464987faa98a1f2d6460",
+      "cloud_md5": "26d1aa886f1e464987faa98a1f2d6460",
+      "local_bytes": 793706,
+      "cloud_bytes": 793706,
+      "match": true
+    },
+    {
+      "file": "00-原片与成品对照.jpg",
+      "cloud_name": "00-原片与成品对照.jpg",
+      "drive_id": "177j1V4n4FjXppbtCLFXy7D4aKkx4lI4F",
+      "local_md5": "43aa9e42e7fe8828ba82e2fb787a9529",
+      "cloud_md5": "43aa9e42e7fe8828ba82e2fb787a9529",
+      "local_bytes": 890975,
+      "cloud_bytes": 890975,
+      "match": true
+    },
+    {
+      "file": "00-原片总预览.jpg",
+      "cloud_name": "00-原片总预览.jpg",
+      "drive_id": "18JfEUYZ51MXoQDPxCwxxP1lhxPWrDRxX",
+      "local_md5": "7570a80c5811f47354aff7b6e884fdd9",
+      "cloud_md5": "7570a80c5811f47354aff7b6e884fdd9",
+      "local_bytes": 97111,
+      "cloud_bytes": 97111,
+      "match": true
+    },
+    {
+      "file": "README.md",
+      "cloud_name": "README-全流程说明.md",
+      "drive_id": "1e3s1vM8Opis340WjN2ZBDbzv0rjcWPbM",
+      "local_md5": "dc9c1c113ac29a96e9ef7d63af0a287d",
+      "cloud_md5": "dc9c1c113ac29a96e9ef7d63af0a287d",
+      "local_bytes": 6833,
+      "cloud_bytes": 6833,
+      "match": true
+    },
+    {
+      "file": "source-manifest.json",
+      "cloud_name": "source-manifest.json",
+      "drive_id": "1-3cvItEVFlt-uscfSGrWiNYAXj1jB_rk",
+      "local_md5": "275374f26bd08fc6de7024c956cd1506",
+      "cloud_md5": "275374f26bd08fc6de7024c956cd1506",
+      "local_bytes": 1580,
+      "cloud_bytes": 1580,
+      "match": true
+    },
+    {
+      "file": "output-manifest.json",
+      "cloud_name": "output-manifest.json",
+      "drive_id": "1ajT--VapFSB_TrVaFitKMpSgRBQR8fpp",
+      "local_md5": "e1922169a1b3f2901092c101a6a2767c",
+      "cloud_md5": "e1922169a1b3f2901092c101a6a2767c",
+      "local_bytes": 12943,
+      "cloud_bytes": 12943,
+      "match": true
+    },
+    {
+      "file": "以后默认尺寸-852x1848.json",
+      "cloud_name": "以后默认尺寸-852x1848.json",
+      "drive_id": "1MoyAcG_L5dX5blGp8WFA4c6nGU6ej6sy",
+      "local_md5": "aed8ea2f8807615403192f2c04472f92",
+      "cloud_md5": "aed8ea2f8807615403192f2c04472f92",
+      "local_bytes": 1154,
+      "cloud_bytes": 1154,
+      "match": true
+    },
+    {
+      "file": ".local/delivery-bundles/秋天和秋千-新生成10张-完整交付-852x1848.zip",
+      "cloud_name": "秋天和秋千-新生成10张-完整交付-852x1848.zip",
+      "drive_id": "173AgqxP-eOzG2k3IJt4cyIXei12UFEr_",
+      "local_md5": "d7472ad845398c1701bbbe6983b07d01",
+      "cloud_md5": "d7472ad845398c1701bbbe6983b07d01",
+      "local_bytes": 22667113,
+      "cloud_bytes": 22667113,
+      "match": true
+    }
+  ]
+}

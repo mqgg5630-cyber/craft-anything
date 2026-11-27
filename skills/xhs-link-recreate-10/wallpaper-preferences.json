@@ -1,12 +1,14 @@
 {
-  "default_final_size": {"width": 1080, "height": 2343, "unit": "px", "orientation": "portrait"},
-  "basis": "User: 参考原片的尺寸，然后以后都用这个尺寸，原片结果分开",
-  "reference_share_url": "https://xhslink.cn/o/3kQq76Fee2O",
-  "reference_note_id": "6af66414000000002203bdb3",
-  "reference_source_manifest": "deliveries/newyear-blessings-3kQq76Fee2O/source-manifest.json",
+  "default_final_size": {"width": 852, "height": 1848, "unit": "px", "orientation": "portrait"},
+  "basis": "Latest user request on 秋天和秋千很配哦～: 参考原片的尺寸，然后以后都用这个尺寸，原片结果分开",
+  "reference_share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "reference_note_id": "6abdb5a9000000001802f193",
+  "reference_source_manifest": "deliveries/autumn-swing-C5WkFiFa1r/source-manifest.json",
+  "supersedes_previous_default": {"width": 1080, "height": 2343, "reference_share_url": "https://xhslink.cn/o/3kQq76Fee2O"},
   "scope": "Future wallpaper final images unless user explicitly specifies otherwise; do not resize original source bytes",
   "separate_source_and_results": true,
-  "required_delivery": ["10 independent final wallpapers", "final contact sheet", "source/final comparison sheet", "source manifest", "output manifest", "workflow explanation"],
+  "required_delivery": ["10 newly generated independent final wallpapers", "final contact sheet", "source/final comparison sheet", "source manifest", "output manifest", "workflow explanation"],
+  "reuse_existing_results_as_new_generation": false,
   "zip_is_supplement_not_replacement": true,
   "size_adaptation": "Uniform scaling with necessary crop or padding; no anisotropic stretching; disclose native generation size"
 }
