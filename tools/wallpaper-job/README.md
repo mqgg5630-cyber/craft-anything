@@ -2,7 +2,7 @@
 
 ## Current user delivery defaults (override historical task examples below)
 
-Read `delivery-defaults.json` before starting future wallpaper jobs. Unless the user explicitly changes it, final wallpaper size is **1080 × 2343 pixels**, established from all four verified originals of note `6af66414000000002203bdb3`. Preserve downloaded originals unchanged even when their native sizes differ. Fit result artwork proportionally; never stretch axes independently; disclose crop/upscale.
+Read `delivery-defaults.json` before starting future wallpaper jobs. Unless the user explicitly changes it, final wallpaper size is **852 × 1848 pixels**, established from the verified original of autumn swing note `6abdb5a9000000001802f193`. The latest user explicitly replaced the earlier 1080 × 2343 default with this source's size. Preserve downloaded originals unchanged even when their native sizes differ. Fit result artwork proportionally; never stretch axes independently; disclose crop/upscale.
 
 Deliver **folders with individual files, not ZIPs**. Keep original references and finished results in separate folders. Include original overview, ten-result overview, reference/result comparison, process description and validation records. Download references through GitHub Actions only, decode/hash-check before returning to the same branch. Older task-specific sizes and archive examples below are historical, not the current default.
 

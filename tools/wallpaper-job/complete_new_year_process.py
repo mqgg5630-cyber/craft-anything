@@ -38,7 +38,10 @@ def record(path):
 
 def main():
     EXTRAS.mkdir(exist_ok=True)
-    m=json.loads((ROOT/'output-manifest.json').read_text());policy=json.loads(DEFAULTS.read_text())
+    m=json.loads((ROOT/'output-manifest.json').read_text())
+    # Rebuilding a historical delivery must retain its recorded dimensions even
+    # after the user updates the defaults for future wallpaper jobs.
+    policy={'wallpaper_size':m['required_dimensions']}
     sources=m['sources'];outputs=m['outputs']
     if len(sources)!=4 or len(outputs)!=10 or policy['wallpaper_size']!=[1080,2343]:raise ValueError('Delivery contract mismatch')
     rows=sources+[r['result'] for r in outputs]

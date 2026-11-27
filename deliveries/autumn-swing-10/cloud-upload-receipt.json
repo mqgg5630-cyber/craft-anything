@@ -1,0 +1,29 @@
+{
+  "total_individual_cloud_files": 32,
+  "final_root_overview_readback_verified": true,
+  "supplemental_audit_readback_verified": true,
+  "method": "Independent Drive list_files readback; exact size and MD5 matches. This receipt remains local to avoid recursive audit uploads.",
+  "audits": [
+    {
+      "file": "storage-verification.json",
+      "drive_id": "1O_aSxOGshPM8DOY_WWfoHI1VCKpuuyOR",
+      "bytes": 9391,
+      "md5": "4fe63bf22e680906f96d996c62b59ee6",
+      "verified": true
+    },
+    {
+      "file": "source-manifest.json",
+      "drive_id": "1IWPlgnezTshH5_NaA-XABtCNMF-PlURs",
+      "bytes": 801,
+      "md5": "ab86e3c7bd553c097b0229b74a7691b1",
+      "verified": true
+    },
+    {
+      "file": "rebuild-verification.json",
+      "drive_id": "1JZQMh1Hisb0z4zSddL5y5vQptjqP8_oO",
+      "bytes": 189,
+      "md5": "35ca0b58e6e153bcfb3979dd06fcc63e",
+      "verified": true
+    }
+  ]
+}

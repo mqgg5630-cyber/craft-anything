@@ -7,7 +7,8 @@ import complete_new_year_process as p
 class ProcessTests(unittest.TestCase):
     def test_future_defaults(self):
         policy=json.loads(p.DEFAULTS.read_text())
-        self.assertEqual(policy['wallpaper_size'],[1080,2343])
+        self.assertEqual(policy['wallpaper_size'],policy['size_basis']['all_original_dimensions'])
+        self.assertTrue(all(isinstance(v,int) and v>0 for v in policy['wallpaper_size']))
         self.assertTrue(policy['separate_originals_and_results'])
         self.assertIn('no ZIP',policy['delivery_format'])
     def test_supplement_hashes(self):

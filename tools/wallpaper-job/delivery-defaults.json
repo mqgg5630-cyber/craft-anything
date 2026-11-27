@@ -1,17 +1,36 @@
 {
   "schema_version": 1,
-  "wallpaper_size": [1080, 2343],
+  "wallpaper_size": [
+    852,
+    1848
+  ],
   "orientation": "portrait",
   "size_basis": {
-    "share_url": "https://xhslink.cn/o/3kQq76Fee2O",
-    "note_id": "6af66414000000002203bdb3",
-    "verified_original_count": 4,
-    "all_original_dimensions": [1080, 2343]
+    "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+    "note_id": "6abdb5a9000000001802f193",
+    "verified_original_count": 1,
+    "all_original_dimensions": [
+      852,
+      1848
+    ]
   },
   "applies_to": "Future wallpaper results unless the user explicitly specifies a different size. Do not resize or overwrite downloaded originals.",
   "fit_policy": "Keep aspect ratio; no independent x/y stretching. Record any upscale, padding or crop honestly.",
   "delivery_format": "folders containing individual files; no ZIP",
   "separate_originals_and_results": true,
-  "required_extras": ["original overview", "ten-result overview", "reference/result comparison", "full-process description and validation"],
-  "reference_download": "GitHub Actions only; validate images before returning them to the same working branch"
+  "required_extras": [
+    "original overview",
+    "ten-result overview",
+    "reference/result comparison",
+    "full-process description and validation"
+  ],
+  "reference_download": "GitHub Actions only; validate images before returning them to the same working branch",
+  "supersedes": {
+    "wallpaper_size": [
+      1080,
+      2343
+    ],
+    "note_id": "6af66414000000002203bdb3",
+    "reason": "Latest user explicitly requested the autumn swing original size for this delivery and future defaults."
+  }
 }

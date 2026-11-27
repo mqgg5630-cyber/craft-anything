@@ -1,0 +1,415 @@
+{
+  "schema_version": 1,
+  "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "note_id": "6abdb5a9000000001802f193",
+  "title": "秋天和秋千很配哦～",
+  "source_download_run": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45967565012",
+  "source_return_commit": "546656b",
+  "sources": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 852,
+      "height": 1848,
+      "bytes": 231735,
+      "sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "md5": "3bca5f33f5d14138709ed324621ddcda"
+    }
+  ],
+  "output_count": 10,
+  "required_dimensions": [
+    852,
+    1848
+  ],
+  "all_output_dimensions_identical_to_source": true,
+  "generation": "Ten independent reference-conditioned redraws, native 704x1520; proportionally enlarged and minimally centered-cropped. Not native generation at final size. No previous-note artwork used.",
+  "added_text": false,
+  "mobile_ui_added": false,
+  "source_watermark_copied": false,
+  "delivery_format": "folders containing individual files; no ZIP",
+  "outputs": [
+    {
+      "number": 1,
+      "scene": "金风轻荡",
+      "description": "橡树与金色牧场，交叠小脚轻轻荡秋千",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/01.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2693897,
+        "sha256": "004e28ae2198041c3e9a93294631f9eea58d37ed255bb8e3cdc9105bf5b2d280",
+        "md5": "f0786dc7d94e4db50feafceed0a0e4e3"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/01-金风轻荡.png",
+        "bytes": 2322256,
+        "sha256": "df38cd7c018e29ffc0b1c6cb9e17d37ae119f47f57afb979ea714f66df623739",
+        "md5": "c6becfd548c2630656022ff1a29aff24",
+        "width": 852,
+        "height": 1848
+      }
+    },
+    {
+      "number": 2,
+      "scene": "银杏溪光",
+      "description": "右侧银杏树、花海与蜿蜒小溪",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/02.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2812442,
+        "sha256": "e74f70bbe48d39e50cf80b600f6eb230f329a59e581aee85b71f57ac682e61c2",
+        "md5": "d102945cf57a4829c92cf9cbe20b2ecb"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/02-银杏溪光.png",
+        "bytes": 2458428,
+        "sha256": "178049ec418afaaf918d6df673a69c71f09cf31a7b436da935bf045ca5f702dc",
+        "md5": "e12202fc59282950d62349cd12428740",
+        "width": 852,
+        "height": 1848
+      }
+    },
+    {
+      "number": 3,
+      "scene": "枫林晚照",
+      "description": "左侧枫树、梯田晚霞与侧坐小羊",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/03.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2622818,
+        "sha256": "9c41a38e70e7deae40a300e8262e32e9575d3daf3fb027728b5da1bd12811425",
+        "md5": "26fb641936a1fbfdcc741bea31a2d779"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/03-枫林晚照.png",
+        "bytes": 2255099,
+        "sha256": "cf89c0e0be4b40000f08f8c17ea447929fc80c72e433982686d473dc438ed0f0",
+        "md5": "36cea876476613e12bb25cc11ba8beee",
+        "width": 852,
+        "height": 1848
+      }
+    },
+    {
+      "number": 4,
+      "scene": "湖畔小憩",
+      "description": "湖面余晖、远山与闭眼微笑的小羊",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/04.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2600104,
+        "sha256": "7252b7c7bafa58be4174f096897ad7b56ee1736009bf8eb7cbafe62e01b98534",
+        "md5": "9255f3d9bd386f1566b7ee8c0e24d8e4"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/04-湖畔小憩.png",
+        "bytes": 2070108,
+        "sha256": "ba209ef952db1605225969142b8973d59ec7f0fc7a760355a07715691b8ad5d0",
+        "md5": "6e8cd0a74031ed957f2fa4e4ddc9a4bb",
+        "width": 852,
+        "height": 1848
+      }
+    },
+    {
+      "number": 5,
+      "scene": "落叶来信",
+      "description": "右侧大树、落叶与伸向远山的小路",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/05.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2694323,
+        "sha256": "04814fb95de4737bb3afeb91851f77336301d27711734824112cbcedad8a5ba1",
+        "md5": "0b6caacd03b47635b4b1963a9e1706f7"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/05-落叶来信.png",
+        "bytes": 2079536,
+        "sha256": "29613e0eefe7d9c0555420cb79a9e333096e7c18a8131011c440ffaafbd2f0b1",
+        "md5": "378c320d4710607053e6375d5b2c77f9",
+        "width": 852,
+        "height": 1848
+      }
+    },
+    {
+      "number": 6,
+      "scene": "牧野余晖",
+      "description": "木栅栏、金色牧场与轻轻后仰的秋千",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/06.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2749696,
+        "sha256": "47ba041354b94f2dcaad09f774043190775526a82ee023216ad491f6781e11ef",
+        "md5": "b861f73151e738162af87172c203128b"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/06-牧野余晖.png",
+        "bytes": 2175677,
+        "sha256": "fc58567e79f6dd2d6247b0881cfccf866c8ddfecd2648977ba6ac4d896138eec",
+        "md5": "ec31b6f5f1c6b753abbccad83dfc1755",
+        "width": 852,
+        "height": 1848
+      }
+    },
+    {
+      "number": 7,
+      "scene": "秋河漫漫",
+      "description": "弯曲的河流与傍晚的山谷",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/07.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2616671,
+        "sha256": "baf63d63a28898f2db04a33a1907c4c9c5dcb761ea885ee46b88a76dcab448fb",
+        "md5": "461fb79dee8be0ee41dbb6de40e7e2fe"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/07-秋河漫漫.png",
+        "bytes": 2096148,
+        "sha256": "1437ac4a65b1b4298cedc2cfdade26fc3831bff0f7d5d7cd4ba44ce7112d32d1",
+        "md5": "7e84b9100729f582a1699816e70098d0",
+        "width": 852,
+        "height": 1848
+      }
+    },
+    {
+      "number": 8,
+      "scene": "白桦听风",
+      "description": "右侧白桦树、柔软云团和满地小花",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/08.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2595753,
+        "sha256": "2f5d831cad55217b63a562b3a510fe5abfb323992f3901c5c0308cf906033c19",
+        "md5": "fcecc8688f50f96c3523a87efb066944"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/08-白桦听风.png",
+        "bytes": 2263673,
+        "sha256": "55791a1036231e08514fae7e3cb4fa4ed28b297221ae3927b00068091d4ae514",
+        "md5": "0d0d17bb35e9b6d9de2557b810c43fa6",
+        "width": 852,
+        "height": 1848
+      }
+    },
+    {
+      "number": 9,
+      "scene": "麦野暮色",
+      "description": "落日、远山与稻草卷点缀的牧场",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/09.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2458620,
+        "sha256": "b92420b132411220b6a437f705e60f178990a077574b3b8004b8dc809d75665a",
+        "md5": "bf9393c0f4a6d8c51fbc747758257b68"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/09-麦野暮色.png",
+        "bytes": 2072005,
+        "sha256": "ae161c8517064f0a2e93c9a749197e990ef8a62c2567ffc29ca118bea7b6f5d7",
+        "md5": "ce2863cc0be0132f24021bda631d8938",
+        "width": 852,
+        "height": 1848
+      }
+    },
+    {
+      "number": 10,
+      "scene": "云湖晚安",
+      "description": "右侧树干、湖泊与绵软的大朵晚云",
+      "reference_index": 1,
+      "reference_sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "raw": {
+        "file": "03-制作底图/10.png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2581837,
+        "sha256": "3cdd457e71e3aae6e1aad77ce9cca17f507d1ec679155f6aee23552c717c7ab9",
+        "md5": "0a0e28d5011304d5883d94b29260cd66"
+      },
+      "sizing": {
+        "method": "single isotropic scale and centered crop; no independent axis stretching",
+        "scale": 1.2157894736842105,
+        "target": [
+          852,
+          1848
+        ],
+        "raw_crop_each_side": [
+          1.6103896103896318,
+          0.0
+        ]
+      },
+      "result": {
+        "file": "02-十张复刻壁纸/10-云湖晚安.png",
+        "bytes": 2132406,
+        "sha256": "b371064b1f14bb60838447bd3c36e9b59169a4aca57d67aa2e820283a495b76b",
+        "md5": "6a6e159ec1a20546d7124b63fd9193c5",
+        "width": 852,
+        "height": 1848
+      }
+    }
+  ],
+  "previews": [
+    {
+      "file": "00-全流程总预览.jpg",
+      "bytes": 1394028,
+      "sha256": "4c9b6af22158b831ea6f9cb5e56f53d0b413fc28b232d5068e16cf5c143519cf",
+      "md5": "aadbffdd83e131711b3c691cfdeea3ef",
+      "width": 2000,
+      "height": 2480
+    },
+    {
+      "file": "04-全流程与总览/01-原片总览.jpg",
+      "bytes": 223462,
+      "sha256": "edb3ffc6d302cfd95410f70e9353d573817e6a46770b68b6f64df72de2042e17",
+      "md5": "9c85de73274896fb7f5430341cd12876",
+      "width": 1100,
+      "height": 1180
+    },
+    {
+      "file": "04-全流程与总览/02-十张成品总览.jpg",
+      "bytes": 1063570,
+      "sha256": "d3ddcfabe1e8f41e855fd6eb433bc57fa9b0ac433225fbc8f41c1b42ce561737",
+      "md5": "af8a3ba2acc371b5e458b4c04e4bc5c5",
+      "width": 1660,
+      "height": 1690
+    },
+    {
+      "file": "04-全流程与总览/03-原片成品对照.jpg",
+      "bytes": 976041,
+      "sha256": "0c2ec0f4eacfb424864054f3d7bf2b64592809362d19917e83490ef4bab686d4",
+      "md5": "f22725bc5dfa0fc0f33198d9cfe0ab23",
+      "width": 2200,
+      "height": 1230
+    }
+  ]
+}

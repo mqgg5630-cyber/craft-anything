@@ -47,3 +47,6 @@ __pycache__/
 # New Year generation inputs are preserved as individual Drive files;
 # final wallpapers and hash/provenance manifests remain versioned.
 /deliveries/new-year-blessings-10/03-制作资源/底图/
+
+# Autumn swing AI inputs are preserved individually in the verified Drive folder.
+/deliveries/autumn-swing-10/03-制作底图/

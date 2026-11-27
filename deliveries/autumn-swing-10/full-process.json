@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "steps": [
+    "Actions-only public-note image download",
+    "Decode/dimension/SHA256 verification before same-branch publication",
+    "Visual style review",
+    "Ten independent reference-conditioned image generations",
+    "Isotropic resize plus centered crop to source exact pixel size",
+    "Visual review and integrity/count/dimension tests",
+    "Separate originals/results folders and Drive MD5/size verification"
+  ],
+  "source_count": 1,
+  "independent_generations": 10,
+  "final_count": 10,
+  "dimensions": [
+    852,
+    1848
+  ],
+  "source_unchanged": true,
+  "zip_created": false,
+  "status": "Local packaging complete; consult storage-verification.json for cloud state."
+}
