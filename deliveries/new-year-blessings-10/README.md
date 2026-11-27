@@ -9,6 +9,15 @@
 - `02-十张新文案壁纸`：10张可直接使用的独立PNG，**1080 × 2343像素**，与本篇四张原图相同。https://drive.google.com/drive/folders/1F9W1OLdDbnT1kVR5jrPspUgImIA2rFBJ
 - `03-制作底图备份`：10张实际AI底图，仅供制作留档，不是最终壁纸。大型底图按仓库外部存储惯例保存在网盘。https://drive.google.com/drive/folders/1100ZonIJEmsp_Ok_iYtB4IuXwhLI4cdD
 - `00-十张总预览.jpg`：全部成品总览。
+- `04-全流程与总览`：全流程总预览、原片总览、十组原片/成品对照、流程说明与文案尺寸表。https://drive.google.com/drive/folders/1SFYy-T_k4YCSOLTajWyeI3oWyEsNkzcn
+
+## 最新补充与以后默认规则
+
+本次沿用这篇笔记上一轮已完成的10张成品，补齐全流程与总览；没有重新生成另一批10张。4张原片与10张成品均保持原有字节、像素及分文件夹结构。
+
+用户本次确认：**以后成品默认1080 × 2343像素，除非另行指定；原片保持下载尺寸与字节，不改动；原片与结果分开，全部文件夹交付，不打ZIP，附总览和全流程资料。** 该默认规则已保存为 `tools/wallpaper-job/delivery-defaults.json`。
+
+`04-全流程与总览/full-process.json`记录本次补充文件及哈希；`process-storage-verification.json`记录补充资料云端校验。原有`storage-verification.json`继续保留上一轮14张图片与制作底图的上传校验，不重写历史记录。
 
 ## 风格与文案
 保留仿古绢纸、植物花枝、浅米色纸条、错落竖排墨字的风格语汇，但重新生成十份花材绘画与拼贴，所有主文案均重新选择，不复制原图书法字形、署名和作者印章。

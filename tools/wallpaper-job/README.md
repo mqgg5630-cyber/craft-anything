@@ -1,5 +1,11 @@
 # Wallpaper delivery helper
 
+## Current user delivery defaults (override historical task examples below)
+
+Read `delivery-defaults.json` before starting future wallpaper jobs. Unless the user explicitly changes it, final wallpaper size is **1080 × 2343 pixels**, established from all four verified originals of note `6af66414000000002203bdb3`. Preserve downloaded originals unchanged even when their native sizes differ. Fit result artwork proportionally; never stretch axes independently; disclose crop/upscale.
+
+Deliver **folders with individual files, not ZIPs**. Keep original references and finished results in separate folders. Include original overview, ten-result overview, reference/result comparison, process description and validation records. Download references through GitHub Actions only, decode/hash-check before returning to the same branch. Older task-specific sizes and archive examples below are historical, not the current default.
+
 Completed 2026-11-16 for https://xhslink.cn/o/AgiCwSCgdwL (note `6ad631d1000000002803bf27`).
 
 ## Actual result

@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "folder_url": "https://drive.google.com/drive/folders/1SFYy-T_k4YCSOLTajWyeI3oWyEsNkzcn",
+  "main_folder_url": "https://drive.google.com/drive/folders/1b_Sb3exIW1-hkK4zPFKuWtZ5ETgu_Kwr",
+  "artwork_reused_from_previous_batch": true,
+  "new_ai_generations": 0,
+  "supplements": [
+    {
+      "local": {
+        "file": "04-全流程与总览/00-全流程总预览.jpg",
+        "bytes": 1116529,
+        "sha256": "a672b48f533820097c615007111073848a1bdaa31499ffd65efe7e9204ade5a8",
+        "md5": "778777ab02f1466c555c5311add8ca9c",
+        "width": 2000,
+        "height": 2460
+      },
+      "drive_id": "1eNsjvOjp_hOU_1NKNfcu951kWoAhSE_D",
+      "remote_bytes": 1116529,
+      "remote_md5": "778777ab02f1466c555c5311add8ca9c",
+      "verified": true,
+      "byte_identical": true,
+      "normalization": "none"
+    },
+    {
+      "local": {
+        "file": "04-全流程与总览/01-原片总览.jpg",
+        "bytes": 384948,
+        "sha256": "60a94da91876fb93eb71957de0dd2571cc06a57a97d2af64157bb20131e92bb8",
+        "md5": "4291593b2fea1aec4a224d8a2f26b006",
+        "width": 1500,
+        "height": 1070
+      },
+      "drive_id": "1VI3TQ4twnKjgYrBfQZ3DYhrjn47d0thZ",
+      "remote_bytes": 384948,
+      "remote_md5": "4291593b2fea1aec4a224d8a2f26b006",
+      "verified": true,
+      "byte_identical": true,
+      "normalization": "none"
+    },
+    {
+      "local": {
+        "file": "04-全流程与总览/02-原片与十张成品对照.jpg",
+        "bytes": 685828,
+        "sha256": "93e6abb64d872d324d602a9aa8d9ed6285af6057722960cf5d5bdda0ad906406",
+        "md5": "246c3f6ba7b059af829f40ffc12803e0",
+        "width": 2200,
+        "height": 1220
+      },
+      "drive_id": "1vE-zd9E1i4-SAUKnFH0hy-3RSq9U0n9j",
+      "remote_bytes": 685828,
+      "remote_md5": "246c3f6ba7b059af829f40ffc12803e0",
+      "verified": true,
+      "byte_identical": true,
+      "normalization": "none"
+    },
+    {
+      "local": {
+        "file": "04-全流程与总览/full-process.json",
+        "bytes": 2038,
+        "sha256": "155ffa894b690e813f2a9ebcfef88cc57415479aedcaa98de57d27dc7c685b2a",
+        "md5": "ac8235447e9eda634f0eee5e94d5b724"
+      },
+      "drive_id": "1Iu9-_X5hgOKmkv4ZxfokZpYcJ8glwoui",
+      "remote_bytes": 2038,
+      "remote_md5": "ac8235447e9eda634f0eee5e94d5b724",
+      "verified": true,
+      "byte_identical": true,
+      "normalization": "none"
+    },
+    {
+      "local": {
+        "file": "04-全流程与总览/全流程说明.md",
+        "bytes": 2542,
+        "sha256": "798fd557ed8a141e76fa9e086bac31d719fca4312e35c1c2184df1024182e9dc",
+        "md5": "69f02777796b61047dcd6e0bb83c93f2"
+      },
+      "drive_id": "1KiQSxoy3qD0vZvBzTh0izJJGxrx0J7pz",
+      "remote_bytes": 2542,
+      "remote_md5": "69f02777796b61047dcd6e0bb83c93f2",
+      "verified": true,
+      "byte_identical": true,
+      "normalization": "none"
+    },
+    {
+      "local": {
+        "file": "04-全流程与总览/十张文案与尺寸表.csv",
+        "bytes": 477,
+        "sha256": "4b0c8a26e0fba15ddc132d16601a8c4271a6fb804e67c63a71fbb62c51b801a6",
+        "md5": "1b3243e225c1ba94b22ce2999552d1bb"
+      },
+      "drive_id": "1Z39_mW7AZXf3IN544YfffyhAdWQNhcYx",
+      "remote_bytes": 474,
+      "remote_md5": "08773980bcc57f582306e9738954a153",
+      "verified": true,
+      "byte_identical": false,
+      "normalization": "Connector omitted UTF-8 BOM; text and all table values identical."
+    },
+    {
+      "file": "tools/wallpaper-job/delivery-defaults.json",
+      "drive_id": "16FsZjADdSpH0-3vyyqAKGC_c9-1SMPq7",
+      "bytes": 913,
+      "md5": "df9fb6dd2c3d96d5b880bf3f38362a76",
+      "sha256": "e32e6e4e5bda4e0b0e00064fee7ac1f94e061f778bc855d4005cc8050a504702",
+      "verified": true,
+      "byte_identical": true
+    }
+  ],
+  "all_seven_new_files_verified": true,
+  "verification": "Drive list_files read-back (7 entries; next page null); sizes and MD5 compared with workspace, CSV after removal of UTF-8 BOM by connector. No cloud re-download. Existing originals/results continue to use storage-verification.json."
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "existing_artwork_reused": true,
+  "new_ai_generations_this_followup": 0,
+  "original_count": 4,
+  "result_count": 10,
+  "standard_dimensions": [
+    1080,
+    2343
+  ],
+  "originals_and_results_separate": true,
+  "zip_created": false,
+  "originals_and_final_images_unchanged": true,
+  "source_run": "https://github.com/mqgg5630-cyber/craft-anything/actions/runs/45526335316",
+  "previous_rebuild_verification": {
+    "offline_rebuild": true,
+    "network_used": false,
+    "ten_outputs_and_overview_byte_identical": true,
+    "zip_created": false
+  },
+  "generated_supplements": [
+    {
+      "file": "04-全流程与总览/00-全流程总预览.jpg",
+      "bytes": 1116529,
+      "sha256": "a672b48f533820097c615007111073848a1bdaa31499ffd65efe7e9204ade5a8",
+      "md5": "778777ab02f1466c555c5311add8ca9c",
+      "width": 2000,
+      "height": 2460
+    },
+    {
+      "file": "04-全流程与总览/01-原片总览.jpg",
+      "bytes": 384948,
+      "sha256": "60a94da91876fb93eb71957de0dd2571cc06a57a97d2af64157bb20131e92bb8",
+      "md5": "4291593b2fea1aec4a224d8a2f26b006",
+      "width": 1500,
+      "height": 1070
+    },
+    {
+      "file": "04-全流程与总览/02-原片与十张成品对照.jpg",
+      "bytes": 685828,
+      "sha256": "93e6abb64d872d324d602a9aa8d9ed6285af6057722960cf5d5bdda0ad906406",
+      "md5": "246c3f6ba7b059af829f40ffc12803e0",
+      "width": 2200,
+      "height": 1220
+    },
+    {
+      "file": "04-全流程与总览/全流程说明.md",
+      "bytes": 2542,
+      "sha256": "798fd557ed8a141e76fa9e086bac31d719fca4312e35c1c2184df1024182e9dc",
+      "md5": "69f02777796b61047dcd6e0bb83c93f2"
+    },
+    {
+      "file": "04-全流程与总览/十张文案与尺寸表.csv",
+      "bytes": 477,
+      "sha256": "4b0c8a26e0fba15ddc132d16601a8c4271a6fb804e67c63a71fbb62c51b801a6",
+      "md5": "1b3243e225c1ba94b22ce2999552d1bb"
+    }
+  ],
+  "cloud_status": "See process-storage-verification.json after upload; existing image verification remains storage-verification.json."
+}
