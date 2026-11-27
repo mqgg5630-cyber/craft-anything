@@ -1,0 +1,301 @@
+{
+  "result_count": 10,
+  "new_generation_calls": 10,
+  "old_results_reused": false,
+  "final_size": [
+    852,
+    1848
+  ],
+  "native_size": [
+    704,
+    1520
+  ],
+  "resolution_note": "Lanczos upscaled and minimally center cropped, not native high resolution",
+  "reference_policy": "Every generation independently attached the same face and classic body crops; no previous generated artwork used as input",
+  "files": [
+    {
+      "file": "images/01.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 2015230,
+      "md5": "151433c5ed43ca8244e526214b6cd5b7",
+      "sha256": "ea9ab6cd27278433675b7d697cf4fd72460f04d4e0d9380009f832ced96a983d",
+      "title": "溪桥晚风",
+      "native": {
+        "file": "artwork/01.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2120932,
+        "md5": "837bf25962c99ff50c44081dfcc58061",
+        "sha256": "3a974c5919d9c092b932860824a09801d359c74216deaa4c59d456739d3d2b54"
+      },
+      "input_to_resize": "artwork/01.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Uniform Lanczos upscale and minimal center crop only"
+    },
+    {
+      "file": "images/02.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1912019,
+      "md5": "f76cc06567c116a617f030487a057142",
+      "sha256": "bd1493721b61b1b9ff0a17ef8cc9485b5176a783450c483c6fa9196385d44bfc",
+      "title": "海边站台",
+      "native": {
+        "file": "artwork/02.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2184869,
+        "md5": "2b79b4f8560f8fbd4020892f87cdd390",
+        "sha256": "6b55c6ff94d69b4e427774e875573f60c5e4be3ae48ef12cdf9a8731640d4e6e"
+      },
+      "input_to_resize": "artwork/02.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Uniform Lanczos upscale and minimal center crop only"
+    },
+    {
+      "file": "images/03.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1783935,
+      "md5": "2a7bb13efd9811b62f5b6b23cfe25567",
+      "sha256": "20e2451ab1f42d836783f9f7d9b76b5220c871c32e1c21570fee7d109d8c355f",
+      "title": "山丘野餐",
+      "native": {
+        "file": "artwork/03.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 1834872,
+        "md5": "695b0ef9dc43bc6c2adaef21afc877be",
+        "sha256": "04639c013e3a74410257f3ae3fa63796b4887b215ee10f5772e2e162ea7cc56e"
+      },
+      "input_to_resize": "artwork/03.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Uniform Lanczos upscale and minimal center crop only"
+    },
+    {
+      "file": "images/04.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 2053782,
+      "md5": "949c9df8c602ba1b7b616dac18569df0",
+      "sha256": "767b18dc5e40e7e26db25024964f4806785ada4c28fd15681e701aa8c3c359a9",
+      "title": "湖畔栈桥",
+      "native": {
+        "file": "artwork/04.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2193622,
+        "md5": "5b3308dca879f8f217baa61e27c13071",
+        "sha256": "fc688b38c43cdc928bd1b52fc3da5da91f77654e731051a1174ce430cba441eb"
+      },
+      "input_to_resize": "artwork/04.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Uniform Lanczos upscale and minimal center crop only"
+    },
+    {
+      "file": "images/05.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 2316503,
+      "md5": "b6734583e330f5b7cec0d10a417db7d7",
+      "sha256": "1a01a53ea9ed8c61a4dac0d6794710d281412c6a6637303f0a2c57fdc7fff78f",
+      "title": "花店门廊",
+      "native": {
+        "file": "artwork/05.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2431554,
+        "md5": "a0950a56d2470288aaad2bdb2a81ab6a",
+        "sha256": "c1991262a23f47a9c8369493bc05ae49b1d6e552dc2eb5cfa818a895b295dea0"
+      },
+      "input_to_resize": "artwork/05.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Uniform Lanczos upscale and minimal center crop only"
+    },
+    {
+      "file": "images/06.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 2012627,
+      "md5": "e17e829adab3f37c2bf79a0f130bc502",
+      "sha256": "4a7a45f74b3ec51469c72c75007fcf4ff87390b3c05d0b2ded2bb3ec46e0df64",
+      "title": "稻田车站",
+      "native": {
+        "file": "artwork/06.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2256940,
+        "md5": "606156ed959da66b1368b2a911ad4ce6",
+        "sha256": "0b8c68f1fb30ac59f1d50daab85e00aa90daaaa586c86dc1e11c79570ace7720"
+      },
+      "input_to_resize": "artwork/06.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Uniform Lanczos upscale and minimal center crop only"
+    },
+    {
+      "file": "images/07.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 2141598,
+      "md5": "30a3692cf71434b99cdd07f2839fed20",
+      "sha256": "019e6c9eb53343d95b760d578854498614ae6f6ddbbcb26872447afb8e85962d",
+      "title": "温室花园",
+      "native": {
+        "file": "artwork/07.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2272688,
+        "md5": "9d3d1f45dc6cf914a77a86b8bc7666e7",
+        "sha256": "9aaae2ec50856171a97d4368df4197ad0d844c13da48afa6e5523cfa60e970a4"
+      },
+      "input_to_resize": "artwork/07.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Uniform Lanczos upscale and minimal center crop only"
+    },
+    {
+      "file": "images/08.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1844533,
+      "md5": "632ab3de13db66aacc1933bbde545a6d",
+      "sha256": "94ca2be94da0aef4f4a0afb50ab1a2e21b0f5f7f5f82711b0e1775fdfe7eef60",
+      "title": "山间露营",
+      "native": {
+        "file": "artwork/08.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 1870366,
+        "md5": "704e4001592147523c38f0b57f38ac13",
+        "sha256": "2083160e34b36f84575da66d90c7c13faa3aa7bed62fea9d9a0d41c043b21bab"
+      },
+      "input_to_resize": "artwork/08.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Uniform Lanczos upscale and minimal center crop only"
+    },
+    {
+      "file": "images/09.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1933533,
+      "md5": "ec10f6b6c3eeea6a3e5a7662cab953a8",
+      "sha256": "48bb1116ff6d68175cf389b5ef236716a9045514ac9a83e14e409bcc6ffb4edd",
+      "title": "灯塔海岸",
+      "native": {
+        "file": "artwork/09.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 1999321,
+        "md5": "85a482f9d14553bf94d373363125c7b0",
+        "sha256": "b8c9bcd81ac0eec516e5c666b5f923a4ea47a581828db8de5801ea6903c00a40"
+      },
+      "input_to_resize": "artwork/09.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Uniform Lanczos upscale and minimal center crop only"
+    },
+    {
+      "file": "images/10.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1798653,
+      "md5": "4649a546f60ca21ce79d1410e01785c5",
+      "sha256": "20b652861067951ed198558399e019452a67b08d7e97e47658fcbe831d7dba08",
+      "title": "书店露台",
+      "native": {
+        "file": "artwork/10.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2335101,
+        "md5": "3e100f3fec8508d6d2dbbebd3cc750c8",
+        "sha256": "bd2d63b5fbe9d7d579d8b950453acd4fa7e641d828a4a058ff2ad4316674d6c8"
+      },
+      "input_to_resize": "corrected/10.png",
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/body-only.png"
+      ],
+      "postprocess": "Sky replacement logged in postprocess-log.json"
+    }
+  ],
+  "visual_review": {
+    "overview_reviewed": true,
+    "notes": "All figures show bib and bare limbs without yellow sleeves or shoes; expressions, proportions and stripe rendering still have AI variation. 10 background duplicate repaired, full log included. Not a pixel-identical production model sheet."
+  }
+}

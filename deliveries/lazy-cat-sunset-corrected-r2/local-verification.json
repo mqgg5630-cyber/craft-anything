@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "final_count": 10,
+  "unique_native": 10,
+  "unique_final": 10,
+  "final_size": [
+    852,
+    1848
+  ],
+  "source_unchanged": true,
+  "previews": 3,
+  "old_results_reused": false
+}

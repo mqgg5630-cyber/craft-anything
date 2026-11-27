@@ -1,0 +1,34 @@
+{
+  "share_url": "https://xhslink.cn/o/6bdoxc66Ezp",
+  "note_title": "带着小猫看晚霞的懒羊羊～",
+  "note_id": "6afc0e24000000002b005031",
+  "acquisition": "Original downloaded by GitHub Actions run45970566753, commit90f0348; exact bytes reused, no new CDN request",
+  "source": {
+    "file": "reference/source-original.jpg",
+    "size": [
+      853,
+      1844
+    ],
+    "bytes": 171975,
+    "md5": "92dc7213db39080d626a7f6e0c210cfe",
+    "sha256": "7e6f54509d875ce81d811be3b710558c77be82ae5984226bcd2b53a22d55d04a"
+  },
+  "classic_source": "https://xyy.huijiwiki.com/wiki/%E6%87%92%E7%BE%8A%E7%BE%8A",
+  "classic_status": "Public fan-wiki reference, not independently certified official model sheet",
+  "classic": {
+    "file": "reference/classic-original.png",
+    "size": [
+      500,
+      590
+    ],
+    "bytes": 119680,
+    "md5": "b20cd323491c4e2d67eb76fc2fb06d2f",
+    "sha256": "11f4a209390bf2101c47f164723eff526855424d121ad5348bd947797fa39581"
+  },
+  "visual_review_before_generation": true,
+  "reference_roles": {
+    "face-only.png": "Crop [40,1000,620,1360] of unchanged user source; face only, excludes misleading yellow limbs and platform mark",
+    "body-only.png": "Crop [110,363,370,590] of classic reference; white wool torso, yellow double-white-stripe bib, bare limbs"
+  },
+  "user_decision": "All non-face parts to be consistent; complete hidden body using classic animation"
+}

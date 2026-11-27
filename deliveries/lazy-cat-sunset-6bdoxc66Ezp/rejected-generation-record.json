@@ -1,0 +1,46 @@
+{
+  "status": "rejected_and_removed_from_working_tree",
+  "reason": "User accepted face but rejected body and requested ten newly generated replacements. Replaced by ../lazy-cat-sunset-corrected-r2. No rejected files uploaded to Drive. Source bytes retained.",
+  "files": [
+    {
+      "file": "artwork/01.png",
+      "sha256": "796f34bea27f325c957a2ce10d32efbc59f31c8245b54e8b72393e79d9b094f8"
+    },
+    {
+      "file": "artwork/02.png",
+      "sha256": "70cda8a04e5cb69fc19d8144a9845405539e607c8cb59f3da8bafe16485aea59"
+    },
+    {
+      "file": "artwork/03.png",
+      "sha256": "b317f62016a1a952b1deeb16e0552ef0423c6c00a05e8906d3cae4c01d621333"
+    },
+    {
+      "file": "artwork/04.png",
+      "sha256": "cc2275b8e8bf359ffb772db83cfb2b0c7f6cde0a052a944d9a10f9cc0d76b123"
+    },
+    {
+      "file": "artwork/05.png",
+      "sha256": "de728b7a10d2423ca86e7df60c74b4b4d7a3a86c77e2b78be5ade75ca9f2e9bd"
+    },
+    {
+      "file": "artwork/06.png",
+      "sha256": "1e7e8de2b35a318157aa502a62363054c0d07dac1973de8fadf5149a3fd2889a"
+    },
+    {
+      "file": "artwork/07.png",
+      "sha256": "47470f64a0c57a74ccf1613c43fc5cc0ad1d766a4bb6462b536f72429d2b4bae"
+    },
+    {
+      "file": "artwork/08.png",
+      "sha256": "9a4ced3fe49bc67a0fc15c3abf4420572b4b5ac30a28c95ba65d0a14a2f4e38b"
+    },
+    {
+      "file": "artwork/09.png",
+      "sha256": "b2584d429183509c41a940d86e12b01b439ac39f2c87ecf72c4f76673c897129"
+    },
+    {
+      "file": "artwork/10.png",
+      "sha256": "14bd8aa75d452adc6bea8e648361bc62f8d98624dd95a6f3d602a9218e8f4da0"
+    }
+  ]
+}

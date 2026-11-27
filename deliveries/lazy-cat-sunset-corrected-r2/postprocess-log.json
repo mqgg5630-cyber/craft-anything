@@ -1,0 +1,130 @@
+{
+  "10": {
+    "issue": "Generation produced an unwanted duplicate giant translucent face in upper background",
+    "method": "Replace upper background with clean sky crop from unchanged user reference; polygon protects newly generated foreground character, body, limbs and cat. No extra generation counted.",
+    "native_preserved": "artwork/10.png",
+    "corrected": "corrected/10.png",
+    "background_source": "reference/source-original.jpg",
+    "source_crop": [
+      0,
+      0,
+      853,
+      990
+    ],
+    "background_target": [
+      704,
+      650
+    ],
+    "mask_boundary": [
+      [
+        0,
+        630
+      ],
+      [
+        70,
+        633
+      ],
+      [
+        140,
+        652
+      ],
+      [
+        210,
+        670
+      ],
+      [
+        270,
+        667
+      ],
+      [
+        307,
+        652
+      ],
+      [
+        344,
+        644
+      ],
+      [
+        359,
+        619
+      ],
+      [
+        354,
+        603
+      ],
+      [
+        350,
+        587
+      ],
+      [
+        354,
+        577
+      ],
+      [
+        366,
+        578
+      ],
+      [
+        380,
+        587
+      ],
+      [
+        400,
+        591
+      ],
+      [
+        420,
+        605
+      ],
+      [
+        431,
+        620
+      ],
+      [
+        460,
+        626
+      ],
+      [
+        486,
+        642
+      ],
+      [
+        514,
+        651
+      ],
+      [
+        541,
+        639
+      ],
+      [
+        560,
+        638
+      ],
+      [
+        578,
+        646
+      ],
+      [
+        595,
+        659
+      ],
+      [
+        619,
+        664
+      ],
+      [
+        645,
+        658
+      ],
+      [
+        675,
+        649
+      ],
+      [
+        704,
+        644
+      ]
+    ],
+    "reference_original_unchanged": true
+  }
+}
