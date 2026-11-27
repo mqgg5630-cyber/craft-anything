@@ -1,0 +1,166 @@
+{
+  "status": "partial_rate_limited",
+  "provider": "google_drive",
+  "root_folder": {
+    "id": "1i6q7JCp8HW0uX3aFjrtHUpCS_zaSI3Ei",
+    "name": "懒羊羊-精准角色10大不同场景壁纸-852x1848-第二版",
+    "web_view_link": "https://drive.google.com/drive/folders/1i6q7JCp8HW0uX3aFjrtHUpCS_zaSI3Ei"
+  },
+  "separated_subfolders": {
+    "original_sources": {
+      "id": "1Z4WrT6N_BHTK_y5Eee6f2mo6jAY23TLM",
+      "name": "01-原片-1张-852x1848",
+      "web_view_link": "https://drive.google.com/drive/folders/1Z4WrT6N_BHTK_y5Eee6f2mo6jAY23TLM"
+    },
+    "recreated_results": {
+      "id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "name": "02-复刻结果-10张不同场景-852x1848",
+      "web_view_link": "https://drive.google.com/drive/folders/1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c"
+    }
+  },
+  "verified_file_count": 6,
+  "pending_file_count": 11,
+  "total_expected_file_count": 17,
+  "rate_limit_note": "Merge rate-limited file uploads after the 6 root/source files completed; remaining 11 files for 02-复刻结果-10张不同场景-852x1848 are ready locally and can be uploaded in a follow-up turn after >=15 seconds.",
+  "files": [
+    {
+      "parent_id": "1i6q7JCp8HW0uX3aFjrtHUpCS_zaSI3Ei",
+      "cloud_name": "00-总预览.jpg",
+      "file_id": "1XI2FdfMtsA0M78xY89wmwCGzNzZzSRMg",
+      "local_file": "00-总预览.jpg",
+      "bytes": 956599,
+      "md5": "96e84b9d10e4e076167928753a75e31e",
+      "web_view_link": "https://drive.google.com/file/d/1XI2FdfMtsA0M78xY89wmwCGzNzZzSRMg/view?usp=drivesdk",
+      "verified_by": "fresh_list_files_post_upload"
+    },
+    {
+      "parent_id": "1i6q7JCp8HW0uX3aFjrtHUpCS_zaSI3Ei",
+      "cloud_name": "README.md",
+      "file_id": "1BNjUcnKHFetGWOxbw1nXqWF85O_Un04y",
+      "local_file": "README.md",
+      "bytes": 3853,
+      "md5": "ea7ce1c48d729a5dbc6f7c36c29a5e45",
+      "web_view_link": "https://docs.google.com/document/d/1BNjUcnKHFetGWOxbw1nXqWF85O_Un04y/edit?usp=drivesdk&ouid=108865329439224864146&rtpof=true&sd=true",
+      "verified_by": "fresh_list_files_post_upload"
+    },
+    {
+      "parent_id": "1i6q7JCp8HW0uX3aFjrtHUpCS_zaSI3Ei",
+      "cloud_name": "source-manifest.json",
+      "file_id": "1wwuMMDJMxeOS_0vSiF3hZY_I1mqTUj3A",
+      "local_file": "source-manifest.json",
+      "bytes": 2086,
+      "md5": "2e8cee93d3fc945c65d189c167597fd8",
+      "web_view_link": "https://drive.google.com/file/d/1wwuMMDJMxeOS_0vSiF3hZY_I1mqTUj3A/view?usp=drivesdk",
+      "verified_by": "fresh_list_files_post_upload"
+    },
+    {
+      "parent_id": "1i6q7JCp8HW0uX3aFjrtHUpCS_zaSI3Ei",
+      "cloud_name": "output-manifest.json",
+      "file_id": "1yd63xMBRrQuEdJ6YS1GjkhmYKfzalZB3",
+      "local_file": "output-manifest.json",
+      "bytes": 18860,
+      "md5": "a33750b978a6cb3196f49bc262e8cf4b",
+      "web_view_link": "https://drive.google.com/file/d/1yd63xMBRrQuEdJ6YS1GjkhmYKfzalZB3/view?usp=drivesdk",
+      "verified_by": "fresh_list_files_post_upload"
+    },
+    {
+      "parent_id": "1Z4WrT6N_BHTK_y5Eee6f2mo6jAY23TLM",
+      "cloud_name": "00-原片总预览.jpg",
+      "file_id": "1qbYHnqtQhLw_dJrc3zaeKLip2QhXbut7",
+      "local_file": "00-原片总预览.jpg",
+      "bytes": 115159,
+      "md5": "73eaf1185d18d43f1660446f0c5e3f76",
+      "web_view_link": "https://drive.google.com/file/d/1qbYHnqtQhLw_dJrc3zaeKLip2QhXbut7/view?usp=drivesdk",
+      "verified_by": "fresh_list_files_post_upload"
+    },
+    {
+      "parent_id": "1Z4WrT6N_BHTK_y5Eee6f2mo6jAY23TLM",
+      "cloud_name": "01-原片.webp",
+      "file_id": "1Y43rWl5YHd0pNktxAQp0kLbuqAXE2v2H",
+      "local_file": "source/01.webp",
+      "bytes": 156296,
+      "md5": "19ad4c76e4ca38c2f934e6d01e4b5e9a",
+      "web_view_link": "https://drive.google.com/file/d/1Y43rWl5YHd0pNktxAQp0kLbuqAXE2v2H/view?usp=drivesdk",
+      "verified_by": "fresh_list_files_post_upload"
+    }
+  ],
+  "pending_files": [
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "00-10张成品总预览.jpg",
+      "local_file": "00-10张成品总预览.jpg",
+      "bytes": 858505,
+      "md5": "5ed7904899b841cbf4aeebb364f0484f"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "01-金秋银杏木椅.png",
+      "local_file": "images/01.png",
+      "bytes": 2280598,
+      "md5": "3e76affa17a70335c7e169c8a6592e9b"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "02-晴空碧湖木栈道.png",
+      "local_file": "images/02.png",
+      "bytes": 1870201,
+      "md5": "00986d8b683857064da5441f40d7ace9"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "03-午后窗边草莓蛋糕.png",
+      "local_file": "images/03.png",
+      "bytes": 1837243,
+      "md5": "e126ba42810ace69c426662faf8a34e6"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "04-银河星空篝火露营.png",
+      "local_file": "images/04.png",
+      "bytes": 2233112,
+      "md5": "9d20f65b0aeef13bc3411f6f94611109"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "05-蔚蓝海岸灯塔吹风.png",
+      "local_file": "images/05.png",
+      "bytes": 1784192,
+      "md5": "d8f83493465f7090c65781accb40c63b"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "06-乡间铁道站台等车.png",
+      "local_file": "images/06.png",
+      "bytes": 1832528,
+      "md5": "fa646a10b4145140520cbe84aaddfa5c"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "07-金色麦田风车小径.png",
+      "local_file": "images/07.png",
+      "bytes": 1744543,
+      "md5": "90cd9078fb0276ada0fb82581739e5b3"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "08-烟雨竹林荷叶躲雨.png",
+      "local_file": "images/08.png",
+      "bytes": 2048909,
+      "md5": "b0b0fa5ad0d7795c91c1355933b404e5"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "09-冬夜暖窗看初雪.png",
+      "local_file": "images/09.png",
+      "bytes": 1896776,
+      "md5": "67fcc572f1f224d1900449c7856fc55f"
+    },
+    {
+      "parent_id": "1SVly4N9Esqlo5qKjh1jNtWFDAOpXKO1c",
+      "cloud_name": "10-春日樱花草坡午睡.png",
+      "local_file": "images/10.png",
+      "bytes": 1791565,
+      "md5": "d0caf40c796fb146b69f36d097f924b1"
+    }
+  ]
+}

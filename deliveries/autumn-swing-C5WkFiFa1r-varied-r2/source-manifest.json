@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "resolved_note_url": "https://www.rednote.com/discovery/item/6abdb5a9000000001802f193",
+  "note_id": "6abdb5a9000000001802f193",
+  "title": "秋天和秋千很配哦～",
+  "author": "🍔",
+  "tags": [
+    "懒羊羊",
+    "青青草原有头羊",
+    "荡秋千",
+    "iPhone壁纸",
+    "3D壁纸",
+    "手机壁纸"
+  ],
+  "carousel_dedup_note": "Public note carousel rendered 3 identical Swiper slide tags pointing to 1 unique image URL; author/comment avatars, QR logo, and comment emojis excluded.",
+  "status": "downloaded_verified_and_visually_reviewed",
+  "run_id": "45970686742",
+  "branch": "arena/069516c5-craft-anything",
+  "page_refresh": "note_not_in_public_state_used_seed_urls",
+  "download_method": "GitHub Actions runner; verified public CDN URLs with bounded full Pillow decode",
+  "source_quality": "Public web CDN display image; not independently verified as author master file",
+  "reference_count_downloaded": 1,
+  "visual_review": {
+    "opened_full_resolution_before_generation": true,
+    "actual_medium": "2D warm golden-hour anime illustration with clean dark-brown character linework and painterly sunset clouds/meadow (not 3D CGI despite #3D壁纸 tag)",
+    "subject": "Chibi cartoon lamb (懒羊羊) with fluffy white swirl-top wool, two curved brown striped horns, small droopy ears, dot eyes, tiny black oval nose, white fleece sleeves, and warm yellow bib sitting on a wooden rope swing hung from a left-side autumn tree over a daisy sunset meadow",
+    "contains_text_or_ui": false
+  },
+  "images": [
+    {
+      "index": 1,
+      "file": "source/01.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611271640/9e4c71c965d05eb8838f2614b1ca47ca/notes_pre_post/1040g3k0325ouk4da46005q98brntotk4ikberq0!nd_dft_wlteh_webp_3",
+      "width": 852,
+      "height": 1848,
+      "format": "webp",
+      "bytes": 156296,
+      "md5": "19ad4c76e4ca38c2f934e6d01e4b5e9a",
+      "sha256": "ed99ec35217468fa167dcb11ffc7ec83e6844b05366e797ffcc308c4beacebb0"
+    }
+  ]
+}

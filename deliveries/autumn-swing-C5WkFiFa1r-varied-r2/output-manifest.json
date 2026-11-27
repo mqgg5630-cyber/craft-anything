@@ -1,0 +1,416 @@
+{
+  "schema_version": 2,
+  "round": 2,
+  "previous_round_preserved_at": "deliveries/autumn-swing-C5WkFiFa1r",
+  "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "note_id": "6abdb5a9000000001802f193",
+  "reference_count_downloaded": 1,
+  "generated_count": 10,
+  "reference_dimensions": [
+    852,
+    1848
+  ],
+  "default_persisted_dimensions": [
+    852,
+    1848
+  ],
+  "all_native_artwork_dimensions": [
+    "704x1520"
+  ],
+  "character_locked": "Canonical 懒羊羊 (Lazy Goat): 3-tier soft-serve swirl wool peak, segmented curved brown horns, pointed peach lamb ears, small black oval eyes with white highlights, horizontal black oval nose with white highlight, sleeveless scalloped white wool torso, yellow bib with two white horizontal bottom stripes, bare peach-skin arms & legs, oval feet with toe hoof-cleft",
+  "scene_diversity": "10 completely distinct environments (ginkgo avenue bench, alpine lake pier, sunlit café window, Milky Way campsite, coastal lighthouse cliff, countryside railway station, golden wheat windmill path, misty bamboo brook, snowy winter cabin window, sakura hillside picnic nap); zero swing repetition",
+  "ui_overlay": false,
+  "status": "verified_and_visually_reviewed",
+  "visual_review": {
+    "status": "passed",
+    "inspected_full_size_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "inspected_boards": [
+      "00-总预览.jpg",
+      "00-10张成品总预览.jpg"
+    ],
+    "findings": "All 10 images verified at full resolution: 100% canonical Lazy Goat anatomy (swirl peak, brown segmented horns, pointed ears, white-highlight dot eyes & oval nose, two-stripe yellow bib, sleeveless white wool body, bare peach limbs, cleft hooves) across 10 completely different 2D healing anime scenes with zero text, zero watermarks, zero UI."
+  },
+  "files": [
+    {
+      "file": "images/01.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 2280598,
+      "md5": "3e76affa17a70335c7e169c8a6592e9b",
+      "sha256": "9905979317752a385e2fe5e738a95d7b896f74f7789c43f68d02a2c4973e5310",
+      "index": 1,
+      "title": "金秋银杏木椅",
+      "cloud_filename": "01-金秋银杏木椅.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "秋日金色银杏大道与落叶石径，懒羊羊坐公园木长椅捧烤红薯开心晃腿",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/01.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2647629,
+        "md5": "f58286559adfb894b2d9b3e7ae593e04",
+        "sha256": "c5c9ec0eccbe0ed68b2dcea35fb10531ad29ff06aa88453846b4a3199faa9278"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/02.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1870201,
+      "md5": "00986d8b683857064da5441f40d7ace9",
+      "sha256": "5ff32808c7cb96bf8d2898e3079460c00513869bb511e267fd4a17b1faf017f1",
+      "index": 2,
+      "title": "晴空碧湖木栈道",
+      "cloud_filename": "02-晴空碧湖木栈道.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "雪山松林环抱的澄澈碧蓝湖泊，懒羊羊坐木栈道边垂脚看两只小黄鸭游过睡莲",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/02.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2130973,
+        "md5": "61a1b9e66ab2ac8fddf180e590a5fb92",
+        "sha256": "eaf38e4e4292596fb7c1a4a46ac890096f25a2bfd92ba8f9936efbd38e7f2252"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/03.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1837243,
+      "md5": "e126ba42810ace69c426662faf8a34e6",
+      "sha256": "07a59efa2928c0a2c0a3fa330b0c56a2a6a4950bf09f00d6b5c3166669a8a903",
+      "index": 3,
+      "title": "午后窗边草莓蛋糕",
+      "cloud_filename": "03-午后窗边草莓蛋糕.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "暖阳斜照的木质咖啡馆高窗角落，懒羊羊坐圆桌前拿小叉品尝草莓奶油蛋糕与热奶茶",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/03.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2238287,
+        "md5": "04282030f2f24fee00e23853b46fb86c",
+        "sha256": "6dae0233c2b7cff4093229cab2b3d975b2f881f9d2e01f8784f6e74d222e9e20"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/04.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 2233112,
+      "md5": "9d20f65b0aeef13bc3411f6f94611109",
+      "sha256": "2cae4e2f0b7d702a29331c6f049b032bd83a5e7caa104157c82659c8a361f855",
+      "index": 4,
+      "title": "银河星空篝火露营",
+      "cloud_filename": "04-银河星空篝火露营.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "璀璨银河夜空与暖灯帆布帐篷草地，懒羊羊坐原木边举树枝烤棉花糖、萤火虫飞舞",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/04.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2597569,
+        "md5": "f1aad36cf6e20f68722b952c7b9d252d",
+        "sha256": "2a9ad6fc5e790a71c74a2dead3514689aa9758d6203de2dbc18e6f5a9dd52213"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/05.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1784192,
+      "md5": "d8f83493465f7090c65781accb40c63b",
+      "sha256": "b2a3a5be88f1ec7f6d41b2d6b939cdcb7acc477b55508a21d0a56a92d1f8cb08",
+      "index": 5,
+      "title": "蔚蓝海岸灯塔吹风",
+      "cloud_filename": "05-蔚蓝海岸灯塔吹风.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "晴朗积云下的蔚蓝大海与远方红顶白灯塔，懒羊羊在海崖白栏杆花径捧西瓜挥手",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/05.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2046212,
+        "md5": "0735e631a5b7461721fb0ad3a12769ef",
+        "sha256": "5ff56ed5ec3f4c1ea88e312e3cff8e3c623a7e36e2c318be6698e80c4004c6ed"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/06.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1832528,
+      "md5": "fa646a10b4145140520cbe84aaddfa5c",
+      "sha256": "433c31de22e30f315e1fcf3b3bf8ecb6713e9ef22695eb157cc257299437339c",
+      "index": 6,
+      "title": "乡间铁道站台等车",
+      "cloud_filename": "06-乡间铁道站台等车.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "宫崎骏式晴空云朵与蜿蜒乡间铁轨，懒羊羊背小帆布包坐木站台长椅喝哈密瓜果汁",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/06.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2201815,
+        "md5": "12b0b3f27a45499f4fc9100f9a1746da",
+        "sha256": "b1b5fed4032b469a5013488b64be62b2a96fbcd8553e5c831ccbf802c25c0977"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/07.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1744543,
+      "md5": "90cd9078fb0276ada0fb82581739e5b3",
+      "sha256": "476b42936cea6b6d7511f7e58434c7910a05ae62a715fa3f6bdb579cd519caf1",
+      "index": 7,
+      "title": "金色麦田风车小径",
+      "cloud_filename": "07-金色麦田风车小径.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "起伏金黄麦浪与远山白色木风车，懒羊羊举彩色旋转纸风车沿乡间小路欢快漫步",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/07.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2203347,
+        "md5": "23c0d5bdb7c422b7ae3cb51a53d542b0",
+        "sha256": "93ceb1d5d4ca7862ba2479b10a306b3a28b5a109dfb8ed2cf1abbc5344b0f253"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/08.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 2048909,
+      "md5": "b0b0fa5ad0d7795c91c1355933b404e5",
+      "sha256": "2a9e666ed1bc6553305286957ebaab98d67e6adeaa5e71e04eefcb2cbfc40ecc",
+      "index": 8,
+      "title": "烟雨竹林荷叶躲雨",
+      "cloud_filename": "08-烟雨竹林荷叶躲雨.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "太阳雨微光穿透翠绿竹林山涧，懒羊羊立溪石上撑高柄大荷叶低头看水中红锦鲤",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/08.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2776497,
+        "md5": "34620cf53b700a6d30b1ad98b5e55160",
+        "sha256": "947e25b244754849cd6263cc15e29585368289a8ec1d98c3b1072d8c8a74a5f1"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/09.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1896776,
+      "md5": "67fcc572f1f224d1900449c7856fc55f",
+      "sha256": "b4627d797dcac1b1838532ce7e04ef296d37929ec3d8e9f603a0e136109cdf1b",
+      "index": 9,
+      "title": "冬夜暖窗看初雪",
+      "cloud_filename": "09-冬夜暖窗看初雪.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "木屋暖黄靠垫窗台与窗外飘雪蓝调山村，懒羊羊抱热气腾腾白包子静看窗外初雪",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/09.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2289822,
+        "md5": "c174c181cd0b32b1df724fdaf9619e28",
+        "sha256": "0498ab9da09822a9af6d784e4aad2da28ff404dbce319a4778b5febab5ea7530"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/10.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1791565,
+      "md5": "d0caf40c796fb146b69f36d097f924b1",
+      "sha256": "2faf2b8bf6d41b9d6deb3a5113459164f016d1ec89447ab975c0257595a532f9",
+      "index": 10,
+      "title": "春日樱花草坡午睡",
+      "cloud_filename": "10-春日樱花草坡午睡.png",
+      "style_reference": "source/01.webp",
+      "character_verification": "Canonical 懒羊羊 (Lazy Goat / Paddi) verified via official character design search: 3-tier swirl wool peak, curved segmented brown horns, small pointed peach ears, small black oval eyes with white catchlights, horizontal black oval nose with white highlight, sleeveless fluffy white wool torso, yellow chest bib with two white bottom stripes, bare peach-skin arms/legs, and cleft-hoof oval feet",
+      "scene_description": "粉白樱花垂枝与三叶草春坡红白野餐垫，懒羊羊枕小枕头伴青草蛋糕香甜午睡",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/10.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 1774247,
+        "md5": "8c62c7668649e00fc601efbd750adcc8",
+        "sha256": "94cf909b03736552d1cc59791ece80ea30e9fb4560280ef951769f82e637732e"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered crop; zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    }
+  ]
+}
