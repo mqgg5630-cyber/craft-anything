@@ -1,0 +1,21 @@
+{
+  "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "public_note_url": "https://www.rednote.com/discovery/item/6abdb5a9000000001802f193",
+  "note_id": "6abdb5a9000000001802f193",
+  "title": "秋天和秋千很配哦～",
+  "source_quality": "Public page image; original master and creator-provided file not verified.",
+  "status": "downloaded_pending_visual_review",
+  "download_method": "GitHub Actions; public page carousel URLs; bounded decode",
+  "images": [
+    {
+      "file": "source/01.webp",
+      "format": "webp",
+      "width": 852,
+      "height": 1848,
+      "bytes": 156296,
+      "md5": "19ad4c76e4ca38c2f934e6d01e4b5e9a",
+      "sha256": "ed99ec35217468fa167dcb11ffc7ec83e6844b05366e797ffcc308c4beacebb0",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611271640/9e4c71c965d05eb8838f2614b1ca47ca/notes_pre_post/1040g3k0325ouk4da46005q98brntotk4ikberq0!nd_dft_wlteh_webp_3"
+    }
+  ]
+}
