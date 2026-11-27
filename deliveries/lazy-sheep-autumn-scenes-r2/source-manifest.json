@@ -1,0 +1,45 @@
+{
+  "task": "懒羊羊角色校正＋10个不同秋日场景",
+  "note_share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "note_id": "6abdb5a9000000001802f193",
+  "note_source_reused_from": "deliveries/autumn-swing-C5WkFiFa1r/source/01.jpg",
+  "note_source_original_actions_run": "45967988027",
+  "note_source_new_download_this_round": false,
+  "note_source_bytes_reverified": true,
+  "character_search": {
+    "query": "懒羊羊 官方 角色 全身 黄色口水巾",
+    "method": "image_search, three results opened visually before generation",
+    "selected_source_url": "https://xyy.huijiwiki.com/wiki/%E6%87%92%E7%BE%8A%E7%BE%8A",
+    "selected_result_title": "旧画风懒羊羊.png",
+    "quality": "Public web character-reference image from a fan wiki; not independently certified official model sheet",
+    "other_reviewed_urls": [
+      "https://acgkk.com/character/68636.html",
+      "https://baike.sogou.com/v62107.htm"
+    ]
+  },
+  "roles": {
+    "source/01.jpg": "Only background medium, color and light reference; do not use previous sheep anatomy",
+    "character-reference/lazy-sheep-classic.png": "Primary character shape, wool tuft, horns, yellow double-white-edge bib, no shirt or sleeves"
+  },
+  "images": [
+    {
+      "file": "source/01.jpg",
+      "width": 852,
+      "height": 1848,
+      "format": "JPEG",
+      "bytes": 231735,
+      "md5": "3bca5f33f5d14138709ed324621ddcda",
+      "sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b"
+    },
+    {
+      "file": "character-reference/lazy-sheep-classic.png",
+      "width": 500,
+      "height": 590,
+      "format": "PNG",
+      "bytes": 119680,
+      "md5": "b20cd323491c4e2d67eb76fc2fb06d2f",
+      "sha256": "11f4a209390bf2101c47f164723eff526855424d121ad5348bd947797fa39581"
+    }
+  ],
+  "status": "downloaded_verified_and_visually_reviewed_before_generation"
+}

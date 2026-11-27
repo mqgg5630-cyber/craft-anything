@@ -1,0 +1,46 @@
+[
+  {
+    "file": "artwork/05.png",
+    "before_sha256": "32e5ac0577196d6562e6a795904017dc60355619c820b7504efff0bd8df07c88",
+    "after_sha256": "f4556f62ded3ce61aa7a955b95b568dc3ee2985aca450dbc51cde08e64175a59",
+    "method": "Clone neighboring unlabelled ground texture from same generated image, 175x40 lower-right patch, feather top and left six pixels. Replaces entire AI-imitation logo area, character far outside edit.",
+    "masked_pixel_count": 7000,
+    "source_original_modified": false,
+    "reason": "AI spontaneously imitated a platform label in our generated artwork; no source reference or author mark edited",
+    "failed_regeneration_attempt": "Image tool refused correction because ten-per-turn cap reached; no extra image generated",
+    "patch_bbox": [
+      529,
+      1480,
+      704,
+      1520
+    ],
+    "donor_bbox": [
+      529,
+      1420,
+      704,
+      1460
+    ]
+  },
+  {
+    "file": "artwork/07.png",
+    "before_sha256": "aa7d056d9e3f12de111431284efd6b2e53dd4dfe59a276339eb150b98fc6651a",
+    "after_sha256": "2702ef2464d8d9be34d37d8c20d04c4c6eaaf54e6d88738b32d3eb9ee2484a24",
+    "method": "Clone neighboring unlabelled ground texture from same generated image, 175x40 lower-right patch, feather top and left six pixels. Replaces entire AI-imitation logo area, character far outside edit.",
+    "masked_pixel_count": 7000,
+    "source_original_modified": false,
+    "reason": "AI spontaneously imitated a platform label in our generated artwork; no source reference or author mark edited",
+    "failed_regeneration_attempt": "Image tool refused correction because ten-per-turn cap reached; no extra image generated",
+    "patch_bbox": [
+      529,
+      1480,
+      704,
+      1520
+    ],
+    "donor_bbox": [
+      529,
+      1420,
+      704,
+      1460
+    ]
+  }
+]

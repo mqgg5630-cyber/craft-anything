@@ -1,0 +1,50 @@
+name: Lazy sheep and cat sunset public download
+on:
+  push:
+    branches: ['arena/b7bfcf81-craft-anything']
+    paths:
+      - 'tools/wallpaper-job/download_lazy_cat_b7.py'
+      - '.github/workflows/lazy-cat-b7-download.yml'
+permissions:
+  contents: write
+concurrency:
+  group: lazy-cat-b7-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow==11.3.0
+      - run: python tools/wallpaper-job/download_lazy_cat_b7.py
+      - name: Return safe diagnostic only on failure
+        if: failure()
+        env:
+          JOB_BRANCH: ${{ github.ref_name }}
+        run: |
+          test "$JOB_BRANCH" = 'arena/b7bfcf81-craft-anything'
+          if test -f deliveries/lazy-cat-sunset-6bdoxc66Ezp/download-status.json; then
+            git config user.name 'wallpaper-delivery[bot]'
+            git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
+            git add deliveries/lazy-cat-sunset-6bdoxc66Ezp/*.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Record new lazy sheep cat sunset public source blocker'
+              git push origin "HEAD:$JOB_BRANCH"
+            fi
+          fi
+      - name: Return fully verified carousel to same branch
+        env:
+          JOB_BRANCH: ${{ github.ref_name }}
+        run: |
+          test "$JOB_BRANCH" = 'arena/b7bfcf81-craft-anything'
+          git config user.name 'wallpaper-delivery[bot]'
+          git config user.email 'wallpaper-delivery[bot]@users.noreply.github.com'
+          git add deliveries/lazy-cat-sunset-6bdoxc66Ezp/source deliveries/lazy-cat-sunset-6bdoxc66Ezp/source-manifest.json deliveries/lazy-cat-sunset-6bdoxc66Ezp/download-status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Return verified lazy sheep cat sunset source carousel from Actions'
+            git push origin "HEAD:$JOB_BRANCH"
+          fi

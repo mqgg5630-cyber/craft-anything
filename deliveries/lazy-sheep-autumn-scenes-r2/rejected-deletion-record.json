@@ -1,0 +1,47 @@
+{
+  "reason": "User rejected character and explicitly requested deletion; replace using new share https://xhslink.cn/o/6bdoxc66Ezp",
+  "deleted_generated_files": [
+    {
+      "file": "artwork/01.png",
+      "sha256": "0672d24aae8b161cd29edab152aaaa22ec41b6f58516b1216f2d5c6e2fb885db"
+    },
+    {
+      "file": "artwork/02.png",
+      "sha256": "b0972dd7b39eda69961fb70a542fbe37240a3c5589989d728fc8146973bd01bc"
+    },
+    {
+      "file": "artwork/03.png",
+      "sha256": "79c7a4c313cd0af21b5a860eed3f2ef719084b65846b6015a1a1e3e18a8bdc59"
+    },
+    {
+      "file": "artwork/04.png",
+      "sha256": "ebcb5821c784e557720adeb250095bfdbb3b5b24ee013a3c5272ff2d79fac7cf"
+    },
+    {
+      "file": "artwork/05.png",
+      "sha256": "f4556f62ded3ce61aa7a955b95b568dc3ee2985aca450dbc51cde08e64175a59"
+    },
+    {
+      "file": "artwork/06.png",
+      "sha256": "3c2507d87c58b4110a35aa36a5a825bb856a1bba30a762db92d367892c6b56b7"
+    },
+    {
+      "file": "artwork/07.png",
+      "sha256": "2702ef2464d8d9be34d37d8c20d04c4c6eaaf54e6d88738b32d3eb9ee2484a24"
+    },
+    {
+      "file": "artwork/08.png",
+      "sha256": "637d7262fd63db3b57985a81be9efe5683bffc978a3bb55384cf835caccd400c"
+    },
+    {
+      "file": "artwork/10.png",
+      "sha256": "bcab94971a94bc07050d223b6ad014cb69038d06ed8f4c00dc8c1e134c686e78"
+    },
+    {
+      "file": "artwork/09.png",
+      "sha256": "b9699d6fd8c7d0b06d4f0c2abe14288ce256b8cc540243f86fbc68aab1ba839a"
+    }
+  ],
+  "reference_files_preserved": true,
+  "not_delivered_to_drive": true
+}
