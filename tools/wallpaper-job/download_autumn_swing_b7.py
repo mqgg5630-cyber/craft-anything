@@ -1,32 +1,63 @@
-"""Actions-only public carousel acquisition. No credentials, no login bypass."""
-import hashlib, io, json, os, re, tempfile, urllib.request
+"""Download this public sunset note on GitHub Actions, never in the agent sandbox.
+
+No login/cookies or access-control bypass. Preserve decoded-valid CDN bytes.
+Stage the whole delivery before publishing; failures never commit partial images.
+"""
+import hashlib
+import io
+import json
+import os
 from pathlib import Path
-from urllib.parse import urlparse, unquote
+import re
+import tempfile
 import urllib.parse
-from PIL import Image
+import urllib.request
+import warnings
 
-ROOT=Path('deliveries/autumn-swing-C5WkFiFa1r')
-SHARE='https://xhslink.cn/o/C5WkFiFa1r'
-LIMIT=12*1024*1024
+from PIL import Image, ImageDraw, ImageOps
 
-def public_url(url):
-    p=urlparse(url)
-    return p.scheme=='https' and not p.username and not p.password and any(p.hostname==h or (p.hostname or '').endswith('.'+h) for h in ['xhscdn.com','rednotecdn.com','xiaohongshu.com'])
+SHARE_URL = 'https://xhslink.cn/o/C5WkFiFa1r'
+ROOT = Path('deliveries/autumn-swing-C5WkFiFa1r')
+IMAGE_LIMIT = 12 * 1024 * 1024
+TOTAL_LIMIT = 65 * 1024 * 1024
+Image.MAX_IMAGE_PIXELS = 24_000_000
+warnings.simplefilter('error', Image.DecompressionBombWarning)
+PUBLIC_NOTE_URLS = []
 
-def decode(data):
-    if len(data)>LIMIT: raise ValueError('Image exceeds size cap')
-    with Image.open(io.BytesIO(data)) as im: im.verify()
-    with Image.open(io.BytesIO(data)) as im:
-        im.load();w,h=im.size;fmt=im.format.lower()
-    if min(w,h)<300 or fmt not in ['png','jpeg','webp']:raise ValueError('Unexpected image dimensions or format')
-    return dict(width=w,height=h,format=fmt,bytes=len(data),md5=hashlib.md5(data).hexdigest(),sha256=hashlib.sha256(data).hexdigest())
 
-def request(url,limit):
-    req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0','Referer':'https://www.xiaohongshu.com/'})
-    with urllib.request.urlopen(req,timeout=40) as r:
-        data=r.read(limit+1);final=r.url
-    if len(data)>limit:raise ValueError('Response exceeds cap')
-    return data,final
+def check_url(url):
+    p = urllib.parse.urlsplit(url)
+    allowed = ('xhslink.cn', 'xhslink.com', 'xiaohongshu.com', 'rednote.com', 'xhscdn.com', 'rednotecdn.com')
+    if (p.scheme != 'https' or p.username or p.password or p.port not in (None, 443)
+            or not any(p.hostname == d or (p.hostname or '').endswith('.' + d) for d in allowed)):
+        raise ValueError(f'Unexpected public-note host: {p.scheme}://{p.hostname}')
+    return url
+
+
+class SafeRedirect(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        # Some public short links declare an HTTP target; request HTTPS instead.
+        if newurl.startswith('http://'):
+            newurl = 'https://' + newurl[7:]
+        check_url(newurl)
+        parsed = urllib.parse.urlsplit(newurl)
+        if re.search(r'/(?:explore|discovery/item)/[a-f0-9]{24}', parsed.path):
+            PUBLIC_NOTE_URLS.append(newurl)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+def read_url(url, limit):
+    req = urllib.request.Request(check_url(url), headers={
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1',
+        'Referer': 'https://www.xiaohongshu.com/', 'Accept-Language': 'zh-CN,zh;q=0.9'})
+    with urllib.request.build_opener(SafeRedirect()).open(req, timeout=25) as response:
+        check_url(response.url)
+        data = response.read(limit + 1)
+        final = response.url
+    if len(data) > limit:
+        raise ValueError('Response exceeds byte cap')
+    return data, final
+
 
 def parse_note(html, final_url, title_hint='秋'):
     match = re.search(r'window\.__INITIAL_STATE__\s*=\s*(.*?)</script>', html, re.S)
@@ -74,52 +105,134 @@ def parse_note(html, final_url, title_hint='秋'):
     return note
 
 
-def main():
-    if os.environ.get('GITHUB_ACTIONS')!='true':raise RuntimeError('Actions only')
-    ROOT.mkdir(parents=True,exist_ok=True)
-    html,final=request(SHARE,8*1024*1024)
-    parsed=urlparse(final)
-    note_ids=re.findall(r'/item/([0-9a-f]{24})',unquote(final))
-    diagnostic=dict(share_url=SHARE,final_url=parsed.scheme+'://'+parsed.netloc+parsed.path,note_id=note_ids[0] if len(set(note_ids))==1 else None,page_bytes=len(html),run_id=os.environ.get('GITHUB_RUN_ID'),query_retained=False)
-    (ROOT/'page-diagnostic.json').write_text(json.dumps(diagnostic,indent=2)+'\n')
-    note=parse_note(html.decode('utf-8'),final)
-    if note.get('noteId') != '6abdb5a9000000001802f193':raise ValueError('Wrong note identity')
-    images=note['imageList']
-    if not 1<=len(images)<=20:raise ValueError('Unexpected carousel size')
-    records=[];total=0;seen=set()
-    with tempfile.TemporaryDirectory() as folder:
-        stage=Path(folder)
-        for item in images:
-            urls=list(dict.fromkeys([item.get('urlDefault','')]+[i.get('url','') for i in item.get('infoList',[])]))
-            candidates=[]
-            for url in urls:
-                if not public_url(url):continue
-                try:
-                    data,redirect=request(url,LIMIT)
-                    if not public_url(redirect):raise ValueError('Unexpected image redirect')
-                    a=decode(data);candidates.append((a['width']*a['height'],len(data),data,a,url))
-                except (OSError,ValueError):print('One public image candidate unavailable',flush=True)
-            if not candidates:raise ValueError('No decodable public candidate')
-            _,_,data,a,url=max(candidates,key=lambda c:c[:2])
-            if a['sha256'] in seen:continue
-            seen.add(a['sha256']);total+=len(data)
-            if total>75*1024*1024:raise ValueError('Total exceeds cap')
-            name=f'{len(records)+1:02d}.{a["format"]}'
-            (stage/name).write_bytes(data);records.append(dict(a,file='source/'+name,source_url=url))
-        dest=ROOT/'source'
-        for p in stage.iterdir():
-            if (dest/p.name).exists() and (dest/p.name).read_bytes()!=p.read_bytes():raise ValueError('Refuse overwrite')
-        dest.mkdir(exist_ok=True)
-        for p in stage.iterdir():(dest/p.name).write_bytes(p.read_bytes())
-    manifest=dict(share_url=SHARE,note_id=note.get('noteId'),title=note.get('title'),description=note.get('desc'),author=note.get('user',{}).get('nickname'),final_url=diagnostic['final_url'],run_id=os.environ.get('GITHUB_RUN_ID'),source_quality='Public CDN display files, not confirmed author masters',status='downloaded_pending_visual_review',images=records)
-    (ROOT/'source-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
-    (ROOT/'download-status.json').write_text(json.dumps(dict(status='downloaded_pending_visual_review',count=len(records),all_decoded=True),indent=2)+'\n')
-    print('Verified',len(records),'originals')
+def candidates(item):
+    urls = [item.get('urlDefault', ''), item.get('urlPre', '')]
+    urls += [v.get('url', '') for v in item.get('infoList', [])]
+    # Only use publicly declared CDN URLs. Do not invent asset tokens or signatures.
+    result = []
+    for url in dict.fromkeys(urls):
+        if not url:
+            continue
+        if url.startswith('http://'):
+            url = 'https://' + url[7:]
+        check_url(url)
+        result.append(url)
+    return result
 
-if __name__=='__main__':
-    try:main()
-    except Exception as e:
-        if os.environ.get('GITHUB_ACTIONS')=='true':
-            ROOT.mkdir(parents=True,exist_ok=True)
-            (ROOT/'download-status.json').write_text(json.dumps(dict(status='blocked_source_download',error_type=type(e).__name__,error=str(e),run_id=os.environ.get('GITHUB_RUN_ID')),indent=2)+'\n')
-        raise
+
+def validate(data):
+    if len(data) > IMAGE_LIMIT:
+        raise ValueError('Image exceeds byte cap')
+    with Image.open(io.BytesIO(data)) as im:
+        im.verify()
+    with Image.open(io.BytesIO(data)) as im:
+        im.load()
+        w, h = im.size
+        fmt = {'JPEG': 'jpg', 'PNG': 'png', 'WEBP': 'webp'}.get(im.format)
+        if not fmt or min(w, h) < 300 or w * h > 24_000_000 or getattr(im, 'n_frames', 1) != 1:
+            raise ValueError('Unsupported, animated, small or oversized image')
+    return w, h, fmt
+
+
+def main():
+    if os.environ.get('GITHUB_ACTIONS') != 'true':
+        raise RuntimeError('Network download is restricted to GitHub Actions')
+    html, final = read_url(SHARE_URL, 8 * 1024 * 1024)
+    try:
+        note = parse_note(html.decode('utf-8'), final)
+    except ValueError:
+        parsed = urllib.parse.urlsplit(final)
+        print(f'::notice title=Public share redirect::{parsed.hostname}{parsed.path}', flush=True)
+        # Use only a note URL actually declared by the public short-link redirect,
+        # not the final /login path. One official public frontend retry, no cookies.
+        if not PUBLIC_NOTE_URLS:
+            raise ValueError('Share redirected to login without exposing a public note URL')
+        declared = urllib.parse.urlsplit(PUBLIC_NOTE_URLS[0])
+        domestic = urllib.parse.urlunsplit(('https', 'www.xiaohongshu.com', declared.path, declared.query, ''))
+        html, final = read_url(domestic, 8 * 1024 * 1024)
+        if '/login' in urllib.parse.urlsplit(final).path:
+            raise ValueError('Official public note redirects to login; no authentication attempted')
+        note = parse_note(html.decode('utf-8'), final)
+    ROOT.parent.mkdir(parents=True, exist_ok=True)
+    if (ROOT / 'source').exists():
+        raise ValueError('Sources already exist; refusing to overwrite')
+    if note.get('noteId') != '6abdb5a9000000001802f193':
+        raise ValueError('Resolved note identity mismatch')
+    with tempfile.TemporaryDirectory(dir=ROOT.parent, prefix='.sunset-') as tmp:
+        stage = Path(tmp) / 'delivery'
+        source = stage / 'source'
+        source.mkdir(parents=True)
+        rows, hashes, total = [], set(), 0
+        for index, item in enumerate(note['imageList'], 1):
+            best = None
+            for url in candidates(item):
+                try:
+                    data, _ = read_url(url, IMAGE_LIMIT)
+                    w, h, fmt = validate(data)
+                    candidate = (w * h, len(data), data, w, h, fmt, url)
+                    if best is None or candidate[:2] > best[:2]:
+                        best = candidate
+                except (OSError, ValueError, Image.DecompressionBombError, Image.DecompressionBombWarning):
+                    print(f'Image {index}: a declared candidate unavailable', flush=True)
+            if best is None:
+                raise ValueError(f'No validated public image at position {index}')
+            _, _, data, w, h, fmt, chosen_url = best
+            total += len(data)
+            if total > TOTAL_LIMIT:
+                raise ValueError('Source set exceeds 65 MiB cap')
+            digest = hashlib.sha256(data).hexdigest()
+            if digest in hashes:
+                raise ValueError('Duplicate source image in carousel')
+            hashes.add(digest)
+            name = f'{index:02d}.{fmt}'
+            (source / name).write_bytes(data)
+            rows.append({'file': 'source/' + name, 'width': w, 'height': h,
+                         'bytes': len(data), 'sha256': digest, 'md5': hashlib.md5(data).hexdigest(), 'format': fmt, 'source_url': chosen_url})
+            print(f'Validated image {index}: {w}x{h}, {len(data)} bytes', flush=True)
+        # Re-read every staged file before publishing anything to the repository.
+        for row in rows:
+            data = (stage / row['file']).read_bytes()
+            validate(data)
+            if hashlib.sha256(data).hexdigest() != row['sha256']:
+                raise ValueError('Staged file hash mismatch')
+        cols = min(5, len(rows))
+        sheet = Image.new('RGB', (cols * 240 + 20, ((len(rows)+cols-1)//cols)*550 + 55), '#f5ebdb')
+        draw = ImageDraw.Draw(sheet)
+        draw.text((20, 14), 'PUBLIC NOTE SOURCES / NOT AUTHOR MASTER FILES', fill='#72523c')
+        for i, row in enumerate(rows):
+            x, y = 20 + i % cols * 240, 50 + i // cols * 550
+            with Image.open(stage / row['file']) as im:
+                thumb = ImageOps.contain(im.convert('RGB'), (220, 505))
+            sheet.paste(thumb, (x, y+25))
+            draw.text((x, y), f'{i+1:02d} / {row["width"]} x {row["height"]}', fill='#72523c')
+        sheet.save(stage / '原片总预览.jpg', quality=92)
+        manifest = {'schema_version': 1, 'status': 'downloaded_pending_visual_review',
+                    'share_url': SHARE_URL, 'note_id': note.get('noteId'), 'title': note.get('title'),
+                    'author': note.get('user', {}).get('nickname'),
+                    'download_method': 'GitHub Actions only; public declared CDN URLs; no cookies',
+                    'source_quality': '公开笔记的最高可得候选文件，未经重编码；不保证为作者母版。',
+                    'source_count': len(rows), 'requested_result_count': 10,
+                    'runner_commit': os.environ.get('GITHUB_SHA'), 'run_id':os.environ.get('GITHUB_RUN_ID'),
+                    'images': rows}
+        (stage / 'source-manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')
+        (stage / 'download-status.json').write_text(json.dumps({'status':'downloaded_pending_visual_review','run_id':os.environ.get('GITHUB_RUN_ID'),'count':len(rows),'all_decoded':True})+'\n')
+        ROOT.mkdir(parents=True,exist_ok=True)
+        for entry in stage.iterdir():
+            entry.replace(ROOT / entry.name)
+    print(f'Published {len(rows)} verified public source images', flush=True)
+
+
+if __name__ == '__main__':
+    try:
+        main()
+    except Exception as exc:
+        # Expose only a short diagnostic in the Checks API, not signed URLs/bodies.
+        import urllib.error
+        if isinstance(exc, urllib.error.HTTPError):
+            message = f'Public endpoint returned HTTP {exc.code}'
+        elif isinstance(exc, ValueError):
+            message = str(exc)[:180].replace('\n', ' ')
+        else:
+            message = type(exc).__name__
+        print(f'::error title=Public note download blocked::{message}', flush=True)
+        raise SystemExit(1)
