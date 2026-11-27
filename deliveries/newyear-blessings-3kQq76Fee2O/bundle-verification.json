@@ -1,0 +1,165 @@
+{
+  "status": "passed",
+  "existing_batch_reused": true,
+  "new_generation_count_this_followup": 0,
+  "archive": ".local/delivery-bundles/新年祝福壁纸-完整交付-1080x2343.zip",
+  "bytes": 38787788,
+  "md5": "ecaa099dbb0c779737e4a9a19c13271b",
+  "sha256": "ab09b1c39363d92a02e8e6423d0bc4a16a3631d5fb3bb2c3b2b53e4164bd668a",
+  "crc_test_passed": true,
+  "member_count": 21,
+  "all_member_bytes_match": true,
+  "default_final_size": [
+    1080,
+    2343
+  ],
+  "files": [
+    {
+      "member": "01-原片/01.webp",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/source/01.webp",
+      "bytes": 523764,
+      "sha256": "4773124db2da616a855f88e4ca1f3ef15f5776e360b6875b2eba31fb668665e6",
+      "match": true
+    },
+    {
+      "member": "01-原片/02.webp",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/source/02.webp",
+      "bytes": 525124,
+      "sha256": "38d35cfaa8a8090dc65da50f169af3661654c50c74f72e01838d7febd1852eb0",
+      "match": true
+    },
+    {
+      "member": "01-原片/03.webp",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/source/03.webp",
+      "bytes": 525154,
+      "sha256": "3704a50c838c7937422e7e6b1e5161ee3d7e797376eba916ff6629461f1b093e",
+      "match": true
+    },
+    {
+      "member": "01-原片/04.webp",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/source/04.webp",
+      "bytes": 525794,
+      "sha256": "bb324992438c1d306da023d06a89977867a1996edcd32554d9ff1b7620238214",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/01-春祺夏安-秋绥冬禧.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/01.png",
+      "bytes": 3859305,
+      "sha256": "9a1f54a4234a69ae29cc59c64e0b66763a7a03666c7405473041b0ecc5258bca",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/02-岁启新章-福满人间.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/02.png",
+      "bytes": 3468492,
+      "sha256": "06e1d41b908b65be4644aa3d60952420a12b748b7ae3cefcee3b2948179e5733",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/03-所行皆坦-所遇皆暖.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/03.png",
+      "bytes": 3529237,
+      "sha256": "511010ef9a0b7225431f2ceca04d0029e7fbd148033d2279263528c6a46bbf70",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/04-长乐未央-喜悦成双.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/04.png",
+      "bytes": 3468718,
+      "sha256": "a8ab9fe6065f5ff407223fc087808056a7f35de9e21b2ae4177df6d4b9975411",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/05-花开有信-好运有期.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/05.png",
+      "bytes": 3623471,
+      "sha256": "ef2eb847e6b5ffdea054205225e719a47d614d5f1915bba875c1a68b1fda17d1",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/06-心栖暖处-日有小欢.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/06.png",
+      "bytes": 3600307,
+      "sha256": "1108d936d0859d479c561be7510a9001608a785a614957693fbe6be1df8e1e85",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/07-福随春至-喜伴岁长.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/07.png",
+      "bytes": 3372066,
+      "sha256": "dfa82031b285b70dd7b06ee15e32edfdfe78e37cabe10fbb65e16570786d11bd",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/08-朝迎瑞气-暮揽祥光.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/08.png",
+      "bytes": 3367710,
+      "sha256": "3c3a14f82df17eddd071a19e1c58ab60f539c68cc70147a7aa71a3948cbf9125",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/09-家和景明-岁丰人悦.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/09.png",
+      "bytes": 3457204,
+      "sha256": "8494499ea60c249ef0a4001ddbda2771ce26f4e5a26c7112687a5eeb4ff3f04e",
+      "match": true
+    },
+    {
+      "member": "02-结果-1080x2343/10-新程似锦-佳事连年.png",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/images/10.png",
+      "bytes": 3594347,
+      "sha256": "e426bb9e1ca535ea9dfde0fa4d564f8b156ea29db2d2e178fbd7caa319be3f02",
+      "match": true
+    },
+    {
+      "member": "03-总预览/00-10張成品總預覽.jpg",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/00-10張成品總預覽.jpg",
+      "bytes": 579181,
+      "sha256": "938a4865d3a41e5103ad681a4dd0321798cc68d161b29b8c4a4e0b6cbd75130b",
+      "match": true
+    },
+    {
+      "member": "03-总预览/00-原片與成品對照.jpg",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/00-原片與成品對照.jpg",
+      "bytes": 804323,
+      "sha256": "0d572536acb13302c6921914803e819e69de38322e59c6f212b6b136a8551dd9",
+      "match": true
+    },
+    {
+      "member": "04-说明与清单/README.md",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/README.md",
+      "bytes": 6280,
+      "sha256": "c3678ad154db8dfe878b467e66c3fd7828189035cef3bf3d5332f6b90a2dba02",
+      "match": true
+    },
+    {
+      "member": "04-说明与清单/source-manifest.json",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/source-manifest.json",
+      "bytes": 3285,
+      "sha256": "473eb188b01441186df40fb3330e6a3840f7b84dbc011d5d61d2e3f6fe19f937",
+      "match": true
+    },
+    {
+      "member": "04-说明与清单/output-manifest.json",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/output-manifest.json",
+      "bytes": 28394,
+      "sha256": "692bc4ecf08b7827bc6adb17a2c357eb3183462092ef1b62c0be9fd8a568225d",
+      "match": true
+    },
+    {
+      "member": "04-说明与清单/全流程与交付索引.md",
+      "source": "deliveries/newyear-blessings-3kQq76Fee2O/全流程与交付索引.md",
+      "bytes": 4142,
+      "sha256": "d12eefbbc9656c08bbeadc570422b442814314c9674e414aed274586efacb37f",
+      "match": true
+    },
+    {
+      "member": "04-说明与清单/以后默认尺寸-1080x2343.json",
+      "source": "skills/xhs-link-recreate-10/wallpaper-preferences.json",
+      "bytes": 922,
+      "sha256": "28fd214334baa640cd03a1f4ba00bce2458279f33293601a198e03e723aad201",
+      "match": true
+    }
+  ]
+}

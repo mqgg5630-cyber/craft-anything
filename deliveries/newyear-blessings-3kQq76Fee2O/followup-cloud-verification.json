@@ -1,0 +1,244 @@
+{
+  "status": "verified_complete_requested_deliverables",
+  "basis": "Fresh post-upload search_files results for root/source/final folders, all pages exhausted; MD5 and size compared against local bytes",
+  "root": "19pP2tjD9yu-wogvj8Gz06GJa3JFzTxJ6",
+  "folders": {
+    "source": "1L7c-XZbXn_bzziexnc1YGxUPX3hSERsr",
+    "final": "1hUrO6nLTtRVR2klW0dN0XTriHFg6vEVU"
+  },
+  "fresh_listing_counts": {
+    "root_items": 9,
+    "root_files": 7,
+    "root_subfolders": 2,
+    "source_files": 4,
+    "final_files": 10,
+    "total_files": 21
+  },
+  "next_page_tokens": [
+    null,
+    null,
+    null
+  ],
+  "incomplete_search": false,
+  "all_match": true,
+  "scope": "Original 19 deliverables plus supplemental full-process index and verified ZIP",
+  "files": [
+    {
+      "file": "source/01.webp",
+      "drive_id": "1a7BJEGGIa9Bp4jyLrJ-hn-hKfFjn6HKk",
+      "cloud_name": "01.webp",
+      "local_md5": "37ae8d1775b642644e73eee71983b232",
+      "cloud_md5": "37ae8d1775b642644e73eee71983b232",
+      "local_bytes": 523764,
+      "cloud_bytes": 523764,
+      "match": true
+    },
+    {
+      "file": "source/02.webp",
+      "drive_id": "19u6MSfUOFz_Nf4luuPnngvHtJln3X2eu",
+      "cloud_name": "02.webp",
+      "local_md5": "468a4090d1bcb544838f1b155a6c4c15",
+      "cloud_md5": "468a4090d1bcb544838f1b155a6c4c15",
+      "local_bytes": 525124,
+      "cloud_bytes": 525124,
+      "match": true
+    },
+    {
+      "file": "source/03.webp",
+      "drive_id": "10G1Z_xvc5XFfILke1ebbkZyHnjxIVOUB",
+      "cloud_name": "03.webp",
+      "local_md5": "af3ae9c565bb5482d0cf11efcfc08e83",
+      "cloud_md5": "af3ae9c565bb5482d0cf11efcfc08e83",
+      "local_bytes": 525154,
+      "cloud_bytes": 525154,
+      "match": true
+    },
+    {
+      "file": "source/04.webp",
+      "drive_id": "1s8G7OR8egt0M4MyIJiPAnLX9Nob7WFSP",
+      "cloud_name": "04.webp",
+      "local_md5": "e8d4f1db8bb09907aeea497c7c73b1ab",
+      "cloud_md5": "e8d4f1db8bb09907aeea497c7c73b1ab",
+      "local_bytes": 525794,
+      "cloud_bytes": 525794,
+      "match": true
+    },
+    {
+      "file": "images/01.png",
+      "drive_id": "1v_t2arwMifiYVY0uJY5hvor_pjfSO3F4",
+      "cloud_name": "01-春祺夏安-秋绥冬禧.png",
+      "local_md5": "cfb5246ae60d759a57deb6c134973baf",
+      "cloud_md5": "cfb5246ae60d759a57deb6c134973baf",
+      "local_bytes": 3859305,
+      "cloud_bytes": 3859305,
+      "match": true
+    },
+    {
+      "file": "images/02.png",
+      "drive_id": "1KGB5roFu0-36gKWjoQf6kGQZ-cxNp7ti",
+      "cloud_name": "02-岁启新章-福满人间.png",
+      "local_md5": "43af7b430e5e60ae2c6d0cc8b84ab08f",
+      "cloud_md5": "43af7b430e5e60ae2c6d0cc8b84ab08f",
+      "local_bytes": 3468492,
+      "cloud_bytes": 3468492,
+      "match": true
+    },
+    {
+      "file": "images/03.png",
+      "drive_id": "1nwi89jgERzWR-E2szbDr--XjHWUSNE8d",
+      "cloud_name": "03-所行皆坦-所遇皆暖.png",
+      "local_md5": "b20050d73f9d243363ee9205058d813f",
+      "cloud_md5": "b20050d73f9d243363ee9205058d813f",
+      "local_bytes": 3529237,
+      "cloud_bytes": 3529237,
+      "match": true
+    },
+    {
+      "file": "images/04.png",
+      "drive_id": "1ZoncuR0eObRdYEMMHh4KXgP7q-CL49fy",
+      "cloud_name": "04-长乐未央-喜悦成双.png",
+      "local_md5": "add2dd84c935ba8833a50c61359b327f",
+      "cloud_md5": "add2dd84c935ba8833a50c61359b327f",
+      "local_bytes": 3468718,
+      "cloud_bytes": 3468718,
+      "match": true
+    },
+    {
+      "file": "images/05.png",
+      "drive_id": "1kSPIga6MRnZ71uk5P3CkuQMK3VSfHyGl",
+      "cloud_name": "05-花开有信-好运有期.png",
+      "local_md5": "2cf1fe426cd451f7f8763d6267e26c3b",
+      "cloud_md5": "2cf1fe426cd451f7f8763d6267e26c3b",
+      "local_bytes": 3623471,
+      "cloud_bytes": 3623471,
+      "match": true
+    },
+    {
+      "file": "images/06.png",
+      "drive_id": "1M1n6T-086wvC13rfl6kljTIgkDKaoaCZ",
+      "cloud_name": "06-心栖暖处-日有小欢.png",
+      "local_md5": "ea742b902329ede4558c606ce9809317",
+      "cloud_md5": "ea742b902329ede4558c606ce9809317",
+      "local_bytes": 3600307,
+      "cloud_bytes": 3600307,
+      "match": true
+    },
+    {
+      "file": "images/07.png",
+      "drive_id": "11XbKLRkDmiqmhU05xo0B9eCnGA7UHGBK",
+      "cloud_name": "07-福随春至-喜伴岁长.png",
+      "local_md5": "225086d1e443930e4bff29589e3cf794",
+      "cloud_md5": "225086d1e443930e4bff29589e3cf794",
+      "local_bytes": 3372066,
+      "cloud_bytes": 3372066,
+      "match": true
+    },
+    {
+      "file": "images/08.png",
+      "drive_id": "1nVHDDOdzKZ6HZbC-a61B7O90RFoUq7Sg",
+      "cloud_name": "08-朝迎瑞气-暮揽祥光.png",
+      "local_md5": "26344484c3e9a6353020a3e445364a91",
+      "cloud_md5": "26344484c3e9a6353020a3e445364a91",
+      "local_bytes": 3367710,
+      "cloud_bytes": 3367710,
+      "match": true
+    },
+    {
+      "file": "images/09.png",
+      "drive_id": "1VYfzqesIIDoZZxQSUpu43HUCtawk2BFN",
+      "cloud_name": "09-家和景明-岁丰人悦.png",
+      "local_md5": "1ca42597401f822f1a821650e2f5133a",
+      "cloud_md5": "1ca42597401f822f1a821650e2f5133a",
+      "local_bytes": 3457204,
+      "cloud_bytes": 3457204,
+      "match": true
+    },
+    {
+      "file": "images/10.png",
+      "drive_id": "1eGq4QgVi06XyvF2s8A0PayznjhIbYF3N",
+      "cloud_name": "10-新程似锦-佳事连年.png",
+      "local_md5": "7d6d0b0573446c86506073475f288dc2",
+      "cloud_md5": "7d6d0b0573446c86506073475f288dc2",
+      "local_bytes": 3594347,
+      "cloud_bytes": 3594347,
+      "match": true
+    },
+    {
+      "file": "00-10張成品總預覽.jpg",
+      "drive_id": "1L1-1i1sWs3SWBuMHYrkzb9uOyYvFMF5x",
+      "cloud_name": "00-10張成品總預覽.jpg",
+      "local_md5": "7c606c6577673f16b0476856702946b1",
+      "cloud_md5": "7c606c6577673f16b0476856702946b1",
+      "local_bytes": 579181,
+      "cloud_bytes": 579181,
+      "match": true
+    },
+    {
+      "file": "00-原片與成品對照.jpg",
+      "drive_id": "1rDcyuwLH8n-WwQNAJp1lNIp2t-23iWrX",
+      "cloud_name": "00-原片與成品對照.jpg",
+      "local_md5": "18815aaf25bc791736cb90ff629274e7",
+      "cloud_md5": "18815aaf25bc791736cb90ff629274e7",
+      "local_bytes": 804323,
+      "cloud_bytes": 804323,
+      "match": true
+    },
+    {
+      "file": "source-manifest.json",
+      "drive_id": "1EMbUivMPZcsChMh0fpKzoykMoAVJKUAL",
+      "cloud_name": "source-manifest.json",
+      "local_md5": "1fb07ec56a8b2acb24d912ed3d595d79",
+      "cloud_md5": "1fb07ec56a8b2acb24d912ed3d595d79",
+      "local_bytes": 3285,
+      "cloud_bytes": 3285,
+      "match": true
+    },
+    {
+      "file": "output-manifest.json",
+      "drive_id": "18nC806_4grlUOeEgOBiHX33u7gXw0hXb",
+      "cloud_name": "output-manifest.json",
+      "local_md5": "af848af041988322949b4567753e3183",
+      "cloud_md5": "af848af041988322949b4567753e3183",
+      "local_bytes": 28394,
+      "cloud_bytes": 28394,
+      "match": true
+    },
+    {
+      "file": "README.md",
+      "drive_id": "1Xh-akPQe-Dx7TPYOjr_VLKQ1N--xOP6p",
+      "cloud_name": "README.md",
+      "local_md5": "f2bf1f23ddcca78a9d38a4528bda5f6f",
+      "cloud_md5": "f2bf1f23ddcca78a9d38a4528bda5f6f",
+      "local_bytes": 6280,
+      "cloud_bytes": 6280,
+      "match": true
+    },
+    {
+      "file": "deliveries/newyear-blessings-3kQq76Fee2O/全流程与交付索引.md",
+      "drive_id": "1yVx16YEM-calu0CLzJhh34JZWcLtbikn",
+      "cloud_name": "全流程与交付索引.md",
+      "local_md5": "e65e7e6d4e9f132953512a716d86be36",
+      "cloud_md5": "e65e7e6d4e9f132953512a716d86be36",
+      "local_bytes": 4142,
+      "cloud_bytes": 4142,
+      "match": true
+    },
+    {
+      "file": ".local/delivery-bundles/新年祝福壁纸-完整交付-1080x2343.zip",
+      "drive_id": "1tFPvlWErY0HdUe4OBRx0MAtI96nveGnD",
+      "cloud_name": "新年祝福壁纸-完整交付-1080x2343.zip",
+      "local_md5": "ecaa099dbb0c779737e4a9a19c13271b",
+      "cloud_md5": "ecaa099dbb0c779737e4a9a19c13271b",
+      "local_bytes": 38787788,
+      "cloud_bytes": 38787788,
+      "match": true
+    }
+  ],
+  "followup": "Existing batch reused, no new generations; all original files fresh-listed and matched again, followed by root fresh list after uploading two additions",
+  "existing_batch_reused": true,
+  "new_generation_count_this_followup": 0,
+  "default_final_size": [
+    1080,
+    2343
+  ]
+}
