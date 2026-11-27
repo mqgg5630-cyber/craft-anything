@@ -1,0 +1,33 @@
+{
+  "share_url": "https://xhslink.cn/o/6bdoxc66Ezp",
+  "note_id": "6afc0e24000000002b005031",
+  "title": "带着小猫看晚霞的懒羊羊～",
+  "author": "🍔",
+  "provenance": {
+    "page_fetch": "Declared public image on rednote discovery item 6afc0e24000000002b005031",
+    "historical_branch": "arena/28bd3553-craft-anything",
+    "historical_commit": "364862ab0f51881b5c77cac2f5f7d71aefb9860d",
+    "historical_manifest": "deliveries/lazy-sheep-sunset/source-manifest.json",
+    "method": "Read public CDN URL and expected hashes only; no image bytes copied across branches"
+  },
+  "schema_version": 2,
+  "images": [
+    {
+      "width": 853,
+      "height": 1844,
+      "format": "webp",
+      "bytes": 102876,
+      "md5": "da5707f2ee575127fd94df9be165e67f",
+      "sha256": "a54a3bd48cda23d4c1926010a87dc9cdb4df2a5f8253dcd78e1e1684b8f40696",
+      "file": "source/01.webp",
+      "source_url": "https://sns-web-i10.rednotecdn.com/202611271702/c376c4e20832f80b149646363e4706ae/1040g008327lquklh6e105q98brntotk46qtct4o!nd_dft_wlteh_webp_3",
+      "historical_hash_match": true
+    }
+  ],
+  "status": "downloaded_pending_visual_review",
+  "run_id": "45971357586",
+  "branch": "arena/0ca652e4-craft-anything",
+  "download_method": "GitHub Actions; declared public CDN URL; full decode and MD5/SHA-256 verification",
+  "source_quality": "Public CDN display file; not independently verified as author lossless master file",
+  "reference_count_downloaded": 1
+}
