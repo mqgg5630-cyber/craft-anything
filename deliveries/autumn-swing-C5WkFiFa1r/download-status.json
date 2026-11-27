@@ -1,6 +1,1 @@
-{
-  "status": "blocked_source_download",
-  "error_type": "URLError",
-  "error": "<urlopen error _ssl.c:994: The handshake operation timed out>",
-  "run_id": "45967769377"
-}
+{"status": "downloaded_pending_visual_review", "run_id": "45967988027", "count": 1, "all_decoded": true}
