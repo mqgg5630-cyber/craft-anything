@@ -1,0 +1,142 @@
+{
+  "status": "partial_delivery_cloud_integrity_passed",
+  "task_complete": false,
+  "requested": 10,
+  "actual_final_count": 9,
+  "missing": [
+    5
+  ],
+  "all17_files_md5_and_bytes_match": true,
+  "method": "Values transcribed from fresh search_files result, not merely upload responses",
+  "live_listing_request": "c935e8f9-322a-4a13-8701-d4c85c2f9022",
+  "next_page_token": null,
+  "incomplete_search": false,
+  "listed_entries": 19,
+  "folder_count": 2,
+  "root_id": "1aJHKn6deKWFtPXSg9Bpe0n9JKKfV6NZx",
+  "source_folder_id": "1vMK4u-4kJoQisVaoUFfygfMZz-UCNTNi",
+  "result_folder_id": "1gatZ7jqBioPu-yp5dB0hXVKxIqkoEAJD",
+  "old_root_trashed_confirmed": true,
+  "old_root_recheck_request": "0362431f-0d74-44e8-9197-fafa2d46e085",
+  "files": [
+    {
+      "file": "images/01.png",
+      "id": "1z9-YZvrMrrgf0K_aZYTICpEmUSSD9xY6",
+      "bytes": 1931638,
+      "md5": "8f54ee9ca0046166284e8eaade4f1270",
+      "match": true
+    },
+    {
+      "file": "images/02.png",
+      "id": "1QEFeYGiPciTnjwsiidVyWa9bqZZQHXTk",
+      "bytes": 1956457,
+      "md5": "492da7584baa1542416065010fca6341",
+      "match": true
+    },
+    {
+      "file": "images/03.png",
+      "id": "1Y103-HWNqJJordrxNYIm-g1fA9RgtIWn",
+      "bytes": 1975899,
+      "md5": "484a6ada395b4fa0d41fa1745543768d",
+      "match": true
+    },
+    {
+      "file": "images/04.png",
+      "id": "1Rznf0IDqkVkuaMgJPSGN2WxOgL5e7PxB",
+      "bytes": 1896628,
+      "md5": "47d226501aca0246312684e5a2663187",
+      "match": true
+    },
+    {
+      "file": "images/06.png",
+      "id": "1kE2KGjF4a_VIAYuamrWz7U8bdKbOGP6G",
+      "bytes": 2025271,
+      "md5": "e7397d61ec2118d5b482426f49319c68",
+      "match": true
+    },
+    {
+      "file": "images/07.png",
+      "id": "17fLd-lrHpBKNm5XHKcUHTkPeYdwVCgJU",
+      "bytes": 2027064,
+      "md5": "34100d8bd632d956abf705787abe6c86",
+      "match": true
+    },
+    {
+      "file": "images/08.png",
+      "id": "1xnNKO-VGQJ7h7V0wKYASzoRflIw199Ur",
+      "bytes": 1917637,
+      "md5": "b4bf399d4c4981f0c4ef7e74c516ebb6",
+      "match": true
+    },
+    {
+      "file": "images/09.png",
+      "id": "1eQnNQeTfgrC4sR4eY4LJKxmp6GyyJFrI",
+      "bytes": 1667857,
+      "md5": "e93c03009e68ec4fc52f7a8d7e7a7adb",
+      "match": true
+    },
+    {
+      "file": "images/10.png",
+      "id": "1CfsFaa7156PMK09y9hExPkh9bsDlGh_W",
+      "bytes": 2101631,
+      "md5": "e3f9041a5020d26447d043e74bfe9db5",
+      "match": true
+    },
+    {
+      "file": "reference/source-original.jpg",
+      "id": "1K1uv9AoSNVbfZNzcFkbHaboFfASxiSSx",
+      "bytes": 171975,
+      "md5": "92dc7213db39080d626a7f6e0c210cfe",
+      "match": true
+    },
+    {
+      "file": "reference/classic-original.png",
+      "id": "1tDRJLy_wrBaqL8cbgDRvAgQH-oQfaOLv",
+      "bytes": 119680,
+      "md5": "b20cd323491c4e2d67eb76fc2fb06d2f",
+      "match": true
+    },
+    {
+      "file": "00-成品总预览-9张已完成1张待补.jpg",
+      "id": "1_uOuyVubkzV2nyykhr5769upc2V8HbfY",
+      "bytes": 642090,
+      "md5": "2f8401137c99a57672eb2c5e7f5fb43a",
+      "match": true
+    },
+    {
+      "file": "00-原片与成品对照.jpg",
+      "id": "1c9GwACHIyaQhGp0Pd4KP6kNNHYNvhvx-",
+      "bytes": 685669,
+      "md5": "18f47d4a49707ff9860224778f122379",
+      "match": true
+    },
+    {
+      "file": "00-原片与角色参考.jpg",
+      "id": "1mJPiyvZvN0zX-Q4GOIF4bgP4LMK1WDA5",
+      "bytes": 107116,
+      "md5": "7118426e7917f2e2a6adf608ef1291f1",
+      "match": true
+    },
+    {
+      "file": "README.md",
+      "id": "1JTZjR11wdlrB_4ADo8Fyq9ueP0Yfy-7-",
+      "bytes": 2448,
+      "md5": "801b69a4d6ba302c63f16d6d5e94765d",
+      "match": true
+    },
+    {
+      "file": "source-manifest.json",
+      "id": "1UCM9eGnzFmgXxHMJDxxEOzJR7BeHa6m7",
+      "bytes": 1193,
+      "md5": "d83458163ed245f2484c70736bfd9943",
+      "match": true
+    },
+    {
+      "file": "output-manifest.json",
+      "id": "1SQJlrgBaJIzI6S2pecRTKvg0l68q0Ixe",
+      "bytes": 8678,
+      "md5": "115e8c66791813a873a3016b79aeb3c5",
+      "match": true
+    }
+  ]
+}

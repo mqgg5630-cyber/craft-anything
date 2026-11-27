@@ -1,0 +1,110 @@
+{
+  "reason": "User rejected last batch as too fat and explicitly requested deletion and ten new wallpapers stored in folders",
+  "previous_cloud_root": "1Byly8eT2Rhq4EpgodNJxFKLv2MiuJaXP",
+  "cloud_deletion": "Previous whole delivery folder moved to Drive trash including all descendants; recoverable, not permanently purged",
+  "original_references_preserved": true,
+  "deleted_working_tree_files": [
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/02.png",
+      "sha256": "6b55c6ff94d69b4e427774e875573f60c5e4be3ae48ef12cdf9a8731640d4e6e"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/01.png",
+      "sha256": "3a974c5919d9c092b932860824a09801d359c74216deaa4c59d456739d3d2b54"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/03.png",
+      "sha256": "04639c013e3a74410257f3ae3fa63796b4887b215ee10f5772e2e162ea7cc56e"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/04.png",
+      "sha256": "fc688b38c43cdc928bd1b52fc3da5da91f77654e731051a1174ce430cba441eb"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/06.png",
+      "sha256": "0b8c68f1fb30ac59f1d50daab85e00aa90daaaa586c86dc1e11c79570ace7720"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/05.png",
+      "sha256": "c1991262a23f47a9c8369493bc05ae49b1d6e552dc2eb5cfa818a895b295dea0"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/07.png",
+      "sha256": "9aaae2ec50856171a97d4368df4197ad0d844c13da48afa6e5523cfa60e970a4"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/08.png",
+      "sha256": "2083160e34b36f84575da66d90c7c13faa3aa7bed62fea9d9a0d41c043b21bab"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/09.png",
+      "sha256": "b8c9bcd81ac0eec516e5c666b5f923a4ea47a581828db8de5801ea6903c00a40"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/artwork/10.png",
+      "sha256": "bd2d63b5fbe9d7d579d8b950453acd4fa7e641d828a4a058ff2ad4316674d6c8"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/01.png",
+      "sha256": "ea9ab6cd27278433675b7d697cf4fd72460f04d4e0d9380009f832ced96a983d"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/02.png",
+      "sha256": "bd1493721b61b1b9ff0a17ef8cc9485b5176a783450c483c6fa9196385d44bfc"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/03.png",
+      "sha256": "20e2451ab1f42d836783f9f7d9b76b5220c871c32e1c21570fee7d109d8c355f"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/04.png",
+      "sha256": "767b18dc5e40e7e26db25024964f4806785ada4c28fd15681e701aa8c3c359a9"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/05.png",
+      "sha256": "1a01a53ea9ed8c61a4dac0d6794710d281412c6a6637303f0a2c57fdc7fff78f"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/06.png",
+      "sha256": "4a7a45f74b3ec51469c72c75007fcf4ff87390b3c05d0b2ded2bb3ec46e0df64"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/07.png",
+      "sha256": "019e6c9eb53343d95b760d578854498614ae6f6ddbbcb26872447afb8e85962d"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/08.png",
+      "sha256": "94ca2be94da0aef4f4a0afb50ab1a2e21b0f5f7f5f82711b0e1775fdfe7eef60"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/09.png",
+      "sha256": "48bb1116ff6d68175cf389b5ef236716a9045514ac9a83e14e409bcc6ffb4edd"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/images/10.png",
+      "sha256": "20b652861067951ed198558399e019452a67b08d7e97e47658fcbe831d7dba08"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/corrected/10.png",
+      "sha256": "8c85d395af01c1525b6f7c4b2d56272087d516c3e00fe2897517b371a29e0992"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/00-10张成品总预览.jpg",
+      "sha256": "b65c8fd68c1d589c23c2167f29c296a2d5f7f27ed198e39a413865fe1886b476"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/00-原片与成品对照.jpg",
+      "sha256": "0744bbf273e4a85ca88c88154d285289f89163ee67fa5b1e0baca4b3ba6d7e17"
+    },
+    {
+      "file": "deliveries/lazy-cat-sunset-corrected-r2/00-原片与角色参考.jpg",
+      "sha256": "1bb8eadb9c048f2c34c899751cf52078d5ee36ba6fa945e562c7a9bf37760725"
+    },
+    {
+      "file": ".local/delivery-bundles/懒羊羊与小猫-身体重做10场景-852x1848.zip",
+      "sha256": "b8cbc139bad4b70fe4d16991c1104d9f1d8187214eeece396d4a271e943b82b5"
+    }
+  ],
+  "cloud_trashed": true,
+  "trash_tool_request": "ece10bbf-030e-4a43-a838-da60bbeaabf9"
+}

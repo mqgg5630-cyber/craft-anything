@@ -1,0 +1,288 @@
+{
+  "status": "partial_9_of_10_pending_05",
+  "requested_count": 10,
+  "result_count": 9,
+  "complete": false,
+  "new_generation_calls_attempted": 10,
+  "successful_new_generations": 9,
+  "missing_numbers": [
+    5
+  ],
+  "failures": [
+    {
+      "number": 5,
+      "initial_error": "Image generation failed. Try again.",
+      "retry_error": "Image generation limit of 10 reached for this turn.",
+      "replacement_or_old_result_used": false
+    }
+  ],
+  "old_results_reused": false,
+  "delivery": "Folders only; no ZIP requested or produced",
+  "final_size": [
+    852,
+    1848
+  ],
+  "native_size": [
+    704,
+    1520
+  ],
+  "body_change": "Prompts request narrow petite body, less wool volume, slender bare limbs; do not warp old images. Numerical proportions were generation guidance, not measured guarantees.",
+  "visual_review": {
+    "all9_reviewed": true,
+    "notes": "Narrower bodies and less wool than rejected round; degree varies.07 has especially smooth lower wool contour and longer legs. Face, horn and limb proportions still show AI variation; user approval not assumed."
+  },
+  "files": [
+    {
+      "file": "images/01.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1931638,
+      "md5": "8f54ee9ca0046166284e8eaade4f1270",
+      "sha256": "8da7b238814fb2b779131d70d3cb44bfe899df2dc4e3e9efe173b5f296396c4e",
+      "number": 1,
+      "title": "海边拾贝",
+      "native": {
+        "file": "artwork/01.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2119815,
+        "md5": "f7ab4025dccdd7fa63ef289acce34fc4",
+        "sha256": "138ce596e767eae3965725997c2a75b1adbd2617fb69a97a487e24669cf01b8b"
+      },
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/classic-original.png"
+      ],
+      "adaptation": "Uniform Lanczos upscale, minimal centered crop only; not native high resolution; no body warping"
+    },
+    {
+      "file": "images/02.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1956457,
+      "md5": "492da7584baa1542416065010fca6341",
+      "sha256": "f9b89abf62b4a6c9ee74e9cec9bcf1d2078f9d509d7654ba847b6fd0f9b23ccc",
+      "number": 2,
+      "title": "田间单车",
+      "native": {
+        "file": "artwork/02.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 1884293,
+        "md5": "4deb1363f86631ed6cd7cdc9e4ec06a9",
+        "sha256": "70f2a2b2ced6950c818d031c6e712c813aaa5af33241cb8b9e2f165cd4664487"
+      },
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/classic-original.png"
+      ],
+      "adaptation": "Uniform Lanczos upscale, minimal centered crop only; not native high resolution; no body warping"
+    },
+    {
+      "file": "images/03.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1975899,
+      "md5": "484a6ada395b4fa0d41fa1745543768d",
+      "sha256": "14aa589b40c4837e3a0981b6cfa3e87d186252e8f1d0d1267eacf23c1df4e3e4",
+      "number": 3,
+      "title": "花园秋千",
+      "native": {
+        "file": "artwork/03.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2075774,
+        "md5": "17fba25abaa6b34584fdbeac59ae7c07",
+        "sha256": "454cd34f02d3bc949846d0f3bb97966348e8ac3689979c5de2c2b2783d8fa5f9"
+      },
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/classic-original.png"
+      ],
+      "adaptation": "Uniform Lanczos upscale, minimal centered crop only; not native high resolution; no body warping"
+    },
+    {
+      "file": "images/04.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1896628,
+      "md5": "47d226501aca0246312684e5a2663187",
+      "sha256": "df868465d1c9cec5fe153e1df34bc37fcc2dc8611d6062ca7c598c1980c4e7c4",
+      "number": 4,
+      "title": "果园采摘",
+      "native": {
+        "file": "artwork/04.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 1944956,
+        "md5": "8bd65c4538b53531c3919fd2c3d8cefb",
+        "sha256": "73f0c4141bf97ef0a88b68a2c907ef2c584265a05defd2d10fe1ace1923ef55b"
+      },
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/classic-original.png"
+      ],
+      "adaptation": "Uniform Lanczos upscale, minimal centered crop only; not native high resolution; no body warping"
+    },
+    {
+      "file": "images/06.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 2025271,
+      "md5": "e7397d61ec2118d5b482426f49319c68",
+      "sha256": "56af3ebbe24d4c1d10c4de05ce45de6785fc77dfd2d190a226a4c5585626b12d",
+      "number": 6,
+      "title": "荷塘纸船",
+      "native": {
+        "file": "artwork/06.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2148519,
+        "md5": "84658b732b12ba72c60e03781c6919e8",
+        "sha256": "246a920e03287a7bd9d57eaf5c8aa33ad7437efe69fc336407249443e5132438"
+      },
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/classic-original.png"
+      ],
+      "adaptation": "Uniform Lanczos upscale, minimal centered crop only; not native high resolution; no body warping"
+    },
+    {
+      "file": "images/07.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 2027064,
+      "md5": "34100d8bd632d956abf705787abe6c86",
+      "sha256": "e2a7f5ba5a44c0cca16aa134b3482e7622f505916cec119b7a0176b8994b2bd0",
+      "number": 7,
+      "title": "风车山坡",
+      "native": {
+        "file": "artwork/07.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2215073,
+        "md5": "16135144f838779eb67d3b871fb02e14",
+        "sha256": "7ae8ba8a1a037f88792c63ea04d66bce59ebbcb623a361ac71cbd611fc440a5e"
+      },
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/classic-original.png"
+      ],
+      "adaptation": "Uniform Lanczos upscale, minimal centered crop only; not native high resolution; no body warping"
+    },
+    {
+      "file": "images/08.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1917637,
+      "md5": "b4bf399d4c4981f0c4ef7e74c516ebb6",
+      "sha256": "a779a44fb8f0f1ccc983d367c8403abafdafe889e165816f6e2545d0b645dd2d",
+      "number": 8,
+      "title": "阳台晚茶",
+      "native": {
+        "file": "artwork/08.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2129198,
+        "md5": "bb8dea9240153805ced4ea421dfd1e24",
+        "sha256": "5a949b934ca44ce22f6a4e49833161f0eccf0834c8c956c3fe3fd86b532eb4c3"
+      },
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/classic-original.png"
+      ],
+      "adaptation": "Uniform Lanczos upscale, minimal centered crop only; not native high resolution; no body warping"
+    },
+    {
+      "file": "images/09.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 1667857,
+      "md5": "e93c03009e68ec4fc52f7a8d7e7a7adb",
+      "sha256": "5c77e7fc53698a5d20bc19a6ccd5fd7f9c02258802a84c30033780eadea54535",
+      "number": 9,
+      "title": "草地风筝",
+      "native": {
+        "file": "artwork/09.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 1625079,
+        "md5": "eba7d276a4a53861e3db6f497f35829a",
+        "sha256": "e65cfa9ecf6d405e711050ad1467732a56273e68f1b58b01fe6426aeb6bd6bc2"
+      },
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/classic-original.png"
+      ],
+      "adaptation": "Uniform Lanczos upscale, minimal centered crop only; not native high resolution; no body warping"
+    },
+    {
+      "file": "images/10.png",
+      "size": [
+        852,
+        1848
+      ],
+      "bytes": 2101631,
+      "md5": "e3f9041a5020d26447d043e74bfe9db5",
+      "sha256": "aec5bc75544b92fe076dbb2b0d3c21620e1cf7d548e870bf3a15edaabe54d88d",
+      "number": 10,
+      "title": "书店小院",
+      "native": {
+        "file": "artwork/10.png",
+        "size": [
+          704,
+          1520
+        ],
+        "bytes": 2149799,
+        "md5": "144a8f8bbd92081baa46e2474da6e566",
+        "sha256": "45e1c7d2dfd26dc500cd254a90fa0c5365a97e058ba71ff56365179b078880ce"
+      },
+      "new_generation": true,
+      "references": [
+        "reference/face-only.png",
+        "reference/classic-original.png"
+      ],
+      "adaptation": "Uniform Lanczos upscale, minimal centered crop only; not native high resolution; no body warping"
+    }
+  ]
+}

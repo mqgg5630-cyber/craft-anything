@@ -1,0 +1,20 @@
+{
+  "status": "partial_delivery_integrity_passed",
+  "task_complete": false,
+  "requested": 10,
+  "actual_final_count": 9,
+  "missing": [
+    5
+  ],
+  "unique_new_native": 9,
+  "unique_final": 9,
+  "final_size": [
+    852,
+    1848
+  ],
+  "source_unchanged": true,
+  "previews": 3,
+  "previews_not_counted_as_results": true,
+  "old_results_reused": false,
+  "zip_created": false
+}

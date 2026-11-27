@@ -1,0 +1,34 @@
+{
+  "share_url": "https://xhslink.cn/o/6bdoxc66Ezp",
+  "acquisition": "Reuse exact original downloaded in GitHub Actions45970566753, commit90f0348; no new CDN request",
+  "source": {
+    "file": "reference/source-original.jpg",
+    "size": [
+      853,
+      1844
+    ],
+    "bytes": 171975,
+    "md5": "92dc7213db39080d626a7f6e0c210cfe",
+    "sha256": "7e6f54509d875ce81d811be3b710558c77be82ae5984226bcd2b53a22d55d04a"
+  },
+  "classic_source": "https://xyy.huijiwiki.com/wiki/%E6%87%92%E7%BE%8A%E7%BE%8A",
+  "classic_status": "Public fan-wiki, not independently certified official model sheet",
+  "classic": {
+    "file": "reference/classic-original.png",
+    "size": [
+      500,
+      590
+    ],
+    "bytes": 119680,
+    "md5": "b20cd323491c4e2d67eb76fc2fb06d2f",
+    "sha256": "11f4a209390bf2101c47f164723eff526855424d121ad5348bd947797fa39581"
+  },
+  "visual_review_before_generation": true,
+  "role_policy": "Face crop defines face and painterly style. Unmodified full classic reference defines bib and bare limbs. No rejected generated image reused as input. Body-only crop kept for provenance but not supplied to this round.",
+  "face_crop": [
+    40,
+    1000,
+    620,
+    1360
+  ]
+}

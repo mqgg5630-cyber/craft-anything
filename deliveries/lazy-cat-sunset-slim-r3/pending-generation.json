@@ -1,0 +1,13 @@
+{
+  "number": 5,
+  "status": "needs_new_generation_next_turn",
+  "scene": "老城电车",
+  "file_path": "deliveries/lazy-cat-sunset-slim-r3/artwork/05.png",
+  "images": [
+    "deliveries/lazy-cat-sunset-slim-r3/reference/face-only.png",
+    "deliveries/lazy-cat-sunset-slim-r3/reference/classic-original.png"
+  ],
+  "offer_options": false,
+  "prompt": "ONE tall portrait phone wallpaper aspect852:1848. Lazy Sheep with orange-white kitten. First reference face and painterly anime storybook style only: peach face, tiny glossy black bean eyes, oval black nose, soft blush tiny mouth, ivory wool swirl tuft, two tapered outward brown segmented horns tiny peach ears. Second reference bib and bare limbs only, NOT white eyeballs. Slim petite narrow body, torso about45percent head wool width and60percent its height, almost straight narrow sides, small flat belly, shallow fitted white wool edge. No spherical belly, poofy fleece skirt or plush ball. Slim bare peach arms and short slim bare legs, small bare hands fingers and bare rounded feet. Yellow bib white straps two thin white lower stripes. NO sleeves mittens gloves shoes pants. Full body sitting on a wooden bench at quaint old-city tram stop, both feet visible, hands relaxed beside hips, bib clear, sleepy orange-white kitten on bench beside him. Burgundy vintage tram in cobblestone street, warm windows flowers, vast peach lavender sunset clouds crescent moon, tender finely outlined hand-painted storybook. ONE sheep ONE cat only, no giant duplicate face or panels, no text logos watermark UI.",
+  "remaining_actions": "Generate05, visually inspect, adapt852x1848, update package script from hardcoded9 to10 and remove placeholder preview, update manifests README cloud folder names, upload05 only plus update existing preview/manifests/README files via known Drive IDs; fresh cloud verification; noZIP."
+}
