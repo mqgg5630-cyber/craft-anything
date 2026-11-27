@@ -1,0 +1,425 @@
+{
+  "schema_version": 2,
+  "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "note_id": "6abdb5a9000000001802f193",
+  "reference_count_downloaded": 1,
+  "generated_count": 10,
+  "reference_dimensions": [
+    852,
+    1848
+  ],
+  "default_persisted_dimensions": [
+    852,
+    1848
+  ],
+  "all_native_artwork_dimensions": [
+    "704x1520"
+  ],
+  "style_summary": "2D warm golden-hour anime illustration with clean dark-brown character linework, painted sunset clouds, autumn foliage, rope swing, and soft bokeh foreground wildflowers (not 3D CGI)",
+  "generation_method": "10 separate image-conditioned generations each directly referencing source/01.webp; never chained across generated outputs, never sliced from a grid",
+  "ui_overlay": false,
+  "status": "verified_and_visually_reviewed",
+  "visual_review": {
+    "status": "passed",
+    "inspected_boards": [
+      "00-总预览.jpg",
+      "00-10张成品总预览.jpg"
+    ],
+    "inspected_full_size_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "identity_and_style_check": "All 10 match the 2D warm golden-hour anime illustration style and Lazy Goat character identity (white swirl-top wool, two curved brown striped horns, small droopy ears, dot/curved eyes, tiny black oval nose, yellow bib/tie). Zero text, zero watermarks, zero system UI, zero human-face or 3D-plastic drift.",
+    "notes": "07 hugs a shiny red apple at chest level covering the front bib; 08 frames a tall sky-swing crop where the overhead branch lies above the top edge (per-turn 10-generation budget reached, preserved cleanly without defect)."
+  },
+  "files": [
+    {
+      "file": "images/01.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1953060,
+      "md5": "1c0d53b8725d08a85afacc0257878d65",
+      "sha256": "4bb8625a6b52b259c403cd9bb80e5bc49e6f47be3c664ca6a6886d7eac78cdde",
+      "index": 1,
+      "title": "树下轻荡",
+      "cloud_filename": "01-树下轻荡.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "左侧大树与麻绳木板秋千，懒羊羊坐秋千微呆萌望向前方，金橙夕阳与前景白雏菊景深",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/01.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2485816,
+        "md5": "00eddac0f94a2b66c06b32792ba54def",
+        "sha256": "b68889c9e4af8c3abeae99a7740a14cac94426eb66e344fa241d2263de70f4cd"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/02.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1997085,
+      "md5": "0c35cdb925956e9c4d1728616c78ea4e",
+      "sha256": "5a6e45727a73a88e6fd2ed947d700d146e60abd072943c8f3011ce68dad24288",
+      "index": 2,
+      "title": "仰望流云",
+      "cloud_filename": "02-仰望流云.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "低机位四分之三视角，懒羊羊在秋千上抬头微笑看飘落秋叶与流云，暖金草坡辽阔",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/02.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2534542,
+        "md5": "42713e5f56230461b73c600220252104",
+        "sha256": "0e00fec05cbeba1af9d409dfd6fbbd805ff45a34e3a5d0a80b38db58cb43958d"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/03.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1930572,
+      "md5": "fb5544cb9c2e3aa75860bbc5e5496e36",
+      "sha256": "635b00624ecf10815c59a5a613eb2270bd02d66fd60415e5c672cf5a07903745",
+      "index": 3,
+      "title": "红枫秋千",
+      "cloud_filename": "03-红枫秋千.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "右侧红金枫树镜像平衡构图，懒羊羊一手扶绳一手举起红枫叶端详，远山落日余晖",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/03.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2417832,
+        "md5": "c1a4523d0359a956526551e984f08eec",
+        "sha256": "b740b87cbf9d0c79e4432ef94188686bc511b5b5de3a67fa8ac4bcab2a6642c9"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/04.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 2014235,
+      "md5": "38da8d5f7fef918ea8a7241b47f90831",
+      "sha256": "30e800fc4b3bb3bc54701f138492ca9f9a517494d62c27cc5c2cb61303ca8ee3",
+      "index": 4,
+      "title": "晃脚欢笑",
+      "cloud_filename": "04-晃脚欢笑.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "秋千迎着晚风轻轻前荡，懒羊羊弯眼欢笑，逆光金色斜阳洒满雏菊草地",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/04.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2591010,
+        "md5": "e7effaa0f924c099a13118677776bb21",
+        "sha256": "c22e0dd94f2f0b1a969022744defec1a4bfcbedd8d402da85659b40d154b559d"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/05.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 2027055,
+      "md5": "fe7484a3902008bc686984f50e8b7113",
+      "sha256": "9fdac4aef4c6c8877e19a6a7ba89a2c72a493c5ea6c47e0bad005a5c388265bb",
+      "index": 5,
+      "title": "银杏金雨",
+      "cloud_filename": "05-银杏金雨.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "金黄银杏树冠垂枝，懒羊羊在秋千上闭眼打盹小憩，扇形银杏叶随风飘落草甸",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/05.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2521926,
+        "md5": "e6901c99aabc77cc80511ea5f6e54bfa",
+        "sha256": "35c6553d296e15bcca1ba91a91ec6d8a87a07c57e8c837d0b230e53ed25c0b25"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/06.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1972242,
+      "md5": "9ccbf612d974584b838eed078795301e",
+      "sha256": "785a1ea7b520788c02344fc23cb86e082fd3d9ec3df4576495fd1b7b587d4bd1",
+      "index": 6,
+      "title": "背影看夕阳",
+      "cloud_filename": "06-背影看夕阳.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "诗意后侧视角，懒羊羊坐在秋千上面向层叠秋山与蜿蜒金溪落日，白绒卷发轮廓镀金光",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/06.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2524495,
+        "md5": "0cdc9c8070dbd5e08cf0dbdb316b723d",
+        "sha256": "e35d0ed715a9e951aa4db15816202b568eed7bc1cf5679bd2f5518c9d5e32202"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/07.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1965618,
+      "md5": "864f3c146ed50342c2689e69ebfdd8a7",
+      "sha256": "d4ad4a6087eecb09b83693274a62675f68a45745043a16aa019c26fcce242c9f",
+      "index": 7,
+      "title": "秋千野餐篮",
+      "cloud_filename": "07-秋千野餐篮.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "秋日橡树下挂起木秋千，树根草丛放藤编苹果篮，懒羊羊双手抱红苹果开心晃腿（苹果遮挡胸前围兜）",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/07.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2498676,
+        "md5": "73fa45aee8481474633ef1cf1792e660",
+        "sha256": "4dc95b0867ee192f596f1f810f0cb5a7b8e91db08f8248f605b7c317f55d300f"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/08.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1774399,
+      "md5": "fec63a5eff440d37f44cf67fb00345d9",
+      "sha256": "38618f94b7fb206f27a73581dbe91d97911f3acfd8db02852a0e482167bf5d60",
+      "index": 8,
+      "title": "蒲公英晚风",
+      "cloud_filename": "08-蒲公英晚风.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "高空长绳秋千取景（上方树枝位于画幅顶边之外），金色蒲公英绒球与秋叶掠过暖橘天空，懒羊羊手握发光蒲公英",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/08.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2151327,
+        "md5": "1d647ca3a54f52afa3d295ec16797be1",
+        "sha256": "b115ec55d5d371235aef747b4b24a899cc528509ebbd9f5abd3140c972fc55ec"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/09.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 1946561,
+      "md5": "4a694ed5fe4131480b68c79106d1b8d5",
+      "sha256": "424212b9ff795e922174d324290021dcfbec6ef25a266c981d3e3e903244f9ad",
+      "index": 9,
+      "title": "暮色初星",
+      "cloud_filename": "09-暮色初星.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "晚霞渐入柔暖暮色，上空浮现纤细新月，懒羊羊困倦倚靠秋千绳享受静谧余晖",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/09.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2403290,
+        "md5": "b37f9d3bfe46b34bd2515f60896e19d8",
+        "sha256": "b7e1fccdb430f39750812af790c59624debc5360cf740a380f14a0f2025901c7"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    },
+    {
+      "file": "images/10.png",
+      "format": "png",
+      "width": 852,
+      "height": 1848,
+      "bytes": 2018232,
+      "md5": "c5f355c05997fda8a58c46bb45b75fc8",
+      "sha256": "281c69b9f6aecb825ed12ecbd12704991f1f57be99adff4845f3489b7ffd63e1",
+      "index": 10,
+      "title": "站上秋千望远",
+      "cloud_filename": "10-站上秋千望远.png",
+      "references": [
+        "source/01.webp"
+      ],
+      "allowed_variation": "右侧秋树下懒羊羊稳稳站在秋千木板上双手高握麻绳，越过金色芦苇雏菊草甸眺望落日",
+      "ui_overlay": false,
+      "native_artwork": {
+        "file": "artwork/10.png",
+        "format": "png",
+        "width": 704,
+        "height": 1520,
+        "bytes": 2572863,
+        "md5": "8a30ee2c54852454ea28256b79b6a5ba",
+        "sha256": "21b79829db5594b3b6dd5ab03d4b0c12d89225b4cc4b6188726943474b45a91b"
+      },
+      "adaptation": {
+        "method": "Single uniform Lanczos upscale + minimal centered horizontal crop (~1.9px/side); zero non-uniform stretching; adapted pixels are interpolated, not model-native",
+        "uniform_scale": 1.215789,
+        "scaled_dimensions": [
+          855.92,
+          1848.0
+        ],
+        "final_dimensions": [
+          852,
+          1848
+        ]
+      }
+    }
+  ]
+}

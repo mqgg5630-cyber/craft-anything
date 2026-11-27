@@ -1,0 +1,227 @@
+{
+  "status": "verified_complete_requested_deliverables",
+  "basis": "Fresh post-upload list_files calls on root, source, and results folders; all pages exhausted (next_page_token=null, incomplete_search=false); MD5 and byte size verified against local disk bytes",
+  "root_folder": {
+    "id": "1onUr7toMeJDQ5jf-xeexgC9L5NjGA9ns",
+    "name": "秋天和秋千很配哦-懒羊羊秋千-10张复刻全流程-852x1848",
+    "url": "https://drive.google.com/drive/folders/1onUr7toMeJDQ5jf-xeexgC9L5NjGA9ns"
+  },
+  "subfolders": {
+    "originals": {
+      "id": "1KbLuT6K1CPorzJPy1kq2T1Wkwo3OfH31",
+      "name": "01-原片-1张-852x1848",
+      "url": "https://drive.google.com/drive/folders/1KbLuT6K1CPorzJPy1kq2T1Wkwo3OfH31"
+    },
+    "results": {
+      "id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "name": "02-复刻结果-10张-852x1848",
+      "url": "https://drive.google.com/drive/folders/1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz"
+    }
+  },
+  "fresh_listing_counts": {
+    "root_total_items": 8,
+    "root_subfolders": 2,
+    "root_files": 6,
+    "source_subfolder_files": 1,
+    "results_subfolder_files": 10,
+    "total_verified_files": 17
+  },
+  "next_page_tokens": [
+    null,
+    null,
+    null
+  ],
+  "incomplete_search": false,
+  "originals_and_results_separated": true,
+  "public_permissions_modified": false,
+  "all_match": true,
+  "files": [
+    {
+      "local_file": "source/01.webp",
+      "drive_id": "1HiJNmC8evME8i4v18C-1sWr1nkcru8W3",
+      "cloud_name": "01.webp",
+      "parent_folder_id": "1KbLuT6K1CPorzJPy1kq2T1Wkwo3OfH31",
+      "local_md5": "19ad4c76e4ca38c2f934e6d01e4b5e9a",
+      "cloud_md5": "19ad4c76e4ca38c2f934e6d01e4b5e9a",
+      "local_bytes": 156296,
+      "cloud_bytes": 156296,
+      "match": true
+    },
+    {
+      "local_file": "images/01.png",
+      "drive_id": "1HWDQybUOHIs6yBp3Y_8SmrhNCsDDGshz",
+      "cloud_name": "01-树下轻荡.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "1c0d53b8725d08a85afacc0257878d65",
+      "cloud_md5": "1c0d53b8725d08a85afacc0257878d65",
+      "local_bytes": 1953060,
+      "cloud_bytes": 1953060,
+      "match": true
+    },
+    {
+      "local_file": "images/02.png",
+      "drive_id": "19_u5YvNgBkcI11dUt7yjh8JA83HNUvK0",
+      "cloud_name": "02-仰望流云.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "0c35cdb925956e9c4d1728616c78ea4e",
+      "cloud_md5": "0c35cdb925956e9c4d1728616c78ea4e",
+      "local_bytes": 1997085,
+      "cloud_bytes": 1997085,
+      "match": true
+    },
+    {
+      "local_file": "images/03.png",
+      "drive_id": "190WiX4718elv7YpXpobU_MH27g5u3Jj8",
+      "cloud_name": "03-红枫秋千.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "fb5544cb9c2e3aa75860bbc5e5496e36",
+      "cloud_md5": "fb5544cb9c2e3aa75860bbc5e5496e36",
+      "local_bytes": 1930572,
+      "cloud_bytes": 1930572,
+      "match": true
+    },
+    {
+      "local_file": "images/04.png",
+      "drive_id": "1QSdGj77AzCbZWjqrQ4hLmJd-8NQtk425",
+      "cloud_name": "04-晃脚欢笑.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "38da8d5f7fef918ea8a7241b47f90831",
+      "cloud_md5": "38da8d5f7fef918ea8a7241b47f90831",
+      "local_bytes": 2014235,
+      "cloud_bytes": 2014235,
+      "match": true
+    },
+    {
+      "local_file": "images/05.png",
+      "drive_id": "1nyP9zy8uEgfFbA0FOoVzg28w9hsZhM3P",
+      "cloud_name": "05-银杏金雨.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "fe7484a3902008bc686984f50e8b7113",
+      "cloud_md5": "fe7484a3902008bc686984f50e8b7113",
+      "local_bytes": 2027055,
+      "cloud_bytes": 2027055,
+      "match": true
+    },
+    {
+      "local_file": "images/06.png",
+      "drive_id": "1k4gTRo9XGQ2m5djOno-pjfC54V7yeu51",
+      "cloud_name": "06-背影看夕阳.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "9ccbf612d974584b838eed078795301e",
+      "cloud_md5": "9ccbf612d974584b838eed078795301e",
+      "local_bytes": 1972242,
+      "cloud_bytes": 1972242,
+      "match": true
+    },
+    {
+      "local_file": "images/07.png",
+      "drive_id": "1ra833f9V-0Fu3Dow7W6CiR2E4H5ivgc4",
+      "cloud_name": "07-秋千野餐篮.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "864f3c146ed50342c2689e69ebfdd8a7",
+      "cloud_md5": "864f3c146ed50342c2689e69ebfdd8a7",
+      "local_bytes": 1965618,
+      "cloud_bytes": 1965618,
+      "match": true
+    },
+    {
+      "local_file": "images/08.png",
+      "drive_id": "1gTSSuQoD6uIRWLmouoG7ueRCqCNhGUkU",
+      "cloud_name": "08-蒲公英晚风.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "fec63a5eff440d37f44cf67fb00345d9",
+      "cloud_md5": "fec63a5eff440d37f44cf67fb00345d9",
+      "local_bytes": 1774399,
+      "cloud_bytes": 1774399,
+      "match": true
+    },
+    {
+      "local_file": "images/09.png",
+      "drive_id": "1kNUSf_n9osaJQyUOygEJEukDVMjvZXPt",
+      "cloud_name": "09-暮色初星.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "4a694ed5fe4131480b68c79106d1b8d5",
+      "cloud_md5": "4a694ed5fe4131480b68c79106d1b8d5",
+      "local_bytes": 1946561,
+      "cloud_bytes": 1946561,
+      "match": true
+    },
+    {
+      "local_file": "images/10.png",
+      "drive_id": "1kh08xrbHrjh7Ce62NcggV9BuJ2JzmIJs",
+      "cloud_name": "10-站上秋千望远.png",
+      "parent_folder_id": "1ERHPjn0TdreVAw8toui4lKAe3-Sbutkz",
+      "local_md5": "c5f355c05997fda8a58c46bb45b75fc8",
+      "cloud_md5": "c5f355c05997fda8a58c46bb45b75fc8",
+      "local_bytes": 2018232,
+      "cloud_bytes": 2018232,
+      "match": true
+    },
+    {
+      "local_file": "00-总预览.jpg",
+      "drive_id": "1LMkyDzB2V7l5GE8ok8y2el6BKoPPJ2WW",
+      "cloud_name": "00-总预览.jpg",
+      "parent_folder_id": "1onUr7toMeJDQ5jf-xeexgC9L5NjGA9ns",
+      "local_md5": "776166a60aa60b8e94123dc60a242146",
+      "cloud_md5": "776166a60aa60b8e94123dc60a242146",
+      "local_bytes": 974247,
+      "cloud_bytes": 974247,
+      "match": true
+    },
+    {
+      "local_file": "00-原片总预览.jpg",
+      "drive_id": "1WSnsXHZFPbrEXboBWwCXXLqQbmUGrP4o",
+      "cloud_name": "00-原片总预览.jpg",
+      "parent_folder_id": "1onUr7toMeJDQ5jf-xeexgC9L5NjGA9ns",
+      "local_md5": "cab2e264e20ef374cbd64e7a449a8bcc",
+      "cloud_md5": "cab2e264e20ef374cbd64e7a449a8bcc",
+      "local_bytes": 118229,
+      "cloud_bytes": 118229,
+      "match": true
+    },
+    {
+      "local_file": "00-10张成品总预览.jpg",
+      "drive_id": "1noUG-PN7SIbMqbl5QDHP6Y5p6tOxsThw",
+      "cloud_name": "00-10张成品总预览.jpg",
+      "parent_folder_id": "1onUr7toMeJDQ5jf-xeexgC9L5NjGA9ns",
+      "local_md5": "e834180dc0e4b2cfad24ab7a38a0a837",
+      "cloud_md5": "e834180dc0e4b2cfad24ab7a38a0a837",
+      "local_bytes": 877989,
+      "cloud_bytes": 877989,
+      "match": true
+    },
+    {
+      "local_file": "source-manifest.json",
+      "drive_id": "13dMv9xqa-bQlL652cQCQcoY-s80Boira",
+      "cloud_name": "source-manifest.json",
+      "parent_folder_id": "1onUr7toMeJDQ5jf-xeexgC9L5NjGA9ns",
+      "local_md5": "2e8cee93d3fc945c65d189c167597fd8",
+      "cloud_md5": "2e8cee93d3fc945c65d189c167597fd8",
+      "local_bytes": 2086,
+      "cloud_bytes": 2086,
+      "match": true
+    },
+    {
+      "local_file": "output-manifest.json",
+      "drive_id": "1hYr_YJWj5gmSdA8m4vBQpUVST2anIabW",
+      "cloud_name": "output-manifest.json",
+      "parent_folder_id": "1onUr7toMeJDQ5jf-xeexgC9L5NjGA9ns",
+      "local_md5": "dc6f0dff5b4ff6ba31de6baa5a120b71",
+      "cloud_md5": "dc6f0dff5b4ff6ba31de6baa5a120b71",
+      "local_bytes": 14616,
+      "cloud_bytes": 14616,
+      "match": true
+    },
+    {
+      "local_file": "README.md",
+      "drive_id": "1QYb7-I96ogTeURMj2fAQYXkA5o5AOZib",
+      "cloud_name": "README.md",
+      "parent_folder_id": "1onUr7toMeJDQ5jf-xeexgC9L5NjGA9ns",
+      "local_md5": "d558dda81d145d9b590f766bc49a01d8",
+      "cloud_md5": "d558dda81d145d9b590f766bc49a01d8",
+      "local_bytes": 7195,
+      "cloud_bytes": 7195,
+      "match": true
+    }
+  ]
+}

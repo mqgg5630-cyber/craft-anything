@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "reference_count": 1,
+  "native_artwork_count": 10,
+  "final_wallpaper_count": 10,
+  "preview_sheet_count": 3,
+  "all_decoded_images": 24,
+  "exact_final_dimensions": [
+    852,
+    1848
+  ],
+  "unique_native_hashes": 10,
+  "unique_final_hashes": 10,
+  "source_bytes_preserved": true,
+  "anisotropic_stretching": false,
+  "ui_overlay": false,
+  "previews": [
+    {
+      "file": "00-总预览.jpg",
+      "format": "jpeg",
+      "width": 1676,
+      "height": 1338,
+      "bytes": 974247,
+      "md5": "776166a60aa60b8e94123dc60a242146",
+      "sha256": "3d3b05ad37d2da27021220ceb1a188558c51ebb8c4bff0c3d65dd8c8bbceaaf2"
+    },
+    {
+      "file": "00-原片总预览.jpg",
+      "format": "jpeg",
+      "width": 572,
+      "height": 724,
+      "bytes": 118229,
+      "md5": "cab2e264e20ef374cbd64e7a449a8bcc",
+      "sha256": "a9825830989fff92c8afce9631ceeb493fe5c79b88c0da200fc8690eb5342309"
+    },
+    {
+      "file": "00-10张成品总预览.jpg",
+      "format": "jpeg",
+      "width": 1400,
+      "height": 1338,
+      "bytes": 877989,
+      "md5": "e834180dc0e4b2cfad24ab7a38a0a837",
+      "sha256": "0792133d29b54a4a299b3666931d68de015025a17e0852a0f8064e9ed80ac034"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "established_from": {
+    "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+    "note_id": "6abdb5a9000000001802f193",
+    "title": "秋天和秋千很配哦～",
+    "source_file": "deliveries/autumn-swing-C5WkFiFa1r/source/01.webp",
+    "source_sha256": "ed99ec35217468fa167dcb11ffc7ec83e6844b05366e797ffcc308c4beacebb0"
+  },
+  "default_output_dimensions": [
+    852,
+    1848
+  ],
+  "adaptation_policy": {
+    "method": "uniform_lanczos_with_centered_crop",
+    "allow_anisotropic_stretch": false,
+    "preserve_native_artwork_in_repo": "artwork/",
+    "honest_pixel_reporting": "Record both model-native dimensions and adapted 852x1848 dimensions; never claim interpolated pixels are model-native."
+  },
+  "delivery_layout": {
+    "separate_originals_and_results": true,
+    "local": {
+      "originals_dir": "source/",
+      "native_audit_dir": "artwork/",
+      "final_results_dir": "images/",
+      "preview_boards": [
+        "00-总预览.jpg",
+        "00-原片总预览.jpg",
+        "00-10张成品总预览.jpg"
+      ]
+    },
+    "cloud_drive": {
+      "originals_folder": "01-原片",
+      "results_folder": "02-复刻结果-10张-852x1848",
+      "root_files": [
+        "00-总预览.jpg",
+        "00-原片总预览.jpg",
+        "00-10张成品总预览.jpg",
+        "README.md",
+        "source-manifest.json",
+        "output-manifest.json"
+      ],
+      "forbid_zip_only_delivery": true
+    }
+  }
+}
