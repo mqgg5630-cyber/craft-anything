@@ -1,6 +1,6 @@
 {
   "status": "blocked_source_download",
-  "error_type": "ValueError",
-  "error": "No unambiguous public carousel",
-  "run_id": "45967658190"
+  "error_type": "URLError",
+  "error": "<urlopen error _ssl.c:994: The handshake operation timed out>",
+  "run_id": "45967769377"
 }
