@@ -1,0 +1,167 @@
+{
+  "root": "1qlEHIu1yaSQguWyeeGojm734t62wAMBI",
+  "folders": {
+    "source": "1odAlYbsm9mWSE7eCE3JxaJgOq3cZQmtw",
+    "images": "14ik2_4teGoo4y1D0KzlxGLogThfHymhi",
+    "ui": "1NbKQQPnkngNOsSYkB8o3S5VS8gnn9uk4"
+  },
+  "verification": "All 26 listed cloud items relisted and their MD5 and sizes compared with local; two archives tested 10 entries each and CRC; all output images decoded at 852x1848.",
+  "files": [
+    {
+      "local": "source/01.webp",
+      "cloud_name": "01-公开参考.webp",
+      "md5": "19ad4c76e4ca38c2f934e6d01e4b5e9a",
+      "bytes": 156296
+    },
+    {
+      "local": "00-参考原图预览.jpg",
+      "cloud_name": "00-参考原图预览.jpg",
+      "md5": "97a7510d0d280b32f7833d3cb8e275c4",
+      "bytes": 80725
+    },
+    {
+      "local": "00-无UI总预览.jpg",
+      "cloud_name": "00-无UI总预览.jpg",
+      "md5": "f821a0bcaa1e343d47b9a9ff9ff4571b",
+      "bytes": 599614
+    },
+    {
+      "local": "00-模拟UI总预览.jpg",
+      "cloud_name": "00-模拟UI总预览.jpg",
+      "md5": "aee5609368c97626a75ec3ee859494be",
+      "bytes": 612703
+    },
+    {
+      "local": "images/01.png",
+      "cloud_name": "images/01.png",
+      "md5": "9dd2fd1ee0c6df24918dcc3781d882a1",
+      "bytes": 1895945
+    },
+    {
+      "local": "images/02.png",
+      "cloud_name": "images/02.png",
+      "md5": "36495592a6df127af7d6c7f609a344f4",
+      "bytes": 2035093
+    },
+    {
+      "local": "images/03.png",
+      "cloud_name": "images/03.png",
+      "md5": "3c0d09b8bb988cad051f90d97cce9776",
+      "bytes": 1873848
+    },
+    {
+      "local": "images/04.png",
+      "cloud_name": "images/04.png",
+      "md5": "c2b1b6f19ba5f57b9e8cc22947cf9734",
+      "bytes": 1875310
+    },
+    {
+      "local": "images/05.png",
+      "cloud_name": "images/05.png",
+      "md5": "7253d83a3b9d3e5d054d551a835e90e2",
+      "bytes": 1727477
+    },
+    {
+      "local": "images/06.png",
+      "cloud_name": "images/06.png",
+      "md5": "313e7081a74c8fb1459f8377f27fd519",
+      "bytes": 1823888
+    },
+    {
+      "local": "images/07.png",
+      "cloud_name": "images/07.png",
+      "md5": "bc5cd300916f9e328fed2da7693ba8ca",
+      "bytes": 2137965
+    },
+    {
+      "local": "images/08.png",
+      "cloud_name": "images/08.png",
+      "md5": "e61631ce7c7e08daa8f2fe144ca616d9",
+      "bytes": 2002069
+    },
+    {
+      "local": "images/09.png",
+      "cloud_name": "images/09.png",
+      "md5": "d201ff581134577b8030ae7cf6b2738b",
+      "bytes": 2073121
+    },
+    {
+      "local": "images/10.png",
+      "cloud_name": "images/10.png",
+      "md5": "d6aeea91f8440716addbe0e9cab762f0",
+      "bytes": 1950573
+    },
+    {
+      "local": "ui/01.png",
+      "cloud_name": "ui/01.png",
+      "md5": "d87d5f3a00e07da5046eb31194083167",
+      "bytes": 1891639
+    },
+    {
+      "local": "ui/02.png",
+      "cloud_name": "ui/02.png",
+      "md5": "48d656885efc0c01dfa1de02073bc0d8",
+      "bytes": 2025832
+    },
+    {
+      "local": "ui/03.png",
+      "cloud_name": "ui/03.png",
+      "md5": "4b1605bfe4b9645ea88b4c91488ff2f7",
+      "bytes": 1867871
+    },
+    {
+      "local": "ui/04.png",
+      "cloud_name": "ui/04.png",
+      "md5": "f6153927acf32ddd81eb27652ea405be",
+      "bytes": 1872102
+    },
+    {
+      "local": "ui/05.png",
+      "cloud_name": "ui/05.png",
+      "md5": "ce2ac2d4012fd2fee58571e0101eae6e",
+      "bytes": 1729746
+    },
+    {
+      "local": "ui/06.png",
+      "cloud_name": "ui/06.png",
+      "md5": "80b0997c7c330a20676066e2e0f9a10e",
+      "bytes": 1820078
+    },
+    {
+      "local": "ui/07.png",
+      "cloud_name": "ui/07.png",
+      "md5": "2e19b21f465365b054aba27e31c5de67",
+      "bytes": 2131530
+    },
+    {
+      "local": "ui/08.png",
+      "cloud_name": "ui/08.png",
+      "md5": "8cc907fb56b139f7368bc2a749af4b0f",
+      "bytes": 1997176
+    },
+    {
+      "local": "ui/09.png",
+      "cloud_name": "ui/09.png",
+      "md5": "d85fe9fb7988f029f3d9be0a0bf89840",
+      "bytes": 2069819
+    },
+    {
+      "local": "ui/10.png",
+      "cloud_name": "ui/10.png",
+      "md5": "e0baf320b1d606ce0034ff0570b19f14",
+      "bytes": 1944354
+    },
+    {
+      "local": "temporary images.zip",
+      "md5": "dd970537bb8cd86e6bbd6350fad28f63",
+      "bytes": 19401727,
+      "count": 10
+    },
+    {
+      "local": "temporary ui.zip",
+      "md5": "e82fd2fcc7d0789372202f2a2821254c",
+      "bytes": 19356536,
+      "count": 10
+    }
+  ]
+}
