@@ -1,0 +1,40 @@
+{
+  "status": "verified",
+  "folders": {
+    "reference": "1P4Rr8xgp7cByEGx0KMlD5-ZHLRSO58hE",
+    "images": "1umU-mgeBlGUy3hwsObEpF8P_-1ZJKWn4",
+    "ui": "1hfyKXcLwHy16bMcSNCpSwESSysfdecs7"
+  },
+  "relisted_counts": {
+    "reference": 2,
+    "images": 11,
+    "ui": 11
+  },
+  "checks": "MD5 and size matched local for 20 single images, two previews and two references; two old output folders trashed.",
+  "image_md5": {
+    "images": [
+      "95835e337f416749cf9278d566dbb028",
+      "52d2184857cdd2bdb2242470fc1a189f",
+      "f9a440d6c1e21483b49222aba8642921",
+      "7479c0366397086ce01119884f0ec24e",
+      "f5335e6ef821b8778b7b61c16c8a5289",
+      "e31c4ba7b832452ec4b181e0d622e80e",
+      "36bc69244dc622d5c0b11946691ffceb",
+      "5516bb0784d4be0e4e2f3348a5a5e2a5",
+      "c59a04c2b9b7eacaf6bfd6791ba76ce5",
+      "c53087f5a5230ffcce715f9bd64517cf"
+    ],
+    "ui": [
+      "2d2f9ffa734916e7b67be098a539c18a",
+      "755bd5ef83ec4701ff498da84852b29c",
+      "52bd5558ec67e0b7ee4775d0f7aa6fbd",
+      "1857bfb6f100f777aa6196f921577c1c",
+      "aeaf0948aaf592da28d51c9d9649d488",
+      "2811401b60abf120397a3d699e4a7bd8",
+      "02c83f11986acf36802606751cda4b45",
+      "bf955426823319a7fef0177b23975984",
+      "fb9e2cb127c25c44378cdfb2975cb9f1",
+      "e8cc4a0831b4b98b7d6a9fe71686c28c"
+    ]
+  }
+}

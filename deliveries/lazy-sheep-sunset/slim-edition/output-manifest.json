@@ -1,0 +1,399 @@
+{
+  "target_size": [
+    852,
+    1848
+  ],
+  "method": "AI outputs proportionally cropped and resampled to target; simulated UI added separately",
+  "images": [
+    {
+      "index": 1,
+      "scene": "海边灯塔",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/01.png",
+          "size": [
+            848,
+            1264
+          ],
+          "bytes": 1772890,
+          "md5": "0d632c17fecc9f88fa8f4d1ca253d99f",
+          "sha256": "1422de1742047dbe6af1a69121121db48b81bef4ece407c044665ba3f0e5c0ee"
+        },
+        {
+          "path": "images/01.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1532579,
+          "md5": "95835e337f416749cf9278d566dbb028",
+          "sha256": "fa1b807723f9e81ec0d88657a036089867ce190986b84ab952e6206870aafe68"
+        },
+        {
+          "path": "ui/01.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1537743,
+          "md5": "2d2f9ffa734916e7b67be098a539c18a",
+          "sha256": "d8ae3aa86e1070c6aa535a8d34eb82b0f18267b1cbc4c9fb836e4aca04c712c5"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "scene": "苹果园",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/02.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1981489,
+          "md5": "f6568c5a4931d0ff012657efbbdedb9d",
+          "sha256": "e948f8df40498de96d241a09e88847e523f56e9784c747ca85f92c8dcae2da8e"
+        },
+        {
+          "path": "images/02.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1703050,
+          "md5": "52d2184857cdd2bdb2242470fc1a189f",
+          "sha256": "28f9cc5392eb09cbc96a059e2bb7d900d02245f8714e44c8738a12a65c409c88"
+        },
+        {
+          "path": "ui/02.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1709208,
+          "md5": "755bd5ef83ec4701ff498da84852b29c",
+          "sha256": "2779730235d4a1a82351e0bbeffae3adc483f92c767ce4e79e157c6e0c706f06"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "scene": "山间露营",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/03.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2161561,
+          "md5": "e348505cc6db9c78e40e3806bb86e541",
+          "sha256": "bbcb11120a45543a63628142bb0396465d02798b768d71acba2aeb53ae442f49"
+        },
+        {
+          "path": "images/03.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1973947,
+          "md5": "f9a440d6c1e21483b49222aba8642921",
+          "sha256": "83f07b9a860fa7ecd3b7fc4742e7ec9c590ce08f0dbbd5b4a5f9096f242379ef"
+        },
+        {
+          "path": "ui/03.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1977195,
+          "md5": "52bd5558ec67e0b7ee4775d0f7aa6fbd",
+          "sha256": "f89e2c23ee81275f9630402bdab5c4e6cea28558a618ec164b1bcdc31715dec3"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "scene": "湖畔",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/04.png",
+          "size": [
+            848,
+            1264
+          ],
+          "bytes": 1856074,
+          "md5": "12f2ead71e598630096f32ba07d3405b",
+          "sha256": "f7de7e2f03f574a00ed40a7efbebc19ae3dd64592369838289703318bb799db0"
+        },
+        {
+          "path": "images/04.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1524673,
+          "md5": "7479c0366397086ce01119884f0ec24e",
+          "sha256": "7f802a4b5dcbe069158d597de9455e3e511a42ca00f29b11109273e28058a8da"
+        },
+        {
+          "path": "ui/04.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1529072,
+          "md5": "1857bfb6f100f777aa6196f921577c1c",
+          "sha256": "a6ad774b545fcc69c07a06c1add1837eda5718acc09a925063744fd8cef333cb"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "scene": "樱花公园",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/05.png",
+          "size": [
+            848,
+            1264
+          ],
+          "bytes": 1959667,
+          "md5": "5028b8601dc3e2abe0859f84f2f895f1",
+          "sha256": "ac1320aeae4a64aae5714769d242bc187847a70e532af5ad05d905bb5af65eb8"
+        },
+        {
+          "path": "images/05.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1713198,
+          "md5": "f5335e6ef821b8778b7b61c16c8a5289",
+          "sha256": "1c36dee0967765066dd6784dd1404b47288ef16ba349a20d24c7087540552b3b"
+        },
+        {
+          "path": "ui/05.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1717775,
+          "md5": "aeaf0948aaf592da28d51c9d9649d488",
+          "sha256": "e7f3166daf880cd8116c1cb90c4bc32c6e72ec0aa71f307fdf00950efb5ba806"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "scene": "乡间车站",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/06.png",
+          "size": [
+            848,
+            1264
+          ],
+          "bytes": 2057355,
+          "md5": "3cfdcf78d3e3492f3420e5810296c752",
+          "sha256": "a2697d1eb7d733dc79506681879c7c85589e8f3e0db845815b579e8134dd4903"
+        },
+        {
+          "path": "images/06.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1653072,
+          "md5": "e31c4ba7b832452ec4b181e0d622e80e",
+          "sha256": "267dfe6be34adf7213dbde56400358d68aa396f37a58b8fcc25256e598a4711e"
+        },
+        {
+          "path": "ui/06.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1655989,
+          "md5": "2811401b60abf120397a3d699e4a7bd8",
+          "sha256": "a3fba700de98e3b7fdbd82407a58ae20a486d0973a6d5a8880088daefc152471"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "scene": "花园",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/07.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2153376,
+          "md5": "dfa4a4c66e1f52dc8c819f6ab831466c",
+          "sha256": "13f8dae0bcfc8932f7a33cc3ffbc14311043e50ef27465f923907c5735665386"
+        },
+        {
+          "path": "images/07.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 2011160,
+          "md5": "36bc69244dc622d5c0b11946691ffceb",
+          "sha256": "0bd7bc8028a7a2524e0f328e430c6d890d01ca65d20cdead2488673423b16b8c"
+        },
+        {
+          "path": "ui/07.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 2007433,
+          "md5": "02c83f11986acf36802606751cda4b45",
+          "sha256": "0faf006db7f4ed86a91fa03d535603641c8e45fb91536b1e3098a3bdeaa394f5"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "scene": "河畔单车",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/08.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1990418,
+          "md5": "d6bac6bfc5fbe1fae8dde752116d9207",
+          "sha256": "ceb343a2c4a171699519f4053604e181094e96bbc64ab84fd5e70fcd9f6be66c"
+        },
+        {
+          "path": "images/08.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1768430,
+          "md5": "5516bb0784d4be0e4e2f3348a5a5e2a5",
+          "sha256": "21a42823e0061b5b56c9e2b1377e5daad6d8ed0a0186207b1e8c653bed104fc2"
+        },
+        {
+          "path": "ui/08.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1769969,
+          "md5": "bf955426823319a7fef0177b23975984",
+          "sha256": "b6cb9b3a756581403518169558029aa4d51ee08f2770883e4fa5f491da786341"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "scene": "风车山坡",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/09.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2375447,
+          "md5": "8b9ccbc08da2c763b99a83871911f439",
+          "sha256": "d9b6e352d2ecd4c2f1b83a4faa27f934f60d8dc17804256356a8e87f3c076df2"
+        },
+        {
+          "path": "images/09.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 2035241,
+          "md5": "c59a04c2b9b7eacaf6bfd6791ba76ce5",
+          "sha256": "62b823aeaba624cf56ecf60076c69b6766a1b2ebd962c52e15187de069285848"
+        },
+        {
+          "path": "ui/09.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 2031104,
+          "md5": "fb9e2cb127c25c44378cdfb2975cb9f1",
+          "sha256": "b199fc70bed8552b278b2be9d02981458685cc9da79c8376d7c0932e8db0fffd"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "scene": "小镇庭院",
+      "references": [
+        "../source/01.webp"
+      ],
+      "files": [
+        {
+          "path": "generated/10.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2098666,
+          "md5": "e1cf68653c9dd5c323b39b4a78a7345d",
+          "sha256": "a304455abefe3cb35df6a2a68c4e85d66e98ad262e8cfc54b4ef59b10e33c726"
+        },
+        {
+          "path": "images/10.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1869813,
+          "md5": "c53087f5a5230ffcce715f9bd64517cf",
+          "sha256": "ae62275e5a237fb21c2ddb4e15f2a9c8598106e27184f2512947bf1721f84bf4"
+        },
+        {
+          "path": "ui/10.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1870508,
+          "md5": "e8cc4a0831b4b98b7d6a9fe71686c28c",
+          "sha256": "615cec071d4474ad3788afff818566ac134ff06a4a3e2e8f494996bd411d8316"
+        }
+      ]
+    }
+  ]
+}
