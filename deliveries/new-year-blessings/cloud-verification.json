@@ -1,13 +1,60 @@
 {
- "root":"1S0LURdfQ5ILR3gSb3VeFPj1OdVEvX8vh",
- "target_size":[1080,2343],
- "checks":"Local ZIP counts and CRC, image decode and dimensions passed. Post-upload Drive listings, sizes and MD5 matched local files.",
- "files":[
-  {"name":"公开原片_4张.zip","count":4,"size":2100826,"md5":"282e821e2a5cbb0e9fa2c1277aff05c5"},
-  {"name":"00-原片总览.jpg","size":184344,"md5":"e6b271900b759f53769b2e4f71cd8d07"},
-  {"name":"新祝福无UI_10张_1080x2343.zip","count":10,"size":30680368,"md5":"4fbb88d1a00ad1fff94fb10a223201b6"},
-  {"name":"00-无UI总览.jpg","size":329655,"md5":"b0772eea7848dc79e377a0f5b70e62fd"},
-  {"name":"模拟UI_10张_1080x2343.zip","count":10,"size":30596526,"md5":"27dc4f764bbb6cec5615a17700c18c67"},
-  {"name":"00-模拟UI总览.jpg","size":346661,"md5":"9dd7405aa0d0b6786c9e96e265502c09"}
- ]
+  "root": "1S0LURdfQ5ILR3gSb3VeFPj1OdVEvX8vh",
+  "target_size": [
+    1080,
+    2343
+  ],
+  "checks": "Local ZIP counts and CRC, image decode and dimensions passed. Post-upload Drive listings, sizes and MD5 matched local files.",
+  "files": [
+    {
+      "name": "公开原片_4张.zip",
+      "count": 4,
+      "size": 2100826,
+      "md5": "282e821e2a5cbb0e9fa2c1277aff05c5"
+    },
+    {
+      "name": "00-原片总览.jpg",
+      "size": 184344,
+      "md5": "e6b271900b759f53769b2e4f71cd8d07"
+    },
+    {
+      "name": "新祝福无UI_10张_1080x2343.zip",
+      "count": 10,
+      "size": 30680368,
+      "md5": "4fbb88d1a00ad1fff94fb10a223201b6"
+    },
+    {
+      "name": "00-无UI总览.jpg",
+      "size": 329655,
+      "md5": "b0772eea7848dc79e377a0f5b70e62fd"
+    },
+    {
+      "name": "模拟UI_10张_1080x2343.zip",
+      "count": 10,
+      "size": 30596526,
+      "md5": "27dc4f764bbb6cec5615a17700c18c67"
+    },
+    {
+      "name": "00-模拟UI总览.jpg",
+      "size": 346661,
+      "md5": "9dd7405aa0d0b6786c9e96e265502c09"
+    }
+  ],
+  "standalone_files": {
+    "source": {
+      "verified_count": 4,
+      "expected_count": 4,
+      "status": "all MD5 matched"
+    },
+    "images": {
+      "verified_count": 10,
+      "expected_count": 10,
+      "status": "all MD5 matched"
+    },
+    "ui": {
+      "verified_count": 8,
+      "expected_count": 10,
+      "status": "8 MD5 matched; 07.png and 09.png not sent due to upload rate limit. Complete ten-image UI ZIP and preview remain available."
+    }
+  }
 }
