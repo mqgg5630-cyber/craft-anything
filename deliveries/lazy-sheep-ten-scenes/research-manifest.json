@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "path": "research/01.jpeg",
+      "url": "https://bkimg.cdn.bcebos.com/smart/f9198618367adab44aed7a3c2a8da41c8701a18b4e00-bkimg-process,v_1,rw_226,rh_252,maxl_504?x-bce-process=image/format,f_auto",
+      "size": [
+        452,
+        504
+      ],
+      "bytes": 40947,
+      "md5": "d3ac0fb0c3f1d52af1a2f848af415a5e",
+      "sha256": "3d2808612dda1d10f66ad9bd58e0512eb9a3de6ea48941760c6f68dc26b415b9"
+    },
+    {
+      "path": "research/02.png",
+      "url": "https://nie.res.netease.com/r/pic/20221230/697ed09d-a572-47e3-bd5a-287905fcb80b.png",
+      "size": [
+        656,
+        656
+      ],
+      "bytes": 259063,
+      "md5": "ac5bc81cc966b28895e6ad4bf641932b",
+      "sha256": "80583bad936dcc74e21cc0276696d93beb5b446002bdf64ae4b23d9173d9ec12"
+    }
+  ],
+  "errors": [],
+  "status": "downloaded_pending_visual_review"
+}
