@@ -1,0 +1,49 @@
+{
+  "status": "partial_upload_rate_limited",
+  "folders": {
+    "root": "1eI_fmnJmBx2jE74_9M0Wa6uhzEdSzKDh",
+    "source": "1P4Rr8xgp7cByEGx0KMlD5-ZHLRSO58hE",
+    "images": "1-BhPqmH7-LKilv2xhA56-cl8MjgJKBX4",
+    "ui": "1Pu1n9pHJXbtxtj36_1TMlk2YdBZLAGb3"
+  },
+  "relisted": {
+    "source": [
+      "01-笔记公开参考.webp",
+      "02-经典角色参考.jpeg"
+    ],
+    "images": [
+      "00-无UI总预览.jpg",
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png"
+    ],
+    "ui": [
+      "00-模拟UI总预览.jpg"
+    ]
+  },
+  "missing_uploads": {
+    "images": [
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png",
+      "无UI-十张.zip"
+    ],
+    "ui": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png",
+      "模拟UI-十张.zip"
+    ]
+  }
+}

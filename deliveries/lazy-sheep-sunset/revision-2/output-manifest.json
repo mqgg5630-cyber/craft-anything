@@ -1,0 +1,409 @@
+{
+  "target_size": [
+    852,
+    1848
+  ],
+  "method": "AI outputs proportionally cropped and resampled to target; simulated UI added separately",
+  "images": [
+    {
+      "index": 1,
+      "scene": "海边灯塔",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/01.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1809903,
+          "md5": "d075df447e441d5ed99d5229d8975cb6",
+          "sha256": "135f29194a95a0a1ddbafbbd1b4e49c30fdd15a848231df0f4b79a73de259a2f"
+        },
+        {
+          "path": "images/01.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1534591,
+          "md5": "c382f49a04e9ffa39c76935d4fd69ba2",
+          "sha256": "a3f682e3e6ee80dec2e38b11c299ac1223ec10714f4d0810a29aec56b1f81ccc"
+        },
+        {
+          "path": "ui/01.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1538138,
+          "md5": "8cd8f702e9bb0b393653529dfaae15bf",
+          "sha256": "a04e9d3912d58c5730d9e9aef3341e609d8b10f61845d6dbf518b39dc198e1b8"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "scene": "苹果园",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/02.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2213438,
+          "md5": "843b228c66423543d95eeb421f6dcdee",
+          "sha256": "ea11dbef2888bd239fbc4401e1d7de66e04b79f6d1c3b6175cc7956d99041a4e"
+        },
+        {
+          "path": "images/02.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 2048056,
+          "md5": "9e31ebde57f2fd94c06bf81e0861ff07",
+          "sha256": "5324ec38cb56e1a385214cec7678de5d4fc3e2bc6ca6f7aa34d77575381db7e4"
+        },
+        {
+          "path": "ui/02.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 2050229,
+          "md5": "9d278efe5193168c21978e7587159000",
+          "sha256": "6f6b61651b834e7bc66296326e96595d3933c0a11aa22db8b0c934f948dca7ae"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "scene": "山间露营",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/03.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1937550,
+          "md5": "57a73f2e51652f26720f5b78d58f9892",
+          "sha256": "0523e5c42edfb2c5e5f8fe87d355cf02e49c46f4ad5cd58e8fb84de4a7134426"
+        },
+        {
+          "path": "images/03.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1779189,
+          "md5": "ae7c4bcd4ca47d337b93d7db03909e2a",
+          "sha256": "d0aeea1b88a3e2f847ca2738a321dc18762ba6d23c8334e9c341e032c2befde1"
+        },
+        {
+          "path": "ui/03.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1778520,
+          "md5": "9b08eff69bc01d35ef5f5468f1442a2f",
+          "sha256": "17bdb642d5c678eb19271659731fe61d505f1429d8168435d93fb9541cf67add"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "scene": "湖畔",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/04.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1954812,
+          "md5": "3d11efe160093f35f325b5d4a23d0e27",
+          "sha256": "ef4b8803ee43a72714da20f5ebb1ac29537ae47b056b6ffa74a62f948df2cd5d"
+        },
+        {
+          "path": "images/04.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1701395,
+          "md5": "40c9c85ba2cb4d37347a1be500c98ffa",
+          "sha256": "12a4109e802dd1ea20f44511b205a32467e563adef35e89f00cdf53aa7d8bf50"
+        },
+        {
+          "path": "ui/04.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1699358,
+          "md5": "0bc76b1956a632e74defb3ea87d61a1d",
+          "sha256": "cab6a8d41d652560df116ef8b1310b3efa58ba9643849647ffd5f637fa739f08"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "scene": "樱花公园",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/05.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2042284,
+          "md5": "56c60c8757288aeccc7c4ca523812690",
+          "sha256": "e5aee0fc43cf436d58fc3573bae7f60fb511cd41ced7a51c31e04fd94eb22aec"
+        },
+        {
+          "path": "images/05.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1918829,
+          "md5": "c8539f89456b3bfa5432db915438f156",
+          "sha256": "ece067a9a1e6ad23d1541f50886592ab09df7e0b56ed98edfaaf499d7214a3a6"
+        },
+        {
+          "path": "ui/05.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1909560,
+          "md5": "44c151f89af925d68b8c5ff8e1a1af58",
+          "sha256": "c94814022ac585cc664ce7ec3ae375c90a9245b4c99e33806876348467c27a3e"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "scene": "乡间车站",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/06.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2043547,
+          "md5": "af06e050846a7c16b67438c9c855e345",
+          "sha256": "cf629d65a875b888cd76dce0f8f6c77ac2b3fc8af37f346fab05b3d925ca5425"
+        },
+        {
+          "path": "images/06.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1808114,
+          "md5": "23e1032f33e0685ba3e3b9542c01f798",
+          "sha256": "35c91845ef75f5b89e6a129d85d0cfc5357dc4a79d7950345a64f78017669c03"
+        },
+        {
+          "path": "ui/06.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1811500,
+          "md5": "5c157316f949c2026b1b04a17af74ce3",
+          "sha256": "4563849343214dfd233c66b9452b5cb89890d7674df16cc2235ca49fcc5ce615"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "scene": "花园",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/07.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2131300,
+          "md5": "88afd04a061e237a28704f845b8bebe5",
+          "sha256": "af101841b71de3a5aa698bfa8a5c8e184b1920ff4c439c5544c70604781ae16d"
+        },
+        {
+          "path": "images/07.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1910477,
+          "md5": "6531b3862b4c44f3882d2fe9421aaf41",
+          "sha256": "e284a29a4bf6787ab7cf41f21f30d9592544d3884d9e3f5cf18d10f24ea9a6c9"
+        },
+        {
+          "path": "ui/07.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1906926,
+          "md5": "cbb829b8906dc21f819e7698fede8ca3",
+          "sha256": "ae175f97d70dd321dffdbdc598bbe7e2e681613fe41138ada7eb542a4dd81ca2"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "scene": "河畔单车",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/08.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1939493,
+          "md5": "4b29b96a9de512c2e60ed6421996f7d8",
+          "sha256": "7f653f90ac398ee17000afcb96685509dca6a97fad18d9efae35a1c93323421d"
+        },
+        {
+          "path": "images/08.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1728729,
+          "md5": "981768c4981734d5ea77d4b6caf77878",
+          "sha256": "769e3e99185ad2879131f27b3078db36c4f010c9394c54aede2f9adc249b92b7"
+        },
+        {
+          "path": "ui/08.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1729084,
+          "md5": "a31ed2cf4d1f42dbc9bd33f1e1a6f7f5",
+          "sha256": "34ed949d1d3d25c72fa4fd393b9e6467ba3f7c1559f69db6aa62a280c82b7b9d"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "scene": "风车山坡",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/09.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 1979945,
+          "md5": "7e7c9549f329c3f469cfa131e0464c20",
+          "sha256": "4248ee78a0472468b1e52870988648382db71ed197b5134ae63084ef10b77448"
+        },
+        {
+          "path": "images/09.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1769279,
+          "md5": "5c45c54570ea285731e780fd5a1ae536",
+          "sha256": "4279cad793dbed26593b2e51f665f48ed704d303bf9405f91eb78089e968b061"
+        },
+        {
+          "path": "ui/09.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1769861,
+          "md5": "f59d01610afbcd9266639037e98371b6",
+          "sha256": "fba41b6e363105fe2cac5b43518ea8669118e3da9585126ceacf0dcefde57658"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "scene": "小镇庭院",
+      "references": [
+        "../source/01.webp",
+        "../../lazy-sheep-ten-scenes/research/01.jpeg"
+      ],
+      "files": [
+        {
+          "path": "generated/10.png",
+          "size": [
+            768,
+            1376
+          ],
+          "bytes": 2062973,
+          "md5": "c08a290272ca242b43172b35b1485f0c",
+          "sha256": "3301995bcfe1c3d761c5e574ec79365f23faf770895540988a3c4abc7206723f"
+        },
+        {
+          "path": "images/10.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1805652,
+          "md5": "1fc6c8ea17c4860350d3a564ec6e1a49",
+          "sha256": "113d6c4ee60aee38df77ea1dbfc3014eb9ae54837346f086226c5b8490259230"
+        },
+        {
+          "path": "ui/10.png",
+          "size": [
+            852,
+            1848
+          ],
+          "bytes": 1805510,
+          "md5": "33e4b79af2383703bbb8a4b192c3ab4f",
+          "sha256": "d793681bbf602a64a98653370053c6e40f7c415b102e5b0db4e271df98fc7960"
+        }
+      ]
+    }
+  ]
+}
