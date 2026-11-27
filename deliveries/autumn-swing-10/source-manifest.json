@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "status": "downloaded_pending_visual_review",
+  "share_url": "https://xhslink.cn/o/C5WkFiFa1r",
+  "note_id": "6abdb5a9000000001802f193",
+  "title": "秋天和秋千很配哦～",
+  "author": null,
+  "download_method": "GitHub Actions only; public declared CDN URLs; no cookies",
+  "source_quality": "公开笔记的最高可得候选文件，未经重编码；不保证为作者母版。",
+  "source_count": 1,
+  "requested_result_count": 10,
+  "runner_commit": "07a4a590c53a7d1f5f099950ab37166fb961f9ce",
+  "images": [
+    {
+      "file": "01-下载原片/01.jpg",
+      "width": 852,
+      "height": 1848,
+      "bytes": 231735,
+      "sha256": "eb4d525baab9308a18681b1c8bda6fb05b9ea8c2cb3890a4b5b6bb0d391c5d8b",
+      "md5": "3bca5f33f5d14138709ed324621ddcda"
+    }
+  ]
+}
